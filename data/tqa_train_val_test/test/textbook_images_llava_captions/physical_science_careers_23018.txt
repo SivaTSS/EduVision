@@ -1,0 +1,9 @@
+* A medical laboratory supervisor solves problems and prescribes and makes plans and supervises the work in a medical laboratory.
+* This supervisor requires a 4-year college degree and 4 years of experience working in a medical laboratory.
+* A physical science teacher teaches physical science.
+* This teacher requires a 4-year college degree in physical science and 4 years of experience teaching physical science.
+* A surveyor surveys land.
+* This surveyor requires a 4-year college degree in surveying and 4 years of experience surveying land.
+* A medical laboratory technician works in a medical laboratory.
+* This technician requires a 4-year college degree in medical laboratory technology and 4 years of experience working in a medical laboratory.
+* A medical laboratory assistant works in a medical laboratory.

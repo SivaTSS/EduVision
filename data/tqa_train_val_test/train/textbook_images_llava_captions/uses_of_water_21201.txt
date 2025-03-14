@@ -1,0 +1,10 @@
+In the image, there is a bar graph showing the number of water withdrawals by sector from 1998 to 2002. The graph is divided into several sections, each representing a different region of the world.
+The sections include:
+1. North America
+2. South America
+3. Africa
+4. Asia
+5. Europe
+6. Oceania (Australia and New Zealand)
+7. World
+Each section displays the number of water withdrawals in millions of cubic meters. The graph provides a clear visual representation of the distribution of water withdrawals across the globe during this time period.

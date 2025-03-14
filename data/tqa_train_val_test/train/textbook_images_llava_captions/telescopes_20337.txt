@@ -1,0 +1,2 @@
+In the image, there is a graph showing the relationship between the size of an object and the amount of light it reflects. The x-axis represents the size of the object, and the y-axis represents the amount of light it reflects.
+There are four objects on the graph: a pin head, a cell, a bacteria, and an infrared. The pin head reflects the least amount of light, while the infrared reflects the most amount of light. The cell and the bacteria are located between these two extremes, reflecting more light than the pin head but less than the infrared.

@@ -1,0 +1,3 @@
+In the image, there is a graph showing the relationship between the angle of incidence and the angle of reflection. The x-axis represents the angle of incidence, while the y-axis represents the angle of reflection. The graph shows that as the angle of incidence increases, the angle of reflection decreases.
+There are several arrows on the graph, indicating the direction of the relationship between the angle of incidence and the angle of reflection. The arrows show that the angle of reflection decreases as the angle of incidence increases.
+In addition to the main graph, there is a smaller graph on the right side of the main graph. This smaller graph also shows the relationship between the angle of incidence and the angle of reflection.

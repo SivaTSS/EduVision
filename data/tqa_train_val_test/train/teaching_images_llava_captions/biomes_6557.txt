@@ -1,0 +1,5 @@
+The image displays a pyramid-shaped diagram that illustrates the relationship between temperature, precipitation, and vegetation. The pyramid is divided into three sections: tropical, temperate, and arctic regions.
+In the tropical region, the temperature is high, and the precipitation is high as well. The vegetation in this area consists mainly of tropical rainforests.
+In the temperate region, the temperature is moderate, and the precipitation is moderate. The vegetation in this area consists mainly of temperate forests.
+In the arctic region, the temperature is low, and the precipitation is low as well. The vegetation in this area consists mainly of arctic tundra.
+The pyramid illustrates how temperature and precipitation affect the types of vegetation found in each region. The higher the temperature and precipitation, the more diverse and lush the vegetation becomes. Conversely, the lower the temperature and precipitation, the less diverse and sparse the vegetation becomes.

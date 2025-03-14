@@ -1,0 +1,2 @@
+In the image, there is a map of the world that has been altered to show the average temperature of each region. The map is color-coded, with different shades of red, orange, and yellow representing the varying temperatures. The higher the temperature, the brighter the color.
+The map covers the entire globe, from the Arctic region in the top left corner to the Antarctic region in the bottom right corner. The different shades of red, orange, and yellow create a visually striking representation of the world's temperature variations.

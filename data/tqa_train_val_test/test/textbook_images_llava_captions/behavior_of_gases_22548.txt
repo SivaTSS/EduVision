@@ -1,0 +1,1 @@
+This is a graph showing the relationship between pressure and temperature. The x-axis represents temperature, and the y-axis represents pressure. The graph shows that as the temperature increases, the pressure decreases, and vice versa. The line on the graph is a straight line, indicating a linear relationship between the two variables.

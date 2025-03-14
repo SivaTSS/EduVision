@@ -1,0 +1,3 @@
+The image displays a line graph showing the temperature of the earth's atmosphere over time. The x-axis represents the years, while the y-axis shows the temperature in degrees Celsius.
+There are three main sections in the graph: Medieval Warm Period, Little Ice Age, and Modern Warm Period. The Medieval Warm Period spans from around 950 to 1250 AD, while the Little Ice Age covers the period from around 1600 to 1850 AD. The Modern Warm Period starts from around 1950 AD and continues to the present day.
+In addition to the main sections, there are two smaller sections in the graph. The first one is located between the Medieval Warm Period and the Little Ice Age, and the second one is situated between the Little Ice Age and the Modern Warm Period.

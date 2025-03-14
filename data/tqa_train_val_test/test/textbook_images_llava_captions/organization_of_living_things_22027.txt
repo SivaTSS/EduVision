@@ -1,0 +1,4 @@
+In the image, there is a diagram that shows the evolutionary relationships between different species of animals. The diagram is organized in a pyramid-like structure, with each level representing a different group of animals.
+At the top of the pyramid, there is a group labeled "Kingdom," which includes all living organisms. Below that, there is a group labeled "Phylum," which is further divided into "Chordates" and "Animals." The "Chordates" group includes fish, amphibians, and reptiles, while the "Animals" group includes mammals, birds, and insects.
+Below the "Animals" group, there is a group labeled "Class," which is further divided into "Mammals" and "Animals with a backbone." The "Mammals" group includes humans and other mammals, while the "Animals with a backbone" group includes fish, amphibians, and reptiles.
+Below the "Animals with a backbone" group, there is a group labeled "Order," which is further divided into "Mammals" and "Anim

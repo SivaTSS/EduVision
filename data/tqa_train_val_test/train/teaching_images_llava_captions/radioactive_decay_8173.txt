@@ -1,0 +1,3 @@
+In the image, there is a diagram showing the example of an alpha decay. Alpha decay is a type of radioactive decay that involves the emission of an alpha particle, which consists of two protons and two neutrons, from the nucleus of an unstable atom.
+The diagram illustrates the process of alpha decay, starting with the unstable nucleus and ending with the formation of a new, more stable nucleus. Along the way, the alpha particle is emitted, and the atomic number of the nucleus is reduced by two.
+In the image, there are multiple instances of the alpha decay process, each with a different atomic number. This demonstrates the various possible outcomes of alpha decay, depending on the initial state of the unstable nucleus.

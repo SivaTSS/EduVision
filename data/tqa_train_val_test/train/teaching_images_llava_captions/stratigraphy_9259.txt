@@ -1,0 +1,3 @@
+In the image, there is a diagram illustrating the concept of cross-cutting relationships. The diagram is divided into three layers, with each layer representing a different aspect of the concept. The layers are labeled as Layer 1, Layer 2, and Layer 3.
+In Layer 1, there is a picture of a bicycle, which is the youngest of the three layers. In Layer 2, there is a picture of a pair of scissors, which is the largest of the three layers. In Layer 3, there is a picture of a rock, which is the oldest of the three layers.
+Each layer represents a different aspect of the cross-cutting relationships concept, with the bicycle representing the youngest, the scissors representing the largest, and the rock representing the oldest.

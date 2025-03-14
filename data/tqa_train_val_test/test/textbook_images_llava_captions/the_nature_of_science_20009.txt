@@ -1,0 +1,5 @@
+The woman is wearing a blue shirt and has a backpack on her back. She is also wearing sunglasses.
+The man is wearing a hat and has a backpack on his back. He is also wearing sunglasses.
+Both the man and the woman are wearing sunglasses.
+Both the man and the woman are carrying backpacks.
+Both the man and the woman are walking on a dirt path.

@@ -1,0 +1,3 @@
+The image displays a polar wander clock that shows the movement of the Earth's axis over time. The clock is divided into four sections, each representing a different period in the Earth's history.
+In the top left section, there is a depiction of the North Pole, indicating the Earth's current position. The top right section shows the position of the South Pole, while the bottom left section displays the position of the North Pole in the past. Finally, the bottom right section illustrates the position of the South Pole in the past.
+The clock's design allows viewers to understand how the Earth's axis has moved over time, providing a visual representation of the Earth's polar wander.

@@ -1,0 +1,4 @@
+In the image, there is a chart that shows the relationship between electromagnetic waves and their corresponding wavelengths. The chart is divided into several sections, each representing a different type of electromagnetic wave.
+The chart starts with radio waves, which have the longest wavelength. As the wavelength decreases, the chart moves on to microwaves, infrared, visible light, ultraviolet, X-rays, and finally, gamma rays, which have the shortest wavelength.
+In addition to the wavelengths, the chart also shows the corresponding units of measurement for each type of electromagnetic wave. For example, radio waves are measured in meters, while gamma rays are measured in picometers.
+Overall, the chart provides a clear visual representation of the relationship between electromagnetic waves and their corresponding wavelengths and units of measurement.

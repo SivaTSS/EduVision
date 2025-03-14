@@ -1,0 +1,2 @@
+In the image, there is a table with a list of 15 different decibel levels, ranging from 15 to 30 decibels. The table is divided into two sections, one for sounds and the other for exposure time. Each decibel level is accompanied by the corresponding exposure time in minutes.
+For example, at a decibel level of 15, the exposure time is 0 minutes, while at a decibel level of 30, the exposure time is 8 hours. The table is organized in a way that makes it easy to understand the relationship between decibel levels and exposure time.

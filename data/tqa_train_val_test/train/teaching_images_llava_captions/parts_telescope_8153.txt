@@ -1,0 +1,3 @@
+The image depicts a reflecting telescope, which is a type of telescope that uses mirrors instead of lenses to gather and focus light. The main components of a reflecting telescope include a primary mirror, a secondary mirror, a tertiary mirror, and an eyepiece.
+In the diagram, the primary mirror is located at the top of the telescope, while the secondary and tertiary mirrors are positioned below the primary mirror. The eyepiece is situated at the bottom of the telescope, allowing the observer to view the reflected light from the primary mirror.
+Overall, the reflecting telescope provides a clear and magnified view of celestial objects, making it an essential tool for astronomers and enthusiasts alike.

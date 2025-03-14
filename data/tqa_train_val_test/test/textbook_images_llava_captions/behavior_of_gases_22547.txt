@@ -1,0 +1,1 @@
+In the image, there is a graph showing the relationship between volume and temperature. The x-axis represents the volume, and the y-axis represents the temperature. The graph shows that as the volume increases, the temperature decreases, and vice versa. The line on the graph is green, indicating the relationship between the two variables.

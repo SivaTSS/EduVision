@@ -1,0 +1,4 @@
+In the image, there are two diagrams side by side. The diagrams depict the concepts of force and torque. The force diagrams show the relationship between force and distance, while the torque diagrams show the relationship between torque and distance.
+In the force diagrams, there are two arrows pointing in opposite directions. The first arrow is pointing upwards, while the second arrow is pointing downwards. These arrows represent the two forces acting on an object.
+In the torque diagrams, there are also two arrows pointing in opposite directions. The first arrow is pointing to the left, while the second arrow is pointing to the right. These arrows represent the two torques acting on an object.
+Overall, the diagrams provide a visual representation of the concepts of force and torque and their relationships with distance.

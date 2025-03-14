@@ -1,0 +1,28 @@
+1. Identify the problem.
+2. Communicate the problem.
+3. Define the problem.
+4. Refine and retest the model.
+5. Select the best solution.
+6. Create a model of the solution.
+7. Implement the solution.
+8. Evaluate the solution.
+1. Research the problem.
+2. Generate possible solutions.
+3. Test the model.
+4. Select the best solution.
+5. Create a model of the solution.
+6. Implement the solution.
+7. Evaluate the solution.
+1. Identify the problem.
+2. Communicate the problem.
+3. Define the problem.
+4. Refine and retest the model.
+5. Select the best solution.
+6. Create a model of the solution.
+7. Implement the solution.
+8. Evaluate the solution.
+1. Research the problem.
+2. Generate possible solutions.
+3. Test the model.
+4. Select the best solution.
+5. Create a model of the

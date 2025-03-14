@@ -1,0 +1,4 @@
+In the image, there are two cell phones, one on the left side and the other on the right side of the image. The cell phones are connected to a mobile switching center (MSC) through base-stations. The MSC is responsible for managing the communication between the base-stations and the cell phones.
+There are three base-stations in the image, with one on the left side, one in the middle, and the third one on the right side. These base-stations are responsible for connecting the cell phones to the MSC.
+In addition to the cell phones and base-stations, there is a cell tower in the image. The cell tower is responsible for providing the necessary infrastructure for the communication between the cell phones and the base-stations.
+Overall, the image illustrates the complex network of communication between cell phones, base-stations, and the mobile switching center.

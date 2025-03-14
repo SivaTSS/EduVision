@@ -1,0 +1,9 @@
+The water cycle is a continuous process that involves the movement of water from the atmosphere to the Earth's surface and back into the atmosphere. In the image, the water cycle is depicted as a flow chart with different stages labeled.
+1. Condensation: Water vapor in the atmosphere condenses into droplets, forming clouds.
+2. Evaporation: Water droplets in the clouds evaporate, returning water vapor to the atmosphere.
+3. Precipitation: Precipitation occurs when water vapor condenses and falls as rain, snow, or hail.
+4. Surface runoff: Surface runoff occurs when water from precipitation flows over the Earth's surface.
+5. Infiltration: Infiltration is the process by which water enters the ground.
+6. Groundwater storage: Groundwater is stored in underground aquifers.
+7. Surface water storage: Surface water is stored in lakes, rivers, and reservoirs.
+8. Evapotranspiration: Evapotranspiration is the process by which plants release water vapor into the atmosphere

@@ -1,0 +1,8 @@
+In the image, there is a map of the world with various colors and symbols. The map is divided into different sections, each representing a different aspect of the world.
+In the top left corner of the map, there is a section labeled "temperature." This section shows the average temperature in different parts of the world.
+In the top right corner of the map, there is a section labeled "precipitation." This section shows the average precipitation in different parts of the world.
+In the bottom left corner of the map, there is a section labeled "temperature." This section shows the average temperature in different parts of the world.
+In the bottom right corner of the map, there is a section labeled "precipitation." This section shows the average precipitation in different parts of the world.
+In the bottom left corner of the map, there is a section labeled "temperature." This section shows the average temperature in different parts of the world.
+In the bottom right corner of the map, there is a section labeled "precipitation." This section shows the average precipitation in different parts of the world.
+In

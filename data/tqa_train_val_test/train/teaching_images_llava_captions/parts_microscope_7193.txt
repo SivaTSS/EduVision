@@ -1,0 +1,7 @@
+The compound light microscope is a scientific instrument used to observe and analyze small objects, such as cells, tissues, and microorganisms. It consists of several components, including an objective lens, an eyepiece, a diaphragm, a stage, and a condenser.
+1. Objective Lens: The objective lens is located at the front of the microscope and is responsible for gathering light and focusing it onto the specimen.
+2. Eyepiece: The eyepiece is located at the rear of the microscope and is used by the observer to view the magnified image of the specimen.
+3. Diaphragm: The diaphragm controls the amount of light entering the microscope by adjusting the size of the aperture.
+4. Stage: The stage is where the specimen is placed for observation. It can be moved horizontally and vertically to position the specimen correctly.
+5. Condenser: The condenser is located above the stage and is used to focus the light onto the specimen.
+6.

@@ -1,0 +1,2 @@
+In the image, there is a graph showing the atmospheric pressure at different altitudes. The x-axis represents the altitude, while the y-axis shows the atmospheric pressure in kilopascals (kPa). The graph shows that the atmospheric pressure decreases as the altitude increases.
+There is also a mountain visible in the image, located near the bottom of the graph. The mountain's peak is at an altitude of approximately 3.8 kilometers (2.4 miles) above sea level.

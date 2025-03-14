@@ -1,0 +1,6 @@
+The water cycle, also known as the hydrological cycle, is a continuous process that involves the movement of water between the Earth's surface and the atmosphere. The diagram illustrates the various stages of the water cycle, including precipitation, surface runoff, ground-water storage, evapotranspiration, and condensation.
+1. Precipitation: Rain or snow falls from the atmosphere onto the Earth's surface.
+2. Surface Runoff: The excess water from precipitation flows over the land's surface into rivers, lakes, or other bodies of water.
+3. Ground-Water Storage: The water from surface runoff is absorbed by the ground and stored in underground aquifers or reservoirs.
+4. Evapotranspiration: The stored water is released back into the atmosphere through the process of evapotranspiration, which involves the evaporation of water from the ground and the transpiration of water from plants.
+5. Condensation: The water vapor in the atmosphere condenses and forms clouds or dew, which eventually precipitates back onto the Earth's surface.
