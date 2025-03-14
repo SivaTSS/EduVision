@@ -1,0 +1,40 @@
+mindmap
+  Inner_vs_Outer_Planets
+    Inner_Planets
+      Definition: Terrestrial planets
+      Examples
+        - Mercury
+        - Venus
+        - Earth
+        - Mars
+      Characteristics
+        - Composition: Rock and metal
+        - Density: Higher due to composition
+        - Atmosphere: Thin or none
+        - Moons: Few (Earth: 1, Mars: 2, Mercury & Venus: 0)
+        - Rings: None
+        - Rotation: Slower
+        - Orbital_Speed: Slower
+    Outer_Planets
+      Definition: Gas giants
+      Examples
+        - Jupiter
+        - Saturn
+        - Uranus
+        - Neptune
+      Characteristics
+        - Composition: Gases and liquids (Hydrogen and Helium)
+        - Density: Lower due to composition
+        - Atmosphere: Thick
+        - Moons: Numerous
+        - Rings: Present
+        - Rotation: Faster
+        - Orbital_Speed: Faster
+    Comparison
+      Composition_Difference
+        - Inner: Rock and metal
+        - Outer: Gases and liquids
+      Moons
+        - Outer planets have more moons
+      Rings
+        - Only outer planets have rings

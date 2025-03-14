@@ -1,0 +1,41 @@
+mindmap
+  Aerobic and Anaerobic Exercise
+    Aerobic Exercise
+      Definition
+        Sustained low to moderate exertion
+      Benefits
+        Improves cardiovascular health
+        Enhances muscular endurance
+        Efficient oxygen use
+      Examples
+        Cycling
+        Walking
+        Running
+    Anaerobic Exercise
+      Definition
+        Brief high-intensity exertion
+      Benefits
+        Increases muscle strength
+        Causes muscle hypertrophy
+      Examples
+        Weight training
+        Sprinting
+    Muscle Health
+      Muscular Strength
+        Ability to exert force
+      Muscular Endurance
+        Ability to sustain contractions
+    Lifestyle Diseases
+      Definition
+        Diseases linked to inactivity
+      Examples
+        Cardiovascular disease
+        Type 2 diabetes
+        Obesity
+    Muscle Injuries
+      Types
+        Strains (pulled muscles)
+        Tendinitis
+      Prevention
+        Proper warm-up
+        Rest and recovery

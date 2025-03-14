@@ -1,0 +1,35 @@
+mindmap
+  Groundwater Aquifers
+    Water Infiltration
+      How water enters aquifers
+      Recharge zones
+    Aquifer Characteristics
+      Porosity
+      Permeability
+      Impermeable layers
+    Water Table Dynamics
+      Effects of wet years
+      Effects of dry years
+    Types of Aquifers
+      Confined aquifers
+      Artesian zones
+      Saline water zones
+    Pollution
+      Sources of pollution
+        Point source
+        Non-point source
+      Prevention methods
+    Groundwater Extraction
+      Wells
+        Construction methods
+        Depth considerations
+      Springs
+        Constant vs seasonal flow
+        Importance in water-scarce areas
+    Hydrologic Pressure
+      Role in aquifer function
+      Effects on water movement
+    Recharge and Discharge
+      Sources of recharge
+      Sources of discharge
+      Impact on water table levels

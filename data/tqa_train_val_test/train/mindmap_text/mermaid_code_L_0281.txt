@@ -1,0 +1,37 @@
+mindmap
+  Water Cycle
+    Overview
+      Definition
+      Importance
+    Major Processes
+      Evaporation
+        Definition
+        Energy Source
+      Condensation
+        Definition
+        Formation of Clouds
+      Precipitation
+        Types
+          Rain
+          Snow
+          Sleet
+          Hail
+        Pathways
+          Land
+          Oceans
+    Reservoirs
+      Oceans
+        Storage Duration
+      Groundwater
+        Aquifers
+        Infiltration
+      Soil Moisture
+    Transpiration
+      Definition
+      Role of Plants
+    Human Impact
+      Water Management
+        Canals
+        Aqueducts
+        Dams
+        Wells

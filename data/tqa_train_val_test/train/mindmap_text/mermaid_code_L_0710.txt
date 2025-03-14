@@ -1,0 +1,41 @@
+mindmap
+  Vitamins and Minerals
+    Vitamins
+      Definition
+        Organic compounds needed in small amounts
+      Types
+        Vitamin A
+          Role: Good vision
+          Sources: Carrots, spinach, milk, eggs
+        Vitamin B1
+          Role: Healthy nerves
+          Sources: Whole wheat, peas, meat, beans, fish, peanuts
+        Vitamin B3
+          Role: Healthy skin and nerves
+          Sources: Beets, liver, pork, turkey, fish, peanuts
+        Vitamin B9
+          Role: Red blood cells
+          Sources: Liver, peas, dried beans, leafy green vegetables
+        Vitamin B12
+          Role: Healthy nerves
+          Sources: Meat, liver, milk, shellfish, eggs
+        Vitamin C
+          Role: Growth and repair of tissues
+          Sources: Oranges, grapefruits, red peppers, broccoli
+        Vitamin D
+          Role: Healthy bones and teeth
+          Sources: Milk, salmon, tuna, eggs
+        Vitamin K
+          Role: Blood clotting
+          Sources: Spinach, brussels sprouts, milk, eggs
+      Importance
+        Health problems from deficiency
+          Example: Scurvy from lack of Vitamin C
+    Minerals
+      Definition
+        Chemical elements needed for body processes
+      Types
+        Major Minerals
+          Calcium
+            Role: Strong bones and teeth
+            Sources: Milk, soy milk, leafy green vegetables

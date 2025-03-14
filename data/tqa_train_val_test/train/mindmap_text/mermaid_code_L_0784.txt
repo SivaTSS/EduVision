@@ -1,0 +1,29 @@
+mindmap
+  Chemical Reactions
+    Types of Reactions
+      Synthesis
+        Definition: Two or more reactants combine to form a single product
+        General Equation: A + B -> C
+        Examples
+          Sodium and Chlorine: 2Na + Cl2 -> 2NaCl
+          Nitric Oxide and Oxygen: 2NO + O2 -> 2NO2
+      Decomposition
+        Definition: One reactant breaks down into two or more products
+        General Equation: AB -> A + B
+        Examples
+          Carbonic Acid: H2CO3 -> H2O + CO2
+          Water: 2H2O -> 2H2 + O2
+      Replacement
+        Single Replacement
+          Definition: One ion takes the place of another in a single compound
+          General Equation: A + BC -> B + AC
+          Example: 2K + 2H2O -> 2KOH + H2
+        Double Replacement
+          Definition: Two compounds exchange ions
+          General Equation: AB + CD -> AD + CB
+          Example: NaCl + AgF -> NaF + AgCl
+      Combustion
+        Definition: A substance reacts quickly with oxygen
+        General Equation: Fuel + O2 -> CO2 + H2O
+        Examples
+          Methane: CH4 + 2O2 -> CO2 + 2H2

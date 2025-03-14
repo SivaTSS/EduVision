@@ -1,0 +1,32 @@
+mindmap
+  Nuclear Fission
+    Discovery
+      Historical context
+      Key experiments
+    Definition
+      Splitting of nucleus
+      Energy release
+    Process
+      Neutron interaction
+      Uranium-235 fission
+        Unstable nucleus
+        Products: Krypton-92, Barium-141, Neutrons, Energy
+    Chain Reaction
+      Definition
+      Uncontrolled vs Controlled
+        Atomic bomb vs Nuclear power plant
+    Control Mechanisms
+      Control rods
+      Heat generation
+        Water to steam
+        Turbine operation
+    Comparison with Fossil Fuels
+      Air pollution
+      Nonrenewable resources
+      Environmental impact
+        Acid rain
+        Global warming
+    Risks
+      Radiation exposure
+      Accidents
+      Storage of used fuel

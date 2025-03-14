@@ -1,0 +1,36 @@
+mindmap
+  Weathering
+    Types of Weathering
+      Mechanical Weathering
+        Definition
+        Processes
+          Ice Wedging
+          Abrasion
+          Biological Elements
+      Chemical Weathering
+        Definition
+        Agents
+          Water
+          Carbon Dioxide
+          Oxygen
+    Effects of Weathering
+      Changes in Rock Composition
+      Formation of Sediments
+        Sizes of Sediments
+          Boulders
+          Gravel
+          Silt
+          Clay
+    Factors Influencing Weathering
+      Rock Type
+        Resistant Rocks
+        Less Resistant Rocks
+      Climate
+        Arid Regions
+        Tropical Regions
+    Acid Rain
+      Formation of Acids
+        Carbonic Acid
+        Nitric Acid
+        Sulfuric Acid
+      Effects on Weathering

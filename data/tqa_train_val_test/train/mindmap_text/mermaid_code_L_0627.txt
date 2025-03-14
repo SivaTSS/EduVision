@@ -1,0 +1,36 @@
+mindmap
+  Whirling Disorder
+    Definition
+      What is Whirling Disorder?
+    Inheritance
+      Dominant or Recessive
+        Is Whirling Disorder inherited in a dominant or recessive manner?
+        Reasoning
+      Genetic Pieces
+        Individual 5's inheritance
+          Colored pieces potentially carrying the gene
+          Inheritance sources
+      Responsible Gene
+        Which gene is responsible for Whirling Disorder?
+    Pedigree Analysis
+      Definition
+        What is a pedigree?
+      Purpose
+        How might a pedigree aid a scientist?
+        Inheritance patterns
+          Autosomal vs. Sex-linked
+          Dominant vs. Recessive
+          Heterozygous vs. Homozygous
+      Analysis Points
+        Autosomal Recessive
+        Dominant Inheritance
+        Sex-linked Inheritance
+    Pedigree Structure
+      Symbols
+        Squares for males
+        Circles for females
+      Relationships
+        Horizontal lines for couples
+        Vertical lines for offspring
+      Shading
+        Indication of traits

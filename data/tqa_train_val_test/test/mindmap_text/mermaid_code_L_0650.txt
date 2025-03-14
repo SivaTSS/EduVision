@@ -1,0 +1,28 @@
+mindmap
+  Protist Characteristics
+    Definition
+      Kingdom Protista
+      Eukaryotic organisms
+      Not animals, plants, or fungi
+    Common Features
+      Eukaryotic cells
+      Mostly unicellular
+      Some multicellular (e.g., kelp)
+      Prefer aquatic or moist environments
+    Classification
+      Animal-like Protists
+        Heterotrophs
+        Ability to move
+      Plant-like Protists
+        Autotrophs
+        Photosynthesize
+      Fungi-like Protists
+        Heterotrophs
+        Cell walls
+        Reproduce by spores
+    Historical Context
+      Established by Ernst Haeckel in 1866
+      Accepted in the 1960s
+      Referred to as "junk drawer" kingdom
+    Reproduction
+      Varies among protists

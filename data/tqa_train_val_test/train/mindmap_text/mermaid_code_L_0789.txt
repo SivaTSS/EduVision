@@ -1,0 +1,18 @@
+mindmap
+  Biochemical Reactions
+    Photosynthesis
+      Definition: Synthesis of glucose from CO2 and H2O using light energy
+      Chemical Equation: 6CO2 + 6H2O + Light Energy → C6H12O6 + 6O2
+      Organisms: Plants and certain other organisms
+      Energy Conversion: Light energy to chemical energy
+    Cellular Respiration
+      Definition: Breakdown of glucose with oxygen to produce CO2, H2O, and energy
+      Chemical Equation: C6H12O6 + 6O2 → 6CO2 + 6H2O + Heat and Chemical Energy
+      Energy Release: Releases energy for cellular processes
+    Enzymes
+      Role: Biochemical catalysts that speed up reactions
+      Example: Pepsin (requires acid)
+      Importance: Essential for maintaining life by accelerating reactions
+    Energy Classification
+      Photosynthesis: Endothermic reaction
+      Cellular Respiration: Exothermic reaction

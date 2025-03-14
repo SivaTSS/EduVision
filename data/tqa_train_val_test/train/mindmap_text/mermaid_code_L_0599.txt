@@ -1,0 +1,34 @@
+mindmap
+  Menstrual Cycle
+    Overview
+      Definition: Monthly cycle of changes in ovaries and uterus
+      Duration: Average 28 days, varies from 21 to 35 days
+    Phases
+      Follicular Phase
+        Egg and follicle development in ovaries
+        Uterine lining thickening
+          Purpose: Prepares for potential fertilization
+      Ovulation
+        Release of egg from ovary
+        Timing: Around day 14 of a 28-day cycle
+        Egg enters fallopian tube
+      Luteal Phase
+        If fertilization occurs
+          Egg embeds in uterine lining
+          Cycle stops until pregnancy ends
+        If no fertilization
+          Breakdown of uterine lining
+          Menstruation begins
+    Menstruation
+      Definition: Shedding of uterine lining
+      Duration: Average 4 days, can vary from 1 to 8 days
+      Symptoms
+        Discomfort and cramping
+        Variability in menstrual period length
+    Hormonal Regulation
+      Pituitary Gland
+        Role: Signals ovaries
+        Secretion: LH and FSH
+      Ovarian Response
+        Progesterone production
+        Role in maintaining uterine lining

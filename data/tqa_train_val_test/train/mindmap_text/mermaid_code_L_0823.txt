@@ -1,0 +1,27 @@
+mindmap
+  %% Central Topic
+  Catalysts
+    Video Demonstration
+      - Chemical equation
+      - Catalyst used
+      - Observations of reaction
+    Definition
+      - Increases reaction rate
+      - Alternate pathway
+      - Lower activation energy
+    Importance
+      - Supports life
+      - Enzymes as biological catalysts
+    Factors Influencing Reaction Rate
+      - Temperature
+      - Concentration
+      - Surface area
+    Mechanism of Action
+      - Interaction with reactants
+      - Lower energy pathway
+      - Temporary bonding
+    Enzymes
+      - Definition and role
+      - Examples (e.g., amylase)
+      - Effectiveness in reactions
+      - Starch digestion experiment

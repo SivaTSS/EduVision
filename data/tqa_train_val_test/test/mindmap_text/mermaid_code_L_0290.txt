@@ -1,0 +1,61 @@
+mindmap
+  Ecosystem Roles
+    Ecology
+      Definition
+      Importance
+    Biotic Factors
+      Definition
+      Examples
+        - Plants
+        - Animals
+        - Fungi
+    Abiotic Factors
+      Definition
+      Examples
+        - Water
+        - Soil
+        - Temperature
+    Levels of Organization
+      Individual
+        - Example
+      Population
+        - Example
+      Community
+        - Example
+      Ecosystem
+        - Example
+      Biome
+        - Example
+      Biosphere
+        - Example
+    Niche and Habitat
+      Definitions
+      Importance
+    Producers
+      Role in Ecosystem
+      Types
+        - Photosynthesis
+        - Chemosynthesis
+    Consumers
+      Definition
+      Types
+        - Herbivores
+        - Carnivores
+        - Omnivores
+    Decomposers
+      Role
+      Importance
+    Symbiosis
+      Definition
+      Types
+        - Mutualism
+        - Commensalism
+        - Parasitism
+    Feeding Relationships
+      Types
+        - Predators
+        - Scavengers
+        - Decomposers
+    Competition
+      Definition
+      Outcomes

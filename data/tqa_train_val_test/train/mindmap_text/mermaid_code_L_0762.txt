@@ -1,0 +1,36 @@
+mindmap
+  Earth as a Magnet
+    Demonstration
+      Use of props
+      Compass example
+    Earth's Magnetism
+      Definition
+        Giant magnet
+        Magnetic poles
+        Magnetosphere
+      Benefits
+        Protection from solar particles
+        Navigation for humans and animals
+    Magnetic Field
+      Characteristics
+        Extends outward
+        Strongest at poles
+      Relationship to Geographic Poles
+        Magnetic vs. geographic north pole
+        Compass behavior
+    Magnetic Reversals
+      Historical evidence
+        Rocks on ocean floor
+        Alignment of magnetic domains
+      Frequency and impact
+    Scientific Understanding
+      Historical context
+        William Gilbert's proposal
+      Inner structure of Earth
+        Inner and outer core
+        Movement of charged particles
+    Navigation in Nature
+      Animal navigation
+        Birds using magnetic field
+      Human navigation
+        Use of compasses

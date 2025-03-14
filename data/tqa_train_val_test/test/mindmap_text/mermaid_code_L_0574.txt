@@ -1,0 +1,35 @@
+mindmap
+  Insect Food
+    Mouthparts
+      Honeybee
+        Description
+        Sponging Process
+      Cockroaches vs Butterflies
+        Differences in Mouthparts
+        Lifestyle Implications
+      Specialized Mouthparts
+        Proboscis
+        Piercing-Sucking
+    Feeding Methods
+      Plant-Eaters
+        Types of Plants
+        Examples: Aphids, Leafhoppers
+      Predators
+        Hunting Techniques
+        Examples: Praying Mantises, Assassin Bugs
+      Parasites
+        Feeding on Hosts
+        Examples: Fleas, Lice
+      Sponging
+        Process
+        Example: Housefly
+    Insect Diets
+      Variety of Foods
+        Plant Material
+        Other Insects
+        Blood
+        Scraps
+      Unique Cases
+        Mayflies and Moths (Short Lifespan)
+        Silkworms (Rapid Growth)
+        Locusts (Daily Consumption)

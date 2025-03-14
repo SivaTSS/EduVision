@@ -1,0 +1,26 @@
+mindmap
+  Fluid Pressure
+    Definition
+      - Pressure = Force / Area
+      - SI Unit: Pascal (Pa)
+    Factors Affecting Pressure
+      - Depth
+      - Density
+    Pascal's Law
+      - Change in pressure transmitted equally in enclosed fluid
+      - Applications: Hydraulic systems (e.g., car lifts)
+    Bernoulli's Law
+      - Pressure in moving fluid decreases with speed
+      - Applications: Lift in airplanes and birds
+    Pressure Calculation
+      - Formula: Pressure = Force / Area
+      - Example Problems
+        - Box on ground
+        - Break dancer's pressure
+    Fluid Behavior
+      - Movement of particles
+      - Pressure exerted in all directions
+    Real-World Applications
+      - Bicycle pumps
+      - Sipping through a straw
+      - Sailing physics

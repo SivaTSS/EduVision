@@ -1,0 +1,49 @@
+mindmap
+  H-R Diagram
+    Definition
+      Scatter graph
+      Stellar properties
+        Luminosity
+        Absolute magnitude
+        Color
+        Effective temperature
+    Historical Context
+      Created by
+        Ejnar Hertzsprung
+        Henry Norris Russell
+      Year
+        Around 1910
+    Axes
+      Horizontal
+        Temperature (Kelvin)
+          High to low
+      Vertical
+        Luminosity
+          Logarithmic scale
+    Main Sequence
+      Characteristics
+        Hydrogen fusion
+        Position of the Sun
+      Temperature and Luminosity
+        Hottest stars are brightest
+    Star Classifications
+      White Dwarfs
+        Characteristics
+          Small size
+          Low brightness
+          Stellar remnant
+      Red Giants
+        Characteristics
+          Large size
+          High brightness
+          Last phase of life
+    Stellar Evolution
+      Main-sequence to Red Giant
+        Helium fusion
+      Red Giant to White Dwarf
+        Planetary nebula formation
+    Color and Temperature
+      Reddish stars
+        Cooler
+      Bluish stars
+        Hotter

@@ -1,0 +1,41 @@
+mindmap
+  Light
+    Electromagnetic Spectrum
+      Definition
+      Components
+        Infrared Light
+        Visible Light
+        Ultraviolet Light
+    Infrared Light
+      Characteristics
+        Longest Wavelengths
+        Lowest Frequencies
+      Detection
+        Heat Sensation
+        Infrared Cameras
+    Visible Light
+      Characteristics
+        Narrow Range of Wavelengths
+        Colors
+          Red
+          Green
+          Blue
+          Violet
+      Combination
+        Appears White in Sunlight
+    Ultraviolet Light
+      Characteristics
+        Shorter Wavelengths
+        Higher Frequencies
+      Uses
+        Germ Killing
+        Vitamin D Production
+      Protection
+        Risks of Overexposure
+          Sunburn
+          Skin Cancer
+        Protective Measures
+          Clothing
+          Sunscreen
+          Hats
+        SPF Importance

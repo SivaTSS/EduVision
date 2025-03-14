@@ -1,0 +1,31 @@
+mindmap
+  Evolution Evidence
+    Fossils
+      Definition
+        Preserved remains or traces of organisms
+      Formation
+        Minerals in water turn remains to stone
+        Quick sediment coverage increases fossilization chances
+      Dating Methods
+        Absolute Dating
+          Determines age in years (e.g., carbon-14)
+        Relative Dating
+          Compares ages based on rock layer positions
+    Living Organisms
+      Body Part Comparisons
+        Similar structures indicate common ancestry
+      Vestigial Structures
+        Non-functional body parts (e.g., human appendix)
+      Embryonic Similarities
+        Early-stage embryos of different species show similarities
+      Molecular Comparisons
+        DNA and protein similarities indicate relationships
+        Molecular clocks track evolutionary changes
+    Recent Evolution
+      Darwin's Finches
+        Documented by Peter and Rosemary Grant
+        Natural selection observed during drought
+        Increase in average beak size due to survival of larger beaks
+    Whale Evolution
+      Fossil evidence of transition from land mammals to aquatic life
+      Ancient land mammals adapted to life in water

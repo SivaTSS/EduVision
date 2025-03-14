@@ -1,0 +1,33 @@
+mindmap
+  Wavelength
+    Definition
+      Measurement
+        Distance between corresponding points
+        Measured in meters
+    Types of Waves
+      Transverse Waves
+        Particle motion
+          Up and down
+          Perpendicular to wave direction
+        Wavelength measurement
+          Distance between adjacent crests
+      Longitudinal Waves
+        Particle motion
+          Back and forth
+          Same direction as wave
+        Wavelength measurement
+          Distance between adjacent compressions
+    Energy Relation
+      Short-wavelength waves
+        More energy
+      Long-wavelength waves
+        Less energy
+    Visual Representations
+      Figure 1.1
+        Crest and wavelength relationship
+      Figure 1.2
+        Longitudinal wave depiction
+      Figure 1.3
+        Color and wavelength correlation
+        Red light (longest wavelength)
+        Violet light (shortest wavelength)

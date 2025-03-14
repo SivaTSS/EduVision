@@ -1,0 +1,34 @@
+mindmap
+  Immune System Barriers
+    First Line of Defense
+      Physical Barriers
+        Skin
+          Largest organ
+          Multi-layered structure
+        Mucous Membranes
+          Location: mouth, nose, lungs, stomach
+          Function: release mucus
+      Chemical Barriers
+        Body Fluids
+          Mucus
+            Sticky substance
+            Traps pathogens
+          Tears
+            Contain lysozymes
+          Sweat
+            Contains enzymes
+          Saliva
+            Contains lysozymes
+        Stomach Acid
+          Hydrochloric acid
+          Kills pathogens in food/water
+        Urine
+          Acidic environment
+          Inhibits pathogen growth
+    Additional Defenses
+      Cilia
+        Tiny projections in lungs
+        Sweep mucus and pathogens out
+      Helpful Bacteria
+        Compete with harmful bacteria
+        Prevents harmful bacteria from multiplying

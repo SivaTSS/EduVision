@@ -1,0 +1,43 @@
+mindmap
+  Segmented Worms
+    Types
+      Earthworm
+        Role in Ecosystem
+          Aerating Soil
+          Enriching Soil
+          Prey for Other Animals
+      Leeches
+        Medical Uses
+          Blood Sucking
+          Treatment Applications
+        Feeding Habits
+          Frequency of Feeding
+      Marine Worms
+        Example: Abarenicola
+          Ecosystem Impact
+    Characteristics
+      Body Structure
+        Segmentation
+        Parapodia for Locomotion
+      Body Cavity
+        Hydroskeleton
+      Organ Systems
+        Digestive System
+          Complete Digestive Tract
+        Circulatory System
+          Paired Hearts
+          Blood Vessels
+        Nervous System
+          Brain
+          Ventral Nerve Cord
+    Comparison with Other Worms
+      Phyla
+        Platyhelminthes (Flatworms)
+          Body Cavity: No
+          Digestive System: Incomplete
+        Nematoda (Roundworms)
+          Body Cavity: Yes
+          Digestive System: Complete
+        Annelida (Segmented Worms)
+          Body Cavity: Yes
+          Digestive System: Complete

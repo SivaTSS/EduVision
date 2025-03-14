@@ -1,0 +1,21 @@
+mindmap
+  Projectile Motion
+    Definition
+      Description: Movement in a curved path
+      Forces Involved
+        Horizontal Force
+        Gravity
+    Examples
+      Arrows
+      Cannon Balls
+    Application
+      Basketball Shooting
+        Aiming Above Target
+        Effect of Gravity
+    Visual Representations
+      Figure 1.1
+        Curved Path Illustration
+      Figure 1.2
+        Aiming Impact
+      Figure 1.3
+        Graph of Motion vs. Gravity

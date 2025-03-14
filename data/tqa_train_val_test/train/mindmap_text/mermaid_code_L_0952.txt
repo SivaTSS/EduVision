@@ -1,0 +1,26 @@
+mindmap
+  Metals
+    What are metals?
+      Definition
+      Classification
+        Nonmetals
+        Metalloids
+        Types of metals
+          Alkali metals
+          Alkaline Earth metals
+          Transition metals
+    Properties of metals
+      Conductivity
+        Conduct electricity
+        Conduct heat
+      Physical properties
+        Shiny
+        Ductile
+        Malleable
+        High melting points
+    Conductivity explanation
+      Flow of electrons
+      Electron arrangement
+        Lithium example
+          Energy levels
+          Stability

@@ -1,0 +1,33 @@
+mindmap
+  Light
+    Light Travel
+      Straight Line
+      Speed
+        Empty Space: 300 million m/s
+        Through Matter: Slower
+    Light Interactions
+      Reflection
+      Refraction
+        Definition: Bending of Light
+        Conditions: Angle of Incidence
+        Perpendicular: No Bending
+      Absorption
+    Speed of Light
+      Comparison to Bicycle
+        Hard Surface: Fast
+        Deep Sand: Slow
+      Speed in Different Materials
+        Air: 299 million m/s
+        Water: 231 million m/s
+        Glass: 200 million m/s
+        Vegetable Oil: 150 million m/s
+        Alcohol: 140 million m/s
+        Diamond: 125 million m/s
+    Light and Distance
+      Classroom Example
+      Sun to Earth: 93 million miles
+        Time to Notice Change: 8 minutes
+    Evidence of Light Behavior
+      Bending in Atmosphere
+      Rainbows
+      Broken Straw Illusion

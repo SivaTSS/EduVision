@@ -1,0 +1,40 @@
+mindmap
+  Planet Orbits in the Solar System
+    Planets
+      Eight Planets
+        Mercury
+        Venus
+        Earth
+        Mars
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+      Planetoids
+        Definition
+        Examples
+    Kepler's Discoveries
+      Orbital Period
+        Definition
+        Relationship to Distance
+      Distance from the Sun
+        Calculation Method
+        Historical Context
+    Orbital Characteristics
+      Elliptical Paths
+        Foci of the Sun
+      Relative Distances
+        Inner Solar System
+        Outer Solar System
+    Age on Different Planets
+      Concept of Age
+        Earth vs. Other Planets
+      Orbital Period Impact
+        Example: Jupiter
+        Example: Saturn
+    Solar System Regions
+      Inner Solar System
+        Planets and Asteroid Belt
+      Outer Solar System
+        Kuiper Belt
+        Oort Cloud

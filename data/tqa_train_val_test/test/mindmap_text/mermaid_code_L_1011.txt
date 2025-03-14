@@ -1,0 +1,18 @@
+mindmap
+  Experiments
+    What is an Experiment?
+      Definition: Controlled scientific study of variables
+      Variables: Factors that can take on different values
+    Types of Variables
+      Manipulated Variable
+        Definition: Changed by the researcher (Independent Variable)
+      Responding Variable
+        Definition: Predicted to change due to manipulated variable (Dependent Variable)
+    Importance of Controlled Variables
+      Definition: Variables held constant to avoid influencing outcomes
+      Example: Smoothness of ramps in an experiment
+    Example Experiment
+      Setup: Sliding wooden blocks down ramps
+      Manipulated Variable: Steepness of the ramp
+      Observations: Effects of ramp smoothness on speed
+      Conclusion: Importance of controlling all variables

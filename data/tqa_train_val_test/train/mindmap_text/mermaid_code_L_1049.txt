@@ -1,0 +1,20 @@
+mindmap
+  Thermal Energy
+    Comparison
+      Thermal Energy vs Temperature
+      Factors Affecting Thermal Energy
+        Temperature
+        Mass
+    Kinetic Energy
+      Definition
+        Total Kinetic Energy of Particles
+      Relationship to Temperature
+        Average vs Total Kinetic Energy
+    Examples
+      Death Valley
+        Rapid Particle Movement
+      Pot of Soup vs Tub of Water
+        Temperature Comparison
+        Mass Comparison
+      Ice vs Boiling Water
+        Mass Impact on Thermal Energy

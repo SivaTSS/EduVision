@@ -1,0 +1,35 @@
+mindmap
+  Tree Rings, Ice Cores, and Varves
+    Tree Rings
+      Definition
+        Dendrochronology
+      Significance
+        Age determination
+        Environmental conditions
+      Historical Insights
+        Lost Colony of Roanoke
+      Tree Types
+        Preferred species
+    Ice Cores
+      Composition
+        Trapped gases and particles
+      Study Duration
+        Historical context
+      Insights
+        Climate change indicators
+        Best conditions for cores
+        Ideal locations for extraction
+      Sea Level Impact
+        Greenland ice sheet melting
+    Varves
+      Formation
+        Seasonal sedimentation
+      Climate Clues
+        Thick vs. thin layers
+      Location
+        Glacial lake sediments
+    Environmental Indicators
+      Seasonal variations
+        Tree growth patterns
+        Ice dust accumulation
+        Lake sediment layers

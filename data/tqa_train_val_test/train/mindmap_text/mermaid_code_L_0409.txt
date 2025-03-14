@@ -1,0 +1,35 @@
+mindmap
+  Ecology
+    Definition
+      - Science of interactions
+      - Overlaps with other fields
+        - Geography
+        - Biology
+        - Climatology
+    Key Concepts
+      - Biotic Factors
+        - Living aspects
+        - Organisms and remains
+      - Abiotic Factors
+        - Non-living aspects
+        - Sunlight, minerals, temperature, moisture
+    Levels of Organization
+      - Individual
+        - Single living organism
+      - Population
+        - Group of individuals of the same species
+        - Interactions within the group
+      - Community
+        - All populations in an area
+        - Interactions among populations
+      - Ecosystem
+        - Biotic and abiotic factors in an area
+      - Biome
+        - Group of similar ecosystems
+        - Terrestrial and aquatic
+      - Biosphere
+        - All parts of Earth with life
+        - Highest level of organization
+    Importance of Environment
+      - Dependence on environment
+      - Influence of environmental factors

@@ -1,0 +1,44 @@
+mindmap
+  Central Topic: Stress in Earth's Crust
+    Types of Stress
+      Confining Stress
+        Definition
+        Deformation
+      Compression Stress
+        Definition
+        Deformation
+      Tension Stress
+        Definition
+        Deformation
+      Shear Stress
+        Definition
+        Deformation
+    Rock Deformation
+      Plastic Deformation
+        Duration
+        Factors
+      Elastic Deformation
+    Earthquakes
+      Causes
+      Types of Faults
+        Dip-Slip Faults
+        Strike-Slip Faults
+      Effects
+    Mountain Formation
+      Convergent Boundaries
+        Thrust Faulting
+        Folding
+      Divergent Boundaries
+        Mid-Ocean Ridges
+      Hotspots
+    Types of Folds
+      Monoclines
+      Anticlines
+      Synclines
+    Fractures and Faults
+      Definition
+      Relationship to Earthquakes
+    Geological Features
+      Rock Layers
+      Sedimentary Rocks
+      Basin-and-Range Topography

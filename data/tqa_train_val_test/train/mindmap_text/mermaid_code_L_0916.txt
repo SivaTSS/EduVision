@@ -1,0 +1,20 @@
+mindmap
+  Heat Conduction
+    What is Conduction?
+      Definition
+      Transfer of Thermal Energy
+      Relation to Temperature
+    How Does Conduction Occur?
+      Particle Interaction
+        Collisions of Particles
+        Energy Transfer Mechanism
+      Movement of Particles
+        Random Motion
+        Energy Levels of Particles
+    Examples of Conduction
+      Everyday Situations
+        Cookie Sheet and Cookies
+        Hot Iron and Shirt
+        Hot Cup and Hand
+        Camp Stove and Pot
+        Feet and Snow

@@ -1,0 +1,38 @@
+mindmap
+  Mendel's Discoveries
+    Gregor Mendel
+      Background
+        Austrian monk
+        Mid-1800s research
+      Traits
+        Offspring similarity
+        Factors controlling traits
+    Pea Plants
+      Advantages
+        Easy to grow
+        Quick growth
+        Observable traits
+        Two forms per trait
+      Reproduction
+        Sexual reproduction
+        Pollination process
+    Mendel's Experiments
+      One Trait Experiments
+        Law of Segregation
+          Factors separate into gametes
+          Example: Flower color
+            F1 generation results
+            F2 generation results
+              3:1 ratio
+      Two Trait Experiments
+        Law of Independent Assortment
+          Factors for different traits assort independently
+          Example: Seed shape and color
+            F1 generation results
+            F2 generation results
+              9:3:3:1 ratio
+    Scientific Legacy
+      Ignored until 1900
+      Rediscovery by other scientists
+      Father of Genetics
+        Basis of modern genetics

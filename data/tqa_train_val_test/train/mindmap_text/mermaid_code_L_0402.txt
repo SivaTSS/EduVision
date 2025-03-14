@@ -1,0 +1,70 @@
+mindmap
+  Noninfectious Diseases
+    Definition
+      Noncontagious
+      Not caused by pathogens
+    Causes
+      Lifestyle factors
+      Environmental toxins
+      Gene mutations
+    Common Types
+      Cancer
+        Causes
+          Mutations
+          Carcinogens
+            Examples
+              Tobacco smoke
+              UV radiation
+        Treatment
+          Surgery
+          Drugs
+          Radiation
+        Warning Signs
+          Change in bowel habits
+          Sore that doesn't heal
+          Unusual bleeding
+          Lump in breast
+          Persistent cough
+      Diabetes
+        Definition
+          Insulin issues
+        Types
+          Type 1
+            Causes
+              Immune system attack
+            Treatment
+              Insulin injections
+              Blood glucose monitoring
+              Healthy diet
+          Type 2
+            Causes
+              Insulin resistance
+            Treatment
+              Weight management
+              Medication
+              Exercise
+      Autoimmune Diseases
+        Definition
+          Immune system attacks own cells
+        Examples
+          Type 1 diabetes
+          Multiple sclerosis
+          Rheumatoid arthritis
+      Allergies
+        Definition
+          Immune response to harmless substances
+        Common Allergens
+          Pollen
+          Dust mites
+          Mold
+          Animal dander
+        Symptoms
+          Mild
+            Itchy eyes
+            Sneezing
+          Severe
+            Difficulty breathing
+        Treatments
+          Antihistamines
+          Epinephrine injections
+          Allergy shots

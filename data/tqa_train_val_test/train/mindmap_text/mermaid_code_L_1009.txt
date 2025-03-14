@@ -1,0 +1,50 @@
+mindmap
+  Saturated Hydrocarbons
+    Definition
+      Single Bonds
+      Simplest Class
+      Saturated with Hydrogen
+    General Name
+      Alkanes
+        Naming Convention
+          Ends in -ane
+          Prefix indicates Carbon Count
+    Examples
+      Methane
+        Chemical Formula: CH4
+        Properties
+          Boiling Point: -162°C
+          Melting Point: -183°C
+          State: Gas
+      Ethane
+        Chemical Formula: C2H6
+        Properties
+          Boiling Point: -89°C
+          Melting Point: -172°C
+          State: Gas
+      Propane
+        Chemical Formula: C3H8
+        Properties
+          Boiling Point: -42°C
+          Melting Point: -188°C
+          State: Gas
+      Butane
+        Chemical Formula: C4H10
+        Properties
+          Boiling Point: 0°C
+          Melting Point: -138°C
+          State: Gas
+      Pentane
+        Chemical Formula: C5H12
+        Properties
+          Boiling Point: 36°C
+          Melting Point: -130°C
+          State: Liquid
+      Hexane
+        Chemical Formula: C6H14
+        Properties
+          Boiling Point: 69°C
+          Melting Point: -95°C
+          State: Liquid
+      Heptane
+        Chemical Formula

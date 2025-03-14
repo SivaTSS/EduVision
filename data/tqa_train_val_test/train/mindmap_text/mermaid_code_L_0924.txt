@@ -1,0 +1,26 @@
+mindmap
+  Inertia
+    What is inertia?
+      Definition
+      Tendency to resist motion change
+    How does inertia affect motion?
+      Resting objects remain at rest
+      Moving objects continue moving
+      Example: Car stopping suddenly
+    Relationship between inertia and mass
+      Greater mass = greater inertia
+      Example: Pushing cousins on skateboard
+    Real-world application
+      Skateboard example
+        Josh at Newton's Skate Park
+        Gravity's effect
+        Why skateboard doesn't tip
+      Unbalanced forces
+        Overcoming inertia
+        Example: Lauren pushing skateboard
+      Friction's role
+        Opposes motion
+        Eventually stops moving objects
+      Airborne skateboard
+        Force of gravity acting
+        Changes motion when in air

@@ -1,0 +1,20 @@
+mindmap
+  Breathing Processes
+    Gaseous Exchange
+      Oxygen in Blood
+        Molecule: Hemoglobin
+        Function: Carries Oxygen
+      Oxygen Entry
+        Location: Alveoli
+        Mechanism: Simple Diffusion
+      Oxygen Transport
+        Pathway: Lungs → Bloodstream → Heart → Aorta → Arteries → Capillaries
+      Tissue Oxygenation
+        Process: Diffusion into Cells
+        Waste Gas: Carbon Dioxide
+    Importance of Oxygen
+      Cellular Respiration
+        Purpose: ATP Production
+        Efficiency: Higher with Oxygen
+      Cellular Function
+        Requirement: Every Cell Needs Oxygen

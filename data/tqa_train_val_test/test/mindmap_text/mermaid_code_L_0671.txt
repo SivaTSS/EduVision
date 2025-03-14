@@ -1,0 +1,33 @@
+mindmap
+  Scientific Theories
+    Evidence
+      Definition
+        Direct observation
+        Measurable data
+        Experimental results
+      Examples
+        Apple falling (gravity)
+        Bear skeleton (presence of bears)
+    Scientific Theory
+      Definition
+        Explanation of natural world
+        Based on repeated observations
+      Development
+        Hypothesis formation
+        Evidence collection through experiments
+      Characteristics
+        Well-established explanations
+        Supported by extensive evidence
+        Subject to change with new evidence
+      Examples
+        Atomic theory
+        Germ theory of disease
+        Cell theory
+        Theory of evolution
+    Scientific Law
+      Definition
+        Statement of consistent natural phenomena
+      Development
+        Based on extensive collected information
+      Characteristics
+        Describes what always happens under certain conditions

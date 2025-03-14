@@ -1,0 +1,45 @@
+mindmap
+  Skin
+    Integumentary System
+      Components
+        Skin
+        Hair
+        Nails
+    Functions
+      Barrier
+        Keeps harmful organisms out
+        Prevents water loss
+      Temperature Control
+        Sweating
+      Sensory Reception
+        Nerve endings for heat, pressure, cold, pain
+      Waste Removal
+        Excretion through sweat
+      Sun Protection
+        Melanin production
+    Skin Structure
+      Layers
+        Epidermis
+          Outermost layer
+          Waterproof and protective
+          Contains melanin-producing cells
+          No blood vessels
+        Dermis
+          Tough connective tissue
+          Contains hair follicles, sweat glands, oil glands, blood vessels
+          Nerve endings for touch, pressure, heat, pain
+        Hypodermis
+          Fatty layer beneath dermis
+          Not part of skin
+    Skin Maintenance
+      Cell Replacement
+        Shedding of dead cells
+        Growth of new cells
+      Gland Functions
+        Oil Glands
+          Secrete sebum
+          Waterproofs skin and hair
+          Prevents bacterial growth
+        Sweat Glands
+          Regulate temperature
+          Excrete waste

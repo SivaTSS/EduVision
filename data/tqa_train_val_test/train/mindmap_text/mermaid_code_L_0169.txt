@@ -1,0 +1,32 @@
+mindmap
+  Folds
+    Causes
+      Compressive Stresses
+      Plastic Deformation
+    Types of Folds
+      Monocline
+        Simple Bend
+        Example: Utah's Cockscomb
+      Anticline
+        Arches Upward
+        Oldest Rocks at Center
+        Dome Structure
+      Syncline
+        Bends Downward
+        Youngest Rocks at Center
+        Basin Structure
+    Key Concepts
+      Dip
+        Measurement Reference
+      Strike
+        Definition
+      Block Diagram
+        Purpose
+      Strike and Dip Symbol
+        Meaning
+    Effects of Erosion
+      Rock Layer Appearance on Maps
+    Questions
+      Formation of Anticlines and Synclines
+      Identification of Structures
+      Geologic History of Regions

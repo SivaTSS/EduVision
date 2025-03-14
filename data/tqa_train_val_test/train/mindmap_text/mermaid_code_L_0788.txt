@@ -1,0 +1,56 @@
+mindmap
+  Carbon and Living Things
+    Biochemical Compounds
+      Definition
+        Carbon-based compounds in living things
+        Polymers with other elements
+      Classes
+        Carbohydrates
+          Structure
+            Sugars
+              Simple carbohydrates
+              Examples: glucose, fructose, sucrose
+            Starches
+              Complex carbohydrates
+              Energy storage in plants
+            Cellulose
+              Plant cell walls
+              Dietary fiber
+          Functions
+            Provide energy
+            Store energy
+            Structural support
+        Proteins
+          Structure
+            Chains of amino acids
+            20 common amino acids
+          Functions
+            Tissue components
+            Enzymes
+            Hormones
+            Antibodies
+            Transport
+        Lipids
+          Structure
+            Fatty acids
+              Saturated vs. unsaturated
+          Functions
+            Energy storage
+            Cell membranes
+            Phospholipids
+              Hydrophilic heads
+              Hydrophobic tails
+        Nucleic Acids
+          Structure
+            Chains of nucleotides
+              Components: phosphate, sugar, nitrogen base
+          Types
+            DNA
+              Double helix structure
+              Stores genetic information
+            RNA
+              Single chain
+              Involved in protein synthesis
+    Life Processes
+      Photosynthesis
+        Importance to living things

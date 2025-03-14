@@ -1,0 +1,32 @@
+mindmap
+  Photosynthesis
+    Light Reactions
+      Definition
+      Location
+        Chloroplast
+          Thylakoids
+          Stroma
+      Process
+        Sunlight Absorption
+        Water Usage
+        Oxygen Production
+        ATP and NADPH Generation
+    Calvin Cycle
+      Definition
+      Location
+        Stroma
+      Process
+        Carbon Dioxide Usage
+        Glucose Production
+    Key Components
+      Reactants
+        Carbon Dioxide
+        Water
+        Sunlight
+      Products
+        Glucose
+        Oxygen
+    Importance
+      Energy Storage
+      Oxygen Release
+      Ecosystem Role

@@ -1,0 +1,26 @@
+mindmap
+  Convection
+    What is Convection?
+      Definition
+      Transfer of Thermal Energy
+    How Convection Occurs
+      Particle Movement
+      Formation of Convection Currents
+    Convection in Different Fluids
+      Water in a Pot
+        Heating Process
+        Convection Current Cycle
+      Molten Rock
+      Ocean Water
+      Atmosphere
+        Wind Formation
+    Day and Night Temperature Changes
+      Daytime
+        Warm Air Rises
+        Cool Air Moves In
+      Nighttime
+        Warm Air Rises Over Water
+        Cool Air Moves Out
+    Comparison with Other Heat Transfer Methods
+      Conduction
+      Thermal Radiation

@@ -1,0 +1,43 @@
+mindmap
+  Ecosystems
+    Definition
+      - Group of living things and their environment
+      - Examples: Forest, Dead tree stump
+    Abiotic Factors
+      - Nonliving parts
+        - Air
+        - Sunlight
+        - Soil
+        - Water
+        - Minerals
+    Biotic Factors
+      - Living parts
+        - Species
+          - Unique types of organisms
+          - Examples: Humans, Lions, Redwood trees
+        - Populations
+          - Members of a species in an area
+        - Communities
+          - Different species living together
+    Energy Flow
+      - Producers
+        - Use sunlight (photosynthesis)
+        - Use chemicals (chemosynthesis)
+      - Consumers
+        - Types: Grazers, Predators, Scavengers
+      - Decomposers
+        - Break down dead organisms
+    Food Chains and Food Webs
+      - Food Chain
+        - Simple energy flow diagram
+        - Levels: Producers, Primary consumers, Secondary consumers
+      - Food Web
+        - Complex diagram of overlapping food chains
+    Matter Recycling
+      - Nutrients
+        - Nonliving matter needed for life
+        - Examples: Carbon, Nitrogen
+      - Cycle of matter
+        - Decomposers release nutrients
+        - Nutrients uptake by plants
+        - Transfer through consumers

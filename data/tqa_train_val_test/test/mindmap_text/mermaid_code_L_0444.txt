@@ -1,0 +1,43 @@
+mindmap
+  Amphibians
+    Skin
+      Description
+      Adaptations
+        Prevents water loss
+        Protective features
+    Metamorphosis
+      Definition
+      Stages
+        Egg Stage
+        Larval Stage
+        Adult Stage
+    Ectothermic
+      Definition
+      Behavioral Effects
+    Respiratory Organs
+      Lungs
+      Breathing Mechanisms
+        Underwater breathing
+        Oxygen requirements
+    Adaptations for Land
+      Eyelids
+      Eardrum
+      Loss of tail
+    Reproduction
+      Methods
+        External fertilization
+        Internal fertilization
+      Life Cycle
+        Egg
+        Larval
+        Adult
+    Habitat
+      Freshwater
+      Moist environments
+      Adaptations to dry environments
+    Types of Amphibians
+      Frogs
+      Toads
+      Salamanders
+      Newts
+      Caecilians

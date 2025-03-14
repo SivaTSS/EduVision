@@ -1,0 +1,27 @@
+mindmap
+  Elements
+    What is an element?
+      Definition: Pure substance
+      Cannot be separated into other substances
+      92 naturally occurring elements
+    Properties of elements
+      Unique set of properties
+      Examples:
+        Iron: solid, magnetic
+        Neon: gas, red glow
+        Helium: gas, lower density than air
+        Carbon: most common in living things
+    Historical perspective
+      Aristotle's four elements
+        Earth, air, water, fire
+        Accepted for about 2000 years
+      Modern discoveries
+        Beginning 500 years ago
+        Identification of many elements
+    Atoms and elements
+      Definition: Smallest particle with properties of an element
+      Composition: Protons and electrons
+      Unique number of protons for each element
+      Example: Carbon
+        6 protons, 6 electrons
+        Differences in compounds (coal vs. sugar)

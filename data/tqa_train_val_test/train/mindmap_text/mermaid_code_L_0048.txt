@@ -1,0 +1,46 @@
+mindmap
+  Air Pollution Effects
+    Human Health
+      Asthma
+      Lung Diseases
+        Cancer
+      Heart Disease
+      Vulnerable Populations
+        Children
+    Environmental Impact
+      Ecosystem Disruption
+        Photosynthesis Reduction
+        Plant Damage
+          Ozone Effects
+          Particulates
+      Acid Rain
+        Formation
+          Nitrogen Oxides
+          Sulfur Oxides
+        Consequences
+          Soil Nutrient Loss
+          Damage to Structures
+    Pollutants
+      Particulates
+        Health Risks
+        Environmental Damage
+      Ozone
+        Ground-Level Harm
+        Long-Term Plant Damage
+      Heavy Metals
+        Bioaccumulation
+        Health Risks
+      VOCs
+        Sources
+        Health Effects
+    Ozone Layer
+      Importance
+      CFCs
+        Destruction Mechanism
+        Ozone Hole
+          Seasonal Changes
+          Geographic Variations
+      UV Radiation
+        Increased Risks
+          Skin Cancer
+          Ecosystem Effects

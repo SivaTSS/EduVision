@@ -1,0 +1,23 @@
+mindmap
+  Protons
+    Description
+      Definition
+      Location in Atom
+      Charge and Mass
+    Relationship with Elements
+      Unique Proton Count
+      Example: Hydrogen vs Helium
+    Atoms
+      Neutral Charge
+      Electron-Proton Relationship
+        Charge of Electrons
+        Inferring Proton Count
+    Fundamental Particles
+      Quarks
+        Up Quarks
+        Down Quark
+      Gluons
+        Role in Binding
+    Role in Stars
+      Proton Fusion
+      Energy Release

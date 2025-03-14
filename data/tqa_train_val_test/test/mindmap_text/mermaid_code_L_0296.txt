@@ -1,0 +1,29 @@
+mindmap
+  Scientific Community
+    Peer Review
+      Purpose
+        Quality Control
+        Scientific Method
+      Process
+        Submission
+        Review
+        Recommendations
+        Publication
+    Replication
+      Importance
+        Validation of Results
+        Community Acceptance
+      Consequences
+        Non-replicable Results
+        Rejection of Work
+    Scientific Integrity
+      Training
+        Conducting Experiments
+        Reporting Data
+      Monitoring
+        Funding Proposals
+        Evaluation by Peers
+      Consequences of Dishonesty
+        Community Condemnation
+        Media Impact
+        Public Trust Issues

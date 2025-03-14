@@ -1,0 +1,29 @@
+mindmap
+  Sun Surface Features
+    Sunspots
+      Definition
+      Characteristics
+        Cooler and darker areas
+        Magnetic activity
+      Sunspot Cycle
+        11-year cycle
+        Occurrence in pairs
+    Solar Flares
+      Definition
+      Causes
+        Magnetic field disruptions
+      Effects on Earth
+        Impact on power grids
+        Disruption of communications
+    Solar Prominences
+      Definition
+      Relation to Sunspots
+      Visibility
+        During solar eclipses
+    Solar Dynamics Observatory (SDO)
+      Purpose
+        Study of the Sun's magnetic field
+        Understanding Earth's atmospheric chemistry
+      Capabilities
+        High-resolution imaging
+        Data collection

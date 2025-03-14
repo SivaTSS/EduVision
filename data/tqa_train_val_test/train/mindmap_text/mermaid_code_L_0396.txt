@@ -1,0 +1,49 @@
+mindmap
+  Chemistry_of_Living_Things
+    Matter
+      Definition
+        - Has mass
+        - Takes up space
+      Types
+        - Elements
+          - Pure substances
+          - Properties
+        - Compounds
+          - Chemical combinations
+          - Unique matter
+    Biochemical_Compounds
+      Definition
+        - Carbon-based compounds
+      Classes
+        - Carbohydrates
+          - Examples: sugars, starches
+          - Functions: energy source, storage
+        - Proteins
+          - Examples: enzymes, hormones
+          - Functions: structure, regulation
+        - Lipids
+          - Examples: fats, oils, phospholipids
+          - Functions: energy storage, cell membranes
+        - Nucleic Acids
+          - Examples: DNA, RNA
+          - Functions: genetic information storage, protein synthesis
+    Metabolism
+      Definition
+        - Sum of biochemical reactions
+      Types
+        - Anabolic Reactions
+          - Build larger molecules
+          - Require energy
+        - Catabolic Reactions
+          - Break down molecules
+          - Release energy
+    Enzymes
+      Role
+        - Speed up biochemical reactions
+        - Specific to reactions
+    Photosynthesis_and_Cell_Respiration
+      Photosynthesis
+        - Process of making glucose
+        - Involves anabolic reactions
+      Cellular_Respiration
+        - Process of releasing energy from glucose

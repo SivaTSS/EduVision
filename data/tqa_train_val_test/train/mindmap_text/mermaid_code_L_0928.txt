@@ -1,0 +1,39 @@
+mindmap
+  Ionic Bonding
+    What is an Ionic Bond?
+      Definition
+      Formation
+        Metallic Elements
+        Nonmetallic Elements
+    Electron Transfer
+      Metals
+        Lose Electrons
+        Become Positive Ions
+      Nonmetals
+        Gain Electrons
+        Become Negative Ions
+    Energy Considerations
+      Energy to Remove Electrons
+        Valence Electrons
+        Group Trends
+      Energy Released When Gaining Electrons
+    Example: Sodium and Chlorine
+      Sodium (Na)
+        Becomes Na+
+        Charge +1
+      Chlorine (Cl)
+        Becomes Cl-
+        Charge -1
+      Ionic Compound
+        Sodium Chloride (NaCl)
+        Common Name: Table Salt
+    Periodic Table Insights
+      Group 1 Elements
+        Alkali Metals
+      Group 17 Elements
+        Halogens
+    Reactivity
+      Halogens
+        High Reactivity
+      Alkali Metals
+        Easier to Form Ions

@@ -1,0 +1,33 @@
+mindmap
+  Weather Fronts
+    Fronts
+      Definition
+      Characteristics
+        Warm Front
+        Cold Front
+        Stationary Front
+        Occluded Front
+    Types of Fronts
+      Warm Front
+        Description
+        Weather Patterns
+        Cloud Sequence
+      Cold Front
+        Description
+        Weather Patterns
+        Cloud Sequence
+      Stationary Front
+        Description
+        Weather Patterns
+      Occluded Front
+        Formation
+        Weather Patterns
+    Air Masses
+      Interaction
+        Density Differences
+        Low Pressure Zones
+        Precipitation
+    Weather Effects
+      Stormy Weather
+      Wind Patterns
+      Seasonal Variations

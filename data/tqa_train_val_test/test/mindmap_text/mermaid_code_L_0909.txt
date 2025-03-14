@@ -1,0 +1,24 @@
+mindmap
+  Gases
+    Definition
+      State of matter
+      No fixed shape or volume
+    Properties
+      Particle movement
+        Constant motion
+        Bumping into each other
+      Pressure
+        Definition
+        Factors affecting pressure
+          Number of particles
+          Speed of particles
+    Atmospheric Pressure
+      Variation with altitude
+        Greatest at sea level
+        Decreases with height
+      Effects on baking
+        Cake rising at high altitudes
+    Examples
+      Balloon inflation
+      Air pressure in sealed boxes
+        Box A vs. Box B

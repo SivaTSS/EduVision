@@ -1,0 +1,42 @@
+mindmap
+  Human Skeletal System
+    Axial Skeleton
+      Skull
+      Vertebral Column
+      Rib Cage
+    Appendicular Skeleton
+      Limbs
+      Pelvic Girdle
+      Shoulder Girdle
+        Scapula
+        Humerus
+    Vertebrae
+      Thoracic Vertebrae
+        Number: 12
+        Location: Mid-Spine
+      Atlas Bone
+        Role: Supports the skull
+    Components of Skeletal System
+      Bones
+      Cartilage
+      Ligaments
+    Functions of Skeletal System
+      Support
+      Protection
+      Movement
+      Blood Cell Production
+      Storage
+        Calcium
+        Phosphorus
+    Bone Structure
+      Types of Bone Tissue
+        Compact Bone
+        Spongy Bone
+      Periosteum
+      Bone Marrow
+    Development of Skeleton
+      Cartilage in Early Development
+      Growth Plates
+      Bone Growth
+        Length
+        Thickness

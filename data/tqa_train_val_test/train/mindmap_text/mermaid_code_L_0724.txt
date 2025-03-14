@@ -1,0 +1,30 @@
+mindmap
+  Friction
+    Definition
+      Opposes motion
+      Caused by surface roughness
+    Types of Friction
+      Static Friction
+        Acts on resting objects
+        Example: Walking on a sidewalk
+      Sliding Friction
+        Acts on sliding objects
+        Example: Sliding furniture
+      Rolling Friction
+        Acts on rolling objects
+        Example: Moving boxes on a dolly
+      Fluid Friction
+        Acts on objects moving through fluids
+        Example: Skydiver with parachute
+    Factors Affecting Friction
+      Surface texture
+        Rough vs. smooth
+      Weight of objects
+        Heavier objects create more friction
+    Effects of Friction
+      Produces heat
+        Rubbing hands together
+        Useful in lighting matches
+      Can be beneficial or detrimental
+        Increases safety (e.g., sand on ice)
+        Causes wear in machinery (e.g., car engines)

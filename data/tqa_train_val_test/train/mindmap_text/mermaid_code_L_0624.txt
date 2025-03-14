@@ -1,0 +1,48 @@
+mindmap
+  Air Pollution
+    Definition
+      Chemical substances
+      Particles
+      Human activities
+    Sources
+      Fossil Fuels
+        Power plants
+        Factories
+        Motor vehicles
+      Agriculture
+        Cattle ranching
+        Fertilizers
+        Pesticides
+      Other
+        Plastics production
+        Refrigerants
+        Landfills
+        Mining
+    Types of Pollutants
+      Primary Pollutants
+        Directly added to atmosphere
+        Examples
+          Smoke from fires
+          Emissions from burning fossil fuels
+      Secondary Pollutants
+        Formed by interactions
+        Examples
+          Ozone
+    Effects
+      Human Health
+        Respiratory issues
+        Death
+      Ecosystems
+        Damage to wildlife
+        Acid rain
+          Causes
+            Sulfur oxides
+            Nitrogen oxides
+          Effects on habitats
+      Global Warming
+        Greenhouse gases
+        Consequences
+          Rising sea levels
+          Extreme weather
+          Food shortages
+          Species extinction

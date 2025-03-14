@@ -1,0 +1,36 @@
+mindmap
+  Ecological Succession
+    Climax Communities
+      Definition
+      Relation to Biomes
+      Characteristics
+      Stability
+      Examples
+    Types of Succession
+      Primary Succession
+        Definition
+        Pioneer Species
+          Lichens
+        Stages
+          Soil Formation
+          Plant Growth
+      Secondary Succession
+        Definition
+        Causes
+          Natural Disasters
+          Abandonment
+        Stages
+          Pioneer Species
+          Community Development
+    Factors Affecting Succession
+      Abiotic Factors
+        Soil Quality
+        Water
+        Climate
+      Human Impact
+        Cattle Grazing
+        Fire Management
+    Ecological Dynamics
+      Ecosystem Changes
+      Community Replacement
+      Long-term Stability

@@ -1,0 +1,36 @@
+mindmap
+  Electrons
+    Discovery
+      Who discovered electrons?
+      When were they discovered?
+      How were electrons discovered?
+      Significance of the discovery
+      Thomson's view on electron location
+      Modern view on electron location
+    Characteristics
+      Definition of electrons
+      Comparison with protons
+        Charge
+        Mass
+        Location in atom
+      Fundamental particles
+        Leptons
+    Atomic Structure
+      Composition of an atom
+        Protons
+        Neutrons
+        Electrons
+      Electron location
+        Outside the nucleus
+        Orbital concept
+      Energy levels
+        Fixed distances from nucleus
+        Electron energy levels
+          Lower energy levels
+          Higher energy levels
+    Valence Electrons
+      Definition and importance
+      Beryllium atom example
+        Protons
+        Neutrons
+        Electrons

@@ -1,0 +1,17 @@
+mindmap
+  Exothermic Reactions
+    What is an exothermic reaction?
+      Definition: Chemical reaction releasing heat
+      Energy dynamics: Less energy to break bonds than released
+    Why are products warmer than reactants?
+      Energy release: Heat produced during reaction
+      General equation: Reactants → Products + Energy
+    Example of an exothermic reaction
+      Combustion reactions
+        Definition: Substance burns with oxygen
+        Energy output: Heat and light released
+        Real-world example: Hot water heater
+    Key concepts
+      Energy in reactions: Breaking bonds vs. forming bonds
+      Comparison with endothermic reactions
+        Definition: More energy needed to break bonds than released

@@ -1,0 +1,24 @@
+mindmap
+  Protists Nutrition
+    Endocytosis
+      Definition: Process of taking in substances
+      Types
+        Phagocytosis: Ingesting large particles
+        Pinocytosis: Ingesting liquids
+        Receptor-mediated endocytosis: Specific molecules
+      Process
+        Wraps around prey
+        Creates food vacuole
+        Produces toxins
+        Digests and absorbs nutrients
+    Algae
+      Photosynthesis: Energy from sunlight
+    Animal-like Protists
+      Feeding Methods
+        Swallowing prey: Endocytosis
+        Filter-feeders: Use of flagellum
+    Fungi-like Protists
+      Nutrient Absorption: From decaying matter
+      Parasitic Behavior: Harm hosts
+    Slime Molds
+      Energy Source: Decaying plant life and soil

@@ -1,0 +1,35 @@
+mindmap
+  Alkaline Earth Metals
+    Definition
+      Group 2 of the periodic table
+      Silver or gray in color
+      Relatively soft and low density
+    Reactivity
+      Very reactive
+        Gives up two valence electrons
+        Increases from top to bottom of the group
+      Comparison with alkali metals
+        Less reactive than alkali metals
+        More energy required to remove two electrons
+    Physical Properties
+      Softness
+      Density
+    Key Elements
+      Beryllium (Be)
+        Predictive reactivity with water
+      Calcium (Ca)
+        Most abundant metal in the human body
+        Health benefits
+          Strong bones
+          Calcium compounds in diet
+        Deficiency diseases
+          Rickets in children
+          Osteoporosis in adults
+      Strontium (Sr)
+        Uses
+          Fireworks
+          Cement
+          Toothpaste
+        Properties
+          Softer than calcium
+          Produces red explosions in fireworks

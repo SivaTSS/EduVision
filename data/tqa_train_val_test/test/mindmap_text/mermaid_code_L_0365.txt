@@ -1,0 +1,48 @@
+mindmap
+  Plants Evolution and Classification
+    First Plants
+      Origin from Aquatic Green Algae
+      Characteristics
+        Male and Female Reproductive Organs
+        Lack of True Stems, Roots, Leaves
+    Colonization of Land
+      Challenges
+        Dryness
+        Strong Solar Radiation
+      Adaptations
+        Vascular Tissue
+        True Stems, Roots, Leaves
+    Early Evolution of Vascular Plants
+      Importance of Vascular Tissue
+      Evolution of True Leaves and Roots
+      Dominant Sporophyte Generation
+    Evolution of Seeds
+      Importance of Seeds
+      Adaptations for Reproduction
+        Protection and Nourishment of Embryo
+        Structures for Seed Dispersal
+    Evolution of Flowers
+      Importance of Flowers
+      Parts of a Flower
+        Stamen
+        Pistil
+        Ovary
+        Petals
+        Sepals
+      Role in Attracting Pollinators
+    Classification of Modern Plants
+      Nonvascular Plants
+        Bryophytes
+          Liverworts
+          Hornworts
+          Mosses
+      Vascular Plants
+        Seedless Vascular Plants
+          Ferns
+        Seed Plants
+          Gymnosperms
+            Naked Seeds in Cones
+            Example: Conifers
+          Angiosperms
+            Seeds in Ovaries of Flowers
+            Example: Apple Tree

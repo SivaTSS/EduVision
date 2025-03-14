@@ -1,0 +1,24 @@
+mindmap
+  Motion and Measurement
+    Definition of Motion
+      Change in Position
+      Frame of Reference
+    Measuring Distance
+      SI Unit: Meter (m)
+      Short Distances: Centimeters (cm)
+      Long Distances: Kilometers (km)
+      Examples of Distance Measurement
+        Snail vs. Cheetah
+        Track Events
+    Representing Direction
+      Importance of Direction
+      Vectors
+        Definition: Quantity with Size and Direction
+        Representation: Arrow Length and Direction
+    Practical Applications
+      Example: Route from Mias House to Park
+        Distance Calculation
+        Direction Specification
+      Example: Route from Mias House to School and Post Office
+        Total Distance Calculation
+        Vector Representation

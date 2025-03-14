@@ -1,0 +1,39 @@
+mindmap
+  Planets of the Solar System
+    Solar System Overview
+      Age of Solar System
+      Formation of Planets
+      Main Regions
+        Inner Planets
+        Outer Planets
+    Planetary Requirements
+      Definition of a Planet
+      Pluto's Demotion
+    Dwarf Planets
+      Recognized Dwarf Planets
+        Ceres
+        Pluto
+        Makemake
+        Haumea
+        Eris
+    Solar System Structure
+      Kuiper Belt
+      Scattered Disk
+      Heliosphere
+    Distances in the Solar System
+      Astronomical Unit (AU)
+      Distance from Sun
+        Mercury
+        Venus
+        Earth
+        Mars
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+    Planetary Characteristics
+      Mass and Diameter
+        Sun
+        Inner Planets
+        Outer Planets
+      Length of Day and Year

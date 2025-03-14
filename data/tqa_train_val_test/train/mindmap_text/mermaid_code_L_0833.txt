@@ -1,0 +1,37 @@
+mindmap
+  Chemical Reactions Overview
+    Bill Nye Demonstration
+      Steel Wool Reaction
+        Observations
+        Chemical Changes
+        Energy Type
+      Hydrogen and Oxygen Reaction
+        Energy Release
+    Definition of Chemical Reaction
+      Reactants
+      Products
+      Chemical Bonds
+    Types of Chemical Reactions
+      Synthesis
+        General Equation: A + B → AB
+        Example: 2Na + Cl2 → 2NaCl
+      Decomposition
+        General Equation: AB → A + B
+        Example: 2H2O → 2H2 + O2
+      Replacement
+        Single Replacement
+          General Equation: A + BC → B + AC
+          Example: 2K + 2H2O → 2KOH + H2
+        Double Replacement
+          General Equation: AB + CD → AD + CB
+          Example: NaCl + AgF → NaF + AgCl
+      Combustion
+        General Equation: fuel + O2 → CO2 + H2O
+        Example: CH4 + 2O2 → CO2 + 2H2O
+    Energy in Chemical Reactions
+      Exothermic Reactions
+        Energy Release
+        Examples
+      Endothermic Reactions
+        Energy Absorption
+        Examples

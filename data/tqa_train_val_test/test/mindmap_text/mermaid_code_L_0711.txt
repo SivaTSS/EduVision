@@ -1,0 +1,43 @@
+mindmap
+  Biomes
+    Definition
+      Area with similar climate
+      Communities of plants and animals
+    Types of Biomes
+      Terrestrial Biomes
+        Deserts
+        Forests
+        Grasslands
+        Tundra
+        Taiga
+      Aquatic Biomes
+        Ponds
+        Lakes
+    Influencing Factors
+      Abiotic Factors
+        Climate
+          Rainfall
+          Temperature
+        Soil Quality
+      Biotic Factors
+        Plant Communities
+        Animal Communities
+    Examples
+      Tropical Rainforest
+        Characteristics
+          High biodiversity
+          Dense vegetation
+          High rainfall
+      Desert
+        Characteristics
+          Low precipitation
+          Extreme temperatures
+          Specialized flora and fauna
+    Adaptations
+      Animal Behavior
+        Desert animals
+          Nocturnal activity
+          Water conservation
+        Grassland animals
+          Camouflage
+          Migration

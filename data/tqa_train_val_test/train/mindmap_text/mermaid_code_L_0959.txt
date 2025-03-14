@@ -1,0 +1,23 @@
+mindmap
+  Motion
+    Definition
+      Change of position
+      Objects' position
+    Frame of Reference
+      Definition
+        Not moving with respect to an observer
+      Influence on Perception
+        Example: School bus
+          Children inside bus
+            No motion perceived
+          Observer on sidewalk
+            Motion perceived using stationary objects
+    Examples of Motion
+      Train
+        Speeding down track
+      Man on bike
+        Racing along highway
+      Geese
+        Flying over wetland
+      Meteor
+        Shooting through atmosphere

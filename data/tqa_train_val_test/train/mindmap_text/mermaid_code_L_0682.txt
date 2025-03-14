@@ -1,0 +1,40 @@
+mindmap
+  Water Pollution
+    Limited Resource
+      Definition
+      Importance of Fresh Water
+    Types of Pollution
+      Point Source Pollution
+        Definition
+        Examples
+          - Untreated Sewage
+          - Wastewater from Treatment Plants
+          - Leaking Underground Tanks
+      Nonpoint Source Pollution
+        Definition
+        Examples
+          - Fertilizer Runoff
+          - Pesticide Runoff
+          - Storm Water Runoff
+    Effects on Ecosystems
+      Human Sewage
+        Ecosystem Imbalance
+        Nutrient Cycles
+      Agriculture Runoff
+        Food Web Impact
+        Resulting Changes
+      Pharmaceuticals
+        Effects on Aquatic Organisms
+        Ecosystem Impact
+      Heat Pollution
+        Definition
+        Effects on Aquatic Ecosystems
+    Contaminants
+      Definition
+      Sources
+        - Industrial Waste
+        - Agricultural Chemicals
+        - Pathogens
+    Natural Events
+      Impact on Water Quality
+      Comparison with Human-Caused Pollution

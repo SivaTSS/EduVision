@@ -1,0 +1,31 @@
+mindmap
+  Metalloids
+    What are metalloids?
+      Definition
+      Class of elements
+      Position in periodic table
+    Elements in this class
+      List of metalloids
+        Boron
+        Silicon
+        Germanium
+        Arsenic
+        Antimony
+        Tellurium
+    Physical properties
+      Resemblance to metals
+        Shiny appearance
+        Conductivity
+      Resemblance to nonmetals
+        Brittleness
+        Solid state at room temperature
+    Chemical behavior
+      Electron configuration
+        3 to 6 electrons in outer level
+        Boron: acts like metals
+        Arsenic, Antimony, Tellurium: act like nonmetals
+        Silicon and Germanium: variable behavior
+    Semiconductors
+      Definition and importance
+      Use in computer chips
+      Example: Silicon

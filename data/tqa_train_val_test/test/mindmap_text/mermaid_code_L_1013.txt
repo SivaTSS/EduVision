@@ -1,0 +1,25 @@
+mindmap
+  Inductive Reasoning
+    What is Inductive Reasoning?
+      Definition
+      Process of Drawing Conclusions
+    Inductive Reasoning in Science
+      Basis of Scientific Method
+      Drawing General Conclusions
+      Adapting Conclusions with New Evidence
+    Example: Rayna's Rat Study
+      Observation of Rat Preferences
+      Conclusion Validity
+      Reasoning Behind Conclusions
+    Inductive Reasoning in Crime Solving
+      Gathering Clues
+      Identifying Suspects
+    Example: Planet Quim
+      Observations on Earth
+      Initial Conclusion about Gravity
+      Need for More Evidence
+      Correcting Conclusions
+    Limitations of Inductive Reasoning
+      Uncertainty in Conclusions
+      Reasonable Doubt in Trials
+      Acceptance of Scientific Theories

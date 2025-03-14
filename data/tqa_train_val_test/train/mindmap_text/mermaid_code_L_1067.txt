@@ -1,0 +1,40 @@
+mindmap
+  Wave Interactions
+    Atoms
+      Definition
+        Building blocks of matter
+        Smallest particles of an element
+      Properties
+        Same properties as elements
+        Pure substances
+      Size
+        Extremely small
+        Radius under 1 nanometer
+    Atomic Structure
+      Particles
+        Protons
+          Positive charge
+          Identical in all atoms
+        Neutrons
+          Neutral charge
+          Often equal to protons
+        Electrons
+          Negative charge
+          Equal in number to protons
+    Nucleus
+      Definition
+        Center of the atom
+        Contains most of the mass
+      Composition
+        Protons
+        Neutrons
+      Size Comparison
+        Nucleus vs. atom size
+    Models of Atoms
+      Purpose
+        Help understand complex structures
+      Simple Model
+        Visual representation of protons, neutrons, and electrons
+      Limitations
+        Not to scale
+        Simplified version of reality

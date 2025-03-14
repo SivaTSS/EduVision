@@ -1,0 +1,43 @@
+mindmap
+  Geological Stresses
+    Definition
+      Stress
+        Force applied to an object
+        Force per unit area on rock
+    Types of Stress
+      Confining Stress
+        Weight of overlying material
+      Compression
+        Squeezes rocks together
+        Common at convergent boundaries
+      Tension
+        Pulls rocks apart
+        Common at divergent boundaries
+      Shear
+        Parallel forces in opposite directions
+        Common at transform boundaries
+    Deformation
+      Strain
+        Change in shape due to stress
+      Types of Deformation
+        Elastic
+          Returns to original shape
+        Plastic
+          Does not return to original shape
+        Fracture
+          Breaks under stress
+    Factors Affecting Response
+      Rock type
+      Temperature
+      Pressure conditions
+      Duration of stress
+      Type of stress
+    Geological Context
+      Transform Fault
+        Type of stress
+      Subduction Zone
+        Type of stress
+      Continental Rift Zone
+        Type of stress
+    Earthquake Zones
+      Stressed rocks behavior

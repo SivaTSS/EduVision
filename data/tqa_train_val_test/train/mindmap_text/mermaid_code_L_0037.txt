@@ -1,0 +1,38 @@
+mindmap
+  Introduction to Earth's Surface
+    Direction and Location
+      Importance of Direction
+      Compass Usage
+        Magnetic vs. Geographic North
+        Compass Rose
+      Coordinate System
+        Latitude and Longitude
+        Points of Reference
+    Topography
+      Definition of Topography
+      Measuring Elevation
+      Relief and Terrain
+    Landforms
+      Types of Landforms
+        Mountains
+        Plateaus
+        Plains
+      Formation of Landforms
+        Constructive Forces
+        Destructive Forces
+          Erosion
+          Weathering
+    Ocean Basins
+      Structure of Ocean Basins
+        Continental Margin
+          Shelf
+          Slope
+          Rise
+      Features of Ocean Floor
+        Abyssal Plain
+        Seamounts
+        Mid-Ocean Ridges
+        Ocean Trenches
+    Scientific Reporting
+      Describing Locations
+      Systems for Mapping

@@ -1,0 +1,30 @@
+mindmap
+  Jupiter
+    Composition
+      Hydrogen
+      Helium
+      Rocky Core
+    Atmosphere
+      Cloud Bands
+      Great Red Spot
+        Characteristics
+          Size
+          Rotation
+          Duration
+    Moons
+      Galilean Moons
+        Io
+        Europa
+        Ganymede
+        Callisto
+      Europa
+        Potential for Life
+        Liquid Ocean
+        Source of Heat
+    Size and Brightness
+      Largest Planet
+      Volume and Mass
+      Distance from Earth
+    Exploration
+      Voyager Missions
+      Future Missions to Europa

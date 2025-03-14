@@ -1,0 +1,32 @@
+mindmap
+  Asteroids
+    Definition
+      Small rocky bodies
+      Orbit the Sun
+      Irregular shape
+      No atmosphere
+    Location
+      Asteroid belt
+        Between Mars and Jupiter
+        Total mass ~4% of Earth's Moon
+      Near-Earth asteroids
+        Cross Earth's orbit
+        Potential collision risks
+    Importance
+      Historical impacts
+        Mass extinctions
+        Formation of the Moon
+      Scientific interest
+        Early solar system representatives
+        Potential mining for resources
+    Exploration
+      Missions
+        NASA's DAWN mission
+          Explored Vesta
+          Planned visit to Ceres
+        NEAR Shoemaker probe
+          Landed on 433 Eros
+    Monitoring
+      Tracking near-Earth asteroids
+      Predicting potential collisions
+      Average impacts on Earth

@@ -1,0 +1,57 @@
+mindmap
+  Fresh Water Ecosystems
+    Water Biomes
+      Types
+        Freshwater
+        Marine
+        Estuarine
+    Freshwater Biomes
+      Lakes
+        Zones
+          Littoral Zone
+            Characteristics
+              Shallow water
+              Plant growth
+              Animal life
+          Open-water Zone
+            Characteristics
+              Abundant sunlight
+              Fish species
+          Deep-water Zone
+            Characteristics
+              Little to no sunlight
+              Scavengers
+              Decomposition
+      Rivers
+        Characteristics
+          Slow-moving
+          Fast-moving
+        Ecology
+          Oxygen levels
+          Plant growth
+    Wetlands
+      Types
+        Marshes
+          Characteristics
+            Shallow water
+            Grasses and reeds
+            Animal life
+        Swamps
+          Characteristics
+            Trees and vines
+            Low-oxygen conditions
+            Animal adaptations
+      Importance
+        Biodiversity
+        Water purification
+        Habitat for endangered species
+    Ecological Zones
+      Similarities to Oceans
+        Light penetration
+        Temperature
+        Water depth
+    Human Impact
+      Wetland drainage
+        Consequences
+          Loss of biodiversity
+          Pollution issues

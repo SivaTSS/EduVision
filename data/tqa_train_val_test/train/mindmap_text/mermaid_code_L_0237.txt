@@ -1,0 +1,25 @@
+mindmap
+  Metamorphic Rocks
+    Changes in Temperature and Pressure
+      Causes of Rock Changes
+        Stability of Minerals
+        Rearrangement of Structure
+        Formation of New Minerals
+    Types of Metamorphism
+      Regional Metamorphism
+        Large Area Changes
+        Extreme Pressure from Overlying Rock
+        High Temperatures from Deep Burial
+      Contact Metamorphism
+        Changes from Nearby Magma
+        Extreme Heat Effects
+    Foliation in Metamorphic Rocks
+      Definition of Foliation
+      Conditions for Foliation
+        Pressure in One Direction
+      Examples of Foliated Rocks
+        Hornfels
+    Non-Foliated Metamorphic Rocks
+      Examples
+        Quartzite
+        Marble

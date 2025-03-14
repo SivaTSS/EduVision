@@ -1,0 +1,32 @@
+mindmap
+  Animal Behaviors
+    Definition
+      - Actions of animals
+      - Can be solitary or social
+    Purpose
+      - Getting food
+      - Ensuring survival of young
+      - Self-preservation
+    Types of Behaviors
+      - Innate Behaviors
+        - Learning timing
+        - Examples: Grasping in human babies
+      - Learned Behaviors
+        - Trial and Error
+        - Observational Learning
+        - Role of Mirror Neurons
+    Examples
+      - Feeding Behaviors
+        - Hunting
+        - Foraging
+      - Protective Behaviors
+        - Nursing young
+        - Guarding against threats
+    Fitness
+      - Definition of fitness
+      - Relationship to behaviors
+        - Behaviors that enhance survival
+        - Genetic influence on fitness
+    Evolution
+      - Natural selection
+      - Common behaviors in species

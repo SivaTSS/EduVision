@@ -1,0 +1,35 @@
+mindmap
+  Energy Use and Conservation
+    Energy Usage
+      Daily Activities
+        Heating Water
+        Cooking Food
+        Transportation
+      Sectors of Use
+        Residential
+        Industrial
+        Transportation
+        Commercial
+    Energy Sources
+      Fossil Fuels
+        Petroleum
+        Coal
+        Natural Gas
+      Renewable Energy
+        Solar
+        Wind
+        Hydroelectric
+    Energy Conservation
+      Ways to Conserve Energy
+        Use Less Energy
+          Unplug Appliances
+          Turn Off Lights
+          Plan Trips
+        Use Energy Efficiently
+          Energy Star Appliances
+          Efficient Practices
+    Importance of Conservation
+      Environmental Impact
+        Pollution
+        Global Warming
+      Resource Depletion

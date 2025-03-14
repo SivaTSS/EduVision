@@ -1,0 +1,33 @@
+mindmap
+  Availability of Natural Resources
+    E-Waste
+      Definition
+      Reasons for Melting Circuit Boards
+      Worker Motivations
+      Extracted Metals
+    CRTs and Batteries
+      Contents of CRTs
+      Contents of Computer Batteries
+      Chemical Hazards
+        Health Risks
+        At-Risk Populations
+    Global Resource Distribution
+      E-Waste from Developed to Developing Nations
+      Political Factors
+      Consumption Patterns
+    Resource Availability
+      Factors Influencing Availability
+        Abundance
+        Extraction Difficulty
+        Transportation
+      Non-Renewable Resources
+        Abundant vs. Rare Resources
+        Value Determinants
+    Politics and Resources
+      Exporting vs. Importing Nations
+      Economic and Political Tensions
+      Oil as a Case Study
+    Overconsumption
+      Developed vs. Developing Nations
+      Consumerism and Waste
+      Environmental Impact

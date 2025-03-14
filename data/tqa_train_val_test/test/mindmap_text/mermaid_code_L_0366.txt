@@ -1,0 +1,38 @@
+mindmap
+  Plant Responses and Special Adaptations
+    Plant Responses
+      Stimuli Detection
+        Gravity
+        Light
+        Daily and Seasonal Changes
+      Growth Changes
+        Tropisms
+          Gravitropism
+          Phototropism
+      Disease Response
+        Cell Death
+        Hormones and Toxins
+        Chemical Warnings
+    Special Adaptations
+      Aquatic Plants
+        Advantages
+          Abundant Water
+          Reduced Root Systems
+        Challenges
+          Pollination
+          Sunlight Penetration
+        Examples
+          Water Lily
+          Cattails
+      Xerophytes
+        Water Intake
+        Water Loss Reduction
+        Water Storage
+        Example: Saguaro Cactus
+      Epiphytes
+        Growth on Other Plants
+        Moisture from Air
+        Examples: Ferns, Orchids
+      Carnivorous Plants
+        Nutrient Acquisition
+        Examples: Venus Flytrap

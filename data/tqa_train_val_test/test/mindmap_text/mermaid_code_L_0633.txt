@@ -1,0 +1,41 @@
+mindmap
+  Plant Hormones
+    Hormones
+      Ethylene
+        Functions
+          - Fruit ripening
+          - Abscission
+      Gibberellins
+        Functions
+          - Promote growth
+          - Break dormancy of seeds and buds
+      Cytokinins
+        Functions
+          - Promote cell division
+          - Prevent senescence
+      Abscisic Acid
+        Functions
+          - Close stomata
+          - Maintain dormancy
+      Auxins
+        Functions
+          - Involved in tropisms
+          - Apical dominance
+    Growth Regulation
+      Stimulating Growth
+        - Gibberellins
+        - Auxins
+      Inhibiting Growth
+        - Abscisic Acid
+    Plant Responses
+      Stimuli
+        - Gravity
+        - Light
+        - Touch
+        - Seasonal changes
+      Responses
+        - Growth toward light
+        - Dormancy breaking
+    Importance of Hormones
+      - Balance between stimulation and inhibition
+      - Comparison with mammals

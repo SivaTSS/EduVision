@@ -1,0 +1,39 @@
+mindmap
+  Velocity-Time Graphs
+    Description
+      Definition
+      Slope Represents
+        Acceleration
+    Sprinter Example
+      Velocity Increase
+        First 4 Seconds
+      Constant Velocity
+        Next 3 Seconds
+      Decrease in Velocity
+        Last 3 Seconds
+    Graph Interpretation
+      Positive Acceleration
+        Upward Slope
+      Zero Acceleration
+        Horizontal Line
+      Negative Acceleration
+        Downward Slope
+        Deceleration
+    Comparison
+      Other Sprinter
+        Higher Top Velocity
+        Steeper Slope
+    Data Plotting
+      Table 1.1
+        Velocity (m/s)
+          10
+          30
+          50
+          40
+          40
+        Time (s)
+          1
+          2
+          3
+          4
+          5

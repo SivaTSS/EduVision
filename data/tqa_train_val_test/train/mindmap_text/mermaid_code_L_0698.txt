@@ -1,0 +1,32 @@
+mindmap
+  Translation of RNA to Protein
+    Cell Translation
+      mRNA
+        Sequence Reading
+        Codons
+          Definition
+          Three Nucleotides
+        tRNA
+          Function
+          Anticodon
+        Ribosomes
+          Role in Translation
+          Multiple Ribosomes
+      Amino Acids
+        Average Count in Proteins
+        Types of Amino Acids
+    Transcribe and Translate a Gene
+      Start Codon
+      Stop Codons
+        Count
+        Examples
+    Translation Process
+      Definition
+      Steps
+        mRNA to Ribosome
+        Codon Reading
+        tRNA Binding
+        Stop Codons
+      Genetic Code
+        Codon-Amino Acid Mapping
+        Example Codons

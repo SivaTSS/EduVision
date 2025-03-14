@@ -1,0 +1,48 @@
+mindmap
+  Infectious Diseases
+    Definition
+      Infectious disease
+      Pathogen
+    Types of Pathogens
+      Bacteria
+        Example: Strep throat
+      Viruses
+        Example: Influenza
+      Fungi
+        Example: Athlete's foot
+      Protozoa
+        Example: Giardiasis
+    Spread of Pathogens
+      Contaminated food or water
+      Sexual contact
+      Airborne droplets
+      Contaminated surfaces
+      Vectors
+        Example: Ticks (Lyme disease)
+        Example: Mosquitoes (Malaria)
+    Prevention
+      Healthy habits
+        Eat well
+        Get plenty of sleep
+      Vaccinations
+        Measles
+        Mumps
+        Whooping cough
+        Chicken pox
+      Hygiene practices
+        Hand washing
+        Avoid touching face
+        Cover coughs and sneezes
+        Disinfect surfaces
+        Stay home when sick
+      Avoiding vectors
+        Wear protective clothing
+        Use insect repellent
+    Noninfectious Diseases
+      Definition
+      Examples
+        Heart disease
+        Diabetes
+      Causes
+        Lifestyle factors
+        Genetic factors

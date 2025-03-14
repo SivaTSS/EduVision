@@ -1,0 +1,30 @@
+mindmap
+  Kinetic Energy
+    What is Kinetic Energy?
+      Definition
+      Examples
+    Factors Affecting Kinetic Energy
+      Mass
+      Velocity
+      Volume
+      Distance
+      Acceleration
+    Calculation of Kinetic Energy
+      Formula: KE = 1/2 * mass * velocity^2
+      Impact of Mass and Velocity
+        Doubling Mass
+        Doubling Velocity
+    Examples
+      Bowling Ball Scenario
+        Mass: 7 kg
+        Velocity: 4 m/s
+        Calculation
+      Juan's Scenario
+        Mass: 40 kg
+        Velocity: 1 m/s
+        Calculation
+        Increased Velocity to 2 m/s
+      Dad's Scenario
+        Mass: 80 kg
+        Velocity: 1 m/s
+        Calculation

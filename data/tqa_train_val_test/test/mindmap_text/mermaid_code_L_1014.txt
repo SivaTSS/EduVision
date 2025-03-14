@@ -1,0 +1,28 @@
+mindmap
+  Scientific Law
+    Definition
+      - Statement of consistent outcomes under specific conditions
+    Examples
+      - Newton's Laws of Motion
+        - First Law
+        - Second Law
+        - Third Law
+      - Other Laws
+        - Law of Universal Gravitation
+        - Law of Conservation of Mass
+        - Law of Conservation of Energy
+        - Law of Conservation of Momentum
+    Comparison
+      - Scientific Laws vs. Theories
+        - Laws describe what happens
+        - Theories explain why it happens
+      - Contrast with Human-Made Laws
+        - Traffic laws vs. scientific laws
+    Applications
+      - Predictive Nature
+        - Example: Hitting a softball
+      - Limitations
+        - Do not explain underlying reasons
+    Related Questions
+      - Do theories become laws?
+      - How are theories and laws related?

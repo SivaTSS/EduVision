@@ -1,0 +1,63 @@
+mindmap
+  Nonrenewable Energy Resources
+    Fossil Fuels
+      Formation
+        Process of Formation
+        Types of Fossil Fuels
+          Coal
+          Oil
+          Natural Gas
+      Characteristics
+        Hydrocarbons
+        Non-renewable Nature
+    Environmental Impact
+      Pollution
+        Greenhouse Gases
+        Acid Rain
+      Resource Depletion
+      Mining Effects
+        Surface Mining
+          Environmental Problems
+        Underground Mining
+          Health Problems
+    Energy Conversion
+      Burning Process
+      Heat Generation
+      Electricity Production
+    Coal
+      Formation
+        Dead Plants in Swamps
+        Carbon-rich Rock
+      Types
+        Anthracite
+      Uses
+        Electricity Generation
+      Environmental Concerns
+        Carbon Dioxide Emissions
+        Sulfur Emissions
+    Oil
+      Formation
+        Tiny Organisms
+      Uses
+        Transportation Fuels
+        Energy Production
+      Environmental Concerns
+        Air Pollution
+        Oil Spills
+    Natural Gas
+      Formation
+        Higher Temperatures
+      Uses
+        Heating
+        Electricity Generation
+      Environmental Concerns
+        Cleaner Burning
+        Methane Emissions
+    Nuclear Energy
+      Process
+        Splitting Atoms
+      Advantages
+        Low Pollution
+      Disadvantages
+        Radioactive Waste
+        Safety Concerns

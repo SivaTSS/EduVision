@@ -1,0 +1,35 @@
+mindmap
+  Work
+    Definition
+      Physics Definition
+      Everyday Language
+    Calculation
+      Work Equation
+        Work = Force * Distance
+      SI Unit
+        Joule (J)
+    Power
+      Definition
+      Power Equation
+        Power = Work / Time
+      SI Unit
+        Watt (W)
+      Relationship to Work
+        More Work in Less Time
+    Examples
+      Weight Lifting
+        Force and Distance Impact
+      Machines
+        Electric Mixer
+        Leaf Blower
+        Comparison with Rake
+    Problem Solving
+      Example Problems
+        Weight Lifting Calculation
+        Electric Mixer Power Calculation
+      You Try It
+        Calculate Work and Power
+    Historical Context
+      James Watt
+        Horsepower Definition
+        Impact on Industry

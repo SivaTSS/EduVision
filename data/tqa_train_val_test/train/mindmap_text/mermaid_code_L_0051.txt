@@ -1,0 +1,37 @@
+mindmap
+  Space Exploration
+    Rockets
+      How Rockets Work
+        Newton's Laws of Motion
+          First Law: Inertia
+          Second Law: F=ma
+          Third Law: Action-Reaction
+        Thrust and Propulsion
+      Types of Fuel
+        Liquid Fuel
+        Solid Fuel
+      Staging
+        Multiple Stages vs. Single Stage
+    Satellites
+      Types of Satellites
+        Natural Satellites
+        Artificial Satellites
+      Functions of Satellites
+        Imaging
+        Communication
+        Navigation
+      Orbits
+        Low Earth Orbit
+        Geostationary Orbit
+    Early Space Exploration
+      Major Events
+        Launch of Sputnik 1
+        The Space Race
+        Apollo 11 Mission
+      Probes to Other Planets
+        Venera Missions
+        Mariner Missions
+        Viking Missions
+    Challenges and Future Goals
+      Current Challenges in Science and Technology
+      Future Goals for NASA

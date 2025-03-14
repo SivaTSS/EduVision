@@ -1,0 +1,25 @@
+mindmap
+  Speed of Sound
+    Definition
+      Distance sound waves travel in time
+    Speed in Dry Air
+      At 20°C: 343 m/s
+    Variation in Speed
+      Through Different Media
+        Solids
+        Liquids
+        Gases
+      Speed Comparison
+        Water: 1437 m/s
+        Wood: 3850 m/s
+        Glass: 4540 m/s
+        Aluminum: 6320 m/s
+    Effect of Temperature
+      Speed Decreases at Lower Temperatures
+      Speed Comparison at Different Temperatures
+        0°C: 331 m/s
+        20°C: 343 m/s
+        100°C: 386 m/s
+      Calculation for -20°C
+        Decrease of 0.6 m/s per °C
+        Speed at -20°C: 319 m/s

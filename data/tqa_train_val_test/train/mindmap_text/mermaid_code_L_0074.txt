@@ -1,0 +1,39 @@
+mindmap
+  Renewable Energy Resources
+    Electricity Generation
+      Turbines
+        Energy Types
+          Solar
+          Geothermal
+      Examples
+        Solar Power Plants
+        Hydroelectric Dams
+    Renewable Resources
+      Types
+        Solar Energy
+          Passive Heating
+          Electricity Conversion
+          Concentration
+        Water Power
+          Hydropower
+          Wave and Tidal Energy
+        Wind Power
+          Turbines
+        Biomass Energy
+          Wood and Grains
+          Biofuels
+        Geothermal Energy
+          Hot Springs
+          Geysers
+    Energy Transfer
+      Conduction
+      Convection
+      Radiation
+    Environmental Impact
+      Pollution Levels
+      Resource Costs
+      Mining Considerations
+    Future Considerations
+      Trade-offs
+      Development of Renewables
+      Energy Storage Solutions

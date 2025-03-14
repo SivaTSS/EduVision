@@ -1,0 +1,28 @@
+mindmap
+  Nitrogen Cycle
+    Nitrogen Sources
+      Atmospheric Nitrogen
+        Nitrogen Gas (N2)
+        Nitrogen Dioxide (NO2)
+        Nitrogen Oxides (NOx)
+    Nitrogen Fixation
+      Nitrogen-Fixing Bacteria
+        Ammonification
+        Aquatic Bacteria
+      Lightning
+    Assimilation
+      Plant Absorption
+      Animal Consumption
+    Decomposition
+      Role of Decomposers
+        Transformation to Ammonium
+    Nitrification
+      Nitrifying Bacteria
+        Conversion to Nitrates
+    Denitrification
+      Denitrifying Bacteria
+        Conversion to Gaseous Nitrogen
+    Human Impact
+      Fossil Fuel Combustion
+        Release of Nitrogen Oxides
+      Acid Rain Formation

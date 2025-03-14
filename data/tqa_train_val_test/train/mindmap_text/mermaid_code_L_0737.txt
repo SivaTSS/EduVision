@@ -1,0 +1,35 @@
+mindmap
+  Energy Forms
+    Identify Different Forms of Energy
+      Mechanical Energy
+        Definition
+        Examples
+      Chemical Energy
+        Definition
+        Examples
+      Electrical Energy
+        Definition
+        Sources
+      Nuclear Energy
+        Definition
+        Processes
+      Thermal Energy
+        Definition
+        Relation to Atoms
+      Electromagnetic Energy
+        Definition
+        Types
+      Sound Energy
+        Definition
+        Transmission
+    Describe Energy Changes
+      Energy Conversion in Devices
+        Light Bulb
+        Alarm Clock
+        Hair Dryer
+      Conservation of Energy
+        Energy Efficiency
+        Energy Star Program
+      Examples of Energy Conversion
+        Mechanical to Sound
+        Chemical to Thermal and Light

@@ -1,0 +1,33 @@
+mindmap
+  Water Pollution
+    Types of Pollution
+      Point Source Pollution
+        Definition: Enters water at one location
+        Example: Chemicals from a factory
+      Nonpoint Source Pollution
+        Definition: Enters water from multiple locations
+        Example: Runoff carrying pollutants
+    Sources of Water Pollution
+      Agriculture
+        Chemicals: Fertilizers, pesticides
+        Animal Waste: Bacteria, disease
+      Industry
+        Toxic Chemicals: Arsenic, lead, mercury
+        Nuclear Waste: Radioactive materials
+      Municipal
+        Household Chemicals: Lawn care runoff
+        Sewage: Leaks from septic tanks
+    Ocean Water Pollution
+      Coastal Pollution
+        Causes: Runoff, wastewater dumping
+        Effects: Health risks, harm to marine life
+      Oil Spills
+        Sources: Oil rigs, tankers
+        Effects: Coating marine animals, damaging beaches
+    Thermal Pollution
+      Definition: Raises water temperature
+      Causes: Power plants, factories
+      Effects: Oxygen depletion, harm to aquatic life
+    Prevention and Protection
+      Importance of Water
+      Strategies: Reduce usage, prevent pollution

@@ -1,0 +1,33 @@
+mindmap
+  Atmospheric CO2 Increase
+    Hypothesis Development
+      Definition
+        Reasonable Explanation
+        Testable and Falsifiable
+      Importance
+        Multiple Working Hypotheses
+        Scope Limitation
+    Variables
+      Independent Variable
+        Definition
+        Number in Experiments
+      Dependent Variable
+        Definition
+        Influencing Factors
+    Example Question
+      Air Temperature and Bear Speed
+        Independent Variable: Air Temperature
+        Dependent Variable: Bear Speed
+        Hypothesis Formation
+    Research Process
+      Background Research
+        Sources of CO2
+          Volcanoes
+          Fossil Fuels
+      Hypotheses Creation
+        Hypothesis 1: Volcanoes
+        Hypothesis 2: Fossil Fuels
+    Testing Hypotheses
+      Observations
+      Experiments
+      Scientific Literature Review

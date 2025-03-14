@@ -1,0 +1,29 @@
+mindmap
+  Newton's Second Law
+    Definition
+      - Acceleration = Net Force / Mass
+    Key Concepts
+      - Acceleration
+        - Change in velocity
+        - Caused by unbalanced forces
+      - Weight
+        - Force of gravity on an object
+        - Weight = Mass × Gravity (9.8 m/s²)
+    Relationships
+      - Force and Acceleration
+        - Direct relationship
+        - Doubling force doubles acceleration
+      - Mass and Acceleration
+        - Inverse relationship
+        - Doubling mass halves acceleration
+    Applications
+      - Example Problems
+        - Force applied to bookcase
+        - Weight calculation for individuals
+      - Real-world examples
+        - Car acceleration via gas pedal
+        - Stopping a skateboard vs. go-cart
+    Problem Solving
+      - Calculating weight from mass
+      - Using F = m × 9.8 m/s²
+      - Example: Daisy's weight calculation

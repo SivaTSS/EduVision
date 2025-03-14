@@ -1,0 +1,38 @@
+mindmap
+  Groundwater
+    Definition
+      Freshwater below Earth's surface
+      Example: Ogallala aquifer
+    Aquifers
+      Definition
+      Characteristics
+        Saturated porous rock
+        Recharge from surface
+      Importance
+        Source of freshwater
+        Pollution risks
+    Water Movement
+      Infiltration
+        Process of water seeping down
+        Role of soil and rock porosity
+      Water Table
+        Definition
+        Factors affecting rise and fall
+    Springs and Geysers
+      Springs
+        Definition
+        Characteristics
+        Example: Big Spring
+      Geysers
+        Definition
+        Mechanism of eruption
+        Example: Old Faithful
+    Wells
+      Purpose
+        Accessing groundwater
+      Mechanism
+        Digging or drilling to aquifer
+        Use of pumps or manual methods
+    Conservation
+      Importance of wise water use
+      Potential consequences of over-extraction

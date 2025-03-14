@@ -1,0 +1,47 @@
+mindmap
+  Energy Flow in Ecosystems
+    Energy Definition
+      Ability to change or move matter
+      Essential for all living things
+    Energy Sources
+      Sunlight
+      Chemical compounds
+    Classification of Living Things
+      Based on Energy Acquisition
+        Producers
+          Definition: Make food for themselves and others
+          Types
+            Photoautotrophs
+              Use sunlight for photosynthesis
+              Examples: Plants, algae, some bacteria
+            Chemoautotrophs
+              Use chemical compounds for chemosynthesis
+              Examples: Certain bacteria, archaea
+        Consumers
+          Definition: Depend on other organisms for food
+          Types
+            Herbivores
+              Consume producers
+              Examples: Rabbits, snails
+            Carnivores
+              Consume animals
+              Examples: Lions, frogs
+            Omnivores
+              Consume both plants and animals
+              Examples: Crows, humans
+        Decomposers
+          Definition: Break down wastes and dead organisms
+          Types
+            Scavengers
+              Consume soft tissues of dead animals
+              Examples: Hyenas, cockroaches
+            Detritivores
+              Consume organic debris
+              Examples: Earthworms, catfish
+            Saprotrophs
+              Feed on remaining organic matter
+              Examples: Fungi, protozoa
+    Energy Flow Models
+      Food Chains
+        Definition: Single pathway of energy flow
+        Simplicity

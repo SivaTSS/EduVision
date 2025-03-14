@@ -1,0 +1,26 @@
+mindmap
+  Rutherfords Atomic Model
+    Gold Foil Experiment
+      Alpha Particles Observation
+        Modern Observation Techniques
+        Accuracy Comparison
+      Particle Behavior
+        Sketch of Alpha Particle Interaction
+      Modern Research Adoption
+    Discovery of the Nucleus
+      Historical Context
+        John Dalton's Contribution
+        J.J. Thomson's Plum Pudding Model
+      Rutherford's Experiment
+        Setup and Methodology
+        Observations and Inferences
+    Atomic Structure
+      Nucleus Composition
+        Protons
+        Neutrons
+      Planetary Model
+        Electron Movement
+        Comparison to Plum Pudding Model
+      Future Research
+        Niels Bohr's Contributions
+        Development of New Models

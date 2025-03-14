@@ -1,0 +1,44 @@
+mindmap
+  Glaciers
+    Definition
+      Masses of flowing ice
+      Cover 10% of Earth's surface
+    Types
+      Continental Glaciers
+        Huge, cover large areas
+        Examples: Greenland, Antarctica
+      Valley Glaciers
+        Long and narrow
+        Form in mountains
+    Formation
+      More snow falls than melts
+      Layers compact into ice
+    Erosion
+      Methods
+        Plucking
+          Rocks picked up and carried
+        Abrasion
+          Scraping of underlying rock
+      Unique Features
+        Cirques
+          Rounded hollows on mountains
+        Arêtes
+          Jagged ridges between cirques
+        Horns
+          Sharp peaks from multiple cirques
+    Deposition
+      Glacial Till
+        Mixture of particles and rocks
+      Landforms
+        Moraine
+          Sediment deposited by glaciers
+        Drumlins
+          Long, low hills in groups
+        Eskers
+          Winding ridges from meltwater streams
+        Kettle Lakes
+          Formed from melting ice chunks
+    Impact on Earth's Surface
+      Erosion and deposition shape landscapes
+      Erratics
+        Large boulders of different rock types

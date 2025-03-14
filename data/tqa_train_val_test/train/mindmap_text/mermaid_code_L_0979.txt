@@ -1,0 +1,45 @@
+mindmap
+  pH Concept
+    What Determines Acidity or Basicity
+      Factors Influencing pH
+      Importance for Living Things
+    Definition of pH
+      Measurement of Acidity
+      pH Scale
+        Neutral pH
+        Acidic Solutions
+        Basic Solutions
+    Acids
+      Characteristics
+        Taste
+        Reaction with Metals
+      Examples
+        Vinegar (Weak Acid)
+        Battery Acid (Strong Acid)
+      Strength of Acids
+        Hydrogen Ion Production
+        Strong vs. Weak Acids
+    Bases
+      Characteristics
+        Taste
+        Reaction with Metals
+      Examples
+        Antacid Tablets (Weak Base)
+        Drain Cleaner (Strong Base)
+      Strength of Bases
+        Hydroxide Ion Production
+        Strong vs. Weak Bases
+    pH Scale Details
+      Scale Range
+        Acidic (<7)
+        Neutral (7)
+        Basic (>7)
+      Logarithmic Nature
+        Comparison of pH Values
+    Environmental Impact of pH
+      Effects on Plants and Fish
+      Acid Rain and Acid Fog
+        Formation and Effects
+      Impact on Water Bodies
+        Surface Water Acidity
+        Underground Caves Formation

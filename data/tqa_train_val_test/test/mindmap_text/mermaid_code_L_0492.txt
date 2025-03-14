@@ -1,0 +1,23 @@
+mindmap
+  Competition
+    Types of Competition
+      Intraspecific Competition
+        Definition
+        Example: Trees competing for light
+      Interspecific Competition
+        Definition
+        Example: Cheetahs and lions competing for prey
+    Competitive Exclusion Principle
+      Definition
+      Outcomes for less suited species
+        Adaptation
+        Migration
+        Extinction
+    Character Displacement
+      Definition
+      Example: Darwin's Finches
+        Different bill types for food
+    Role in Evolution
+      Natural Selection
+      Resource Availability
+        Necessity for competition

@@ -1,0 +1,36 @@
+mindmap
+  Home Heating Systems
+    Common Types
+      Hot-Water Heating System
+        Heating Process
+          Boiler
+          Radiators
+          Convection Currents
+      Warm-Air Heating System
+        Heating Process
+          Furnace
+          Ducts
+          Vents
+    Thermal Energy Transfer
+      Heating
+        Conduction
+        Radiation
+        Convection
+      Cooling
+        Refrigerators
+        Air Conditioners
+    Combustion Engines
+      Types
+        External Combustion Engine
+          Heating Water to Steam
+          Moving Piston
+        Internal Combustion Engine
+          Fuel-Air Mixture
+          Ignition Process
+          Piston Movement
+    Refrigerants
+      Function
+        Absorbing Thermal Energy
+        Changing States
+      Examples
+        Freon

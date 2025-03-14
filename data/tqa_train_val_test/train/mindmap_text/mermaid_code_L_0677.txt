@@ -1,0 +1,43 @@
+mindmap
+  STIs
+    Definition
+      - Infection through sexual contact
+      - Caused by pathogens
+    Transmission
+      - Sexual contact
+      - Body fluids
+      - Mother to baby during childbirth
+      - Shared needles
+    Types of STIs
+      Bacterial
+        - Chlamydia
+          - Most common in the U.S.
+          - Symptoms: burning during urination, discharge
+          - Untreated effects: infertility
+        - Gonorrhea
+          - Symptoms: pain during urination, discharge
+          - Untreated effects: infection of reproductive organs
+        - Syphilis
+          - Symptoms: sores, rash, flu-like symptoms
+          - Untreated effects: damage to organs, death
+      Viral
+        - HPV
+          - Causes genital warts
+          - Can lead to cervical cancer
+          - Vaccine: Gardasil
+        - Genital Herpes
+          - Symptoms: painful blisters
+          - No cure, but medications available
+        - Hepatitis B
+          - Affects liver
+          - Symptoms: vomiting, jaundice
+          - Vaccine available
+        - HIV/AIDS
+          - No cure, can be managed with medication
+    Risk Factors
+      - Common in teens and young adults
+      - Risky behaviors
+      - Myths about STIs
+        - "One partner means no STIs"
+        - "No symptoms means no STIs"
+        -

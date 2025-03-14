@@ -1,0 +1,31 @@
+mindmap
+  Hearing Sound
+    Ear Anatomy
+      Outer Ear
+        Pinna
+        Ear Canal
+        Eardrum
+      Middle Ear
+        Ossicles
+          Hammer
+          Anvil
+          Stirrup
+        Eustachian Tube
+      Inner Ear
+        Cochlea
+        Hair Cells
+    Sound Processing
+      Sound Waves
+      Electrical Signals
+      Brain Interpretation
+    Loud Sounds
+      Causes of Hearing Loss
+        Damage to Hair Cells
+        Exposure Duration
+      Prevention
+        Hearing Protectors
+          Earplugs
+          Electronic Protectors
+    Public Awareness
+      Dangers of Loud Sounds
+      Tips for Ear Protection

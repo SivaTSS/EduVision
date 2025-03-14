@@ -1,0 +1,55 @@
+mindmap
+  Surface Water
+    Freshwater Importance
+      Vital for life
+      Uses by humans
+        Drinking
+        Washing
+        Industry
+        Recreation
+    Streams and Rivers
+      Definition
+        Body of water flowing downhill
+        Channel features
+          Bed
+          Banks
+      Features
+        Source
+        Mouth
+        Tributaries
+        River system
+        Floodplain
+        Meanders
+    Ponds and Lakes
+      Definition
+        Standing freshwater
+        Size comparison
+      Formation
+        Precipitation
+        Runoff
+        Streams and rivers
+      Types
+        Glacial lakes
+        Crater lakes
+        Rift lakes
+    Wetlands
+      Definition
+        Area with soggy soil
+        Biodiversity
+      Types
+        Marshes
+        Swamps
+        Bogs
+      Importance
+        Habitat for species
+        Water purification
+        Flood prevention
+    Floods
+      Definition
+        Overflow of water
+      Causes
+        Heavy rains
+        Rapid snowmelt
+      Impact
+        Damage to property
+        Loss of life

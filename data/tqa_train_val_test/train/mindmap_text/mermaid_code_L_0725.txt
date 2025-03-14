@@ -1,0 +1,22 @@
+mindmap
+  Gravity
+    Definition
+      Force of attraction between two masses
+      Weight measured in newtons (N)
+    Newton's Law of Universal Gravitation
+      Attraction between all objects
+      Strength depends on mass and distance
+    Einstein's Theory of Gravity
+      Gravity as curvature of space and time
+      Objects follow curved paths due to warping
+    Effects of Gravity
+      Acceleration of falling objects (9.8 m/s²)
+      Projectile motion
+        Curved path due to horizontal and vertical forces
+      Orbital motion
+        Moon's orbit around Earth
+        Balance of forward velocity and gravitational pull
+    Historical Context
+      Early understanding of gravity
+      Sir Isaac Newton's contributions
+      Impact on understanding the universe

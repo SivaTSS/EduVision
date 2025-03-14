@@ -1,0 +1,40 @@
+mindmap
+  Greenhouse Effect
+    Definition
+      What is the greenhouse effect?
+      How does Earth's atmosphere resemble a greenhouse?
+    Greenhouse Gases
+      Common types
+        Carbon Dioxide (CO2)
+        Water Vapor (H2O)
+        Methane
+        Ozone (O3)
+        Nitrous Oxides (NO and NO2)
+        Chlorofluorocarbons (CFCs)
+      Sources
+        Natural sources
+          Respiration
+          Volcanic eruptions
+          Decomposition
+          Biochemical reactions
+        Human activities
+          Burning fossil fuels
+          Industrial processes
+    Mechanism
+      Heat trapping
+        Absorption of solar radiation
+        Re-emission of infrared radiation
+      Insulation effect
+        Role of greenhouse gases
+        Comparison to a blanket
+    Impact of Increased Greenhouse Gases
+      Temperature changes
+        Surface temperature without atmosphere
+        Effects of increased greenhouse gases
+      Climate and weather
+        Global temperature regulation
+        Human impact on greenhouse gas levels
+        Methane vs. CFCs in terms of heat trapping
+    Radiative Equilibrium
+      Definition
+      Radiation emitted by Earth

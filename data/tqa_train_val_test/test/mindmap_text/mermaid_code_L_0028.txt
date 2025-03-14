@@ -1,0 +1,39 @@
+mindmap
+  Weather Forecasting
+    Meteorologists
+      Definition
+      Role in Weather Prediction
+    Weather Prediction
+      Challenges
+        Complexity
+        Factors Involved
+      Methods
+        Rules of Thumb
+        Data Collection
+          Weather Instruments
+            Barometer
+            Thermometer
+            Anemometer
+            Rain Gauge
+            Hygrometer
+            Wind Vane
+            Snow Gauge
+          Weather Stations
+          Weather Balloons
+          Satellites
+          Radar
+        Data Analysis
+          Computer Models
+    Weather Maps
+      Purpose
+        Actual Weather
+        Predicted Weather
+      Types of Information
+        Air Pressure
+          Isobars
+        Temperature
+          Isotherms
+        Other Conditions
+    Technology in Forecasting
+      Data Gathering
+      Data Analysis

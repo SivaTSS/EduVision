@@ -1,0 +1,28 @@
+mindmap
+  Mass Extinctions
+    Definition
+      - Extinction of all members of a species
+      - Part of natural selection
+    Historical Context
+      - At least five major mass extinctions in 540 million years
+      - Over 50% of animal species died in each
+      - Total number of mass extinctions could be as high as 20
+      - Current potential mass extinction
+    Major Extinctions
+      - Permian Extinction
+        - 99.5% of individual organisms extinct
+        - 95% of marine species perished
+        - Possible causes: formation of Pangaea
+      - Cretaceous Extinction
+        - 65 million years ago
+        - Extinction of dinosaurs (except ancestors of birds)
+        - Possible causes: asteroid/comet collision
+          - Effects: tidal waves, climate change, reduced sunlight
+          - Evidence: iridium-rich layer in Earth
+    Causes of Extinction
+      - Environmental changes
+      - Lack of necessary survival traits
+      - Catastrophic events (volcanic eruptions, earthquakes)
+    Aftermath of Extinctions
+      - Evolution of new species
+      - Filling of habitats left by extinct species

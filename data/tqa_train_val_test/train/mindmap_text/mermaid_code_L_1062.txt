@@ -1,0 +1,33 @@
+mindmap
+  Light and Matter
+    Interaction with Light
+      Reflection
+        Regular Reflection
+          - Forms clear images
+          - Example: Smooth surfaces (mirrors)
+        Diffuse Reflection
+          - No clear image
+          - Example: Rough surfaces (rippling water)
+      Transmission
+        Straight Transmission
+        Refraction
+          - Change in direction and speed
+          - Example: Straw in water
+        Scattering
+          - Light spreads in all directions
+          - Example: Light in fog or smoky air
+      Absorption
+        Energy Transfer
+          - Increases temperature of matter
+          - Example: Dark surfaces in sunlight
+    Classification of Matter
+      Transparent
+        - Transmits light without scattering
+        - Examples: Air, clear glass
+      Translucent
+        - Transmits but scatters light
+        - Example: Frosted glass
+      Opaque
+        - Does not transmit light
+        - Absorbs or reflects light
+        - Examples: Wood, mirrors

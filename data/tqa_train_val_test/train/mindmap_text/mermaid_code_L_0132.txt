@@ -1,0 +1,37 @@
+mindmap
+  Atmosphere and Oceans
+    Early Atmosphere
+      First Gases
+        Hydrogen
+        Helium
+      Sources
+        Outgassing
+        Asteroids and Comets
+      Characteristics
+        No Oxygen
+        No Ozone Layer
+    Second Atmosphere
+      Formation
+        Volcanic Outgassing
+        Comet Ices
+      Composition
+        Water Vapor
+        Carbon Dioxide
+        Nitrogen
+        Methane
+      Oxygen Presence
+        Limited Oxygen
+        Photosynthesis Not Developed
+    Third Atmosphere
+      Oxygen Accumulation
+        Photosynthesis
+        Great Oxygenation Event
+      Effects on Life
+        Cellular Respiration
+        Evolution of Complex Life
+    Banded-Iron Formations
+      Definition
+        Alternating Bands of Iron Oxide and Chert
+      Importance
+        Evidence of Oxygen Levels
+        Geological History

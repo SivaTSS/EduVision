@@ -1,0 +1,52 @@
+mindmap
+  Solar System
+    Introduction
+      Definition
+        Sun and objects held by gravity
+        Includes planets, asteroids, comets
+    Historical Perspectives
+      Ancient Greek Ideas
+        Earth-centered model
+        Ptolemy's model
+      Copernican Revolution
+        Sun-centered model
+        Galileo's contributions
+    Planets
+      Eight Major Planets
+        Mercury
+        Venus
+        Earth
+        Mars
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+      Dwarf Planets
+        Pluto
+        Eris
+        Ceres
+        Makemake
+        Haumea
+      Planetary Groups
+        Inner Planets
+        Outer Planets
+    Formation of the Solar System
+      Nebular Hypothesis
+        Formation from gas and dust
+        Role of gravity
+        Disk shape and direction of orbit
+      Age of the Solar System
+        Approximately 4.6 billion years
+    Gravity's Role
+      Planetary Orbits
+        Elliptical orbits
+        Gravity's pull
+      Effects of Gravity
+        Holds planets and moons in orbit
+        Comparison to swinging ball on a string
+    Exoplanets
+      Definition
+        Planets outside our solar system
+      Discovery
+        Methods of detection
+        Number of known exoplanets

@@ -1,0 +1,23 @@
+mindmap
+  Ecosystem Matter Flow
+    Flow of Matter vs. Energy
+      Differences in Flow
+      Cycling of Matter
+    Nutrient Dynamics
+      Entry and Exit of Nutrients
+        Sources of Nutrients
+          Rocks and Minerals
+          Atmospheric Inputs
+          Nutrient Transfer through Food Chains
+      Nutrient Cycling
+        Role of Decomposers
+          Breakdown of Dead Organisms
+          Release of Nutrients and Gases
+        Transport Mechanisms
+          Water and Wind
+    Importance of Decomposers
+      Nutrient Availability
+      Impact on Ecosystem Health
+      Consequences of Absence
+        Nutrient Depletion
+        Collapse of Life Systems

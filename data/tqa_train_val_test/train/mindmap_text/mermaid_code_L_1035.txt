@@ -1,0 +1,23 @@
+mindmap
+  Speed
+    What is Speed?
+      Definition
+      SI Unit
+    Average Speed
+      Formula: speed = distance / time
+      Example: 120 miles in 3 hours = 40 mi/h
+      Calculation of Distance
+        Formula: distance = speed * time
+        Example: 60 km/h for 5 hours = 300 km
+      Calculation of Time
+        Formula: time = distance / speed
+        Example: 6 km at 3 km/h = 2 hours
+    Instantaneous Speed
+      Definition
+      Comparison with Average Speed
+      Difficulty in Calculation
+    Factors Affecting Speed
+      Traffic Conditions
+      Speed Limits
+      Traffic Lights
+      Vehicle Behavior

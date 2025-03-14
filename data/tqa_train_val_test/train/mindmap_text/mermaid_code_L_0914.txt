@@ -1,0 +1,27 @@
+mindmap
+  Hearing Loss
+    What is Hearing?
+      Ability to sense sound energy
+      Organ: The Ear
+    Definition of Deafness
+      Total hearing loss
+    Causes of Hearing Loss
+      Exposure to Loud Sounds
+        Damage to hair cells
+        Relationship between sound intensity and hearing loss
+          Measured in decibels (dB)
+          Example: 100 dB for 15 minutes
+    Prevention of Hearing Loss
+      Protecting ears from loud sounds
+        Use of hearing protectors
+          Types of Hearing Protectors
+            Earplugs
+              Muffles sounds
+              Suitable for lower noise levels
+            Electronic Ear Protectors
+              Identifies high-amplitude sounds
+              Causes destructive interference
+              Amplifies lower-decibel sounds
+    Importance of Hearing Protection
+      Jobs with loud sounds
+      Home and recreational activities

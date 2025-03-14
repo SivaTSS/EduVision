@@ -1,0 +1,38 @@
+mindmap
+  Observations and Experiments
+    Testing a Hypothesis
+      Data Gathering
+        Observations
+          Simple Observations
+          Advanced Technology
+        Experiments
+          Well-Designed
+          Controlled Conditions
+          Manipulation of One Variable
+    Observations
+      Earth Surface
+        Land Surface
+        Space
+          Satellites
+          Devices for Dangerous Observations
+          Microscopes
+          Telescopes
+    Experiments
+      Purpose
+        Verify or Falsify Hypothesis
+      Design
+        Controlled Conditions
+        Change One Factor
+          Independent Variable
+          Dependent Variable
+        Control Group
+          Definition
+          Example: Vitamin C and Colds
+    Experimental Errors
+      Types
+        Systematic Errors
+        Random Errors
+      Correction
+        Multiple Measurements
+        Margin of Error
+        Inconsistent Data Handling

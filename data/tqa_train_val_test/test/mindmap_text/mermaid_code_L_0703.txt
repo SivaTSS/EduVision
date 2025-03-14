@@ -1,0 +1,50 @@
+mindmap
+  Mollusks
+    Classes
+      Living Classes
+        Gastropods
+          Examples
+            Snails
+            Slugs
+          Features
+            Foot
+            Head
+            Shell
+          Habitats
+            Gardens
+            Deserts
+            Mountains
+            Rivers
+            Lakes
+            Ocean
+        Bivalves
+          Examples
+            Clams
+            Scallops
+            Oysters
+            Mussels
+          Features
+            Shell
+            Gills
+            Mouth
+            Stomach
+            Foot
+          Habitats
+            Marine
+            Freshwater
+        Cephalopods
+          Examples
+            Octopus
+            Squid
+          Features
+            Head
+            Brain
+            Arms/Tentacles
+            Color Change
+            Ink Discharge
+            Hearts
+          Intelligence
+    Extinct Classes
+    Species
+      Living Species
+      Extinct Species

@@ -1,0 +1,27 @@
+mindmap
+  Eclipses
+    Lunar Eclipse
+      Definition: Full Moon moves through Earth's shadow
+      Conditions
+        Earth between Moon and Sun
+        All three bodies aligned in the ecliptic
+      Shadow Parts
+        Umbra: Complete light blockage
+        Penumbra: Partial light blockage
+      Types
+        Total Lunar Eclipse: Moon in umbra
+        Partial Lunar Eclipse: Moon partially in umbra
+      Frequency
+        Occurs at least twice a year
+        Not every month due to 5-degree inclination of Moon's orbit
+    Solar Eclipse
+      Definition: New Moon passes between Earth and Sun
+      Shadow Effects
+        Total Solar Eclipse: Moon's shadow completely blocks Sun
+        Partial Solar Eclipse: Only part of Sun is blocked
+      Duration: Rare, lasts a few minutes
+      Observational Effects
+        Temperature drop
+        Birds may sing
+        Stars become visible
+      Eclipse Chasers: People who travel to observe eclipses

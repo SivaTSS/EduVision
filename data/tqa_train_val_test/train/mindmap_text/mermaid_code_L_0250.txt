@@ -1,0 +1,43 @@
+mindmap
+  Neptune
+    Discovery
+      Predicted existence
+      Discovered in 1846
+      Named after Roman god of the sea
+    Structure
+      Composition
+        Gas giant
+          Upper atmosphere
+          Atmosphere: Hydrogen, Helium, Methane
+          Mantle: Water, Ammonia, Methane ice
+          Core: Rock and Ice
+      Size and Mass
+        Slightly smaller than Uranus
+        More mass than Uranus
+    Atmosphere
+      Composition
+        Frozen Methane
+      Color
+        Blue due to methane
+      Weather
+        Turbulent atmosphere
+        Intense winds (1,100 km/h)
+        Extreme cold (-218°C)
+        Dark spots
+          Great Dark Spot
+          Changing appearance
+    Seasons
+      Length of a season: 165 Earth years
+    Moons
+      Total: 13
+      Triton
+        Unique characteristics
+          Spherical shape
+          Retrograde orbit
+        Origin: Captured by Neptune
+    Rings
+      Composition: Ice and dust
+      Characteristics: Faint, may change or disappear
+    Knowledge Gaps
+      Limited observations
+      Distance from Earth

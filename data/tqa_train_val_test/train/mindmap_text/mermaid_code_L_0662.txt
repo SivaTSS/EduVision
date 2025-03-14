@@ -1,0 +1,62 @@
+mindmap
+  Respiratory System Diseases
+    Common Diseases
+      Asthma
+        Symptoms
+          Shortness of breath
+          Wheezing
+        Causes
+          Allergies
+          Environmental triggers
+      Bronchitis
+        Acute Bronchitis
+          Symptoms
+            Cough with phlegm
+            Shortness of breath
+          Causes
+            Viruses
+            Bacteria
+      Pneumonia
+        Symptoms
+          Cough
+          Chest pain
+          Fever
+          Difficulty breathing
+        Causes
+          Bacteria
+          Viruses
+          Fungi
+          Chemicals
+      Tuberculosis (TB)
+        Symptoms
+          Cough with mucus
+          Coughing up blood
+        Transmission
+          Airborne
+      Lung Cancer
+        Symptoms
+          Shortness of breath
+          Coughing (including blood)
+          Weight loss
+        Causes
+          Tobacco smoke
+      Emphysema
+        Symptoms
+          Shortness of breath
+          Chronic cough
+        Causes
+          Smoking
+    Contributing Factors
+      Pathogens
+        Bacteria
+        Viruses
+        Fungi
+      Environmental Pollutants
+        Air quality
+        Indoor pollution
+      Lifestyle Factors
+        Smoking
+        Exposure to tobacco smoke
+    Effects on the Body
+      Decreased oxygen intake
+      Impact on other body systems

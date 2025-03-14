@@ -1,0 +1,42 @@
+mindmap
+  Taxonomy
+    Taxonomists
+      Study of organisms
+      Help for scientists
+    Historical Figures
+      Aristotle
+        Early classification system
+        Groups: mammals, insects, reptiles
+      Carolus Linnaeus
+        Modern classification system
+        Binomial nomenclature
+          Genus and species
+          Example: Canis latrans
+    Classification Categories
+      Domains
+        Bacteria
+        Archaea
+        Eukarya
+      Kingdoms
+        Bacteria
+        Archaea
+        Protista
+        Plantae
+        Fungi
+        Animalia
+      Hierarchical Structure
+        Domain
+        Kingdom
+        Phylum
+        Class
+        Order
+        Family
+        Genus
+        Species
+    Species Definition
+      Group of similar individuals
+      Ability to interbreed
+      Fertile offspring
+    Classification Process
+      Physical features
+      Evolutionary relationships

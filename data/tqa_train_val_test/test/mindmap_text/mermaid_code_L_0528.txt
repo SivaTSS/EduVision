@@ -1,0 +1,38 @@
+mindmap
+  Fungi Classification
+    Fungi Kingdom
+      Identification
+        Existing fungi identified
+      Characteristics
+        General characteristics of Chytrid fungi
+        Defining characteristic of Ascomycetes
+      Types of Fungi
+        Molds
+          Examples: Penicillium
+        Yeasts
+          Examples: Baker's yeast
+        Mushrooms
+          Examples: Morels, Shiitake, Cremini, Oyster
+    Ascomycete Fungi
+      Habitat
+        Types of habitats
+      Fruiting Body
+        Size of fruiting body
+      Marine Environments
+        Presence in marine environments
+      Species Distinction
+        Characteristics for distinguishing species
+    Comparison with Plants
+      Similarities
+        Structures and habitats
+        Cell walls
+      Differences
+        Food production
+          Heterotrophs vs. Autotrophs
+        Cell wall composition
+          Chitin vs. Cellulose
+        Nutrient transfer structures
+          Absence of xylem and phloem
+    Comparison with Animals
+      Similarities to animals
+        Heterotrophic nature

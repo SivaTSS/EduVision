@@ -1,0 +1,23 @@
+mindmap
+  Universe
+    Cosmology
+      Definition
+      Study of structure and changes
+      Includes all matter and energy
+    Evolution of the Universe Concept
+      Ancient Greek Model
+        Earth at the center
+        Sun, Moon, five planets
+        Sphere of stars
+      Galileo's Contribution
+        Telescope discovery
+        Earth not the center
+        More stars than visible
+    Edwin Hubble
+      Discoveries
+        Andromeda Nebula
+        Distance measurement
+        Galaxies vs. nebulas
+      Impact
+        Universe larger than Milky Way
+        Existence of about 100 billion galaxies

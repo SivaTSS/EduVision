@@ -1,0 +1,32 @@
+mindmap
+  Scientific Process
+    Investigations
+      Role in Science
+        Produce Evidence
+        Answer Questions
+        Advance Knowledge
+    Scientific Method
+      General Steps
+        Ask a Question
+        Background Research
+        Construct a Hypothesis
+        Test Hypothesis
+        Analyze Data
+        Draw Conclusion
+        Report Results
+      Flexibility
+        Different Orders
+        Skipping Steps
+        Repeating Steps
+    Example: Cody's Investigation
+      Observation
+        Cereal Contains Iron
+        Curiosity about Magnets
+      Question
+        Is there enough iron in cereal for magnet attraction?
+      Hypothesis
+        Iron content is too low for attraction
+      Conclusion
+        Hypothesis is incorrect; cereal is attracted to magnet
+      Next Steps
+        Report Results

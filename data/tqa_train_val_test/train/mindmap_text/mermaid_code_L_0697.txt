@@ -1,0 +1,28 @@
+mindmap
+  Transcription of DNA to RNA
+    RNA vs DNA
+      Differences
+      Importance of Differences
+    mRNA Production
+      Location of mRNA Synthesis
+      mRNA Destination
+    Gene Structure
+      Regions of a Gene
+        Promoter
+        Coding Region
+        Terminator
+      Effects of Mutations
+        Deletion Impact on Transcription
+    RNA Polymerase
+      Function
+      Molecular Type
+    Transcription Process
+      Final Product
+      Genetic Code Transfer
+      Example Sequence
+    Base Pairing Rules
+      DNA to mRNA Conversion
+      Accuracy of Transcription
+    Gene Expression
+      Activation of Genes
+      Transcription of Expressed Genes

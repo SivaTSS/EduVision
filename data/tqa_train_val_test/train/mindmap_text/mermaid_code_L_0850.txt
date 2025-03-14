@@ -1,0 +1,38 @@
+mindmap
+  Crystalline Carbon
+    Forms of Crystalline Carbon
+      Diamond
+        Structure
+          Unit Cell
+          Bonding
+        Properties
+          Hardness
+          Uses
+            Cutting Tools
+            Jewelry
+      Graphite
+        Structure
+          Layered Arrangement
+          Bonding
+        Properties
+          Softness
+          Lubrication
+          Pencil Leads
+      Fullerenes
+        Structure
+          Bucky Ball
+          Bonding
+        Properties
+          Weak Bonds
+          Solubility
+    Allotropes
+      Definition
+      Examples
+        Diamond
+        Graphite
+        Fullerenes
+    Comparison of Properties
+      Diamond vs Graphite
+        Appearance
+        Hardness
+        Uses

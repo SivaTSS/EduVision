@@ -1,0 +1,18 @@
+mindmap
+  Stratosphere
+    Temperature Gradient
+      Temperature Increases with Altitude
+      Heat Source: The Sun
+    Ozone Layer
+      Definition: Higher Concentration of Ozone
+      Importance: Protects Life from UV Radiation
+      Creation and Destruction Cycle
+        Creation: UV Radiation Splits O2
+        Destruction: Ozone Breaks Down
+    Air Mixing
+      Little Mixing with Troposphere
+      Stability of Stratosphere
+        Warmer Air Over Cooler Air
+    Features of the Stratosphere
+      Top of the Stratosphere
+      Interaction with Volcanic Eruptions

@@ -1,0 +1,36 @@
+mindmap
+  Modern Atomic Theory
+    Energy Levels
+      Definition
+      Characteristics
+        Fixed distances from nucleus
+        Smallest energy level closest to nucleus
+      Electron transitions
+        Absorption of energy
+        Emission of energy
+    Bohr's Model
+      Fixed orbits for electrons
+      Importance in atomic theory
+      Comparison to Rutherford's model
+    Electron Cloud Model
+      Definition
+      Orbitals
+        Regions of high electron probability
+        Maximum of two electrons per orbital
+      Density variations
+        Denser regions indicate higher probability of finding electrons
+    Relationship between Protons and Electrons
+      Unique number of protons per element
+      Comparison of protons and electrons
+    Historical Context
+      Development of atomic models
+        Rutherford's model
+        Bohr's contributions
+      1920s discoveries about electron behavior
+        Wave-particle duality
+        Mathematical descriptions of electron locations
+    Practical Applications
+      Examples in fireworks
+        Energy absorption and light emission
+      Electron arrangements in elements
+        Stability of electron configurations

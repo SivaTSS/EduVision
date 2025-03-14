@@ -1,0 +1,40 @@
+mindmap
+  Kidney Disease
+    Definition
+      Kidney Disease
+      Chronic Kidney Disease
+        Similarities
+        Differences
+    Kidney Failure
+      Causes
+        Accidents
+        Blood Loss
+        Drugs and Poisons
+      Symptoms
+      Management
+        Kidney Dialysis
+    Kidney Stones
+      Formation
+        Concentrated Urine
+        Mineral Crystallization
+      Symptoms
+        Pain during Urination
+        Blood in Urine
+        Sharp Back or Abdominal Pain
+        Nausea and Vomiting
+      Treatment
+        Surgery
+        Ultrasound
+    Urinary Tract Infections (UTIs)
+      Definition
+      Causes
+        Bacterial Infection
+      Symptoms
+        Burning during Urination
+        Frequent Urges
+        Back or Side Pain
+        Cloudy or Bloody Urine
+        Fever or Chills
+      Treatment
+        Antibiotics
+        Diagnosis

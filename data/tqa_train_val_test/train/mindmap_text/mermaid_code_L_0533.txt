@@ -1,0 +1,39 @@
+mindmap
+  Genetic Disorders
+    Definition
+      - Genetic mutations
+      - Chromosomal mutations
+      - Inheritance patterns
+    Types
+      - Multifactorial Disorders
+        - Definition
+        - Example
+          - Heart disease
+      - Single-Gene Disorders
+        - Definition
+        - Examples
+          - Autosomal Recessive
+            - Cystic Fibrosis
+              - Causes
+              - Diagnosis
+              - Treatment
+              - Carrier status
+                - Can be a carrier
+                - Punnett square analysis
+          - Tay-Sachs Disease
+            - Causes
+            - Carrier status
+      - Autosomal Dominant Disorders
+        - Huntington's Disease
+          - Causes
+          - Symptoms
+          - Inheritance
+            - Punnett square analysis
+    Genetic Screening
+      - Newborn Genetic Screening
+        - Purpose
+        - Process
+    Tumor Suppressor Genes
+      - Definition
+      - Role in Colon Cancer
+        - Causes

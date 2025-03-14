@@ -1,0 +1,28 @@
+mindmap
+  Physics
+    Scope of Physics
+      Study of energy
+      Study of matter
+      Interactions of energy and matter
+    Key Concepts
+      Motion
+      Forces
+        Magnetism
+        Gravity
+      Forms of Energy
+        Light
+        Sound
+        Electrical Energy
+    Examples of Interactions
+      Funhouse Mirrors
+        Curved surfaces
+        Distorted images
+      Vibrating Strings
+        Waves of energy
+        Example: Cello
+      Glowing Objects
+        Light production
+        Example: Fireflies
+      Moving Objects
+        Energy in motion
+        Example: Tennis racket

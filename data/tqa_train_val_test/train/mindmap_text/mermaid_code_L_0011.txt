@@ -1,0 +1,25 @@
+mindmap
+  Earth Formation
+    Solar Nebula
+      Definition: Giant cloud of gas and dust
+      Importance: Formed Sun and planets
+    Formation Process
+      Contraction: Cloud contracted and spun
+      Temperature Increase: Extreme heat led to nuclear fusion
+      Planet Formation: Collisions created rocks, boulders, and planets
+    Early Earth Conditions
+      Hostile Environment: Bombarded by asteroids, volcanic activity
+      Lack of Atmosphere: Too hot for liquid water or stable gases
+    Earth's Layers
+      Density Variation: Core, mantle, crust
+      Composition: Iron core, rocky mantle, lighter crust
+    Moon Formation
+      Collision Theory: Mars-sized asteroid impact
+      Result: Material formed the Moon
+    Early Atmosphere
+      Composition: Nitrogen, carbon dioxide, hydrogen, water vapor
+      Sources: Volcanic gases and cometary ices
+    Changes Over Time
+      Cooling: Allowed water vapor to condense
+      Ocean Formation: Rain collected to form oceans
+      Life Development: Conditions for first life forms

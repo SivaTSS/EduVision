@@ -1,0 +1,40 @@
+mindmap
+  Cellular Respiration
+    Definition
+      Process of breaking down glucose
+      Produces ATP
+      Takes place in cytoplasm and mitochondria
+    Stages
+      Glycolysis
+        Location: Cytoplasm
+        Anaerobic process
+        Produces 2 ATP
+        Splits glucose into pyruvate
+      Krebs Cycle
+        Location: Mitochondrial matrix
+        Aerobic process
+        Produces 2 ATP
+        Combines oxygen with carbon from pyruvate
+      Electron Transport
+        Location: Inner mitochondrial membrane
+        Aerobic process
+        Produces up to 34 ATP
+        Combines oxygen with hydrogen
+    Relationship with Photosynthesis
+      Interconnected processes
+      Energy storage and release
+    Fermentation
+      Types
+        Lactic Acid Fermentation
+          Occurs in bacteria and muscle cells
+          Produces lactic acid and ATP
+        Alcoholic Fermentation
+          Occurs in yeast
+          Produces alcohol, carbon dioxide, and ATP
+    Advantages
+      Aerobic Respiration
+        More energy produced
+        More ATP molecules formed
+      Anaerobic Respiration
+        Faster process
+        Allows survival in low oxygen environments

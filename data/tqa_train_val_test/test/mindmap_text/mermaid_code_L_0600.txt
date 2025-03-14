@@ -1,0 +1,45 @@
+mindmap
+  Microevolution and Macroevolution
+    Microevolution
+      Definition
+        Small changes in organisms over time
+        Changes within a species
+      Factors
+        Natural selection
+        Genetic drift
+        Mutation
+        Gene flow
+      Examples
+        Pesticide-resistant mosquitoes
+      Outcomes
+        Changes in allele frequency
+        Does not create new species
+    Macroevolution
+      Definition
+        Larger evolutionary changes
+        Results in new species
+      Causes
+        Repeated microevolution
+        Major environmental changes
+      Examples
+        Darwin's finches
+      Concepts
+        Phyletic gradualism
+        Punctuated equilibrium
+    Cambrian Explosion
+      Definition
+        Rapid diversification of life
+      Timing
+        Occurred during the Cambrian Period
+      Relation to Evolution
+        Represents macroevolution
+      Causes
+        Various hypotheses
+      Fossil Comparison
+        Similarity to current body plans
+    Species Definition
+      Characteristics
+        Genetically similar organisms
+        Ability to produce fertile offspring
+      Population
+        Group of the same species in a specific area

@@ -1,0 +1,18 @@
+mindmap
+  Energy in Chemical Reactions
+    Role of Energy
+      Breaking Bonds
+      Forming Bonds
+    Law of Conservation of Energy
+      Definition
+      Energy Transformation
+    Endothermic Reactions
+      Energy Absorption
+      Stored Chemical Energy
+      Comparison with Exothermic
+    Exothermic Reactions
+      Energy Release
+      Comparison with Endothermic
+    Visual Representations
+      Chemical Reaction Diagram
+      Exothermic Reaction Diagram

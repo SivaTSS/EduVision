@@ -1,0 +1,41 @@
+mindmap
+  Gymnosperms
+    Features
+      - Seeds without fruit
+      - Seeds found in cones
+    Phyla
+      - Conifers
+        - Characteristics
+          - Familiar gymnosperms
+          - Reproductive structures in cones
+          - Examples: pines, firs, spruces, cedars, coastal redwoods
+        - Uses
+          - Lumber
+          - Paper
+          - Resins (turpentine, rosin)
+      - Cycads
+        - Characteristics
+          - Large, finely-divided leaves
+          - Short shrubs and trees
+        - Reproductive structures
+          - Separate male and female plants
+        - Historical significance
+          - Dominant during Age of Dinosaurs
+          - Example: Sago Palm
+      - Ginkgoes
+        - Unique features
+          - Only surviving species in phylum
+          - Known as "living fossil"
+        - Survival factors
+          - Grown around Buddhist temples
+          - Tolerant to pollution
+        - Reproductive structures
+          - Separate male and female plants
+      - Gnetophytes
+        - Characteristics
+          - Small and unusual group
+        - Important members
+          - Ephedra (produces ephedrine)
+          - Welwitschia (long leaves, desert plant)
+        - Diversity
+          - About 70 species

@@ -1,0 +1,27 @@
+mindmap
+  Ions
+    Atoms
+      Neutral Charge
+        Equal Protons and Electrons
+        Charge Cancellation
+    Definition
+      Ion
+        Positive or Negative Charge
+        Unequal Protons and Electrons
+    Types of Ions
+      Cations
+        Positive Ions
+        Example: Sodium Ion Na+
+      Anions
+        Negative Ions
+        Example: Fluoride Ion F-
+    Ion Formation
+      Ionization
+        Gain or Lose Electrons
+        Exposure to Radiation
+        Electron Transfer
+    Properties of Ions
+      Reactivity
+        Attraction to Opposite Charges
+        Repulsion of Same Charges
+      Magnetic Deflection

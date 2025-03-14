@@ -1,0 +1,55 @@
+mindmap
+  Metalloids in Groups 13-16
+    Groups Overview
+      Group 13
+        Boron Group
+          Boron (B)
+          Other Elements
+            Aluminum (Al)
+            Gallium (Ga)
+            Indium (In)
+            Thallium (Tl)
+      Group 14
+        Carbon Group
+          Carbon (C)
+          Metalloids
+            Silicon (Si)
+            Germanium (Ge)
+          Other Elements
+            Tin (Sn)
+            Lead (Pb)
+      Group 15
+        Nitrogen Group
+          Nonmetals
+            Nitrogen (N)
+            Phosphorus (P)
+          Metalloids
+            Arsenic (As)
+            Antimony (Sb)
+          Metal
+            Bismuth (Bi)
+      Group 16
+        Oxygen Group
+          Nonmetals
+            Oxygen (O)
+            Sulfur (S)
+            Selenium (Se)
+          Metalloid
+            Tellurium (Te)
+          Metal
+            Polonium (Po)
+    Properties of Metalloids
+      Conductivity
+        Semi-conductors
+        Electrical Conductivity
+      Physical Properties
+        Shiny Appearance
+        Brittleness
+    Chemical Behavior
+      Valence Electrons
+        Influence on Reactivity
+        Behavior as Metals or Nonmetals
+    Applications
+      Silicon in Computer Chips
+      Arsenic in Apple Juice
+      Tellurium in Solar Panels

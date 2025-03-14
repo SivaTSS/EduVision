@@ -1,0 +1,16 @@
+mindmap
+  Heat
+    Definition
+      - Transfer of thermal energy
+      - Kinetic energy of moving particles
+      - Measured by temperature
+    Thermal Energy Transfer
+      - Warmer to cooler substances
+      - Equilibrium of temperature
+      - Example: Oven heating food
+    Practical Application
+      - Hot cocoa in a cold mug
+        - Thermal energy transfer explanation
+      - Cooling cola with ice
+        - Warm cola heats ice
+        - Ice melts, cola cools

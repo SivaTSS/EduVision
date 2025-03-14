@@ -1,0 +1,49 @@
+mindmap
+  Saturn
+    Features
+      Composition
+        Hydrogen
+        Helium
+      Rings
+        Water
+        Ice
+        Dust
+        Rock
+      Atmosphere
+        Nitrogen
+        Methane
+    Moons
+      Titan
+        Size
+          Larger than Earth's Moon
+          Larger than Mercury
+        Atmosphere
+          Similar to early Earth
+        Surface
+          Liquid methane
+          Possible liquid water
+      Enceladus
+        Potential for life
+    Formation
+      Rings
+        Origin
+          Breakup of a moon
+          Unaccreted material
+        Gaps
+          Gravitational forces
+    Historical Observations
+      Galileo
+        Initial observations
+      Huygens
+        Identification of rings
+    Characteristics
+      Mass
+        95 times Earth's mass
+      Volume
+        755 times Earth's volume
+      Density
+        Less dense than water
+      Orbit
+        30 Earth years
+      Storms
+        Thunder and lightning

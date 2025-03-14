@@ -1,0 +1,28 @@
+mindmap
+  Acids
+    Definition
+      Ionic compounds
+      Produce H+ ions in water
+    Properties
+      Sour taste
+      Conduct electricity
+      React with metals
+        Produces hydrogen gas
+    Detection
+      Indicators
+        Litmus paper
+          Turns blue to red
+        Red cabbage juice
+    pH Scale
+      Measurement of strength
+        pH < 7 indicates acidity
+        Strongest acids near pH 0
+    Examples
+      Hydrochloric acid (HCl)
+        Reaction with zinc
+          Produces hydrogen gas and zinc chloride
+      Sulfuric acid
+        Uses in industry
+          Manufacturing products
+      Nitric and Phosphoric acids
+        Used in fertilizers

@@ -1,0 +1,24 @@
+mindmap
+  Groundwater
+    Aquifers
+      Definition: Porous and permeable rock layer
+      Types
+        Depths: Shallow and deep aquifers
+        Locations: Found in various regions, including deserts
+    Water Movement
+      Mechanisms
+        Capillary Action: Movement from wet to dry areas
+        Soil Attraction: Water's attraction to soil particles
+    Sources of Groundwater
+      Recharge
+        Influencing Factors
+          Climate: Local climate conditions
+          Land Slope: Influence of land topography
+          Rock Type: Surface rock characteristics
+          Vegetation: Impact of plant cover
+          Land Use: Human activities affecting water retention
+          Water Retention: Amount of water remaining in the ground
+      Fossil Water: Groundwater from the end of the ice ages
+    Groundwater Usage
+      Sustainability: Questions about replenishment
+      Residence Time: Ranges from minutes to thousands of years

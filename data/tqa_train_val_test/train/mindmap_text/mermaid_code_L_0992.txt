@@ -1,0 +1,22 @@
+mindmap
+  Electromagnetic Waves
+    Speed of Light
+      Definition: 300 million m/s
+      Travel Time: 8 minutes from Sun to Earth
+      Comparison: Fastest in the universe
+    Wavelength and Frequency
+      Relationship: Inversely proportional
+      Wavelength Range: Longer than soccer field to shorter than atom
+      Frequency Range: Thousands to trillions of waves/second
+    Energy of Waves
+      Dependence: Related to frequency
+      Low-Frequency Waves: Little energy, generally harmless
+      High-Frequency Waves: High energy, potentially harmful
+    Calculating Wavelength and Frequency
+      Formula: Speed = Wavelength x Frequency
+      Rearranged Equations:
+        Frequency = Speed / Wavelength
+        Wavelength = Speed / Frequency
+      Example Calculation: 
+        Given Wavelength: 3 m
+        Frequency Calculation: 1.0 x 10^8 Hz

@@ -1,0 +1,32 @@
+mindmap
+  Artificial Light
+    Types of Light Bulbs
+      Incandescent
+        - Produces light by incandescence
+        - Uses heat to generate light
+        - Less energy efficient
+      Fluorescent
+        - Produces light by fluorescence
+        - Contains mercury gas
+        - Coated with phosphor
+      Neon
+        - Produces light by electroluminescence
+        - Contains neon or other gases
+        - Different gases produce different colors
+      Vapor
+        - Produces light by electroluminescence
+        - Contains sodium or mercury
+        - Used for streetlights, highways, stadiums
+      LED
+        - Stands for light-emitting diode
+        - Uses semiconductor material
+        - Reliable and durable
+    Comparisons
+      Incandescent vs. Compact Fluorescent
+      Neon Light Production
+      Vapor Light Applications
+      Pros of LED Lights
+    Energy Efficiency
+      Heat Production
+        - Incandescent bulbs waste energy
+        - Other bulbs use energy efficiently

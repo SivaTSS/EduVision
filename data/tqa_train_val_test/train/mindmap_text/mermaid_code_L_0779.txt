@@ -1,0 +1,27 @@
+mindmap
+  Ionic Bonds
+    Formation
+      Definition
+        Attraction between oppositely charged ions
+        Transfer of electrons from metals to nonmetals
+      Energy Role
+        Energy required to remove valence electrons
+        Energy released when gaining electrons
+    Properties
+      Characteristics of Ionic Compounds
+        High melting and boiling points
+        Rigid and brittle structure
+        Good electrical conductors in liquid state
+        Crystalline structure
+    Examples
+      Lithium Iodide (LiI)
+      Sodium Chloride (NaCl)
+      Other Ionic Compounds
+        Calcium Chloride (CaCl2)
+        Barium Oxide (BaO)
+        Iron Bromide (FeBr3)
+    Applications
+      Industrial Uses
+      Biological Importance
+        Essential ions for human health
+        Role in bodily functions

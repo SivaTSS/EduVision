@@ -1,0 +1,41 @@
+mindmap
+  Kidney Functions
+    Homeostasis
+      Maintain body fluid volume
+      Balance salt ions
+      Excrete nitrogen-containing wastes
+    Urine Formation
+      Blood flow
+        Renal artery
+        Capillaries
+      Filtration process
+        Water, salts, sugars, urea
+        Nephron structure
+          Coiled tubules
+          Cortex
+          Medulla
+      Urine collection
+        Ureters
+        Bladder
+    Nephron Anatomy
+      Functional units
+        Up to a million per kidney
+        Collect fluid and waste
+      Structures
+        Glomerulus
+        Tubules
+    Hormonal Regulation
+      Pituitary gland
+        Location
+        Hormones released
+      Antidiuretic hormone (ADH)
+        Function
+        Effect on urine concentration
+    Urinary System
+      Components
+        Ureters
+        Bladder
+        Urethra
+      Urination process
+        Nerve signals
+        Bladder capacity

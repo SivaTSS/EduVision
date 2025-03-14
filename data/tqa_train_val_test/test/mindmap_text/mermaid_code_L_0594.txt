@@ -1,0 +1,41 @@
+mindmap
+  Mammal Reproduction
+    Marsupials
+      Examples
+        Kangaroos
+        Koalas
+        Opossums
+        Wallabies
+        Tasmanian Devils
+      Habitat
+        Mostly found in Australia
+      Differences
+        Marsupials vs. Placental Mammals
+          Immature birth stage
+          Development in pouch
+    Marsupial Reproduction Process
+      Parental Care
+        Differences from placental mammals
+      Birth Process
+        Licking during birth
+        Finding the pouch
+    Creation of Placenta
+      Functions
+        Nutrient transfer
+        Waste removal
+      Structure
+        Umbilical cord
+    Monotremes
+      Characteristics
+        Egg-laying
+        Reptilian and bird-like traits
+      Examples
+        Echidnas
+        Platypuses
+    Reproductive Strategies
+      Monotremes
+      Marsupials
+      Placental Mammals
+    Sexual Dimorphism
+      Size differences
+      Mating advantages

@@ -1,0 +1,48 @@
+mindmap
+  Water Pollution Effects
+    Problems in Greenville
+      Poor water quality causes
+      Health risks
+    River Health Assessment
+      Visual indicators
+      Limitations of visual assessment
+    Pollutants in Rivers
+      Types of pollutants
+      Sources of pollution
+    Swimming Risks
+      Bacteria-rich streams
+      Health implications
+    Eutrophication
+      Definition
+      Causes
+        Nutrient over-enrichment
+        Fertilizer runoff
+      Effects on ecosystem
+        Oxygen depletion
+        Fish and shellfish mortality
+        Toxin production
+    Ocean Acidification
+      Definition
+      Causes
+        Carbon dioxide absorption
+        Fossil fuel combustion
+      Effects on ecosystem
+        Coral and shellfish harm
+        Reproductive issues in marine organisms
+    Waterborne Diseases
+      Definition
+      Causes
+        Pathogens in water
+        Lack of water treatment
+      Health impacts
+        Diarrheal disease statistics
+        Global health implications
+    Aquatic Debris
+      Definition
+      Sources
+        Shipping accidents
+        Landfill erosion
+        Direct dumping
+      Effects on wildlife
+        Ingestion hazards
+        Entanglement risks

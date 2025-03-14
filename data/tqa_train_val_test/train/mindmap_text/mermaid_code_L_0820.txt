@@ -1,0 +1,37 @@
+mindmap
+  Carbohydrate Classification
+    Carbohydrates
+      Definition
+        Biochemical compounds
+        Contain carbon, hydrogen, oxygen
+        Main energy source for living things
+    Types of Carbohydrates
+      Sugars
+        Simple carbohydrates
+        Examples
+          Glucose
+          Fructose
+          Sucrose
+        Characteristics
+          Few carbon atoms
+          Produced by photosynthesis
+          Isomers
+      Starches
+        Complex carbohydrates
+        Polymers of glucose
+        Functions
+          Energy storage in plants
+          Source of energy for consumers
+      Cellulose
+        Complex carbohydrate
+        Polymer of glucose
+        Functions
+          Cell wall structure in plants
+          Provides dietary fiber
+    Comparison
+      Sugars vs. Starches
+        Structure
+        Function
+      Cellulose Structure
+        Bundled fibers
+        Role in plant support

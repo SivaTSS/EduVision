@@ -1,0 +1,41 @@
+mindmap
+  Seasons
+    Earth's Axis
+      Tilt
+        23.5 degrees
+      Rotation
+        Daily spin
+        Annual orbit
+    Solar Radiation
+      Variability
+        Equator
+        Northern Hemisphere
+        Southern Hemisphere
+    Solstices
+      Summer Solstice
+        Date: June 21/22
+        Northern Hemisphere
+          Sun at Tropic of Cancer
+          Longer days
+        Southern Hemisphere
+          Winter
+          Shorter days
+      Winter Solstice
+        Date: December 21/22
+        Northern Hemisphere
+          Sun at Tropic of Capricorn
+          Shorter days
+        Southern Hemisphere
+          Summer
+          Longer days
+    Equinoxes
+      Definition
+        Equal day and night
+      Dates
+        Autumnal: September 22/23
+        Vernal: March 21/22
+    Seasonal Effects
+      Northern Hemisphere
+        Summer and Winter
+      Southern Hemisphere
+        Opposite seasons

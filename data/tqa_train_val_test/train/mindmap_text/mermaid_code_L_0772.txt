@@ -1,0 +1,44 @@
+mindmap
+  Atom Structure
+    Atoms
+      Smallest particles of an element
+      Building blocks of matter
+      Consist of smaller particles
+    Nucleus
+      Center of the atom
+      Contains protons and neutrons
+      Most of the atom's mass
+    Atomic Particles
+      Protons
+        Positive charge
+        Unique to each element
+      Neutrons
+        No charge
+        Often equal to protons
+      Electrons
+        Negative charge
+        Equal to protons in neutral atoms
+    Atomic Number and Mass Number
+      Atomic Number
+        Number of protons
+        Unique for each element
+      Mass Number
+        Protons plus neutrons
+        Approximate mass in amu
+    Ions and Isotopes
+      Ions
+        Positive ions (cations)
+        Negative ions (anions)
+      Isotopes
+        Same element, different neutrons
+        Example: Carbon-12, Carbon-13
+    Quarks
+      Building blocks of protons and neutrons
+      Six types identified
+      Held together by gluons
+    Forces in Atoms
+      Electric force
+        Attraction between protons and electrons
+      Strong force
+        Holds nucleus together
+        Effective only at short distances

@@ -1,0 +1,27 @@
+mindmap
+  Heat Transfer in the Atmosphere
+    What Powers Our Weather?
+      Solar Radiation
+        Equator
+        Poles
+    Heat Transfer Mechanisms
+      Conduction
+        Direct Contact
+        Heat Movement
+          Areas of More Heat
+          Areas of Less Heat
+      Convection
+        Movement of Heated Materials
+        Convection Cells
+    Effects of Heat
+      Weather Patterns
+      Wind Formation
+    Earth's Tilt and Heating
+      Solar Radiation Distribution
+      Impact on Climate
+    Role of Water
+      Heat Energy Absorption
+      Heat Energy Release
+    Atmospheric Circulation
+      Driving Forces
+      Latitude Differences

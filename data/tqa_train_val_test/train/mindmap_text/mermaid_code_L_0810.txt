@@ -1,0 +1,32 @@
+mindmap
+  Metabolism
+    Definition
+      - Biochemical reactions in living organisms
+      - Sum of all biochemical reactions
+    Biochemical Reactions
+      - Types
+        - Catabolic Reactions
+          - Break bonds
+          - Release energy (exothermic)
+          - Example: Complex carbohydrates to simple sugars
+        - Anabolic Reactions
+          - Form bonds
+          - Absorb energy (endothermic)
+          - Example: Simple sugars to complex carbohydrates
+    Enzymes
+      - Role
+        - Increase reaction rate
+        - Reduce activation energy
+      - Characteristics
+        - Synthesized in cells
+        - Not changed in reactions
+        - Highly specific and efficient
+    Photosynthesis and Cellular Respiration
+      - Relationship
+        - Provide energy to organisms
+      - Photosynthesis
+        - Reactants: CO2 and H2O
+        - Products: O2 and glucose
+      - Cellular Respiration
+        - Reactants: O2 and glucose
+        - Products: CO2, H2O, and energy

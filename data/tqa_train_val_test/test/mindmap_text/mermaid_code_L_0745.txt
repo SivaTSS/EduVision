@@ -1,0 +1,37 @@
+mindmap
+  Scientific Investigation
+    Hypothesis
+      Forming a Hypothesis
+      Making Predictions
+    Experimentation
+      Designing an Experiment
+        Variables
+          Manipulated Variable
+          Responding Variable
+          Controlled Variables
+      Conducting the Experiment
+    Steps of Investigation
+      Identify Research Question
+      Gather Evidence
+      Analyze Evidence
+      Draw Conclusions
+      Communicate Results
+    Ethics in Research
+      Importance of Ethics
+      Ethical Rules
+        Honesty in Reporting
+        Avoiding Bias
+        Informed Consent
+        Humane Treatment of Animals
+    Measurement
+      Measuring Techniques
+      Temperature Scales
+        Fahrenheit
+        Celsius
+      Converting Temperatures
+    Communication of Results
+      Importance of Communication
+      Methods of Sharing
+        Peer-Reviewed Journals
+        Scientific Meetings
+        Public Outreach

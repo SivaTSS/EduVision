@@ -1,0 +1,23 @@
+mindmap
+  Reaction Rate
+    Definition
+      - How fast a chemical reaction occurs
+    Factors Influencing Reaction Rate
+      - Temperature
+        - Higher temperature increases reaction rate
+        - Particles move faster and collide more forcefully
+        - Example: Food spoilage
+      - Concentration
+        - Number of particles in a given volume
+        - Higher concentration increases reaction rate
+        - Example: Combustion with oxygen
+      - Surface Area
+        - More surface area increases reaction rate
+        - Example: Rusting of nails vs. solid iron
+      - Catalyst
+        - Substance that increases reaction rate
+        - Not consumed in the reaction
+        - Can catalyze multiple reactions
+    Collision Theory
+      - Explanation of how collisions affect reaction rates
+      - Relation to factors influencing reaction rate

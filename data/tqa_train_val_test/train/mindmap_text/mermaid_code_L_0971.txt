@@ -1,0 +1,26 @@
+mindmap
+  Nuclear Fusion
+    Definition
+      Process of combining small nuclei
+      Results in larger nucleus and energy release
+    Natural Occurrence
+      Happens in the sun and stars
+      Requires extremely high temperatures
+        Overcomes repulsion between nuclei
+    Energy Release
+      Form of energy released
+      Reaches Earth from the sun
+    Controlled Fusion
+      Scientists' goals
+        Develop fusion power plants
+        Convert fusion energy to electricity
+      Challenges
+        Achieving high temperatures
+        Containing plasma
+    Advantages
+      Harmless elements (hydrogen and helium)
+      Abundant hydrogen in ocean water
+      Potential for vast energy supply
+    Disadvantages
+      Current technology limitations
+      Difficulty in achieving necessary conditions

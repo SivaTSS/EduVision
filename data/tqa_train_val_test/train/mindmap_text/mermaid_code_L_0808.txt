@@ -1,0 +1,40 @@
+mindmap
+  Beta Decay
+    Types of Beta Decay
+      Beta-minus Decay
+        Definition
+        Process
+          Neutron to Proton
+          Electron Emission
+        Effects on Element
+      Beta-plus Decay
+        Definition
+        Process
+          Proton to Neutron
+          Positron Emission
+        Effects on Element
+    Nuclear Equations
+      Balancing Equations
+        Example: 14 C ? ?7 N + 01 e + energy
+        Importance of Subscripts and Superscripts
+      Nuclear Symbols
+        Beta-minus Particle
+          Symbol: 01 e
+          Charge and Mass
+        Thorium-234 Example
+          Symbol: 234 90 Th
+          Decay Reaction
+    Radioactive Decay
+      Definition
+      Types
+        Alpha Decay
+        Beta Decay
+        Gamma Decay
+      Emission of Energy and Particles
+    Effects of Beta Radiation
+      Harmful to Living Things
+      Penetration Ability
+        Air
+        Paper/Cloth
+        Aluminum/Wood
+        Skin Damage

@@ -1,0 +1,42 @@
+mindmap
+  Water Supply and Human Use
+    Daily Water Use
+      Drinking
+      Cooking
+      Cleansing
+      Agriculture
+      Industry
+      Municipal Uses
+    Importance of Water
+      Essential for Life
+      Water Cycle
+      Natural Resource
+    Human Water Usage
+      Agriculture
+        Irrigation
+        Crop Production
+      Industry
+        Chemical Processes
+        Electricity Generation
+        Cooling Machines
+      Municipal
+        Household Uses
+        Outdoor Uses
+    Water Scarcity
+      Causes
+        Droughts
+        Low Rainfall
+        Economic Factors
+      Consequences
+        Illness from Poor Quality
+        Food Shortages
+        Conflicts over Resources
+    Water Quality Issues
+      Pollution Sources
+      Health Risks
+      Treatment Options
+    Global Water Distribution
+      Freshwater vs. Saltwater
+      Access Disparities
+        Rich vs. Poor Nations
+      Climate Impact on Water Availability

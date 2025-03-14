@@ -1,0 +1,31 @@
+mindmap
+  Indoor Air Pollution
+    Health Concerns
+      Time Spent Indoors
+      Global Issue
+    Investigation
+      Four "Ps"
+        Problem
+        Purpose
+        Process
+        People
+      Importance
+    Pollutant Sources
+      Chemical Pollutants
+        Radon Gas
+        Formaldehyde
+        Volatile Organic Compounds (VOCs)
+        Secondhand Smoke
+        Carbon Monoxide
+        Dry Cleaning Fluids
+        Asbestos
+      Biological Pollutants
+        Pet Dander
+        Dust Mites
+        Mold
+        Pollen
+    Minimizing Exposure
+      Use Less Toxic Chemicals
+      Limit Pesticides and Cleaning Fluids
+      Ensure Fresh Air Circulation
+      Install Detectors

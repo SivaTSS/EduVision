@@ -1,0 +1,40 @@
+mindmap
+  Radioactive Decay
+    What is Radioactive Decay
+      Definition
+      Process of Emission
+      Stability of Nuclei
+    Types of Radioactive Decay
+      Alpha Decay
+        Emission
+          Alpha Particle
+          Energy
+        Element Change
+          Loses Two Protons
+      Beta Decay
+        Emission
+          Beta Particle
+          Energy
+        Element Change
+          Loses or Gains One Proton
+      Gamma Decay
+        Emission
+          Gamma Ray
+        Element Change
+          No Change in Proton Number
+    Effects on Living Things
+      Damage Levels
+        Alpha Decay
+          Least Damaging
+          Limited Travel Distance
+        Beta Decay
+          Moderate Damage
+          Can Penetrate Skin
+        Gamma Decay
+          Most Damaging
+          Extensive Travel Distance
+    Visual Representation
+      Chart of Materials
+        Paper
+        Aluminum
+        Lead

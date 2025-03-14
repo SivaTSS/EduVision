@@ -1,0 +1,45 @@
+mindmap
+  Cardiovascular Diseases
+    Atherosclerosis
+      Definition
+        Clogged arteries with plaque
+      Causes
+        High-fat diet
+        High cholesterol
+        Smoking
+        Obesity
+        Diabetes
+      Consequences
+        Heart attack
+        Stroke
+      Prevention
+        Healthy diet
+        Regular exercise
+        No smoking
+    Coronary Artery Disease
+      Definition
+        Buildup of plaque in coronary arteries
+      Symptoms
+        Chest pain (angina)
+      Consequences
+        Heart attack
+      Importance
+        Leading cause of death in the U.S.
+    Congestive Heart Failure
+      Definition
+        Heart's inability to pump blood effectively
+      Effects on the body
+        Fluid buildup
+        Shortness of breath
+    Stroke
+      Definition
+        Loss of brain function due to blood supply blockage
+      Risk Factors
+        Old age
+        High blood pressure
+        Previous stroke
+        Diabetes
+        High cholesterol
+        Smoking
+      Prevention
+        Maintain low blood pressure

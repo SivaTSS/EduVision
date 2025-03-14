@@ -1,0 +1,34 @@
+mindmap
+  Fossil Fuel Reserves
+    Oil
+      Importance
+        Greatness of oil
+        Time for natural formation
+        Time for human usage
+      Peak Oil
+        Definition
+        World crude oil production
+        Consequences
+    Fracking
+      Impact on fossil fuel situation
+      Requirements for fracking
+    Alternative Sources
+      Oil Shales
+        Definition
+        Extraction process
+      Tar Sands
+        Definition
+        Extraction process
+    Fossil Fuel Demand
+      Increasing need
+        Developed world consumption
+        Developing world demand
+    Environmental Concerns
+      Consequences of fossil fuel use
+      Need for alternative energy sources
+    Economic Factors
+      Response to high oil prices
+      Future inevitabilities
+    Resource Estimation
+      Challenges in calculating remaining fossil fuels
+      Timeframes for oil, natural gas, and coal

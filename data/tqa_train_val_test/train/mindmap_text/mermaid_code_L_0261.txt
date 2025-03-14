@@ -1,0 +1,42 @@
+mindmap
+  Ozone Depletion
+    Ozone in the Stratosphere
+      Function
+        Absorbs ultraviolet radiation
+        Protects Earth from UV rays
+    Ozone Molecule
+      Structure
+        Composed of three oxygen atoms (O3)
+      Formation
+        Oxygen atoms bond together
+    Interaction with Chlorine
+      Chlorine's Role
+        Breaks apart ozone molecules
+        Forms chlorine monoxide (ClO)
+      Consequences
+        Ozone loss increases UV radiation
+        One CFC can destroy 100,000 ozone molecules
+    CFCs and Ozone Depletion
+      Characteristics
+        Human-made chemicals
+        Used in various products
+      Mechanism
+        Float to stratosphere, break apart
+        React with ozone, leading to depletion
+    Ozone Hole
+      Definition
+        Area with significantly reduced ozone
+      Location
+        Primarily over Antarctica
+        Smaller effects in Northern Hemisphere
+    Consequences of Ozone Loss
+      Health Effects
+        Increased sunburns and skin cancers
+        Cataracts and immune system issues
+      Environmental Impact
+        Reduced crop yields
+        Decreased phytoplankton productivity
+    Global Response
+      Actions Taken
+        CFCs banned in some countries (1978)
+        Decline in CFC production since peak in 1986

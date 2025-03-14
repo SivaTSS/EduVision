@@ -1,0 +1,36 @@
+mindmap
+  Senses
+    Vision
+      Definition
+      Eye Function
+        Cornea
+        Pupil
+        Lens
+        Retina
+          Rods
+          Cones
+        Optic Nerve
+      Vision Problems
+        Myopia
+        Hyperopia
+        Astigmatism
+    Hearing
+      Ear Function
+        Sound Waves
+        Auditory Nerve
+        Balance
+          Semicircular Canals
+    Touch
+      Sensory Neurons
+      Pain, Pressure, Temperature
+    Taste
+      Taste Buds
+      Five Tastes
+    Smell
+      Odor Neurons
+      Role in Taste
+    Nervous System
+      Sensory Organs
+      Control of Body Systems
+    Endocrine System
+      Regulation of Body Functions

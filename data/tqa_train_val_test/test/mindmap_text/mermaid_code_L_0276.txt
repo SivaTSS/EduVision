@@ -1,0 +1,22 @@
+mindmap
+  Atmospheric Pressure and Density
+    Definition
+      What is Pressure?
+      Units of Pressure
+    Atmospheric Pressure
+      Force Creating Pressure
+      Greatest Pressure Location
+      Effects of Atmospheric Pressure
+        Why We Don't Collapse
+        Water in Glass Experiment
+        Importance of Atmospheric Pressure
+    Air Density
+      Density and Altitude
+        Decrease with Altitude
+        Relation to Temperature
+      Effects of Altitude Changes
+        Ears Popping
+        Gravity's Role
+    Properties of the Atmosphere
+      Variation with Elevation
+      Compression at Sea Level

@@ -1,0 +1,38 @@
+mindmap
+  Vertebrates
+    Traits
+      - Vertebral column
+      - Endoskeleton
+      - Organ systems
+      - Four defining traits
+        - Notochord
+        - Dorsal hollow nerve cord
+        - Post-anal tail
+        - Pharyngeal slits
+    Reproductive Strategies
+      - Ovipary
+      - Ovovivipary
+      - Vivipary
+    Classification
+      - Nine classes
+        - Fish
+          - Hagfish
+          - Lampreys
+          - Cartilaginous Fish
+          - Ray-Finned Fish
+          - Lobe-Finned Fish
+        - Amphibians
+        - Reptiles
+        - Birds
+        - Mammals
+    Evolution
+      - First vertebrates (550 million years ago)
+      - Evolution of classes
+        - Fish
+        - Amphibians
+        - Reptiles
+        - Birds
+        - Mammals
+      - Ectothermy vs. Endothermy
+        - Ectotherms: Fish, Amphibians, Reptiles
+        - Endotherms: Birds, Mammals

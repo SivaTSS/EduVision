@@ -1,0 +1,29 @@
+mindmap
+  Basic and Applied Science
+    Basic Research
+      Definition
+      Examples
+        - Understanding cholesterol production
+        - Investigating glucose metabolism
+      Subfields
+        - Cell Biology
+        - Genetics
+        - Molecular Biology
+        - Microbiology
+        - Physiology
+    Applied Research
+      Definition
+      Examples
+        - Medical treatments
+        - Wind energy technology
+      Relationship to Basic Research
+        - Application of basic knowledge to solve practical problems
+    Importance of Applied Science
+      Emphasis on practical applications
+      Impact on healthcare and technology
+    Reinvesting in Basic Research
+      Benefits
+        - Better physicians through biomedical research
+      Case Study
+        - BMPER discovery
+        - Origin of research type (basic or applied)

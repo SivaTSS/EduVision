@@ -1,0 +1,50 @@
+mindmap
+  Visible Light
+    Definition
+      Wavelengths detectable by the human eye
+      Importance for seeing objects and rainbows
+    Sources
+      Natural
+        Sunlight
+        Stars
+      Artificial
+        Incandescent bulbs
+        Fluorescent bulbs
+        Neon lights
+        LED lights
+    Interaction with Matter
+      Reflection
+      Refraction
+      Transmission
+      Absorption
+    Classification of Matter
+      Transparent
+        Example: Clear glass
+      Translucent
+        Example: Frosted glass
+      Opaque
+        Example: Wooden door
+    Colors of Light
+      Primary Colors
+        Red
+        Green
+        Blue
+      Secondary Colors
+        Yellow
+        Magenta
+        Cyan
+      Color Determination
+        Wavelengths reflected or transmitted
+    Luminescence
+      Incandescence
+      Types
+        Fluorescence
+        Electroluminescence
+        Bioluminescence
+    Pigments
+      Definition
+      Primary Pigments
+        Cyan
+        Magenta
+        Yellow
+      Role in color production

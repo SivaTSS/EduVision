@@ -1,0 +1,29 @@
+mindmap
+  Organic Compounds
+    Macromolecules
+      Proteins
+        Composition: C, H, O, N, S
+        Monomers: Amino acids
+        Functions: Enzymes, muscle fibers, antibodies
+        Unique Proteins: 100,000+ combinations
+      Carbohydrates
+        Composition: C, H, O
+        Monomers: Monosaccharides
+        Types: 
+          - Simple sugars (e.g., glucose)
+          - Polysaccharides (e.g., starch, glycogen)
+        Function: Energy storage
+      Lipids
+        Composition: C, H, O, P
+        Types: Fats, oils, waxes, steroids
+        Functions: Long-term energy storage, cell membranes
+      Nucleic Acids
+        Composition: C, H, O, P, N
+        Types: DNA, RNA, ATP
+        Functions: Genetic information storage, protein synthesis
+    Carbon's Importance
+      Versatility: Forms stable bonds
+      Building Blocks: Essential for macromolecules
+    Functional Groups
+      Role: Determine properties of organic compounds
+      Importance: Influence reactivity and solubility

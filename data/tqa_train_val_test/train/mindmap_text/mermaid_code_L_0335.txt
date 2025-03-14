@@ -1,0 +1,22 @@
+mindmap
+  Troposphere
+    Thickness
+      Relative to other layers
+      Thickest and thinnest locations
+    Composition
+      Contains most atmospheric matter
+    Temperature
+      Warmest part and reasons
+      Temperature gradient
+        Average lapse rate
+        Environmental lapse rate
+    Temperature Inversion
+      Definition
+      Formation
+        Over land at night or winter
+        Near coastal areas
+      Stability and effects
+        Trapping pollutants
+    Air Movement
+      Mixing of warm and cool air
+      Weather phenomena

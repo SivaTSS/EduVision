@@ -1,0 +1,45 @@
+mindmap
+  Bacteria
+    Abundance
+      Most abundant organisms on Earth
+      Found in various environments
+      Estimated 5 million trillion trillion
+    Classification
+      Based on shape
+        Bacilli (rod-shaped)
+        Cocci (sphere-shaped)
+        Spirilli (spiral-shaped)
+      Based on Gram stain
+        Gram-positive (purple)
+        Gram-negative (red)
+    Relationships with People
+      Beneficial roles
+        Decomposition of wastes
+        Digestion and vitamin production
+        Production of medical products
+        Gene therapy
+        Fuel production
+        Environmental cleanup
+        Fermentation of foods
+      Pathogenic roles
+        Definition of pathogens
+        Examples of diseases
+          Food poisoning
+          Strep throat
+          Lyme disease
+        Transmission methods
+          Direct contact
+          Contaminated food/water
+          Vectors (e.g., deer ticks)
+    Antibiotic Resistance
+      Treatment methods
+        High temperatures
+        Disinfectants
+        Antibiotic drugs
+      Evolution of resistance
+        Natural selection process
+        Challenges in treatment
+    Cyanobacteria
+      First appearance on early Earth
+      Impact on evolution
+      Oxygen production

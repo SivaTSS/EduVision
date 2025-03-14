@@ -1,0 +1,21 @@
+mindmap
+  Technological Design Constraints
+    Constraints
+      Physical Constraints
+        Natural Laws
+        Properties of Materials
+        Example: Kite Shape for Flight
+      Social Constraints
+        Ease of Use
+        Safety
+        Attractiveness
+        Cost
+        Example: Kite String Functionality
+    Trade-offs
+      Definition
+      Reasons for Trade-offs
+        No Design is Perfect
+      Examples
+        Cost vs. Effectiveness
+        Attractiveness vs. Safety
+        Size vs. Weight

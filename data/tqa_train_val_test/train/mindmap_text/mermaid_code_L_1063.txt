@@ -1,0 +1,48 @@
+mindmap
+  Vision and the Eye
+    Eye Structure
+      Sclera
+        - Opaque outer covering
+        - Protects the eye
+      Cornea
+        - Transparent outer covering
+        - Acts as a convex lens
+        - Focuses light
+      Pupil
+        - Opening in the front
+        - Controls light entry
+      Iris
+        - Colored part of the eye
+        - Controls pupil size
+      Lens
+        - Convex lens
+        - Fine-tunes focus
+        - Controlled by tiny muscles
+      Retina
+        - Membrane lining the back
+        - Contains rods and cones
+          - Rods: dim light sensing
+          - Cones: color sensing (red, green, blue)
+      Optic Nerve
+        - Carries signals to the brain
+    Vision Process
+      Light Gathering
+        - Light enters through eye structures
+        - Focused on retina
+      Signal Conversion
+        - Retina converts images to electrical signals
+      Brain Interpretation
+        - Visual cortex processes signals
+        - Interprets shape, color, brightness
+        - Corrects image orientation
+    Key Concepts
+      Vision Definition
+        - Ability to see
+      Eye and Brain Collaboration
+        - Both necessary for vision
+      Impact of Lens Shape
+        - Concave lens affects focus
+        - No signals sent to brain
+      Visual Cortex Role
+        - Processes visual information
+        -

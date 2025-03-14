@@ -1,0 +1,18 @@
+mindmap
+  Einsteins Equation and Conservation
+    Meaning of E = mc²
+      Matter and energy as forms of the same thing
+      Energy in small mass of matter
+    Importance of E = mc²
+      Best-known equation
+      Changed views on energy and matter
+      Supported by evidence over time
+    Relation to Nuclear Reactions
+      Matter changes to energy
+      Total mass and energy conserved
+      Fission and fusion processes
+        Loss of mass in reactions
+        Conversion of mass to energy
+      Conservation laws
+        Mass and energy are conserved together
+        Sum of mass and energy remains constant

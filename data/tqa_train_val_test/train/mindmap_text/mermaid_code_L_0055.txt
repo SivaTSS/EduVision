@@ -1,0 +1,44 @@
+mindmap
+  Sun
+    Characteristics
+      Type: Star
+      Mass: 99.8% of solar system
+      Composition: Mostly hydrogen and helium
+      State: Plasma
+    Structure
+      Inner Layers
+        Core
+          Temperature: ~15 million °C
+          Process: Nuclear fusion of hydrogen to helium
+        Radiative Zone
+          Temperature: ~4 million °C
+          Energy Transfer: Slow photon movement
+        Convection Zone
+          Process: Hot material rises, cools, and sinks
+      Atmosphere
+        Photosphere
+          Temperature: ~6000 °C
+          Visible surface
+        Chromosphere
+          Temperature: 4000 - 10,000 °C
+          Characteristics: Glows red, jets of gas
+        Corona
+          Temperature: 1 - 3 million K
+          Extent: Millions of kilometers into space
+    Energy
+      Generation
+        Source: Nuclear fusion in the core
+      Movement
+        Energy travels to outer layers
+    Surface Features
+      Sunspots
+        Characteristics: Cooler, darker areas
+        Cycle: 11-year cycle
+      Solar Flares
+        Description: Violent explosions, release energy
+        Effects: Dangerous to spacecraft, can disrupt communications
+      Solar Prominences
+        Description: Glowing arches of plasma
+        Duration: Last from a day to several months
+    Solar Wind
+      Danger: Can harm human life and technology

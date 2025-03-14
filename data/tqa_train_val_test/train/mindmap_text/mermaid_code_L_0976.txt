@@ -1,0 +1,47 @@
+mindmap
+  Optics
+    Definition
+      Study of visible light
+      Extends human vision
+      Applications in various tasks
+    Optical Instruments
+      General Function
+        Use of mirrors and lenses
+        Reflection and refraction of light
+        Formation of images
+      Types
+        Light Microscope
+          Compound Microscope
+            Objective lenses
+            Eyepiece lenses
+            Magnification
+            Advancements in scientific knowledge
+        Telescope
+          Types
+            Reflecting Telescope
+              Uses mirrors
+              Advantages over refracting telescopes
+            Refracting Telescope
+              Uses lenses
+        Camera
+          Function
+            Formation of images
+            Recording methods (film or digital)
+            Components (lens, aperture, shutter)
+    Laser Technology
+      Definition
+        Focused beam of light
+        Single wavelength and color
+      Production
+        Stimulated emission of photons
+        Role of mirrors in focusing light
+      Applications
+        Communication through optical fibers
+        Other uses (barcode scanners, CD players, surgery)
+    Optical Fibers
+      Function
+        Carry communication signals
+        Reflection of light within the fiber
+      Advantages
+        Strong signals over long distances
+        Multiple signals simultaneously

@@ -1,0 +1,50 @@
+mindmap
+  Arachnids
+    Characteristics
+      Four pairs of legs
+      Two additional pairs of appendages
+        Chelicerae
+        Pedipalps
+      No antennae or wings
+      Body structure
+        Cephalothorax
+        Abdomen
+      Internal breathing systems
+      Feeding habits
+        Carnivorous
+        Venomous species
+        Parasitic mites
+      Reproduction
+        Egg-laying
+        Live young in scorpions
+    Subgroups
+      Araneae
+        Representative Organisms: Spiders
+        Approximate Number of Species: 40,000
+        Characteristics
+          Produce silk
+          Inject venom
+          Few harmful to humans
+      Opiliones
+        Representative Organisms: Daddy-long-legs
+        Approximate Number of Species: 6,300
+        Characteristics
+          Long walking legs
+          No silk or poison
+          Omnivorous
+          Nocturnal and diurnal species
+      Scorpiones
+        Representative Organisms: Scorpions
+        Approximate Number of Species: 2,000
+        Characteristics
+          Tail with venom glands
+          Predators
+          Nocturnal
+          Live young
+      Acarina
+        Representative Organisms: Mites and ticks
+        Approximate Number of Species: 30,000
+        Characteristics
+          Small size
+          Parasitic
+          Disease transmission

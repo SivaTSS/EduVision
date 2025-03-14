@@ -1,0 +1,33 @@
+mindmap
+  Male Reproductive System
+    Functions
+      Producing Sperm
+      Secreting Testosterone
+    Organs
+      Penis
+        Urethra
+      Testes
+        Sperm Production
+        Testosterone Secretion
+      Epididymis
+        Sperm Maturation
+      Vas Deferens
+        Sperm Transport
+      Prostate Gland
+        Semen Formation
+    Sperm
+      Structure
+        Head
+          Nucleus
+          Acrosome
+        Connecting Piece
+          Mitochondria
+        Tail
+          Propulsion
+      Formation Process
+        Mitosis
+        Meiosis
+        Maturation in Epididymis
+    Comparison with Female Reproductive System
+      Functions
+      Organs

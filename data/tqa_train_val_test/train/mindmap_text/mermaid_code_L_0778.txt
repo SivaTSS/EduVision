@@ -1,0 +1,39 @@
+mindmap
+  Chemical Bonds
+    Definition
+      Chemical Bond
+        - Force of attraction between atoms
+        - Involves sharing or transferring electrons
+      Chemical Compound
+        - New substance formed from chemical bonds
+        - Fixed ratio of elements
+    Properties of Compounds
+      General Properties
+        - Consist of fixed ratios
+        - Different compounds have different properties
+    Types of Bonds
+      Ionic Bonds
+      Covalent Bonds
+      Metallic Bonds
+    Examples of Compounds
+      Water (H2O)
+        - 2 Hydrogen atoms
+        - 1 Oxygen atom
+      Hydrogen Chloride (HCl)
+        - 1 Hydrogen atom
+        - 1 Chlorine atom
+      Methane (CH4)
+        - 1 Carbon atom
+        - 4 Hydrogen atoms
+      Hydrogen Peroxide (H2O2)
+        - 2 Hydrogen atoms
+        - 2 Oxygen atoms
+      Carbon Dioxide (CO2)
+        - 1 Carbon atom
+        - 2 Oxygen atoms
+      Carbon Monoxide (CO)
+        - 1 Carbon atom
+        - 1 Oxygen atom
+    Importance of Ratios
+      Different ratios lead to different compounds
+      Example: Water vs. Hydrogen Peroxide

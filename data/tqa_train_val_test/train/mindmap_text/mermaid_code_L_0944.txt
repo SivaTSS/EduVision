@@ -1,0 +1,28 @@
+mindmap
+  Magnetism
+    What is a Magnet?
+      Definition
+      Attracts materials (e.g., iron)
+    Magnetic Poles
+      North Pole
+        Red end
+        Strongest region
+      South Pole
+        Blue end
+        Strongest region
+      Behavior when cut
+        Each piece retains both poles
+    Magnetic Force
+      Definition
+      Exerted over distance
+      Types
+        Attraction
+        Repulsion
+    Magnetic Field
+      Surrounds the magnet
+      Visualization with iron filings
+      Interaction with compasses
+    Interaction of Magnets
+      Attraction between opposite poles
+      Repulsion between like poles
+      Visual representation of lines of force

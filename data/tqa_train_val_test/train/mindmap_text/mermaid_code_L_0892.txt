@@ -1,0 +1,35 @@
+mindmap
+  Energy Conversion
+    Law of Gravity
+      Definition
+        Attraction between objects
+        Does not require contact
+      Effects
+        Pulls objects toward Earth's center
+        Keeps moons and satellites in orbit
+        Holds planets around the Sun
+      Characteristics
+        Invisible force
+        Acts over large distances
+        Weaker with distance
+    Everyday Experience
+      Familiarity with Earth's gravity
+      Effects of no gravity
+        Earth’s rotation and orbit
+        Potential to "fly off" Earth
+      Gravity's influence
+        Pulls on objects in the sky and space
+        Keeps the Moon in orbit
+        Holds artificial satellites
+    Overcoming Gravity
+      Historical perspective
+        "What goes up must come down"
+      Modern advancements
+        Spacecraft overcoming gravity
+      Daily experiences
+        Climbing stairs
+        Jumping on a trampoline
+        Applying force larger than gravity
+    Questions
+      Traditional definition of gravity
+      Factors influencing gravity strength

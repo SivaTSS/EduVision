@@ -1,0 +1,41 @@
+mindmap
+  Endocrine System
+    Definition
+      Glands
+      Hormones
+    Major Glands
+      Hypothalamus
+        Connection to Nervous System
+        Hormone Secretion
+      Pituitary Gland
+        Master Gland
+        Hormones
+          ACTH
+          TSH
+          GH
+          FSH
+          LH
+          PRL
+      Thyroid Gland
+        Hormones
+          Thyroxin
+      Pancreas
+        Hormones
+          Insulin
+      Adrenal Glands
+        Hormones
+          Adrenaline
+      Gonads
+        Male: Testes
+          Hormone: Testosterone
+        Female: Ovaries
+          Hormone: Estrogen
+    Hormone Function
+      Target Cells
+      Feedback Loops
+        Negative Feedback
+    Endocrine Diseases
+      Hypothyroidism
+      Gigantism
+      Type 1 Diabetes
+        Immune System Involvement

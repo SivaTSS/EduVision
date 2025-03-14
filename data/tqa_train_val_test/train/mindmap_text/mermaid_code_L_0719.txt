@@ -1,0 +1,43 @@
+mindmap
+  Nuclear Energy
+    Nuclear Reactions
+      Nuclear Fission
+        Definition
+          Splitting of nucleus
+        Energy Release
+          Large energy from small matter
+        Process
+          Neutron absorption
+          Chain reaction
+        Applications
+          Electricity generation
+          Nuclear power plants
+        Risks
+          Radiation hazards
+          Radioactive waste
+      Nuclear Fusion
+        Definition
+          Combining of nuclei
+        Energy Release
+          More energy than fission
+        Challenges
+          High temperature requirement
+          Plasma containment
+        Potential
+          Abundant hydrogen source
+          Clean energy
+    Einstein's Equation
+      E = mc²
+        Relationship of mass and energy
+        Energy from nuclear reactions
+        Conservation of mass and energy
+    Energy Production
+      Current U.S. Energy Sources
+        Fossil fuels
+        Nuclear energy
+      Advantages of Nuclear Energy
+        Low pollution
+        High energy output
+      Controversies
+        Support for nuclear power
+        Opposition to nuclear power

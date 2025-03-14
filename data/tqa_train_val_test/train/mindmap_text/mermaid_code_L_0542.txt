@@ -1,0 +1,42 @@
+mindmap
+  Heart
+    Chambers
+      Atria
+        Right Atrium
+          Receives oxygen-poor blood
+        Left Atrium
+          Receives oxygen-rich blood
+      Ventricles
+        Right Ventricle
+          Pumps oxygen-poor blood to lungs
+        Left Ventricle
+          Pumps oxygen-rich blood to body
+    Blood Flow
+      Direction
+        Atria to Ventricles
+        Ventricles to Body
+      Loops
+        Right Side Loop
+          Collects oxygen-poor blood
+          Pumps to lungs
+        Left Side Loop
+          Collects oxygen-rich blood
+          Pumps to body
+    Valves
+      Atrioventricular Valves
+        Tricuspid Valve
+          Between right atrium and right ventricle
+        Mitral Valve
+          Between left atrium and left ventricle
+      Semilunar Valves
+        Pulmonary Valve
+          Between right ventricle and pulmonary artery
+        Aortic Valve
+          Between left ventricle and aorta
+    Function
+      Circulatory System
+        Transports oxygen and nutrients
+        Removes waste products
+      Heart's Role
+        Pumps blood
+        Maintains blood flow direction

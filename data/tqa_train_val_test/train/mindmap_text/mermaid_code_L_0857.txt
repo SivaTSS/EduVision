@@ -1,0 +1,26 @@
+mindmap
+  Descriptive Statistics
+    What are Descriptive Statistics?
+      Definition
+      Importance
+    Measures of Central Tendency
+      Mean
+        Definition
+        Calculation
+      Median
+        Definition
+        Calculation
+      Mode
+        Definition
+        Calculation
+    Variation in a Sample
+      Range
+        Definition
+        Calculation
+    Examples
+      Sample Data
+        Heights of Children
+          Mean
+          Median
+          Mode
+          Range

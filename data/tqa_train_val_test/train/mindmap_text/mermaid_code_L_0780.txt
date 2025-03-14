@@ -1,0 +1,35 @@
+mindmap
+  Covalent Bonds
+    Definition
+      - Atoms share electrons
+      - Covalent compounds
+    Formation
+      - Attraction between shared electrons and nuclei
+      - Nonmetals only
+      - Same or different elements
+    Types of Covalent Bonds
+      - Polar Covalent Bonds
+        - Unequal sharing of electrons
+        - Slightly negative and positive charges
+        - Example: Water (H2O)
+      - Nonpolar Covalent Bonds
+        - Equal sharing of electrons
+        - Neutral charge
+        - Example: Oxygen (O2)
+    Properties of Covalent Compounds
+      - Low melting and boiling points
+      - Poor conductors of electricity
+      - Individual molecules vs. crystals
+      - Solubility in water
+    Polar vs Nonpolar Compounds
+      - Polar compounds have polar bonds
+      - Arrangement affects polarity
+      - Example: Formaldehyde vs Carbon Dioxide
+    Hydrogen Bonds
+      - Attraction between polar molecules
+      - Example: Water molecules
+      - Affects melting and boiling points
+    Naming Covalent Compounds
+      - Element order based on periodic table
+      - Suffix "ide" for second element
+      - Use of prefixes (di-, tri-)

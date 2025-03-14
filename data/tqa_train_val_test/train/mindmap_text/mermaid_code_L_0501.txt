@@ -1,0 +1,33 @@
+mindmap
+  Digestive System Organs
+    Main Organs
+      Mouth
+        Function: Starts digestion
+        Process: Saliva and enzymes released
+        Mechanical Digestion: Chewing
+      Esophagus
+        Function: Transports food to stomach
+        Process: Peristalsis
+      Stomach
+        Function: Breaks down food
+        Process: Mixes food with enzymes
+        Absorption: Water, salt, simple sugars
+      Small Intestine
+        Function: Chemical digestion and nutrient absorption
+        Length: About 23 feet
+        Villi: Increase surface area for absorption
+      Large Intestine
+        Function: Absorbs water, forms feces
+        Length: About 5 feet
+        Process: Waste moves in liquid state, solidifies
+    Accessory Organs
+      Liver
+        Function: Produces bile for fat digestion
+      Gallbladder
+        Function: Stores bile
+        Interaction: Works with liver to aid digestion
+      Pancreas
+        Function: Secretes enzymes for digestion
+    Peristalsis
+      Definition: Involuntary muscle contractions
+      Importance: Moves food through digestive system

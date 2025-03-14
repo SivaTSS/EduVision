@@ -1,0 +1,46 @@
+mindmap
+  Modern Genetics
+    Link Between Genotype and Phenotype
+      Genotype
+        Definition
+        Study Focus
+      Phenotype
+        Observable Traits
+      Geneticists' Questions
+        Gene Function
+        Gene Manipulation
+    iPlant Genotype to Phenotype
+      Complex Phenotypes
+        Single Gene Influence
+      DNA Analysis
+        Rapid Advances
+        Future Applications
+      Investigated Traits
+        Phenotypic Plant Traits
+        Selection Rationale
+    Alleles
+      Definition
+      Types of Alleles
+        Dominant
+        Recessive
+      Genotype vs Phenotype
+        Homozygous
+        Heterozygous
+        Examples
+    Mendel's Contributions
+      Hereditary Factors
+        Alleles
+      Genetic Material
+        DNA and Chromosomes
+      Modern Understanding
+        Connection to Mendel
+        Unanswered Questions
+    Genotype and Phenotype Relationship
+      Genotype Description
+        Combinations
+        Homozygous vs Heterozygous
+      Phenotype Description
+        Expression of Traits
+      Same Phenotype, Different Genotype
+        Examples
+        Recessive Expression

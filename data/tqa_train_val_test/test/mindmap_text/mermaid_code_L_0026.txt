@@ -1,0 +1,32 @@
+mindmap
+  Weather Changes
+    Air Masses
+      Definition
+      Types
+        Continental Polar
+        Maritime Tropical
+      Movement
+        Causes
+        Effects on Weather
+    Fronts
+      Definition
+      Types
+        Cold Front
+          Characteristics
+          Weather Effects
+        Warm Front
+          Characteristics
+          Weather Effects
+        Occluded Front
+          Characteristics
+          Weather Effects
+        Stationary Front
+          Characteristics
+          Weather Effects
+    Cyclones and Anticyclones
+      Cyclone
+        Definition
+        Weather Effects
+      Anticyclone
+        Definition
+        Weather Effects

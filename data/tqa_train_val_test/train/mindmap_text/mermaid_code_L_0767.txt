@@ -1,0 +1,42 @@
+mindmap
+  Matter Types
+    Properties of Matter
+      Physical Properties
+      Chemical Properties
+    Pure Substances
+      Elements
+        Definition
+        Examples
+          Hydrogen
+          Oxygen
+          Iron
+          Nickel
+      Compounds
+        Definition
+        Molecules
+          Definition
+          Example: Water
+        Crystals
+          Definition
+          Example: Table Salt
+    Mixtures
+      Definition
+      Types of Mixtures
+        Homogeneous
+          Example: Salt Water
+        Heterogeneous
+          Example: Trail Mix
+      Particle Size
+        Solutions
+          Definition
+          Example: Salt Water
+        Suspensions
+          Definition
+          Example: Muddy Water
+        Colloids
+          Definition
+          Example: Homogenized Milk
+    Separation Techniques
+      Physical Properties
+        Example: Oil and Water
+        Example: Coffee Filter

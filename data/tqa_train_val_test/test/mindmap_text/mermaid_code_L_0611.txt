@@ -1,0 +1,30 @@
+mindmap
+  Natural Selection
+    Sources of Variation
+      Family Resemblance
+      Species Variation
+      Gene Variants
+      Common Mutations
+        Example 1
+        Example 2
+        Example 3
+      Environmental Influence
+        Mutations and Environment
+    Mechanisms of Variation
+      Recombination in Sexual Reproduction
+    Natural Selection Process
+      Definition
+      Adaptation
+      Requirements
+        Variation in Traits
+        Advantageous Traits
+        Offspring Survival
+    Evolutionary Theory
+      Inherited vs. Acquired Traits
+      Change Over Time
+      Example: Arctic Hares
+      Example: Galapagos Tortoises
+    Importance of Diversity
+      Species Count
+      Adaptation to Environments
+      Survival of Organisms

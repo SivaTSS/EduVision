@@ -1,0 +1,37 @@
+mindmap
+  Energy Types
+    Definition
+      Ability to do work
+      Measured in joules (J)
+    Kinetic Energy
+      Definition
+        Energy of moving matter
+      Calculation
+        KE = 1/2 mass * velocity^2
+      Examples
+        Hammer pounding a nail
+        Moving objects (e.g., people, vehicles)
+    Potential Energy
+      Definition
+        Stored energy due to position or shape
+      Types
+        Gravitational Potential Energy
+          Depends on weight and height
+          Calculation: GPE = weight * height
+          Examples
+            Leaves on trees
+            Diver on a diving board
+        Elastic Potential Energy
+          Result of stretching or compressing
+          Examples
+            Rubber bands
+            Springs
+    Energy Conversion
+      Definition
+        Change from one type of energy to another
+      Examples
+        Diver's potential energy to kinetic energy
+        Swings and trampolines
+    Conservation of Energy
+      Energy is conserved during conversions
+      Some energy lost as heat due to friction

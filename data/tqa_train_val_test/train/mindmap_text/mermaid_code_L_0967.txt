@@ -1,0 +1,29 @@
+mindmap
+  Newtons Third Law of Motion
+    Definition
+      Statement: Every action has an equal and opposite reaction
+      Forces: Act in pairs
+    Action and Reaction
+      Examples
+        Astronauts in Video
+          Action: Astronaut pushes off
+          Reaction: Movement in opposite direction
+          Effect of Battery Pack: Affects motion
+        Newton's Cradle
+          Description: Demonstrates action and reaction
+        Space Vehicles
+          Application: Action and reaction forces for blast off
+    Forces Representation
+      Arrows
+        Direction: Indicates force direction
+        Size: Represents force strength
+      Skateboard Example
+        Action: Jerod pushes against ground
+        Reaction: Jerod moves forward
+    Force Dynamics
+      Non-Balanced Forces
+        Explanation: Action-reaction forces act on different objects
+        Comparison: Balanced forces cancel out, action-reaction do not
+      Daily Life Examples
+        Leaning on Objects: Applying force to wall/locker
+        Reaction: Wall/locker applies equal and opposite force

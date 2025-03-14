@@ -1,0 +1,22 @@
+mindmap
+  Static Electricity and Static Discharge
+    What is Static Electricity?
+      Definition
+      Buildup of Electric Charges
+      Transfer of Electrons
+    How Does Static Discharge Occur?
+      Definition of Static Discharge
+      Examples
+        Lightning
+        Electric Shock
+      Process of Discharge
+        Approach of Charged Object
+        Flow of Electrons
+    Lightning as Static Discharge
+      Cloud Charge Distribution
+        Negative Charges at Cloud Base
+        Positive Charges at Cloud Top
+      Ground Charge Interaction
+      Discharge Process
+        Air as Insulator
+        Formation of Lightning

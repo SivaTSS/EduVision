@@ -1,0 +1,28 @@
+mindmap
+  Metallic Bonding
+    Electricity
+      Definition
+      Conductivity of Metals
+    Properties of Metals
+      Metallic Bonds
+        Definition
+        Lattice Structure
+        Valence Electrons
+      Conductivity
+        Electricity
+        Other Conductivities
+      Ductility and Malleability
+        Bending without Breaking
+        Examples
+    Formation of Metallic Bonds
+      Metal vs Nonmetals
+        Electron Behavior
+        Ion Formation
+      Reasons for Bonding
+        Low Electronegativity
+        Free Movement of Electrons
+    Practical Demonstrations
+      Using a Pop Can
+      Metalworker's Techniques
+        Heating Iron
+        Hammering Process

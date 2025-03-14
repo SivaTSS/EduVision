@@ -1,0 +1,58 @@
+mindmap
+  Nervous System
+    Definition and Functions
+      Complex network of nervous tissue
+      Functions
+        Control muscles
+        Maintain balance
+        Sense environments
+        Maintain homeostasis
+        Prepare for emergencies
+        Higher mental functions
+    Neurons and Nerve Impulses
+      Structure of Neurons
+        Cell body
+        Dendrites
+        Axon
+      Types of Neurons
+        Sensory neurons
+        Motor neurons
+        Interneurons
+      Nerve Impulse Transmission
+        Synapses
+        Neurotransmitters
+    Central Nervous System (CNS)
+      Components
+        Brain
+          Major Parts
+            Cerebrum
+            Cerebellum
+            Brain Stem
+        Spinal Cord
+          Function
+            Two-way communication
+    Peripheral Nervous System (PNS)
+      Divisions
+        Sensory Division
+          Function
+            Carries messages to CNS
+        Motor Division
+          Function
+            Carries messages from CNS
+          Subdivisions
+            Autonomic (involuntary)
+              Sympathetic
+              Parasympathetic
+            Somatic (voluntary)
+    Nervous System Diseases and Injuries
+      Diseases
+        Infections
+          Encephalitis
+          Meningitis
+        Epilepsy
+        Stroke
+        Alzheimer's Disease
+      Injuries
+        Concussions
+        Spinal Cord Damage
+    Effects of Drugs on the Nervous

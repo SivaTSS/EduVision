@@ -1,0 +1,45 @@
+mindmap
+  Acid Rain
+    Causes
+      Nitrogen Compounds
+      Sulfur Compounds
+      Emissions from Power Plants
+      Tall Smokestacks
+    Formation
+      Combination with Water Vapor
+      Acid Droplets
+      Types of Acid Precipitation
+        Acid Fog
+        Acid Rain
+        Dry Deposition
+    Measurement
+      pH Scale
+        Normal Rain (pH 5.6)
+        Acid Rain (pH < 5.0)
+        Acidity Comparison
+          pH 4.6 (10x more acidic)
+          pH 3.6 (100x more acidic)
+    Effects on Ecosystems
+      Plant Weakness
+      Animal Impact
+        Snails and Songbirds
+        Young Birds and Mammals
+      Aquatic Life
+        Fish Survival (pH < 4.5)
+        Lake Ecosystems
+    Cultural Impact
+      Damage to Monuments
+        U.S. Capitol
+        Westminster Abbey
+    Regional Variations
+      Vulnerable Areas
+        Northeastern U.S.
+        Czech Republic
+      Neutralizing Effects
+        Carbonate Rocks
+        Limestone Regions
+    International Issues
+      Cross-Border Pollution
+      Sweden's Acid Rain
+      Canada and U.S. Emissions
+      Southeast Asia's Industrialization

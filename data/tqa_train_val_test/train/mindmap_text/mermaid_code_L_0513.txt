@@ -1,0 +1,28 @@
+mindmap
+  Excretion
+    Definition
+      - Process of removing wastes from the body
+    Organs Involved
+      - Kidneys
+        - Filter blood to form urine
+        - Remove urea, salts, and excess water
+      - Large Intestine
+        - Turns food remains into solid waste
+        - Removes solid waste and some water
+      - Skin
+        - Removes water, salts, and other wastes
+      - Lungs
+        - Remove carbon dioxide
+        - Part of the respiratory system
+    Waste Removal
+      - Forms of waste
+        - Gas (carbon dioxide)
+        - Liquid (urine, sweat)
+        - Solid (feces)
+      - Urine Composition
+        - Excess water
+        - Salts
+        - Nitrogen
+    Homeostasis
+      - Maintains balance in body fluids
+      - Urine color indicates hydration level

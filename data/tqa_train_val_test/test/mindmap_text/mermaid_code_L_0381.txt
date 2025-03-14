@@ -1,0 +1,44 @@
+mindmap
+  Animal Behavior
+    Definition
+      Interaction with environment
+      Interaction with other animals
+    Types of Behavior
+      Innate Behavior
+        Definition
+        Examples
+          Honeybee waggle dance
+          Grasp reflex in humans
+      Learned Behavior
+        Definition
+        Examples
+          Dog sitting on command
+        Learning Methods
+          Habituation
+            Definition
+            Example: Crows and scarecrow
+          Observational Learning
+            Definition
+            Example: Wolves hunting
+          Conditioning
+            Definition
+            Examples
+              Reward: Dog training
+              Punishment: Avoiding monarch butterflies
+          Learning through Play
+            Definition
+            Examples
+              Bear cubs play fighting
+              Young deer escaping predators
+          Insight Learning
+            Definition
+            Examples
+              Tool use in monkeys and crows
+    Evolution of Behavior
+      Natural Selection
+        Fitness and survival
+        Innate behaviors as instincts
+        Role of genes in behavior
+    Communication
+      Purpose of communication
+      Methods of communication

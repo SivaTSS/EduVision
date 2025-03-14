@@ -1,0 +1,21 @@
+mindmap
+  %% Central Topic
+  Igneous Landforms and Geothermal Activity
+    Landforms Created by Lava
+      Lava Domes
+      Lava Plateaus
+      Ocean Floor
+      Islands
+    Magma and Landform Creation
+      Intrusive Igneous Activity
+      Extrusive Igneous Activity
+    Hot Springs and Geysers
+      Formation Processes
+      Materials Ejected
+    Yellowstone National Park
+      Visitor Attraction
+      Old Faithful Geyser
+      Future of Geysers
+    Effects of Tectonic Plates
+      Surface Differences
+      Comparison with Other Planets

@@ -1,0 +1,32 @@
+mindmap
+  Urinary System
+    Components
+      - Kidneys
+      - Ureters
+      - Bladder
+      - Urethra
+    Functions
+      - Filters blood
+      - Forms urine
+      - Stores urine
+    Differences
+      - Urinary System vs Excretory System
+        - Urinary System: kidneys, ureters, bladder, urethra
+        - Excretory System: includes skin, lungs, large intestine
+    Urine Composition
+      - Water
+      - Salts
+      - Nitrogen-containing molecules
+    Urine Characteristics
+      - Color range: colorless to dark yellow
+      - Light yellow: mostly water
+      - Darker: less water
+    Waste Removal
+      - Urea
+        - Produced from protein breakdown
+        - Carried to kidneys for removal
+    Anatomy Overview
+      - Kidneys: bean-shaped, located below ribcage
+      - Ureters: tube-shaped, transport urine
+      - Bladder: muscular, collects urine
+      - Urethra: exits urine from body

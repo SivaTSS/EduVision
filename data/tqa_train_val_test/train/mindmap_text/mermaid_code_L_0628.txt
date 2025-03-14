@@ -1,0 +1,29 @@
+mindmap
+  PNS
+    Peripheral Nervous System
+      Definition
+        Nerves outside the CNS
+        Includes nerves of limbs and organs
+      Divisions
+        Sensory Division
+          Role
+            Carries messages from sense organs to CNS
+          Sensory Neurons
+            Receive stimuli from environment
+            Examples: sight, hearing, touch
+        Motor Division
+          Role
+            Carries messages from CNS to muscles and organs
+          Subdivisions
+            Somatic Nervous System
+              Controls voluntary movements
+              Example: playing the violin
+            Autonomic Nervous System
+              Controls involuntary functions
+              Subdivisions
+                Sympathetic Division
+                  "Fight or Flight" response
+                  Prepares body for emergencies
+                Parasympathetic Division
+                  "Rest and Digest" response
+                  Controls body during rest

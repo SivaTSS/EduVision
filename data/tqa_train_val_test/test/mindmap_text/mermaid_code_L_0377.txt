@@ -1,0 +1,44 @@
+mindmap
+  Reptiles
+    Definition
+      Ectothermic vertebrates
+      Produce amniotic eggs
+    Classification
+      Four orders
+        Crocodilia
+          Traits
+            Crocodiles, alligators, caimans, gharils
+            Fast runners, strong jaws
+        Sphenodontia
+          Traits
+            Tuataras
+            Least specialized reptiles
+        Squamata
+          Traits
+            Lizards and snakes
+            Flexible jaws, color change
+        Testudines
+          Traits
+            Turtles, tortoises, terrapins
+            Hard shell, four legs
+    Terrestrial Adaptations
+      Amniotic eggs
+      Scales made of keratin
+      Efficient lungs
+      Circulatory system
+      Centralized nervous system
+    Reproduction
+      Sexual reproduction
+      Internal fertilization
+      Oviparous
+      Minimal parental care
+    Habitat
+      Aquatic and terrestrial
+      Found on all continents except Antarctica
+    Diet
+      Carnivores
+      Herbivores
+      Omnivores
+    Ecosystem Roles
+      Top predators
+      Prey on various animals

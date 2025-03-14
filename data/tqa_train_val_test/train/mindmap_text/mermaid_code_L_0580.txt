@@ -1,0 +1,46 @@
+mindmap
+  Healthy Bones and Joints
+    Calcium
+      Daily Requirement
+        Teenagers: 1300 mg
+      Good Sources
+        Dairy: Milk, Yogurt, Cheese
+        Non-Dairy: Chinese Cabbage, Kale, Broccoli
+        Fortified Foods: Juices, Tofu, Cereals
+      Vitamin D
+        Sources
+          Sunlight
+          Foods: Fish, Fortified Milk, Cereals
+        Daily Requirement
+          Teenagers: 5 micrograms (200 IU)
+    Weight-Bearing Exercises
+      Benefits
+        Strengthens Bones
+        Increases Bone Density
+      Examples
+        Basketball
+        Tennis
+        Gymnastics
+        Karate
+        Running
+        Walking
+    Skeletal System Issues
+      Osteoporosis
+        Definition: Loss of bone mass, fragility
+        Prevention: Diet, Exercise
+      Osteoarthritis
+        Definition: Cartilage breakdown, joint pain
+        Contributing Factors: Aging, Injuries, Obesity
+      Fractures
+        Causes: Excess bending stress
+        Healing Process
+          Swelling and soreness
+          Bone cell repair
+      Sprains
+        Definition: Ligament injuries
+        Common Type: Ankle sprains
+    Injury Prevention
+      Safety Equipment
+        Bicycle Helmets
+      Warm-Up and Cool-Down
+      Stretching

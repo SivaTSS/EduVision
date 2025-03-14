@@ -1,0 +1,33 @@
+mindmap
+  Fish
+    Characteristics
+      Ectothermic
+      Scales
+      Fins
+        Paired Fins
+        Unpaired Fins
+      Streamlined Body
+    Classes of Fish
+      Agnatha (Jawless Fish)
+      Chondrichthyes (Cartilaginous Fish)
+      Osteichthyes (Bony Fish)
+    Breathing
+      Gills
+        Oxygen Absorption
+        Countercurrent Gas Exchange
+    Reproduction
+      Sexual Reproduction
+        Egg Fertilization
+        High Egg Production
+    Importance to Humans
+      Food Source
+      Aquaculture
+      Recreational Fishing
+    Special Adaptations
+      Lung Fish
+        Oxygen Acquisition
+        Heat and Drought Escape
+      Warm-blooded Adaptations
+        Tuna
+        Swordfish
+        Sharks

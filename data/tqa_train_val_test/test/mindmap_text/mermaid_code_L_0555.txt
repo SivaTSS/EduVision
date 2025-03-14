@@ -1,0 +1,26 @@
+mindmap
+  Vision
+    How the Human Eye Works
+      Cornea
+      Pupil
+        Expansion
+        Contraction
+      Retina
+        Cells
+          Rods
+          Cones
+        Differences
+    Understanding Vision
+      Definition
+      Importance of Depth Perception
+      Importance of Color Vision
+    Human Vision Characteristics
+      Three-Dimensional Vision
+      Color Vision
+      Comparison with Other Animals
+        Raptors
+        Night Vision
+    Evolution of Vision in Primates
+      Tree-Dwelling Adaptations
+        Depth Perception for Safety
+        Color Vision for Food

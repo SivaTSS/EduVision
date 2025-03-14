@@ -1,0 +1,29 @@
+mindmap
+  Cardiovascular System Health
+    Healthy Heart
+      Daily Recommendations
+        Fruits and Vegetables
+        Physical Activity
+        Sleep
+      Preventable Heart Disease
+    Risk Factors
+      Uncontrollable
+        Age
+        Gender
+        Genetics
+      Controllable
+        Tobacco Smoking
+        Diabetes
+        High Cholesterol
+          Bad Cholesterol (LDL)
+          Good Cholesterol (HDL)
+        Obesity
+        High Blood Pressure
+        Lack of Physical Activity
+        Poor Eating Habits
+    Lifestyle Changes
+      Exercise
+        60 Minutes of Aerobic Activity
+      Diet
+        Low Saturated Fat
+        Low Dietary Cholesterol

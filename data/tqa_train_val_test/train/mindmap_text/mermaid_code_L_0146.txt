@@ -1,0 +1,36 @@
+mindmap
+  Earths Shape
+    Reasons for Spherical Earth
+      Reason 1
+      Reason 2
+      Reason 3
+      Reason 4
+      Reason 5
+      Reason 6
+      Reason 7
+      Reason 8
+      Reason 9
+      Reason 10
+    Evidence Against Flat Earth
+      Evidence from Hemispheres
+        Northern Hemisphere
+        Southern Hemisphere
+        Eastern Hemisphere
+        Western Hemisphere
+      Evidence from Ancient Greeks
+        Lunar Eclipse Shadow
+        Boat Disappearance
+    Earth's Shape
+      Definition
+        Sphere
+        Oblate Spheroid
+      Characteristics
+        Minor Axis
+        Major Axis
+        Bulge at Equator
+    Observational Evidence
+      Ship Experiment
+      Curvature Observation
+    Comparison with Other Celestial Bodies
+      Spherical Planets
+      Larger Satellites

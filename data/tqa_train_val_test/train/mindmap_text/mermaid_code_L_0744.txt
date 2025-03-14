@@ -1,0 +1,29 @@
+mindmap
+  Wave Interactions and Interference
+    Sound Waves
+      Echo
+        Definition
+        Example
+      Reflection
+        Definition
+        Example
+        Properties
+      Refraction
+        Definition
+        Example
+        Properties
+      Diffraction
+        Definition
+        Example
+        Factors Affecting Diffraction
+    Wave Interference
+      Types
+        Constructive Interference
+          Definition
+          Effect on Amplitude
+        Destructive Interference
+          Definition
+          Effect on Amplitude
+      Standing Waves
+        Definition
+        Formation

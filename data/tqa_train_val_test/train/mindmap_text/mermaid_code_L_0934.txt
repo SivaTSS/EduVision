@@ -1,0 +1,42 @@
+mindmap
+  Kinetic Theory of Matter
+    Motion of Particles
+      Ice
+        Least kinetic energy
+        Particles vibrate in place
+      Liquid Water
+        Moderate kinetic energy
+        Particles slide past each other
+      Water Vapor
+        Most kinetic energy
+        Particles spread apart
+    Kinetic Theory Principles
+      Constant motion of particles
+      Kinetic energy definition
+        Energy of motion
+      Relationship to state of matter
+        Solids
+          Fixed volume and shape
+          Particles closely packed
+        Liquids
+          Fixed volume, changing shape
+          Particles can slide
+        Gases
+          No fixed volume or shape
+          Particles can spread out
+    Energy and Matter
+      Energy as ability to cause change
+      Kinetic energy in moving matter
+      Example: Lifting an arm
+    Demonstration with Cola
+      Shaking bottle
+        Carbon dioxide changes to gas
+        Gas particles spread out
+      Pouring cola
+        Liquid particles slide over each other
+      Solid glass remains unchanged
+    Visual Representation
+      Figure 1.1
+        Blue line: distance between particles
+        Red line: kinetic energy of particles
+        Parallel lines indicate relationship

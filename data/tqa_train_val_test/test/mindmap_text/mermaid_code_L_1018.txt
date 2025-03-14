@@ -1,0 +1,24 @@
+mindmap
+  Scientific Theory
+    Definition
+      Broad explanation
+      Supported by evidence
+    Importance
+      Connects observations
+      Explains phenomena
+    Comparison
+      Science vs. Everyday Language
+        Scientific theory: well-supported explanation
+        Everyday language: casual use
+    Examples
+      Dalton's Atomic Theory
+        All substances consist of atoms
+        Atoms of an element are identical
+        Compounds have fixed proportions
+      Einstein's Theory of Gravity
+      Kinetic Theory of Matter
+      Wave-Particle Theory of Light
+    Formation
+      Law of Parsimony
+        Simplest theory preferred
+        Fewer assumptions = higher correctness

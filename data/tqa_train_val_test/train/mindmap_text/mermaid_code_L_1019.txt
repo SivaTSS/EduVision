@@ -1,0 +1,24 @@
+mindmap
+  Chemistry
+    Definition
+      Study of matter and energy
+      Interaction at atomic and molecular level
+    Importance
+      Everyday life
+        Touch, taste, smell
+        Chemical reactions in common changes
+      Examples
+        Cooking food
+        Cleaning with laundry detergent
+        Antacid tablets for upset stomach
+    Basic Concepts
+      Chemicals
+        Specific types of matter
+      Chemical Reactions
+        Combination of atoms/molecules
+        Energy involvement
+    Case Study
+      Statue of Liberty
+        Copper tarnishing
+        Formation of copper carbonate
+        Green patina preservation

@@ -1,0 +1,43 @@
+mindmap
+  Ocean Zones
+    Vertical Zones
+      Photic Zone
+        Definition: Light penetrates to about 200m
+        Importance: Supports photosynthetic organisms (phytoplankton)
+      Aphotic Zone
+        Definition: No light for photosynthesis
+        Characteristics: 
+          - Majority of ocean
+          - Low diversity and numbers of life
+        Challenges for Life
+          - Absence of light
+          - Low temperature
+          - High pressure
+    Horizontal Zones
+      Intertidal Zone (Littoral Zone)
+        Characteristics: 
+          - Between high and low tidal marks
+          - Constant change due to waves and tides
+      Neritic Zone
+        Characteristics: 
+          - From low tide mark to continental shelf edge
+          - Some sunlight reaches seabed
+          - High productivity and nutrient levels
+      Oceanic Zone
+        Definition: Rest of the ocean beyond neritic zone
+        Characteristics: 
+          - No sunlight reaches the bottom
+    Nutrient Sources
+      Deep Ocean
+        Sources of Nutrients: 
+          - Organic matter from surface
+          - Hydrothermal vents
+    Comparisons
+      Intertidal vs Neritic vs Oceanic Zones
+        Similarities and Differences
+    Productivity
+      Reasons for High Productivity
+        Neritic Zone: Highest density of life and nutrients
+        Epipelagic Zone: Most productivity due to sunlight
+    Organism Movement
+      Reasons for Zone Transition

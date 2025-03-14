@@ -1,0 +1,23 @@
+mindmap
+  Meteor Showers
+    Perseid Meteor Shower
+      Regular Appearance
+    Meteor Types
+      Meteors
+        Definition
+        Shooting Stars
+      Meteoroids
+        Size Range
+        Definition
+      Meteorites
+        Definition
+        Importance to Science
+    Meteor Formation
+      Entry into Atmosphere
+      Meteor Showers
+        Cluster of Meteoroids
+        Comet Remnants
+    Meteorite Origins
+      Asteroids
+      Mars
+      Lunar Meteorites

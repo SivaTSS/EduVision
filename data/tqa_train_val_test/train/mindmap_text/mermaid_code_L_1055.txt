@@ -1,0 +1,21 @@
+mindmap
+  Friction Types
+    Static Friction
+      Definition: Acts on resting objects
+      Example: Hiking on a trail
+      Importance: Prevents slipping
+    Sliding Friction
+      Definition: Acts on sliding objects
+      Comparison: Weaker than static friction
+      Example: Writing with a pencil
+      Application: Bike brakes
+    Rolling Friction
+      Definition: Acts on rolling objects
+      Comparison: Weaker than sliding and static friction
+      Uses: Transportation (bicycles, cars)
+      Example: Ball bearings
+    Fluid Friction
+      Definition: Acts on objects moving through fluids
+      Definition of Fluid: Substances that flow (liquids and gases)
+      Example: Hand moving through water
+      Application: Skydiving with parachute

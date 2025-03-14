@@ -1,0 +1,41 @@
+mindmap
+  Genetics
+    Introduction
+      Rediscovery of Mendel's Laws
+      Advances in Genetics
+    Key Concepts
+      Gene
+        Definition
+        Alleles
+      Genotype and Phenotype
+        Relationship
+        Expression
+      Punnett Square
+        Usage
+        Example with Bb and bb
+        Expected Ratios
+    Inheritance Patterns
+      Simple Traits
+        Dominance
+        Homozygous vs Heterozygous
+      Complex Traits
+        Codominance
+          Definition
+          Example
+        Incomplete Dominance
+          Definition
+          Example
+        Multiple Alleles
+          Example: ABO Blood Type
+        Polygenic Traits
+          Definition
+          Examples: Skin Color, Height
+    Environmental Influence
+      Role of Environment
+    Sex-Linked Traits
+      Definition
+      Inheritance Patterns
+        X and Y Chromosomes
+        X-Linked Traits
+          Example: Red-Green Color Blindness
+          Pedigree Analysis

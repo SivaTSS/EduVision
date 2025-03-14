@@ -1,0 +1,38 @@
+mindmap
+  Biosphere
+    Definition
+      What is the biosphere?
+      Ecological definition
+    Components
+      Lithosphere
+        Outermost layer of Earth's crust
+        Contains land
+      Hydrosphere
+        Areas containing water
+        Found on, under, and over Earth's surface
+      Atmosphere
+        Layer of gas surrounding the planet
+    Characteristics
+      Self-regulating system
+        Gaia hypothesis
+          Biosphere as a living organism
+          Achieves homeostasis
+        Example of self-regulation
+          Carbon dioxide levels and plant growth
+    Human Impact
+      Carbon dioxide release
+        Effects on atmosphere
+        Influence on plant growth
+    Research and Projects
+      Biosphere 2
+        Location: Arizona
+        Ecosystems included
+          Ocean ecosystem
+          Coral reef
+          Mangrove wetlands
+          Tropical rainforest
+          Savannah grassland
+          Fog desert
+      Other projects
+        BIOS-3 in Siberia
+        Biosphere J in Japan

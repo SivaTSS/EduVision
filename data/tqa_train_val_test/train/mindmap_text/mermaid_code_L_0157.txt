@@ -1,0 +1,29 @@
+mindmap
+  Energy Use
+    Energy Resources in the U.S.
+      Oil
+        Most commonly used
+        Nonrenewable
+        Comparison with other nations
+      Natural Gas
+        Second most used
+        Nonrenewable
+      Coal
+        Third most used
+        Nonrenewable
+      Renewable Energy
+        8% of total energy
+        Types
+          Solar
+          Wind
+          Biomass
+          Geothermal
+          Hydropower
+    Energy Consumption Comparison
+      U.S. vs Other Nations
+        Higher per capita use
+        Average U.S. consumption: 23 barrels/year
+        Comparison with India and China: 1-2 barrels/year
+    Pollution
+      Relation to fossil fuel use
+        Greater use leads to more pollution

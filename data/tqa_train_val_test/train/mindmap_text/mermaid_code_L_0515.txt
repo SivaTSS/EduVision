@@ -1,0 +1,30 @@
+mindmap
+  Population Features
+    Population Definition
+      Group of same species
+      Living in the same area
+      Interacting with each other
+    Population Dispersion
+      Definition
+        Spacing of individuals
+      Patterns
+        Clumped
+        Uniform
+        Random
+      Factors Influencing Patterns
+        Environmental factors
+        Competition for resources
+    Population Size
+      Measurement
+        Number of individuals
+        Population density
+          Expressed as number per area
+    Growth Rate
+      Birth Rate
+        Number of births in a time period
+      Death Rate
+        Number of deaths in a time period
+      Relationship to Population Health
+        High birth rate indicates growth
+        Equal rates indicate stability
+        Higher death rate indicates decline

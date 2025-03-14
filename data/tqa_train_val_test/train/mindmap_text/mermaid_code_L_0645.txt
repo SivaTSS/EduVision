@@ -1,0 +1,50 @@
+mindmap
+  Cellular Respiration
+    Overview
+      Definition
+      Importance
+      Stages
+    Glycolysis
+      Location
+        Cytoplasm
+      Process
+        Breakdown of Glucose
+        Production of Pyruvate
+        ATP Yield
+          Net Gain of 2 ATP
+      Oxygen Requirement
+        Anaerobic and Aerobic
+    Krebs Cycle
+      Location
+        Mitochondria
+      Components
+        Acetyl-CoA
+        Cristae
+      Process
+        Energy Carriers Produced
+          NADH
+          FADH2
+        ATP Yield
+          Small Amount of ATP
+      Importance
+        Carbon Dioxide Production
+    Electron Transport Chain
+      Location
+        Mitochondria
+      Process
+        Role of NADH and FADH2
+        Proton Gradient Formation
+        ATP Production
+      Final Electron Acceptor
+        Oxygen
+      ATP Yield
+        36-38 ATP per Glucose
+    Products of Cellular Respiration
+      Main Product
+        ATP
+      Waste Products
+        Carbon Dioxide
+        Water
+    Chemical Reaction
+      Overall Equation
+        C6H12O6 + 6O2 → 6CO2 + 6H2O

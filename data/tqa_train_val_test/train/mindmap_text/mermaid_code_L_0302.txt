@@ -1,0 +1,35 @@
+mindmap
+  Seawater Chemistry
+    Water Properties
+      Density Factors
+        Salinity
+        Temperature
+        Pressure
+    Ocean Composition
+      Salts
+        Sodium
+        Magnesium
+        Calcium
+        Chloride
+        Sulfate
+        Potassium
+        Fluoride
+      Organic Molecules
+      Acids and Bases
+    Salinity Variations
+      Estuaries
+      High Evaporation Areas
+      Dead Sea
+    Ocean Movement
+      Role of Density
+      Deep Ocean Currents
+    Nutrient Requirements
+      Algae
+      Diatoms
+      Calcium
+      Phosphate
+      Nitrogen Fixation
+      Iron Sources
+    Environmental Concerns
+      Dead Zones
+      Ocean Seeding with Iron

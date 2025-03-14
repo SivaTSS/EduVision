@@ -1,0 +1,45 @@
+mindmap
+  Vertebrate Characteristics
+    Chordates
+      Definition
+      Key Factors in Size
+        Advantages of Big Animals
+        Advantages of Small Animals
+      Jaws
+        Function
+      Larvaceans
+        Feeding Mechanism
+    Phylogeny
+      Definition
+      Evolution of Archosaurs
+        Timeline
+        Living Members
+    Vertebrate Classes
+      Class Agnatha
+        Characteristics
+        Examples
+      Class Chondrichthyes
+        Characteristics
+        Examples
+      Class Osteichthyes
+        Characteristics
+        Examples
+      Class Amphibia
+        Characteristics
+        Examples
+      Class Reptilia
+        Characteristics
+        Examples
+      Class Aves
+        Characteristics
+        Examples
+      Class Mammalia
+        Characteristics
+        Examples
+    Common Features
+      Vertebral Column
+        Function
+      Other Traits
+        Cranium
+        Internal Skeleton
+        Defined Head Region

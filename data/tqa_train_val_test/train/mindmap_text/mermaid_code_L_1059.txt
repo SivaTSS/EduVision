@@ -1,0 +1,33 @@
+mindmap
+  Valence Electrons
+    Definition
+      Electrons in outer energy level
+      Participate in interactions
+    Importance
+      Determine reactivity
+      Influence conductivity
+    Electron Dot Diagrams
+      Representation of valence electrons
+      Structure of diagrams
+    Octet Rule
+      Definition
+      Based on stability
+      Achieving an octet
+        Gain electrons
+        Lose electrons
+    Periodic Table
+      Valence electrons and position
+        Groups 1-2 and 13-18
+        Groups 3-12 complexity
+      Similar chemical properties in groups
+    Reactivity
+      Metals vs Nonmetals
+        Metals give up electrons
+        Nonmetals attract electrons
+      Examples of reactive elements
+        Sodium and Chlorine
+        Calcium and Oxygen
+    Conductivity
+      Metals as conductors
+      Nonmetals as insulators
+      Metalloids as semiconductors

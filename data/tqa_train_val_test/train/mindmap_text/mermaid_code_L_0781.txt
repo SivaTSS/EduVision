@@ -1,0 +1,24 @@
+mindmap
+  Metallic Bonds
+    Formation
+      Definition
+      Lattice Structure
+      Sea of Electrons
+    Properties of Metals
+      Conductivity
+      Ductility
+      Malleability
+    Alloys
+      Definition
+      Examples
+        Steel
+        Bronze
+        Brass
+      Uses
+        Construction
+        Transportation
+        Tools
+    Comparison
+      Metallic vs Ionic Bonds
+        Flexibility
+        Electron Movement

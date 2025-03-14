@@ -1,0 +1,27 @@
+mindmap
+  Coriolis Effect
+    Definition
+      Description of Earth's rotation
+      Appearance of motion
+    Land Movement
+      Speed differences
+        Fastest land
+        Slowest land
+    Object Movement
+      Ball thrown from equator
+        To North Pole
+        To South Pole
+    Wind Behavior
+      Without Earth's rotation
+      With Earth's rotation
+    Airplane Curvature
+      East to West in Northern Hemisphere
+      South to North in Southern Hemisphere
+    Importance of Curvature
+      Freely moving objects
+      Impact on navigation
+    Effects on Currents
+      Surface ocean currents
+      Wind patterns
+      Circular motion
+      Hemisphere differences

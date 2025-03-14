@@ -1,0 +1,26 @@
+mindmap
+  Ionic Compounds
+    Definition
+      Charged particles
+      Formed by electron transfer
+    Formation
+      Metals and nonmetals
+      Ionic bonds
+    Structure
+      Crystals
+      Matrix of alternating ions
+    Naming
+      Positive ion first
+      Negative ion second
+      Examples
+        Sodium chloride
+        Calcium chloride
+        Barium iodide
+    Properties
+      High melting and boiling points
+      Good conductors when dissolved
+      Rigid and brittle
+    Uses
+      Industrial applications
+      Essential for human health
+      Electrolytes in solutions

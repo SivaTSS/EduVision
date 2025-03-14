@@ -1,0 +1,49 @@
+mindmap
+  Nerve Injuries
+    Symptoms
+      Motor Nerve Damage
+        Weakness
+        Muscle Atrophy
+        Cramps
+      Sensory Nerve Damage
+        Numbness
+        Tingling
+        Pain
+    Causes of Nerve Pain
+      Trauma
+      Infections
+      Diabetes
+      Toxins
+      Autoimmune Diseases
+    Brain Injuries
+      Common Types
+        Concussion
+        Severe Brain Injury
+      Causes
+        Falls
+        Car Accidents
+        Violence
+        Sports Injuries
+        War
+      Symptoms
+        Loss of Consciousness
+        Confusion
+        Slurred Speech
+        Seizures
+        Persistent Headache
+    Spinal Cord Injuries
+      Types of Paralysis
+        Quadriplegia
+        Paraplegia
+      Causes
+        Car Crashes
+        Sports Injuries
+        Diving Accidents
+      Symptoms
+        Loss of Sensation
+        Loss of Movement
+        Difficulty in Body Functions
+    Treatment and Recovery
+      Medical Attention
+      Rehabilitation
+      Research on Neuron Regrowth

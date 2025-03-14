@@ -1,0 +1,41 @@
+mindmap
+  Isotopes
+    Formation
+      Carbon-14
+        Formation process
+        Decay over time
+        Stability in living organisms
+        Estimation of time since death
+    Definition
+      Atoms of the same element
+      Differ in number of neutrons
+    Properties
+      Same physical properties
+      Same chemical properties
+      Same number of protons and electrons
+    Examples
+      Hydrogen
+        Isotopes
+          Hydrogen
+          Deuterium
+          Tritium
+        Mass numbers
+          Hydrogen = 1
+          Deuterium = 2
+          Tritium = 3
+      Carbon
+        Isotopes
+          Carbon-12
+          Carbon-13
+          Carbon-14
+        Mass numbers
+          Carbon-12 = 12
+          Carbon-13 = 13
+          Carbon-14 = 14
+    Stability
+      Neutron to proton ratio
+      Stable vs. radioactive isotopes
+      Radioactive decay
+        Process
+        Harmful particles
+        Safety precautions

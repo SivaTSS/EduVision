@@ -1,0 +1,25 @@
+mindmap
+  DNA
+    What is DNA?
+      Definition
+      Location in Eukaryotic Cells
+    Structure of DNA
+      Nucleotides
+        Components
+          Phosphate Group
+          5-Carbon Sugar (Deoxyribose)
+          Nitrogen-Containing Bases
+      Double Helix
+        Discovery by Watson and Crick
+        Base Pairing
+          Complementary Bases
+          Hydrogen Bonds
+    Genetic Information
+      Genetic Code
+      Role of Genes
+        Instructions for Cells
+    DNA Replication
+      Process
+      Speeding Up Replication
+      Cell Division
+        New Cell Production

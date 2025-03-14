@@ -1,0 +1,24 @@
+mindmap
+  Observation
+    What is an observation?
+      Definition: Information gathered with the senses
+      Role: Raises questions for scientific investigations
+      Evidence gathering: Helps in collecting evidence
+    Senses used for observations
+      Vision: Eyes
+      Hearing: Ears
+      Touch: Hands
+      Smell: Nose
+      Taste: Tongue
+      Instruments: 
+        Microscopes: Extend vision for small objects
+        Telescopes: Extend vision for distant objects
+        Thermometers: Extend touch for precise temperature measurement
+    Importance of observations in scientific investigations
+      Raising questions: Leads to further investigation
+      Gathering evidence: 
+        Chemical changes: 
+          Color change: Indicates a chemical change
+          Odor production: Sign of chemical change
+          Gas bubbles: Evidence of reactions
+          Temperature change: Observed by touch or thermometer

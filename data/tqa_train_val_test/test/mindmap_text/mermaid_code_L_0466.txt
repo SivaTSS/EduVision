@@ -1,0 +1,47 @@
+mindmap
+  Blood Pressure
+    Definition
+      Blood pressure occurs when circulating blood puts pressure on blood vessel walls
+      Caused by the beating of the heart
+    Types of Blood Pressure
+      Systolic Pressure
+        Highest pressure in arteries when heart beats
+        First number in blood pressure reading
+      Diastolic Pressure
+        Lowest pressure when heart is resting
+        Second number in blood pressure reading
+    Healthy Ranges
+      Systolic: less than 120
+      Diastolic: less than 80
+      Example: 120/80
+    Hypertension
+      Definition
+        High blood pressure
+        Systolic: 140 or higher
+        Diastolic: 90 or higher
+      Risks
+        Increases chance of heart disease, stroke, and other cardiovascular diseases
+        Often asymptomatic, known as "silent killer"
+      Treatments
+        Diet changes
+        Exercise
+        Medication
+    Factors Affecting Blood Pressure
+      Exercise
+      Emotions
+      Sleep
+      Stress
+      Nutrition
+      Drugs
+      Disease
+    Low Blood Pressure
+      Generally not a concern
+      Symptoms
+        Dizziness
+        Fainting
+        Dehydration
+        Unusual thirst
+        Lack of concentration
+        Blurred vision
+        Nausea
+        Fatigue

@@ -1,0 +1,31 @@
+mindmap
+  Cnidarians
+    Movement
+      How do cnidarians move?
+      Importance of movement
+    Nematocysts
+      Definition
+      Purpose
+    Body Plans
+      Polyp
+        Description
+        Examples (e.g., sea anemone, coral)
+      Medusa
+        Description
+        Examples (e.g., jellyfish)
+    Characteristics
+      Radial symmetry
+      True tissues
+      Gastrovascular cavity
+      Nerve-net
+    Reproduction
+      Asexual budding (polyps)
+      Sexual reproduction (medusae, some polyps)
+      Resulting larva
+    Colonies
+      Portuguese Man o War
+        Structure
+        Stinging capability
+      Coral Reefs
+        Structure
+        Importance as habitats

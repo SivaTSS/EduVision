@@ -1,0 +1,33 @@
+mindmap
+  Habitat and Niche
+    Niche
+      Definition
+      Role in Ecosystem
+        Energy Flow
+        Interactions with Other Organisms
+        Nutrient Recycling
+      Competitive Exclusion
+        Overlapping Niches
+        Adaptation or Extinction
+    Habitat
+      Definition
+      Factors Describing Habitat
+        Sunlight
+        Temperature
+        Rainfall
+      Distinction from Ecosystem
+        Biotic and Abiotic Factors
+    Habitat Destruction
+      Causes
+        Urban Development
+        Poor Fire Management
+        Invasive Species
+        Storm Damage
+      Consequences
+        Population Decrease
+        Extinction
+    Conservation
+      Protected Areas
+        National Parks
+        Nature Reserves
+      Importance of Habitat Preservation

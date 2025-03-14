@@ -1,0 +1,29 @@
+mindmap
+  Plant-like Protists
+    Similarities to Plants
+      Autotrophs
+      Photosynthesis
+    Differences from Plants
+      Lack of true stems, roots, leaves
+    Examples of Multicellular Plant-like Protists
+      Seaweed
+      Kelp
+        Giant Kelp (Macrocystis pyrifera)
+    Ecosystem Importance
+      Base of marine food chain
+      Oxygen production
+    Classification
+      Chlorophyta
+        Green algae
+        Examples: Chlamydomonas, Volvox
+      Rhodophyta
+        Red algae
+        Examples: Porphyra
+      Phaeophyta
+        Brown algae
+      Chrysophyta
+        Diatoms, golden-brown algae, yellow-green algae
+      Pyrrophyta
+        Dinoflagellates
+      Euglenophyta
+        Euglenoids

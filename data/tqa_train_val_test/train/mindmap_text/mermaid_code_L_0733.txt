@@ -1,0 +1,36 @@
+mindmap
+  Machines
+    Definition
+      Device that makes work easier
+      Changes force
+    Types of Machines
+      Simple Machines
+        Levers
+        Hammers
+        Screws
+      Complex Machines
+        Appliances
+        Power Tools
+        Factory Machines
+    Functions of Machines
+      Increase Force
+        Examples: Doorknobs, Nutcrackers
+      Increase Distance
+        Examples: Paddles, Hammers
+      Change Direction
+        Examples: Claw Hammers, Pulleys
+    Key Concepts
+      Efficiency
+        Definition: Measure of work reduction
+        Calculation: Output work divided by Input work
+      Mechanical Advantage
+        Definition: Multiplication of input force
+        Actual Mechanical Advantage: Output force divided by Input force
+        Ideal Mechanical Advantage: Input distance divided by Output distance
+    Examples
+      Efficiency Calculation
+        Example: 8000 joules input, 6000 joules output
+        Result: 75% efficiency
+      Mechanical Advantage Calculation
+        Example: Ramp with input distance of 6m and output distance of 2m
+        Result: Ideal Mechanical Advantage of 3

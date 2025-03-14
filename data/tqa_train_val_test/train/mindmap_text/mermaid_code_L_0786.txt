@@ -1,0 +1,38 @@
+mindmap
+  Carbon Properties
+    Carbon Compounds
+      Composition
+        Carbon and Hydrogen
+        Structural Formula
+      Types of Bonds
+        Single Bonds
+        Double Bonds
+        Triple Bonds
+    Bonding
+      Covalent Bonds
+        Definition
+        Formation
+      Valence Electrons
+        Four Valence Electrons
+        Bonding with Other Elements
+    Polymers and Monomers
+      Definitions
+        Monomer
+        Polymer
+      Examples
+        Natural Polymers
+        Synthetic Polymers
+    Forms of Carbon
+      Crystalline Structures
+        Diamond
+          Properties
+          Uses
+        Graphite
+          Properties
+          Uses
+        Fullerenes
+          Properties
+          Uses
+    General Properties
+      Importance of Carbon
+      Properties of Hydrocarbons

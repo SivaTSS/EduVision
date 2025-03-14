@@ -1,0 +1,29 @@
+mindmap
+  Heat Waves and Droughts
+    Heat Wave Definition
+      Criteria
+        More than five consecutive days
+        Temperatures above average
+      Regional Variability
+        Different definitions by location
+    Drought Definition
+      Criteria
+        Significantly less precipitation
+        Extended duration
+      Regional Impact
+        Southern United States example
+    Causes of Heat Waves
+      High Pressure Cells
+        Warm high-pressure cell stationary
+        Jet stream position
+      Recent Trends
+        Increased frequency and duration
+        Example: Summer 2011 North American heat wave
+    Consequences of Drought
+      Soil Moisture Loss
+        Erosion and dust storms
+        Historical example: Dust Bowl
+      Ecosystem Impact
+        Forest loss
+        Wildlife disturbance
+      Increased Wildfires

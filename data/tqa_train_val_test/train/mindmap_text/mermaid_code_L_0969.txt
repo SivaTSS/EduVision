@@ -1,0 +1,24 @@
+mindmap
+  Nonmetals
+    Definition
+      - Elements that do not conduct electricity
+      - Second largest class of elements
+      - Located on the right side of the periodic table
+    Properties
+      - Low boiling points
+        - Many are gases at room temperature
+        - Some are solids (e.g., carbon, bromine)
+      - Poor conductors of heat
+      - Dull and brittle in solid form
+    Reactivity
+      - Variation in reactivity
+        - Some are very reactive, others are not
+        - Depends on number of valence electrons
+      - Example: Fluorine vs. Neon
+        - Fluorine: 7 valence electrons, highly reactive
+        - Neon: 8 valence electrons, stable and nonreactive
+    Conductivity
+      - Nonmetals cannot conduct electricity
+        - Electrons do not flow freely
+        - Reactive nonmetals gain electrons
+        - Metals can conduct electricity by giving up electrons

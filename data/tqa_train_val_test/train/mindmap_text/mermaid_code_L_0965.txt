@@ -1,0 +1,31 @@
+mindmap
+  Newton's Law of Gravity
+    Video Overview
+      Questions
+        Equation of Gravity
+          Variables
+            F = Force
+            m1, m2 = Masses
+            d = Distance
+        Effects of Mass
+          Doubling Mass
+        Effects of Distance
+          Doubling Distance
+    Universal Gravitation
+      Definition
+        Force affects all mass
+      Relationship
+        Masses and Gravity
+          Greater mass = Stronger force
+          Closer objects = Stronger force
+    Historical Impact
+      Universal Application
+        First scientific law for the universe
+      Motion Explanation
+        Objects on Earth and in space
+    Examples
+      Everyday Gravity
+        Interaction with surrounding masses
+      Celestial Bodies
+        Moon and Earth
+        Sun and Planets

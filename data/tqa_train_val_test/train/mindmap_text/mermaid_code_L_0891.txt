@@ -1,0 +1,23 @@
+mindmap
+  Energy
+    Definition
+      Ability to move matter
+      Ability to do work
+    SI Unit
+      Joule (J)
+      Newton meter (N m)
+    Forms of Energy
+      Mechanical Energy
+      Chemical Energy
+      Other Forms
+        Electrical Energy
+        Thermal Energy
+        Light Energy
+        Sound Energy
+    Types of Energy
+      Kinetic Energy
+        Energy of moving matter
+        Example: Moving tennis racket
+      Potential Energy
+        Stored energy in matter
+        Example: Chemical energy in food

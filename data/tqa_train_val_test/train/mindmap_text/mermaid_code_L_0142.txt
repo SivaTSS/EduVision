@@ -1,0 +1,23 @@
+mindmap
+  Fossils
+    Body Fossils
+      Definition: Remains of organisms
+      Examples: Bones, shells, teeth
+    Trace Fossils
+      Definition: Traces left by organisms
+      Examples: Burrows, tracks, coprolites
+    Conditions for Fossil Formation
+      Quick Burial
+        Importance: Prevents decay and fragmentation
+        Locations: River deltas, ocean floors, mudslides
+      Unusual Circumstances
+        Examples: La Brea Tar Pits, Burgess Shale, Solnhofen Limestone
+    Reasons for Marine Fossil Abundance
+      Hard Parts: Shells and bones more likely to fossilize
+      Environmental Factors: Marine organisms often buried quickly
+    Challenges in Fossilization
+      Soft-bodied Organisms: Rarely preserved
+      Scavenging: Organisms often consumed before fossilization
+    Fossil Record
+      Importance: Clue to history of life and past climates
+      Composition: Mostly hard parts, few soft-bodied fossils

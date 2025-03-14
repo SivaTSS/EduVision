@@ -1,0 +1,40 @@
+mindmap
+  Noninfectious Diseases
+    Definition
+      - Cannot be passed person to person
+      - Caused by environment, genetics, lifestyle
+    Examples
+      - Chronic Diseases
+        - Heart Disease
+        - Stroke
+        - Diabetes
+        - Cancer
+      - Inherited Conditions
+        - Cystic Fibrosis
+        - Down Syndrome
+      - Environmental/Lifestyle Conditions
+        - Skin Cancer
+    Prevention Strategies
+      - Healthy Lifestyle
+        - Regular Exercise
+        - Healthy Eating
+        - Avoiding Carcinogens
+          - No Smoking
+          - Use Sunscreen
+      - Risk Reduction
+        - Type 2 Diabetes
+          - Exercise
+          - Healthy Weight
+          - Avoid High-Fat Foods
+        - Skin Cancer
+          - Avoid Tanning Beds
+          - Use SPF 30+ Sunscreen
+      - Allergy Prevention
+        - Avoid Allergens
+        - Allergy Shots
+    Impact of Lifestyle
+      - Technology and Sedentary Behavior
+        - Increased Screen Time
+        - Less Outdoor Activity
+      - Fast and Cheap Meals
+        - Less Healthy Options

@@ -1,0 +1,40 @@
+mindmap
+  Fungi and Human Uses
+    Penicillin
+      Discovery
+        Alexander Fleming's Observation
+      Function
+        Kills Bacteria
+      Source
+        Isolated from Penicillium notatum
+      Cultivation
+        Deep Fermentation Vats Requirements
+    Decomposition
+      Process
+        Role of Fungi
+        Species Diversity
+      Resource Utilization
+        Different Resources from Decaying Matter
+      Importance
+        Biodiversity Significance
+    Human Uses
+      Food and Beverages
+        Fermentation
+          Beer
+          Wine
+          Bread
+        Other Uses
+          Soy Sauce
+          Tempeh
+      Safety of Wild Mushrooms
+        Edible vs. Poisonous
+        Risks of Consumption
+    Types of Fungi
+      Edible Mushrooms
+        Agaricus bisporus
+      Poisonous Mushrooms
+        Symptoms of Poisoning
+        Cooking Effects
+      Cheese Production
+        Blue Cheese
+        Safe Molds

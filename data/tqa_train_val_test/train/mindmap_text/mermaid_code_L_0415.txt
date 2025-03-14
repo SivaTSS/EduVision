@@ -1,0 +1,60 @@
+mindmap
+  %% Central Topic
+  Biogeochemical Cycles
+    Water Cycle
+      Definition
+      Processes
+        Evaporation
+        Transpiration
+        Condensation
+        Precipitation
+      States of Water
+        Gas
+        Liquid
+        Solid
+      Components
+        Atmosphere
+        Ocean
+        Ground
+        Living Things
+      Importance
+        Essential for Life
+        Global Cycle
+    Carbon Cycle
+      Definition
+      Processes
+        Photosynthesis
+        Cellular Respiration
+        Decomposition
+      Major Reservoirs
+        Sedimentary Rocks
+        Fossil Fuels
+        Ocean
+      Major Exchange Pools
+        Organisms
+        Atmosphere
+    Nitrogen Cycle
+      Definition
+      Role of Bacteria
+        Nitrogen-Fixing Bacteria
+        Nitrifying Bacteria
+        Denitrifying Bacteria
+      Nitrogen Sources for Plants
+        Nitrates
+      Importance of Nitrogen
+        Proteins
+        Nucleic Acids
+    Ecosystem Dynamics
+      Changes Over Time
+      Energy Flow vs. Matter Recycling
+    Exchange Pools vs. Reservoirs
+      Definitions
+      Examples
+        Water Cycle
+          Exchange Pool: Atmosphere
+          Reservoir: Ocean
+        Carbon Cycle
+          Exchange Pool: Organisms
+          Reservoir: Sedimentary Rocks
+    Role of Decomposers
+      In Nitrogen Cycle

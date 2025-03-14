@@ -1,0 +1,27 @@
+mindmap
+  Tsunami
+    Definition
+      Meaning in Japanese
+    Causes
+      Undersea earthquakes
+      Meteorite impacts
+      Other shocks
+    Characteristics
+      Wave height
+      Long wavelengths
+      Speed (800 km/h)
+      Behavior at sea vs. shore
+    Effects
+      Deadliest tsunami recorded
+        Location: Lisbon, Portugal (1755)
+        Casualties
+      Recent tsunamis
+        Indian Ocean
+        Japan
+    Warning Systems
+      Pacific Tsunami Warning Center
+      Global warning systems
+      Importance of early warning
+    Safety Measures
+      Actions at the beach
+      Understanding wave behavior

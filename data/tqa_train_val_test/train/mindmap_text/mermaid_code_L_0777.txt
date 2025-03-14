@@ -1,0 +1,38 @@
+mindmap
+  Central Topic: Groups of Elements
+    Group 1: Alkali Metals
+      - Hydrogen (H)
+      - Properties
+        - Highly reactive
+        - Soft solids
+        - Low density
+    Group 2: Alkaline Earth Metals
+      - Properties
+        - Very reactive (less than alkali metals)
+        - Silvery grey color
+        - Harder and denser than alkali metals
+    Groups 3-12: Transition Metals
+      - Properties
+        - Less reactive than groups 1 and 2
+        - Shiny, silver-colored
+        - High melting and boiling points
+        - Includes lanthanides and actinides
+    Groups 13-16: Metalloids
+      - Group 13: Boron Group
+        - Contains boron (B)
+      - Group 14: Carbon Group
+        - Contains carbon (C)
+      - Group 15: Nitrogen Group
+        - Contains nitrogen (N)
+      - Group 16: Oxygen Group
+        - Contains oxygen (O)
+    Group 17: Halogens
+      - Properties
+        - Highly reactive nonmetals
+        - Seven valence electrons
+        - React violently with alkali metals
+    Group 18: Noble Gases
+      - Properties
+        - Colorless, odorless gases
+        - Least reactive elements
+        - Full outer energy level

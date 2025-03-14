@@ -1,0 +1,48 @@
+mindmap
+  Biological Communities
+    Ecosystem
+      Definition
+        Living Organisms
+        Nonliving Factors
+      Components
+        Biotic Factors
+          Bacteria
+          Algae
+          Fungi
+          Plants
+          Animals
+            Invertebrates
+            Vertebrates
+        Abiotic Factors
+          Resources
+            Light
+            Oxygen
+            Water
+            Nutrients
+          Environmental Features
+            Living Space
+            Temperature
+    Key Concepts
+      Species
+        Definition
+        Interbreeding
+      Population
+        Definition
+        Individuals of a Species
+      Community
+        Definition
+        All Populations in an Area
+      Habitat
+        Definition
+        Characteristics
+          Climate
+          Food Availability
+          Water Resources
+      Niche
+        Definition
+        Role in Ecosystem
+        Examples
+          Top Carnivore
+    Energy Flow
+      Direction of Energy Movement
+      Sources of Energy

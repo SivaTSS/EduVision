@@ -1,0 +1,34 @@
+mindmap
+  Fossils
+    Definition
+      Preserved remains or traces
+      Organisms that lived in the past
+    Formation
+      Sedimentary rock
+      Fossilization process
+        Burial in sediment
+        Replacement by minerals
+      Other methods
+        Complete preservation
+        Molds and casts
+        Compression
+    Types of Fossils
+      Preserved remains
+        Teeth
+        Bones
+        Shells
+      Trace fossils
+        Footprints
+        Burrows
+        Fossil feces
+    Importance
+      Evidence of life history
+      Clues about geological events
+      Insights into past climates
+    Index Fossils
+      Definition
+        Organisms with wide distribution
+        Short-lived species
+      Example
+        Trilobites
+        Age determination of rock layers

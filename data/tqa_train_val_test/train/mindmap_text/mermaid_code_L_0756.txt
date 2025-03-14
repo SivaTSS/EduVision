@@ -1,0 +1,39 @@
+mindmap
+  Vision
+    Eye Structure
+      Cornea
+        - Transparent outer covering
+        - Protects and focuses light
+      Pupil
+        - Opening in front of the eye
+        - Adjusts size for light entry
+      Iris
+        - Colored part of the eye
+        - Controls pupil size
+      Lens
+        - Convex lens for fine-tuning focus
+        - Adjusted by tiny muscles
+      Retina
+        - Membrane at the back of the eye
+        - Contains rods and cones
+    Vision Process
+      Light Collection
+        - Eyes collect visible light
+        - Focuses image on retina
+      Signal Transmission
+        - Electrical signals via optic nerve
+        - Brain interprets signals
+      Image Interpretation
+        - Shape, color, brightness
+        - Automatically right-side up
+    Common Vision Problems
+      Nearsightedness (Myopia)
+        - Clear nearby, blurry distant
+        - Corrected with concave lenses
+      Farsightedness (Hyperopia)
+        - Clear distant, blurry nearby
+        - Corrected with convex lenses
+    Vision Correction Methods
+      Eyeglasses
+      Contact Lenses
+      Laser Surgery

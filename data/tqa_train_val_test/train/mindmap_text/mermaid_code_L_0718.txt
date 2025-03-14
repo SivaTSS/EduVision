@@ -1,0 +1,38 @@
+mindmap
+  Radioactive Decay
+    Definition
+      Process of unstable nuclei becoming stable
+      Emission of particles and energy
+    Types of Radioactive Decay
+      Alpha Decay
+        Emission of alpha particles
+        Example: Uranium-238 to Thorium-234
+      Beta Decay
+        Emission of beta particles (electrons)
+        Example: Thorium-234 to Protactinium-234
+      Gamma Decay
+        Emission of gamma rays
+        No change in element
+    Half-Life
+      Definition
+        Time for half of a radioisotope to decay
+      Importance
+        Measures decay rate
+        Varies by isotope
+    Radioactive Dating
+      Method to estimate ages of fossils and rocks
+      Example: Carbon-14 dating
+        Formation in atmosphere
+        Decay to nitrogen-14
+        Fixed ratio in living organisms
+        Decline after death
+    Applications
+      Estimating ages of fossils
+      Limitations of Carbon-14 dating
+        Effective for fossils < 50,000 years
+        Use of longer half-life isotopes for older fossils
+    Comparison of Decay Types
+      Differences in emission, travel distance, and penetration
+      Alpha particles: limited travel, low penetration
+      Beta particles: moderate travel, moderate penetration
+      Gamma rays: extensive travel, high penetration

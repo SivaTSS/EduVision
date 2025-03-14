@@ -1,0 +1,20 @@
+mindmap
+  Compound Machines
+    Definition
+      - Consists of two or more simple machines
+    Examples
+      - Bicycles
+      - Cars
+      - Scissors
+      - Fishing rods with reels
+    Efficiency
+      - Generally lower than simple machines
+      - More moving parts lead to more friction
+      - Lubricants used to reduce friction
+    Mechanical Advantage
+      - Greater than simple machines
+      - Calculated as the product of the mechanical advantages of component simple machines
+    Simple Machines in Compound Machines
+      - Bicycles: wheels, axles, pulleys, levers
+      - Scissors: two levers, two wedges
+      - Fishing Rod: third-class lever, wheel and axle

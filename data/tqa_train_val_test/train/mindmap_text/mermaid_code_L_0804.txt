@@ -1,0 +1,21 @@
+mindmap
+  Atomic Number
+    Definition
+      Protons
+      Unique Identifier
+    Importance
+      Distinguishes Elements
+      Determines Properties
+    Atomic Mass Unit
+      Definition
+      Relation to Protons and Neutrons
+    Isotopes
+      Definition
+      Example: Helium
+        Protons: 2
+        Neutrons: Varies
+    Mass Number
+      Calculation
+        Protons + Neutrons
+      Example: Carbon Isotope
+        7 Neutrons

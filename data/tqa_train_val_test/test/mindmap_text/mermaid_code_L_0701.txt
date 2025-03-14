@@ -1,0 +1,30 @@
+mindmap
+  Archaea
+    Types
+      Halophiles
+        - Salt-loving
+        - Found in high salt environments
+          - Great Salt Lake
+          - Dead Sea
+      Thermophiles
+        - Heat-loving
+        - Thrive in extreme heat
+          - Hot springs
+          - Geysers
+          - Near volcanoes
+      Methanogens
+        - Produce methane
+        - Found in swamps and animal guts
+          - Mutualistic relationship with cows
+          - Help digest cellulose
+    Environments
+      Extreme
+        - Harsh conditions
+      Common
+        - Soil
+        - Ocean plankton
+    Characteristics
+      Cell Wall
+        - Different from bacteria
+      Phospholipids
+        - Adaptations for harsh environments

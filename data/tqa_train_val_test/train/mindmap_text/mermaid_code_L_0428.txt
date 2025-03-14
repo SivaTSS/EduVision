@@ -1,0 +1,39 @@
+mindmap
+  Protein Synthesis
+    RNA Structure and Functions
+      Types of RNA
+        Messenger RNA (mRNA)
+        Ribosomal RNA (rRNA)
+        Transfer RNA (tRNA)
+      Differences from DNA
+        Single nucleotide chain
+        Contains uracil (U)
+        Contains ribose sugar
+    Genetic Code
+      Codons
+        Definition and structure
+        Start and stop signals
+      Characteristics
+        Universality among organisms
+        Specificity of codons
+        Redundancy in coding
+    Protein Synthesis Process
+      Steps
+        Transcription
+          Location: Nucleus
+          Process: DNA to mRNA
+        Translation
+          Location: Ribosome
+          Process: mRNA to Protein
+    Mutations
+      Types
+        Chromosomal mutations
+        Frameshift mutations
+        Point mutations
+      Causes
+        Errors in DNA replication
+        Environmental factors (mutagens)
+      Effects
+        Neutral mutations
+        Beneficial mutations
+        Harmful mutations

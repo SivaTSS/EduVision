@@ -1,0 +1,23 @@
+mindmap
+  Gamma Rays
+    What are Gamma Rays?
+      Definition
+      Properties
+        Wavelength
+        Frequency
+        Energy
+    Sources of Gamma Rays
+      Radioactive Atoms
+      Nuclear Explosions
+      Stars
+        Sun
+        Collapsing Stars
+        Gamma Ray Bursts
+    Effects on Living Things
+      Destruction of Living Cells
+      Gene Mutations
+      Cancer Risk
+    Medical Uses
+      Cancer Treatment
+        Focused Gamma Rays
+        Targeting Cancer Cells

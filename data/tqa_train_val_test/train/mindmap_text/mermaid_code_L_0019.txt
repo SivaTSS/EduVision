@@ -1,0 +1,37 @@
+mindmap
+  Ocean Floor
+    Sonar
+      Definition
+      Function
+        Sound waves
+        Distance measurement
+    Exploration Challenges
+      Depth
+      Pressure
+      Darkness
+      Cold
+    Study Methods
+      Direct
+        Submersibles
+          Trieste
+          Alvin
+        Remotely Operated Vehicles (ROVs)
+      Indirect
+        Sonar
+    Major Features
+      Continental Shelf
+      Continental Slope
+      Abyssal Plain
+      Oceanic Trenches
+      Seamounts
+      Mid-Ocean Ridge
+    Resources
+      Living Resources
+        Food sources
+        Medicines
+      Nonliving Resources
+        Oil and gas
+        Minerals
+    Environmental Impact
+      Oil spills
+      Mining challenges

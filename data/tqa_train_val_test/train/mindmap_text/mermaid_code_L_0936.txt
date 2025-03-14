@@ -1,0 +1,33 @@
+mindmap
+  Law of Reflection
+    What is an Image?
+      Definition
+      Characteristics
+    Types of Reflection
+      Regular Reflection
+        Definition
+        Characteristics
+        Example: Mirror
+      Diffuse Reflection
+        Definition
+        Characteristics
+        Example: Rough Surface
+    Law of Reflection
+      Definition
+      Angle of Incidence
+      Angle of Reflection
+      Normal Line
+    Visual Representations
+      Figure 1.1: Boats
+        Regular Reflection
+        Diffuse Reflection
+      Figure 1.2: Rays
+        Incident Rays
+        Reflected Rays
+      Figure 1.3: Angles
+        Angle of Incidence
+        Angle of Reflection
+      Figure 1.4: Glass Bottle
+        Image Description
+      Figure 1.5: Angles
+        Labeling Angles

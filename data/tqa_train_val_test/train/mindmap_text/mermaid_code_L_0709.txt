@@ -1,0 +1,40 @@
+mindmap
+  Vision Correction
+    Myopia
+      Definition: Nearsightedness
+      Characteristics
+        - Clear nearby objects
+        - Blurry distant objects
+      Causes
+        - Eye too long
+        - Genetic factors
+        - Visual stress
+      Correction
+        - Concave lens
+        - Glasses/contact lenses usage
+      Signs
+        - Difficulty seeing distant objects
+        - Common in school-age children
+    Hyperopia
+      Definition: Farsightedness
+      Characteristics
+        - Clear distant objects
+        - Blurry nearby objects
+      Causes
+        - Eye too short
+      Correction
+        - Convex lens
+        - Glasses/contact lenses usage
+      Signs
+        - Difficulty focusing on close objects
+        - Eye strain and fatigue
+    Astigmatism
+      Definition: Irregular cornea shape
+      Effects on vision
+        - Blurred vision at all distances
+      Correction
+        - Special lenses
+    Surgical Options
+      LASIK
+        - Procedure to reshape cornea
+        - Permanent correction of vision

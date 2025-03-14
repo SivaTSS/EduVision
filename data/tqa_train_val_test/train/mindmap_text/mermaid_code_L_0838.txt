@@ -1,0 +1,28 @@
+mindmap
+  combustion reactions
+    definition
+      combustion reaction
+      general equation
+    complete combustion
+      occurs when
+        fuel reacts quickly with oxygen
+      products
+        carbon dioxide
+        water
+      example
+        methane
+    incomplete combustion
+      occurs when
+        insufficient oxygen
+      products
+        carbon monoxide
+        unburned carbon
+    hydrocarbons
+      definition
+        compounds of carbon and hydrogen
+      examples
+        methane
+        natural gas
+    rusting
+      comparison to combustion
+        not a combustion reaction

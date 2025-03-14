@@ -1,0 +1,40 @@
+mindmap
+  Climate Zones and Biomes
+    Biome and Climate Zone Relationship
+      Definition of Biome
+      Microclimate Development
+    Climate Zone Classification
+      Koppen Classification System
+        Major Climate Groups
+          Tropical Moist Climates
+            Location
+            Temperature
+            Rainfall
+            Vegetation
+          Dry Climates
+            Characteristics
+            Location
+            Vegetation
+          Moist Subtropical Mid-Latitude Climates
+            Location
+            Temperature
+            Rainfall
+          Continental Climates
+            Location
+            Temperature
+            Precipitation
+          Polar Climates
+            Location
+            Temperature
+            Precipitation
+    Factors Influencing Climate
+      Latitude
+      Continental Position
+      Exceptions in Southern Hemisphere
+    Vegetation as Climate Indicator
+      Adaptation of Organisms
+      Examples of Cacti
+    Microclimate Characteristics
+      Valley Microclimates
+      Mountain Slope Differences
+      Altitude and Latitude Mimicry

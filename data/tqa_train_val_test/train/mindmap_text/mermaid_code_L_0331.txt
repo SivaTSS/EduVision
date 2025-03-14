@@ -1,0 +1,36 @@
+mindmap
+  Tides
+    Causes
+      Gravitational Attraction
+        Moon
+        Sun
+      Tidal Range
+        Definition
+        Factors Affecting
+          Slope of Seafloor
+    Types of Tides
+      High Tides
+        Occurrence
+        Locations Relative to Moon
+      Low Tides
+        Occurrence
+        Locations Relative to Moon
+      Spring Tides
+        Definition
+        Occurrence
+          New Moon
+          Full Moon
+      Neap Tides
+        Definition
+        Occurrence
+          First Quarter
+          Last Quarter
+    Effects
+      Daily Rise and Fall
+      Coastal Variations
+        Local Conditions
+    Additional Considerations
+      Bay of Fundy
+        Large Tidal Range Reasons
+      Moon's Distance from Earth
+        Importance

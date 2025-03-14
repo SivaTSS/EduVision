@@ -1,0 +1,30 @@
+mindmap
+  Wheel and Axle
+    Description
+      Definition
+        Simple machine
+        Two connected rings or cylinders
+        Turns around a center point
+      Components
+        Inner ring (Axle)
+        Outer ring (Wheel)
+    Examples
+      Ferris Wheel
+        Force applied to axle
+      Doorknob
+        Force applied to wheel
+    Force Application
+      Input Force
+        Applied to wheel or axle
+      Output Force
+        Greater than or less than input force
+    Mechanical Advantage
+      Definition
+        Ratio of output force to input force
+      Scenarios
+        Input force on axle
+          Mechanical advantage < 1
+          Wheel turns faster
+        Input force on wheel
+          Mechanical advantage > 1
+          Axle turns with greater force

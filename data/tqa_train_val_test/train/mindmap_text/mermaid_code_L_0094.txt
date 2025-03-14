@@ -1,0 +1,56 @@
+mindmap
+  Air Quality
+    Photochemical Smog
+      Definition
+      Causes
+        Auto exhaust
+        Oil refinery emissions
+        Sunshine
+      Effects
+        Ozone
+        Other compounds
+    Clean Air Act
+      Purpose
+      Regulated Pollutants
+        Six Major Pollutants
+          Ozone
+          Particulate Matter
+          Sulfur Dioxide
+          Nitrogen Dioxide
+          Carbon Monoxide
+          Lead
+        Other Pollutants
+          Benzene
+          Perchloroethylene
+          Methylene Chloride
+          Dioxin
+          Asbestos
+          Heavy Metals
+    Historical Context
+      Early Air Pollution
+        Wood burning
+        Industrial Revolution
+      Major Events
+        Pennsylvania disaster
+        London smog
+    Geographic and Atmospheric Factors
+      Wind Effects
+      Mountain Ranges
+      Temperature Inversions
+    California Air Pollution
+      Contributing Factors
+        Geography
+        Industry
+        Agriculture
+        Vehicle Emissions
+      Smoggiest Cities
+        Los Angeles
+        Visalia-Porterville
+        Bakersfield-Delano
+        Fresno-Madera
+        Hanford-Corcoran
+        Sacramento
+        Houston
+        Dallas-Fort Worth
+        Washington D.C.
+        El Centro

@@ -1,0 +1,33 @@
+mindmap
+  Fossils
+    Definition
+      - Preserved remains of organisms
+      - Examples: bones, teeth, impressions
+    Importance
+      - Evidence for evolution
+      - Understanding extinct species
+      - Comparison of species across time
+    Paleontology
+      - Study of fossils
+      - Role of paleontologists
+      - Fossil record
+        - Order of appearance
+        - Evidence of extinction
+    Geological Context
+      - Rock layers
+        - Newer layers on top of older layers
+        - Age determination by layer
+      - Radiometric dating
+        - Method of age determination
+        - Decay of radioactive materials
+        - Oldest rocks and fossils
+    Key Figures
+      - James Hagadorn
+        - Early animal life
+        - Evidence of first mobile organisms
+      - Jenny Clack
+        - Tetrapods
+        - Study of land vertebrates
+      - Richard Dawkins
+        - Intermediate fossils
+        - Evolution of whales

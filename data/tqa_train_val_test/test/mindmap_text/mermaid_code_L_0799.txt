@@ -1,0 +1,23 @@
+mindmap
+  Amontons Law
+    Definition
+      - Increasing temperature increases pressure
+      - Constant volume
+    Demonstration
+      - Air pressure in can
+        - Greatest when heated
+        - Volume kept constant
+        - Pressure lower when cooled
+    Applications
+      - Sealed jug experiment
+        - Higher temperature leads to higher pressure
+      - Tire pressure example
+        - Friction generates heat
+        - Constant volume leads to increased pressure
+    Explanation
+      - Gas particles move faster when heated
+      - More collisions increase pressure
+      - Pressure defined as force per area
+    Related Gas Laws
+      - Boyle's Law
+      - Charles's Law

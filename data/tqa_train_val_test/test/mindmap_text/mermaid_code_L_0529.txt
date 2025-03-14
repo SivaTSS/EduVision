@@ -1,0 +1,25 @@
+mindmap
+  Fungi Reproduction
+    Asexual Reproduction
+      Methods
+        Spores
+        Budding
+        Fragmentation
+      Advantages
+        Faster reproduction
+        Genetically identical offspring
+    Sexual Reproduction
+      Process
+        Fusion of haploid hyphae
+        Formation of zygospore
+      Advantages
+        Increased genetic diversity
+        Combination of traits from two parents
+    Comparison
+      Asexual vs Sexual
+        One parent vs Two parents
+        Speed of reproduction
+        Genetic variation
+    Environmental Factors
+      Conditions for Asexual Reproduction
+        Availability of food

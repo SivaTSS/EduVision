@@ -1,0 +1,22 @@
+mindmap
+  Newton's First Law of Motion
+    Definition
+      - An object's motion will not change unless an unbalanced force acts
+      - At rest: stays at rest
+      - In motion: stays in motion with constant velocity
+    Inertia
+      - Definition: Tendency to resist change in motion
+      - Relationship to mass
+        - Greater mass = Greater inertia
+        - Example: Pushing a full box vs. an empty box
+    Unbalanced Force
+      - Necessary to change an object's motion
+      - Causes acceleration
+      - Example: Kicking a soccer ball
+    Real-World Applications
+      - Skateboard and curb scenario
+      - Amusement park ride dynamics
+      - Pool balls on a table
+    Importance of Seat Belts
+      - Inertia in car accidents
+      - Body's forward motion when a car stops suddenly

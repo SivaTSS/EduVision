@@ -1,0 +1,47 @@
+mindmap
+  Erosion and Deposition by Wind
+    Wind Erosion
+      Definition
+        Air movement over Earth's surface
+        Causes significant erosion
+      Mechanisms
+        Abrasion
+          Main method of erosion
+          Scours and polishes surfaces
+        Particle Transport
+          Suspension
+            Tiny particles (clay, silt)
+            Carried high and far
+          Saltation
+            Larger particles (sand)
+            Moves in short hops close to ground
+          Traction
+            Largest particles (pebbles)
+            Rolled or pushed along surface
+    Sediments Deposited by Wind
+      Sand Dunes
+        Formation
+          Requires sand and wind
+          Starts with an obstacle
+        Migration
+          Movement due to saltation
+          Direction follows prevailing wind
+      Loess
+        Definition
+          Deposits of silt and clay
+          Forms vertical cliffs
+        Agricultural Importance
+          Rich soil for farming
+    Prevention of Wind Erosion
+      Ground Cover
+        Importance of plants
+        Helps retain soil and water
+      Barriers
+        Rows of trees
+          Slow down wind
+        Fences
+          Prevent erosion and dune migration
+    Dust Storms
+      Conditions
+        Common in dry climates
+        Dry, bare soil more susceptible

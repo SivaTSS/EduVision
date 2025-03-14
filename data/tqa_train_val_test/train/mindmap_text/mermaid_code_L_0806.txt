@@ -1,0 +1,35 @@
+mindmap
+  Balancing Chemical Equations
+    Chemical Equations
+      Definition
+        Represents changes in chemical reactions
+        General form: Reactants → Products
+      Importance of Balancing
+        Same number of each type of atom on both sides
+        Mass conservation in reactions
+    Coefficients
+      Definition
+        Number placed in front of chemical symbols/formulas
+        Indicates number of atoms/molecules involved
+      Examples
+        2 H2 for two molecules of hydrogen
+        2 H2 O for two molecules of water
+    Steps to Balance Equations
+      Step 1
+        Count each type of atom in reactants and products
+        Check for balance
+      Step 2
+        Place coefficients as needed
+        Use smallest coefficients possible
+        Warning: Do not change subscripts
+      Step 3
+        Repeat steps until balanced
+    Example Problems
+      Problem 1
+        Balance: CH4 + O2 → CO2 + H2O
+      Problem 2
+        Sam's mistake: 2 HO → H2 + O2
+        Correct way: 2 H2O → H2 + O2
+      Problem 3
+        Balance: N2 + H2 → NH3
+        Solution: N2 + 3 H2 → 2 NH3

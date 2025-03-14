@@ -1,0 +1,36 @@
+mindmap
+  Phototropism
+    Definition
+      Tropism
+        Growth toward or away from a stimulus
+    Types
+      Phototropism
+        Response to light
+      Gravitropism
+        Response to gravity
+      Thigmotropism
+        Response to touch
+    Mechanism
+      Auxins
+        Hormones causing directional growth
+        Movement to one side of the stem
+        Rapid cell growth on one side
+    Examples
+      Leaves and stems
+        Grow toward light
+      Roots
+        Grow away from light
+      Plant on its side
+        Stem curves upward
+      Tendrils
+        Twist around poles
+    Experiments
+      Signal location
+        Growing tip of the plant
+      Signal migration
+        Up and down plant shoot
+      Agar block
+        Substance responsible for response
+    Questions
+      What hormone causes phototropic response?
+      How do roots know to grow downward?

@@ -1,0 +1,27 @@
+mindmap
+  Earth as a Magnet
+    History
+      William Gilbert
+        Demonstration of Earth's magnetism
+        Spherical magnet model
+    Earth's Structure
+      Inner Core
+        Solid
+      Outer Core
+        Molten metals (iron and nickel)
+    Magnetic Field
+      Poles
+        North Pole
+          Location: 80 degrees north latitude
+        South Pole
+      Characteristics
+        Area affected by magnetic field
+        Strongest at the poles
+        Lines of magnetic force
+    Generation of Magnetic Field
+      Charged particles
+        Movement in molten outer core
+        Effect of Earth's rotation
+    Comparison Models
+      Peach vs. Orange
+        Explanation of better model

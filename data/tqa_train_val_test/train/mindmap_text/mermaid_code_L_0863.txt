@@ -1,0 +1,19 @@
+mindmap
+  Earth as a Magnet
+    How Earth Acts as a Bar Magnet
+      Magnetic Poles
+        North Magnetic Pole
+        South Magnetic Pole
+      Magnetic Field
+        Magnetosphere
+        Strength at the Poles
+    Compass Functionality
+      Compass Needle Direction
+        Points to North Magnetic Pole
+        Not Geographic North Pole
+      Naming Convention
+        North Magnetic Pole Near Geographic North
+        South Magnetic Pole Near Geographic South
+    Magnetosphere Description
+      Extent of the Magnetosphere
+      Interaction with Environment

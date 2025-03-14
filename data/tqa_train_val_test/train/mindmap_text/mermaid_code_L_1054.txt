@@ -1,0 +1,16 @@
+mindmap
+  Transverse Wave
+    Definition
+      Description: "Particles vibrate perpendicular to wave direction"
+    Characteristics
+      Crests: "High points of the wave"
+      Troughs: "Low points of the wave"
+    Examples
+      Rope: "Wave travels down the rope as it is shaken"
+      Guitar String: 
+        Wave Direction: "Travels down the string"
+        String Vibration: "Vibrates up and down"
+    S Waves
+      Definition: "Transverse waves occurring during earthquakes"
+      Effects on Structures: "Can affect buildings as they travel through underground rocks"
+      Travel Distance: "May travel for hundreds of miles"

@@ -1,0 +1,32 @@
+mindmap
+  Lipid Classification
+    Lipids
+      Definition
+        Biochemical compounds
+        Energy storage
+      Types
+        Fats
+          Solid lipids
+          Examples: butter, meat fats
+        Oils
+          Liquid lipids
+          Examples: olive oil, vegetable oil
+    Fatty Acids
+      Structure
+        Long carbon chains
+      Types
+        Saturated
+          Single bonds
+          Maximum hydrogen atoms
+          Found in fats
+        Unsaturated
+          At least one double bond
+          Fewer hydrogen atoms
+          Found in oils
+    Phospholipids
+      Structure
+        Contain phosphorus
+        Two layers in cell membranes
+      Function
+        Hydrophilic and hydrophobic ends
+        Selective permeability

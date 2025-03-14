@@ -1,0 +1,27 @@
+mindmap
+  Wave Amplitude
+    Definition
+      Maximum distance from resting position
+      Relation to wave types
+        Transverse waves
+          Crest height
+          Amplitude measurement
+        Longitudinal waves
+          Compression distance
+          Amplitude measurement
+    Examples
+      Transverse wave in Figure 1.2
+        Crest height: 3 cm
+      Longitudinal waves in Figure 1.3
+        Comparison of amplitudes
+    Energy Relation
+      Amplitude and energy correlation
+        Higher energy = greater amplitude
+        Example: pebble vs. boulder in water
+    Visual Representations
+      Figure 1.1
+        Crest, amplitude, and wavelength relationship
+      Figure 1.2
+        Transverse wave representation
+      Figure 1.3
+        Longitudinal wave comparison

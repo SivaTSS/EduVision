@@ -1,0 +1,25 @@
+mindmap
+  Temperature of the Atmosphere
+    Convection in the Atmosphere
+      Causes of Convection
+        Warm air rises
+        Cool air sinks
+        Density differences
+    Temperature Gradients
+      Definition
+        Change in temperature with distance
+      Variation by Layer
+        Different gradients in each layer
+        Heat source influence
+    Atmospheric Layers
+      Structure
+        Layered atmosphere
+        Temperature changes with altitude
+      Main Layers
+        Troposphere
+        Stratosphere
+        Mesosphere
+        Thermosphere
+      Chemical Composition
+        Similar across layers
+        Ozone layer in stratosphere

@@ -1,0 +1,31 @@
+mindmap
+  Heating Systems
+    Basic Function
+      Produce Thermal Energy
+      Transfer to Air
+    Types of Heating Systems
+      Hot-Water Heating System
+        Boiler
+          Burns Fuel
+          Heats Water
+        Distribution
+          Pipes
+          Radiators
+        Energy Transfer
+          Convection Currents
+          Cool Water Returns
+      Warm-Air Heating System
+        Furnace
+          Burns Fuel
+          Heats Air
+        Distribution
+          Ducts
+          Registers
+        Air Circulation
+          Warm Air Blows Out
+          Cold Air Returns
+    Thermostat
+      Monitors Temperature
+      Controls Heating System
+        Triggers Boiler/Furnace
+        Maintains Set Point

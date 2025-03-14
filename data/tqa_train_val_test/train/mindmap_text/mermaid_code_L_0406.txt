@@ -1,0 +1,27 @@
+mindmap
+  Female Reproductive System
+    Functions
+      Producing Eggs
+      Secreting Estrogen
+      Supporting Fetus
+    Organs
+      Ovaries
+        Function: Egg production, Estrogen secretion
+      Fallopian Tubes
+        Function: Transport egg, Site of fertilization
+      Uterus
+        Function: Fetal development, Birth
+      Vagina
+        Function: Birth canal, Sperm entry
+    Eggs
+      Definition: Female gametes
+      Production Process
+        Before Birth: Mitosis and meiosis initiation
+        Puberty: Monthly egg development
+        Ovulation: Egg release
+    Menstrual Cycle
+      Phases
+        Egg Development
+        Uterine Lining Preparation
+        Menstruation
+      Duration: Average monthly cycle

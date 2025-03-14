@@ -1,0 +1,45 @@
+mindmap
+  Plants
+    Description
+      Multicellular eukaryotes
+      Cell walls of cellulose
+      Chloroplasts for photosynthesis
+    Importance
+      Food source for organisms
+      Oxygen production
+      Carbon dioxide absorption
+      Recycling matter in ecosystems
+      Products for human use
+    Plant Tissues
+      Dermal Tissue
+        Covers outside of plant
+        Secretes cuticle
+      Ground Tissue
+        Basic metabolic functions
+        Food and water storage
+      Vascular Tissue
+        Xylem
+          Transports water and minerals
+        Phloem
+          Transports sugars
+    Plant Organs
+      Roots
+        Types: primary and secondary
+        Functions: absorb water, anchor plant, store food
+      Stems
+        Support and transport
+        Nodes and internodes
+      Leaves
+        Photosynthesis
+        Structure for light collection
+    Growth
+      Cell growth and division
+      Meristem tissue
+        Primary growth
+        Secondary growth
+    Life Cycle
+      Alternation of generations
+        Haploid (gametophyte)
+        Diploid (sporophyte)
+      Dominant generation
+        Characteristics of dominant vs nondominant

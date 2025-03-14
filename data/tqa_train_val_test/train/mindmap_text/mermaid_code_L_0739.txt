@@ -1,0 +1,39 @@
+mindmap
+  Temperature and Heat
+    Temperature
+      Definition
+        Average kinetic energy of particles
+      Measurement
+        Thermometer
+          Reference points: Freezing and boiling points of water
+          Celsius scale
+    Thermal Energy
+      Definition
+        Kinetic energy of moving particles
+      Relationship with Temperature
+        Cold objects can have more thermal energy than warm objects
+        Mass affects thermal energy
+    Heat
+      Definition
+        Transfer of thermal energy between objects
+      Transfer Mechanisms
+        Conduction
+        Convection
+        Radiation
+    Specific Heat
+      Definition
+        Energy needed to raise temperature of 1 gram by 1°C
+      Comparison of Substances
+        Iron: 0.45 J/g°C
+        Sand: 0.67 J/g°C
+        Wood: 1.76 J/g°C
+        Water: 4.18 J/g°C
+      Implications
+        Why sand heats up faster than water
+        Effects on climate
+    Real-World Examples
+      Thermal energy transfer
+        Spoon in hot coffee
+        Sand and water at the beach
+      Expansion and contraction
+        Golden Gate Bridge movement

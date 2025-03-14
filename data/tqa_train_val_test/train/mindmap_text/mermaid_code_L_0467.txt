@@ -1,0 +1,39 @@
+mindmap
+  Blood Types
+    Antigens
+      Definition
+      Examples
+        Type A
+        Type B
+        Type AB
+        Type O
+    Antibodies
+      Definition
+      Types
+        Type A
+        Type B
+        Type AB
+        Type O
+    Blood Transfusion
+      Importance of Matching
+      Universal Donors
+        Type O
+      Universal Recipients
+        Type AB
+    Rhesus Factor
+      Definition
+      Positive vs Negative
+    Blood Type Characteristics
+      ABO System
+        Type A
+          Antigens: A
+          Antibodies: anti-B
+        Type B
+          Antigens: B
+          Antibodies: anti-A
+        Type AB
+          Antigens: A and B
+          Antibodies: none
+        Type O
+          Antigens: none
+          Antibodies: anti-A and anti-B

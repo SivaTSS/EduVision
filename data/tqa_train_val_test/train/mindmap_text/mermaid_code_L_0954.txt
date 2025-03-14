@@ -1,0 +1,35 @@
+mindmap
+  Mirrors
+    Image
+      Definition
+        Copy of an object
+        Formed by reflection or refraction
+    Types of Images
+      Real Image
+        True image
+        Forms in front of the mirror
+        Can be projected on a screen
+      Virtual Image
+        Appears on the other side of the mirror
+        Does not really exist
+    Types of Mirrors
+      Plane Mirror
+        Flat reflective surface
+        Forms only virtual images
+        Right-side up and life-sized
+        Reverses left and right
+      Concave Mirror
+        Shaped like the inside of a bowl
+        Forms real or virtual images
+        Depends on object position relative to focal point
+        Used in headlights and telescopes
+      Convex Mirror
+        Shaped like the outside of a bowl
+        Forms only virtual images
+        Right-side up and reduced in size
+        Provides wider view for drivers
+    Focal Point
+      Definition
+        Point where reflected rays meet
+      Relationship
+        Distance between focal point and mirror equals distance between mirror and object

@@ -1,0 +1,23 @@
+mindmap
+  Cellular Respiration
+    Definition
+      - Process of converting food energy into usable energy
+      - Involves glucose and oxygen
+      - Produces carbon dioxide and water
+    Purpose
+      - Provides energy for cellular functions
+      - Supports muscle movement and other activities
+    ATP (Adenosine Triphosphate)
+      - Chemical energy used by cells
+      - Energy storage and release
+        - Stored in phosphate bonds
+        - Released when converted to ADP
+    Energy Extraction
+      - 36 to 38 ATP molecules produced per glucose molecule
+    Food Energy
+      - Breakdown of food into glucose
+      - Glucose as energy source
+      - Role of photosynthesis in glucose production
+    Plant Respiration
+      - Yes, plant cells respire
+      - Use of glucose produced during photosynthesis

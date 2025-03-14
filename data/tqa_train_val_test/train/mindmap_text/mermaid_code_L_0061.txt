@@ -1,0 +1,32 @@
+mindmap
+  Stars
+    Definition
+      Star as a giant ball of glowing gas
+      Distance from Earth
+    Constellations
+      Definition and significance
+      Appearance vs. reality
+      Movement across the sky
+    Star Classification
+      Color and temperature
+        Classification system (O, B, A, F, G, K, M)
+      Stages of a star
+        Main sequence
+        Red giants and white dwarfs
+        Red supergiants and supernovae
+        Neutron stars and black holes
+    Star Formation
+      Nebulas
+        Formation process
+        Role of gravity and nuclear fusion
+    Energy Generation
+      Nuclear fusion in stars
+      Importance of particle accelerators
+    Measuring Distances
+      Light-years as a unit
+      Methods of measurement
+        Parallax for nearby stars
+        Brightness for distant stars
+    Binary and Multiple Star Systems
+      Definition of binary systems
+      Quadruple star systems

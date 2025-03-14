@@ -1,0 +1,39 @@
+mindmap
+  Climate Change
+    Public Service Announcement
+      Global Warming
+        Human Actions
+          Carbon Dioxide Production
+        Reduction Strategies
+    Earth's Climate History
+      Changes Over Time
+        Ice Ages
+        Warm Periods
+      Recent Climate Change
+        Rapid Warming
+    Causes and Effects of Climate Change
+      Natural Causes
+        Sunspots
+        Plate Movements
+        Asteroid Impacts
+      Human Causes
+        Fossil Fuel Burning
+        Greenhouse Gas Emissions
+      Effects
+        Rising Sea Levels
+        Extreme Weather
+    El Niño and La Niña
+      El Niño
+        Warm Ocean Temperatures
+        Trade Winds Shift
+        Global Weather Impact
+      La Niña
+        Cool Ocean Temperatures
+        Stronger Trade Winds
+        Global Weather Impact
+    Future Projections
+      Temperature Increases
+        Potential 5°C Rise by 2100
+      Impact on Ecosystems
+        Sea Ice Melting
+        Coastal City Risks

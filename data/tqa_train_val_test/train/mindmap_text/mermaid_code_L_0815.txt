@@ -1,0 +1,27 @@
+mindmap
+  Buoyancy
+    Buoyant Force
+      Definition: Upward force exerted by fluids
+      Occurrence: Greater pressure below than above
+      Effects: 
+        - Object floats if weight < buoyant force
+        - Object sinks if weight > buoyant force
+    Weight vs. Buoyant Force
+      Definition: Weight is the force of gravity
+      Comparison: 
+        - Equal forces: Object floats
+        - Greater weight: Object sinks
+    Density
+      Definition: Mass per unit volume
+      Relation to Buoyancy: 
+        - Denser substances are heavier
+        - Example: Ice vs. water
+    Examples of Buoyancy
+      Floating Objects: 
+        - Icebergs
+        - Oil on water
+        - Helium balloons
+    Visual Representations
+      Figure 1.1: Fluid pressure diagram
+      Figure 1.2: Buoyant vs. sinking force
+      Figure 1.3: Iceberg in ocean

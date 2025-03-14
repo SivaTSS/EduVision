@@ -1,0 +1,36 @@
+mindmap
+  Archaea
+    Definition
+      - Prokaryotes in Archaea Domain
+      - Discovered in extreme environments
+      - Classified as bacteria until 1970s
+    Types of Extremophiles
+      - Halophiles
+        - Thrive in salty environments
+        - Examples: Great Salt Lake, Dead Sea
+      - Hyperthermophiles
+        - Thrive in high temperatures
+        - Example: Reproduce at 122°C (252°F)
+      - Acidophiles
+        - Thrive in acidic environments
+        - Example: Acid mine drainage, volcanic vents
+      - Alkaliphiles
+        - Thrive in basic environments
+        - Example: Mono Lake
+    Habitats and Ecological Roles
+      - Found in diverse habitats
+        - Soils, bodies of water, marshlands
+        - Human belly button
+        - Abundant in oceans
+      - Role as decomposers
+        - Break down sewage
+        - Recycle carbon and nitrogen
+      - Symbiotic relationships
+        - Live inside animals, including humans
+        - Methanogens in cow guts
+          - Aid in digestion of cellulose
+          - Produce methane as waste
+    Importance
+      - Harmless and often beneficial
+      - Make up 20% of Earth's living mass
+      - Ongoing discovery of new species

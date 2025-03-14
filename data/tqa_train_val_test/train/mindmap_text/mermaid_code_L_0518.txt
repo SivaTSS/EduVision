@@ -1,0 +1,23 @@
+mindmap
+  Fermentation
+    Anaerobic Respiration
+      Location in Cell
+      Fate of Pyruvate
+        Yeast vs Other Organisms
+      Role of Glycolysis
+      ATP Production
+        Breakdown of Pyruvate
+        Overall ATP from Fermentation
+    Types of Fermentation
+      Alcoholic Fermentation
+        Products: Ethyl Alcohol, Carbon Dioxide
+        Applications: Baking, Winemaking
+      Lactic Acid Fermentation
+        Products: Lactic Acid
+        Applications: Muscle Activity, Cheese, Yogurt
+    Efficiency of Anaerobic Respiration
+      Comparison with Aerobic Respiration
+      ATP Yield
+    Importance of Fermentation
+      Energy Production in Absence of Oxygen
+      Role in Food Production

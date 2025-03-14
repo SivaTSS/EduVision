@@ -1,0 +1,38 @@
+mindmap
+  Seafloor Spreading Hypothesis
+    Evidence
+      Magnetic Stripes
+        Pattern of magnetic polarity
+        Age of seafloor
+      Seafloor Topography
+        Mid-ocean ridges
+        Deep sea trenches
+    Historical Context
+      Harry Hess
+        Geology professor
+        Naval officer
+        Discoveries
+          Guyots
+          Great Global Rift
+      Alfred Wegener
+        Continental drift hypothesis
+      Arthur Holmes
+        Mantle convection idea
+    Mechanism
+      Seafloor Formation
+        Hot magma rises
+        Lava cools and forms new crust
+      Movement of Continents
+        Oceanic crust pushes continents
+        Subduction at trenches
+    Geological Features
+      Guyots
+        Eroded volcanoes
+        Movement beneath sea level
+      Oceanic Crust
+        Oldest crust at trenches
+        Youngest crust at mid-ocean ridges
+    Conclusion
+      Integration of ideas
+        Coherent theory of plate tectonics
+        Continents on a conveyor-belt ride

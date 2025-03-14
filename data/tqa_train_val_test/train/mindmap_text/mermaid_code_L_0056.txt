@@ -1,0 +1,50 @@
+mindmap
+  Sun and Earth-Moon System
+    Eclipses
+      Solar Eclipse
+        Definition
+        Occurrence
+        Types
+          Total Solar Eclipse
+          Partial Solar Eclipse
+        Characteristics
+          Duration
+          Experience
+      Lunar Eclipse
+        Definition
+        Occurrence
+        Types
+          Total Lunar Eclipse
+          Partial Lunar Eclipse
+          Penumbral Eclipse
+        Characteristics
+          Duration
+          Appearance
+    Phases of the Moon
+      Definition
+      Cycle
+        Duration
+        Sequence
+      Types
+        New Moon
+        Waxing Crescent
+        First Quarter
+        Waxing Gibbous
+        Full Moon
+        Waning Gibbous
+        Last Quarter
+        Waning Crescent
+    Earth-Moon-Sun Relationship
+      Tides
+        Cause
+        Effects
+      Seasons
+        Misconceptions
+        Northern Hemisphere
+        Southern Hemisphere
+    Time Zones
+      Differences
+        San Francisco vs. Denver
+        Denver vs. Chicago
+      Uniform Time
+        Implications

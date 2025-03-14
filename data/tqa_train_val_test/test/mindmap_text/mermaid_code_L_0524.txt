@@ -1,0 +1,43 @@
+mindmap
+  Food Webs
+    Definition
+      Food Chain
+        Single Pathway
+        Feeding Interactions
+      Food Web
+        Multiple Pathways
+        Complex Interactions
+    Components
+      Producers
+        Create Energy
+        Example: Phytoplankton
+      Consumers
+        Herbivores
+          Example: Krill
+        Carnivores
+          Example: Sharks
+      Decomposers
+        Role in Ecosystem
+    Energy Flow
+      Constant Flow
+      Feeding Relationships
+        Arrows Indicate Flow
+    Building a Food Web
+      Healthy Components
+        Diversity of Species
+        Energy Transfer Levels
+      Examples
+        Ocean Ecosystem
+          Phytoplankton → Krill → Fish → Shark
+        Land Ecosystem
+          Deer → Clover → Foxes → Chipmunks
+    Questions
+      Differences
+        Food Chain vs. Food Web
+      Commonalities
+        Loons and Arctic Tern
+        Beluga and Sea Duck
+      Feeding Relationships
+        Species Feeding on Zooplankton
+      Healthy Food Web Requirements
+      Number of Possible Healthy Food Webs

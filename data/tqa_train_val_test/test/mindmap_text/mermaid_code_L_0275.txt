@@ -1,0 +1,28 @@
+mindmap
+  Weather Prediction
+    Monitoring Weather
+      Scientists' Methods
+      GIFTS
+        Definition
+        Function
+        Advantages over Weather Balloons
+        Data Collection
+        Water Vapor Sensing
+        Hurricane Predictions
+        Wind Sensing
+    Numerical Weather Prediction (NWP)
+      Definition
+      Challenges
+        Hurricane Path Prediction
+        Forecast Discrepancies
+      Technology
+        Use of Supercomputers
+        Mathematical Models
+        Data Sources
+        Grid Calculations
+      Forecasting Process
+        Future Projections
+        Satellite Broadcasting
+    Importance of Weather Forecasting
+      Reducing Property Damage
+      Enhancing Safety

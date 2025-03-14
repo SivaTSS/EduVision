@@ -1,0 +1,40 @@
+mindmap
+  Microwaves
+    What are Microwaves?
+      Definition
+      Characteristics
+        Long Wavelengths
+        Low Frequencies
+    Uses of Microwaves
+      Microwave Ovens
+      Cell Phones
+        Encoding Sounds
+        Frequency Modulation
+        Transmission Process
+      Radar
+        Definition (Radio Detection and Ranging)
+        Functionality
+          Speed Detection
+          Storm Tracking
+          Air Traffic Detection
+    Electromagnetic Spectrum
+      Range of Waves
+        Radio Waves
+        Microwaves
+        Infrared
+        Visible Light
+        Ultraviolet
+        X-rays
+        Gamma Rays
+      Properties of Waves
+        Wavelength
+        Frequency
+        Energy
+    Radar Technology
+      Operation of Radar Guns
+        Emission of Microwaves
+        Reflection from Vehicles
+        Frequency Changes
+      Doppler Effect
+        Explanation
+        Application in Speed Detection

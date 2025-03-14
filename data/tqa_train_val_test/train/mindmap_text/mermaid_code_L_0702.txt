@@ -1,0 +1,41 @@
+mindmap
+  Echinoderms
+    Types
+      Eleutherozoa
+        Starfish
+        Brittle Stars
+        Sea Urchins
+        Sand Dollars
+        Sea Cucumbers
+      Pelmatozoa
+        Crinoids
+          Feather Stars
+          Sea Lilies
+    Characteristics
+      Movement
+        Tube Feet
+        Water Vascular System
+      Feeding
+        Capture Prey
+        Bottom Feeders
+    Habitat
+      Ocean Environments
+        Reefs
+        Deep Ocean
+        Shallow Waters
+      Distribution
+        Global Presence
+        No Freshwater or Land
+    Examples
+      Starfish
+      Sea Urchins
+      Sand Dollars
+      Feather Stars
+    Questions
+      Differences
+        Sea Lilies vs Feather Stars
+      Feeding Behavior
+        Brittle Stars
+      Sand Dollar Feeding
+        Mouth Location
+        Feeding Method

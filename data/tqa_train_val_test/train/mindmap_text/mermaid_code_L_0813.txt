@@ -1,0 +1,24 @@
+mindmap
+  Polarity of Molecules
+    Polar Covalent Bonds
+      Definition
+      Example
+    Nonpolar Covalent Bonds
+      Definition
+      Example
+    Determining Polarity of Compounds
+      Polar Bonds
+      Arrangement of Atoms
+    Water as a Polar Compound
+      Explanation
+      Comparison with Other Compounds
+    Examples of Compounds
+      Polar Compounds
+        NH3
+        CHCl3
+      Nonpolar Compounds
+        BF3
+        CCl4
+    Electronegativity
+      Oxygen vs. Hydrogen
+      Effect on Charge Distribution

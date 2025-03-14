@@ -1,0 +1,27 @@
+mindmap
+  Isomers
+    Hydrocarbons
+      Definition: Compounds of carbon and hydrogen
+      Smallest Hydrocarbon: Methane (CH4)
+      Larger Hydrocarbons: More carbon atoms = more isomers
+    Types of Isomers
+      Structural Isomers
+        Butane
+          Isomers: n-butane, iso-butane
+          Formula: C4H10
+        Pentane
+          Isomers: n-pentane, iso-pentane, neo-pentane
+          Formula: C5H12
+      Other Hydrocarbons
+        Heptane: 9 isomers
+        Dodecane: 355 isomers
+    Properties of Isomers
+      Different arrangements = different properties
+      Boiling and Melting Points
+        Branched-chain vs. Straight-chain
+        Example: 
+          n-butane: 0°C, -138°C
+          iso-butane: -12°C, -160°C
+          Predictions for pentane isomers
+            iso-pentane: 28°C
+            neo-pentane: 10°C

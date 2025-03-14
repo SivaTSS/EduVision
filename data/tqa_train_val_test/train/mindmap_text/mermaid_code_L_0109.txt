@@ -1,0 +1,38 @@
+mindmap
+  Cleaning Groundwater
+    Project Goals
+      UC Berkeley Project
+      Oxidation
+      In Situ
+      In Situ Chemical Oxidation (ISCO)
+      ISCO Mechanism
+      Oxidant Usage
+      Chemical Preparation
+    Challenges
+      Soil/Rock Cleaning
+      Bioremediation
+      Monitoring Contaminant Plume
+      Cost and Feasibility
+    Groundwater Cleaning Stages
+      Remove Pollutant Source
+      Monitor Pollutant
+      Model Contaminant Plume
+      Perform Remediation
+    Prevention
+      Easier and Cheaper
+      Source Removal
+        Underground Tank
+        Factory Discharge
+    Hydrologist's Role
+      Plume Movement
+      Concentration Monitoring
+      Test Wells
+      Computer Modeling
+    Remediation Techniques
+      Underground Barrier
+      In Situ Treatment
+        Bioremediation
+        Chemical Remediation
+      Reclamation
+        Pumping and Cleansing
+        Soil Processing

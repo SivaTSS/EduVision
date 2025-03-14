@@ -1,0 +1,43 @@
+mindmap
+  Technology
+    Definition
+      Application of knowledge
+      Real-world problem solving
+    Technological Design Process
+      Steps
+        Identify problem
+        Research
+        Develop designs
+        Create model
+        Test model
+        Final design selection
+      Constraints
+        Laws of nature
+        Material properties
+        Production costs
+        Ethical concerns
+    Relationship with Science
+      Different goals
+        Science: Increase knowledge
+        Technology: Practical application
+      Interdependence
+        Science aids technology
+        Technology aids science
+    Impact on Society
+      Influence of societal problems
+      Technology's effects on life
+        Easier living
+        Health improvements
+    Engineering
+      Role of engineers
+      Careers in engineering
+      Importance of physical science background
+    Examples of Technology
+      Historical milestones
+        ENIAC
+        PDP-8
+        Macintosh 128K
+        MacBook Air
+      Nanotechnology
+        Definition and significance
+        Applications in global issues

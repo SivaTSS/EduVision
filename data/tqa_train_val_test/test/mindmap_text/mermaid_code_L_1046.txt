@@ -1,0 +1,25 @@
+mindmap
+  Technology Careers
+    Engineers
+      Definition
+        Creative problem solvers
+        Use math and science
+      Roles
+        Design and build
+        Collaborate on projects
+    Types of Engineers
+      Electrical Engineers
+      Mechanical Engineers
+    Skills and Knowledge
+      Basic knowledge
+        Math
+        Physical science
+      Essential skills
+        Logical thinking
+        Creativity
+        Spatial visualization
+    Career Examples
+      Roller Coaster Design
+      Video Game Development
+    Resources
+      URLs for further learning

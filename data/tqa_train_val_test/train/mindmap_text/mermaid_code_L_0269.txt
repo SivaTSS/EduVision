@@ -1,0 +1,38 @@
+mindmap
+  Population Size
+    Population Growth
+      Exponential Growth
+        Conditions for Exponential Growth
+    Carrying Capacity
+      Definition
+      Effects on Population Growth
+      Dependence Factors
+        Biotic Factors
+          Food Availability
+        Abiotic Factors
+          Space
+          Water
+          Climate
+      Consequences of Exceeding Capacity
+        Population Decrease
+      Variability
+        Is it Constant?
+        Factors that Change It
+    Limiting Factors
+      Definition
+      Types
+        Density Dependent Factors
+          Examples
+            1. Food Availability
+            2. Predation
+            3. Disease
+            4. Habitat Loss
+      Impact of Natural Disasters
+    Population Dynamics
+      Growth Conditions
+        Ample Resources
+        Absence of Major Problems
+      Shrinkage Conditions
+        Biotic Limits
+        Abiotic Limits
+        Overpopulation

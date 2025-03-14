@@ -1,0 +1,41 @@
+mindmap
+  Measuring in Science
+    Importance of Measuring
+      Accurate and Precise Measurements
+      SI System of Units
+        Basic SI Units
+          Length
+          Volume
+          Mass
+        Temperature Scales
+          Kelvin
+          Celsius
+          Fahrenheit
+    Science Skills
+      Keeping Records
+        Use of Laboratory Notebook
+        Recording Procedures and Observations
+      Calculations
+        Significant Figures
+        Scientific Notation
+        Derived Quantities
+          Area
+          Volume
+      Organizing Data
+        Descriptive Statistics
+          Mean
+          Range
+        Data Graphs
+          Bar Graphs
+          Circle Graphs
+          Line Graphs
+      Models in Science
+        Definition and Purpose
+        Examples of Models
+    Safety in Science
+      Importance of Safety
+      Safety Symbols
+      Lab Safety Rules
+        Wear Safety Gear
+        Follow Teacher's Instructions
+        Proper Disposal of Materials

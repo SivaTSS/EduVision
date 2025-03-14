@@ -1,0 +1,29 @@
+mindmap
+  Energy Levels
+    Definition
+      Fixed distances from nucleus
+      Electrons found in these levels
+    Structure
+      Energy levels as steps
+      Electrons occupy specific levels
+    Electron Capacity
+      Maximum electrons per level
+        Level I: 2 electrons
+        Level II: 8 electrons
+        Level III: 18 electrons
+        Level IV: 32 electrons
+      Orbitals
+        Definition of orbitals
+        Types of orbitals (S, P, etc.)
+    Valence Electrons
+      Definition and significance
+      Stability of atoms
+        Example: Helium
+        Example: Fluorine and Lithium
+    Electron Movement
+      Jumping between levels
+        Absorbing energy
+        Releasing energy (light)
+    Reactivity
+      Influence of valence electrons
+      Examples of reactive elements

@@ -1,0 +1,41 @@
+mindmap
+  Location and Direction
+    Latitude
+      Definition
+        Distance north or south of the Equator
+        Measured in degrees (0 to 90)
+      Lines of Latitude
+        Characteristics
+          Equator
+          Tropic of Cancer
+          Tropic of Capricorn
+        Regions
+          Between Tropics
+    Longitude
+      Definition
+        Distance east or west of the Prime Meridian
+        Measured in degrees (0 to 180)
+      Lines of Longitude
+        Characteristics
+          Prime Meridian
+          International Date Line
+    Coordinates
+      Latitude and Longitude
+        Expressed in degrees, minutes, seconds
+        Example: N44° 27' 43", W110° 49' 57"
+    Elevation
+      Definition
+        Height above sea level
+      Example
+        Old Faithful: 7,349 ft (2,240 m)
+    Direction
+      Definition
+        Expressed as N, S, E, W
+      Compass
+        Aligns with Earth's magnetic north
+        Correction for magnetic declination
+    GPS
+      Function
+        Uses satellites to determine location
+      Process
+        Triangulation from multiple satellites

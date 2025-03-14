@@ -1,0 +1,41 @@
+mindmap
+  Radioactivity
+    Definition
+      Radioactivity
+      Radiation
+    Discovery
+      Antoine Henri Becquerel
+        Experiment with Uranium
+        Nobel Prize
+      Marie Curie
+        Term "Radioactivity"
+        Discoveries: Polonium, Radium
+    Sources of Radiation
+      Background Radiation
+        Natural Sources
+          Rocks
+          Cosmic Rays
+      Harmful Sources
+        Radon
+    Effects of Radiation
+      On Living Things
+        Health Risks
+          Radiation Sickness
+          Cancer
+      On Nonliving Things
+        Damage to Materials
+    Uses of Radiation
+      Medical
+        Cancer Treatment
+        Diagnostic Imaging
+      Geological
+        Dating Rocks and Fossils
+      Energy
+        Nuclear Power
+    Isotopes
+      Definition
+      Radioisotopes
+        Example: Carbon-14
+      Stability of Nuclei
+        Ratio of Protons to Neutrons
+        Elements with >83 Protons

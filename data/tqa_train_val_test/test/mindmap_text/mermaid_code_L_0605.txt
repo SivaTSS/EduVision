@@ -1,0 +1,30 @@
+mindmap
+  Genes and Molecular Evidence for Evolution
+    Chromosome Comparison
+      Human Chromosomes
+      Genome Similarities
+      Species Relationships
+    Genetic Sequences
+      Blueprint Analogy
+      Identical Sequences
+      Basal Organisms
+      Genetic Analysis Advances
+    Regulatory Genes
+      Definition
+      Differences Between Organisms
+    Hox Genes
+      Definition
+      Developmental Phase
+      Organisms with Hox Genes
+    Molecular Clocks
+      Definition
+      Relationship Determination
+      Genome Differences
+        Closely Related Species
+        Distantly Related Species
+    Biochemical Evidence
+      Common Building Blocks
+        Amino Acids
+        Nucleotides
+      DNA and RNA Functions
+      Genome Comparisons

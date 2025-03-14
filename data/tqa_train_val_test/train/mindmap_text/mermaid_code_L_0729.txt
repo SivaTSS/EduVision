@@ -1,0 +1,30 @@
+mindmap
+  Newtons Third Law
+    Definition
+      Action-Reaction Principle
+        Every action has an equal and opposite reaction
+        Forces act in pairs
+    Momentum
+      Definition
+        Property of a moving object
+        Equals mass times velocity
+      Calculation
+        Momentum = Mass × Velocity
+        Example: Golf ball momentum calculation
+      Comparison
+        Bowling ball vs. softball
+        Effect of mass and velocity on momentum
+    Conservation of Momentum
+      Definition
+        Momentum is conserved in collisions
+      Example
+        Truck and car collision
+        Combined momentum before and after collision
+    Applications
+      Real-world examples
+        Skateboarders pushing apart
+        Kangaroo jumping
+    Problems
+      Example problems
+        Calculate momentum of a child running
+        Compare momentum of football players

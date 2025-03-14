@@ -1,0 +1,49 @@
+mindmap
+  Evolution
+    Allele Frequencies
+      Calculation
+        Genotypes
+          AA
+          Aa
+          aa
+        Population Data
+          Total Individuals
+          Allele Counts
+      Forces of Change
+        Mutation
+        Gene Flow
+        Genetic Drift
+        Natural Selection
+    Microevolution
+      Definition
+      Characteristics
+        Short Time Scale
+        Population Level
+      Example
+        Darwin's Finches
+    Macroevolution
+      Definition
+      Characteristics
+        Long Time Scale
+        Above Species Level
+      Types
+        Speciation
+          Definition
+          Process
+          Example: Anole Lizards
+        Convergent Evolution
+          Definition
+          Example: Caribbean Anoles
+        Coevolution
+          Definition
+          Example: Hummingbird and Flower
+    Evolutionary Concepts
+      Natural Selection
+        Darwin's Theory
+      Variation in Traits
+        Inheritance
+        Alleles
+      Rate of Evolution
+        Influences
+          Environmental Changes
+          Rapid vs. Gradual Change

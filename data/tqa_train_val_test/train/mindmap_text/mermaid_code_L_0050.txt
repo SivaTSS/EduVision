@@ -1,0 +1,47 @@
+mindmap
+  Telecopes
+    Light and the Universe
+      Speed of Light
+        300,000,000 m/s
+        Importance to Astronomers
+      Light-Year
+        Definition
+        Distance in kilometers
+        Example: Proxima Centauri
+      Electromagnetic Spectrum
+        Visible Light
+          Wavelengths
+          Colors
+        Other Wavelengths
+          Ultraviolet
+          Infrared
+          X-rays
+          Gamma rays
+          Radio waves
+    Types of Telescopes
+      Optical Telescopes
+        Refracting Telescopes
+          How they work
+          Advantages
+        Reflecting Telescopes
+          How they work
+          Advantages and disadvantages
+      Radio Telescopes
+        Design and function
+        Example: Arecibo Observatory
+      Space Telescopes
+        Hubble Space Telescope
+        James Webb Space Telescope
+    Astronomical Observations
+      Studying Starlight
+        Spectrometers
+        Learning from spectra
+      Historical Context
+        Galileo's Discoveries
+        Importance of Constellations
+    Challenges in Astronomy
+      Observing from Earth
+        Atmospheric Interference
+        Twinkling Stars
+      Communication with Spacecraft
+        Delays in communication

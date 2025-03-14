@@ -1,0 +1,36 @@
+mindmap
+  Speed and Velocity
+    Speed
+      Definition
+        Measure of how fast or slow something moves
+      Calculation
+        Average speed = distance / time
+        Example: 120 miles in 3 hours = 40 mi/h
+      Instantaneous Speed
+        Varies at different moments
+        Harder to calculate than average speed
+    Velocity
+      Definition
+        Measure of speed and direction
+        Vector representation
+      Differences from Speed
+        Velocity includes direction
+        Speed is scalar
+    Distance-Time Graphs
+      Representation of Motion
+        Shows distance from starting point over time
+      Slope Interpretation
+        Steepness indicates speed
+        Horizontal line indicates zero speed
+      Example Calculation
+        Speed = change in distance / change in time
+    Applications
+      Real-life Examples
+        Car trips, bike rides
+      Importance of Understanding
+        Helps in measuring and predicting motion
+    Problems and Exercises
+      Average Speed Calculation
+        Example: Sam's race, Terri's bike trip
+      Distance Calculation
+        Example: Maria's running distance

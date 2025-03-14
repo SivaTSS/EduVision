@@ -1,0 +1,23 @@
+mindmap
+  Technology and Science
+    Relationship
+      Science advances technology
+      Technology advances science
+      Different goals
+        Science: increase knowledge
+        Technology: solve practical problems
+    Historical Examples
+      Telescope
+        Inventor: Hans Lippershey
+        Scientific knowledge: properties of light and lenses
+        Galileo's improvements
+          More powerful telescope
+          Discoveries: moon, sun spots, Jupiter's moons
+          Heliocentric model proof
+      Microscope
+        Scientific knowledge: light and lenses
+        Advancements in viewing tiny objects
+        Discovery of cells
+    Technological Devices
+      Seismometers
+      Spectrometers

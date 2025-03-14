@@ -1,0 +1,31 @@
+mindmap
+  Animal-like Protists
+    Definition
+      - Single-celled eukaryotes
+      - Heterotrophs
+      - Size: 0.01-0.5 mm
+    Taxonomy
+      - Five Kingdom System
+        - Proposed by: Whittaker
+      - Kingdom Protista
+    Groups of Protozoa
+      - Flagellates
+        - Movement: Long flagella
+        - Example: Trypanosoma (African sleeping sickness)
+      - Ciliates
+        - Movement: Cilia
+        - Example: Paramecium
+      - Sporozoans
+        - Movement: None
+        - Reproduction: Spores
+        - Example: Toxoplasma
+      - Amoeboids
+        - Movement: Pseudopodia
+        - Example: Amoeba
+    Characteristics
+      - Movement methods
+        - Flagella
+        - Cilia
+        - Pseudopodia
+        - Non-motile
+      - Disease-causing potential

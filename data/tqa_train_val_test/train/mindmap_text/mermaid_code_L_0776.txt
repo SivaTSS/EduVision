@@ -1,0 +1,50 @@
+mindmap
+  Classes_of_Elements
+    Metals
+      Properties
+        Good_conductors_of_electricity
+        Shiny
+        Ductile
+        Malleable
+        High_melting_points
+      Examples
+        Sodium (Na)
+        Silver (Ag)
+        Zinc (Zn)
+    Nonmetals
+      Properties
+        Poor_conductors_of_electricity
+        Dull
+        Brittle
+        Low_boiling_points
+      Examples
+        Helium (He)
+        Carbon (C)
+        Oxygen (O)
+    Metalloids
+      Properties
+        Properties_of_both_metals_and_nonmetals
+        Semiconductors
+        Shiny_but_brittle
+      Examples
+        Boron (B)
+        Silicon (Si)
+        Germanium (Ge)
+    Valence_Electrons
+      Role_in_reactivity
+        Metals
+          Few_valence_electrons
+          Highly_reactive
+        Nonmetals
+          Almost_full_outer_level
+          Very_reactive
+        Metalloids
+          Half_full_outer_level
+          Less_reactive
+    Periodic_Table
+      Trends
+        Increase_in_valence_electrons_left_to_right
+        Full_outer_energy_level
+      Group_Comparison
+        Similarities_in_valence_electrons
+        Impact_on_properties

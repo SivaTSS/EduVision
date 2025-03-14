@@ -1,0 +1,31 @@
+mindmap
+  Igneous Rocks
+    Types
+      Intrusive
+        Formation
+          Cools slowly beneath surface
+          Forms large crystals
+        Features
+          Plutonic
+          Common example: Granite
+          Composition: Feldspar, Quartz, Hornblende, Biotite
+      Extrusive
+        Formation
+          Cools rapidly above surface
+          Forms small crystals
+        Features
+          Volcanic
+          Common examples: Basalt, Rhyolite
+          Textures
+            Glassy
+            Vesicular
+            Porphyritic
+    Comparisons
+      Granite vs Gabbro
+      Rhyolite vs Basalt
+    Textures
+      Vesicular texture development
+      Porphyritic texture sequence
+    Other Names
+      Intrusive rocks: Plutonic
+      Extrusive rocks: Volcanic

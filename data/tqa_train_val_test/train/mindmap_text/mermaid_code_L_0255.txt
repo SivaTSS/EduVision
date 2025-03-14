@@ -1,0 +1,29 @@
+mindmap
+  Energy Resources
+    Obtaining Energy
+      Energy Loss
+        - What is lost when energy drips away?
+      Energy Efficiency
+        - Net Energy
+          - Usable energy from a resource
+        - Net-Energy Ratio
+          - Ratio of usable energy to energy used
+          - Implications of ratios >1 and <1
+        - Energy Efficiency Comparison
+          - Solar Energy
+          - Natural Gas
+          - Petroleum
+          - Coal-fired Electricity
+      Energy Conservation
+        - Benefits of CFLs over incandescent bulbs
+        - Advantages of power strips for electronics
+        - Importance of programmable thermostats
+        - Role of insulation
+        - Old appliances as energy sinks
+    Factors Affecting Energy Use
+      Net-Energy Ratio Comparison
+        - Why solar energy isn't used exclusively
+        - Changes in energy needed for extraction
+      Energy Costs
+        - Impact of resource depletion on extraction costs
+        - Offshore drilling challenges

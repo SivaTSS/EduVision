@@ -1,0 +1,46 @@
+mindmap
+  Ocean Life
+    Marine Organisms
+      Definition
+      Adaptations
+        Salt Water
+        Extreme Pressures
+    Major Groups of Marine Life
+      Plankton
+        Definition
+        Types
+          Phytoplankton
+            Photosynthesis
+            Photic Zone
+          Zooplankton
+            Feeds on Phytoplankton
+      Nekton
+        Definition
+        Characteristics
+          Swim through Water
+          Fish and Mammals
+      Benthos
+        Definition
+        Characteristics
+          Ocean Floor Dwellers
+          Attachment to Rocks
+          Burrowing for Food
+    Marine Food Chains
+      Structure
+        Primary Producers
+          Phytoplankton
+          Chemosynthesis
+        Consumers
+          Small Zooplankton
+          Larger Organisms
+          Predators
+      Example Food Chain
+        Phytoplankton → Zooplankton → Small Fish → Shark
+    Importance of Phytoplankton
+      Base of Food Chain
+      Support for Ocean Life
+    Decomposers
+      Role in Nutrient Cycle
+      Examples
+        Bacteria
+        Worms

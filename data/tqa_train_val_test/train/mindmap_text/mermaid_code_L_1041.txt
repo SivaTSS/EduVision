@@ -1,0 +1,27 @@
+mindmap
+  Synthesis Reactions
+    Overview
+      Definition: Two or more reactants combine to form a single product
+      General Equation: A + B → AB
+    Examples
+      Sodium and Chlorine
+        Reaction: 2Na + Cl2 → 2NaCl
+        Product: Sodium Chloride (Table Salt)
+      Nitrogen and Oxygen
+        Reaction: 2NO + O2 → 2NO2
+    Identification
+      Characteristics
+        Easy to identify due to single product formation
+    Questions
+      Why is it easy to identify synthesis reactions?
+      What is the product of sodium and oxygen synthesis?
+      Balanced equation for nitrogen and hydrogen synthesis?
+      Complete the following reactions:
+        a. 2Al + 3Br2 → ?
+        b. 2K + S → ?
+    Additional Examples
+      Table Salt Production
+      Other Reactions
+        2H2 + O2 → 2H2O
+        2K + 2H2O → 2KOH + H2
+        CH4 + 2O2 → CO2 + 2H2O

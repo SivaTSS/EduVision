@@ -1,0 +1,29 @@
+mindmap
+  Metamorphic Rocks
+    Formation
+      Metamorphism
+        Heat and Pressure
+        Physical and Chemical Changes
+      Types of Metamorphism
+        Contact Metamorphism
+          Definition
+          Example: Hornfels
+        Regional Metamorphism
+          Definition
+          Example: Gneiss
+    Properties
+      Foliation
+        Definition
+        Formation Process
+      Common Metamorphic Rocks
+        Quartzite
+        Marble
+        Schist
+        Slate
+    Uses
+      Building Materials
+        Marble
+        Quartzite
+      Artwork
+        Statues
+        Decorative Items

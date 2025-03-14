@@ -1,0 +1,38 @@
+mindmap
+  Photosynthesis and Cellular Respiration
+    Photosynthesis
+      Requirements
+        Sunlight
+        Carbon Dioxide
+        Water
+      Process
+        Absorption of Sunlight
+        Conversion to Glucose
+        Release of Oxygen
+    Cellular Respiration
+      Requirements
+        Glucose
+        Oxygen
+      Process
+        Glycolysis
+        Citric Acid Cycle
+        Oxidative Phosphorylation
+        Release of Carbon Dioxide
+        Production of ATP
+    Relationship
+      Opposite Equations
+        Cellular Respiration: C6H12O6 + 6O2 → 6CO2 + 6H2O
+        Photosynthesis: 6CO2 + 6H2O → C6H12O6 + 6O2
+      Interdependence
+        Products of One as Reactants of the Other
+        Energy Conversion
+    Carbon Cycle
+      Recycling of Carbon
+        Cellular Respiration Releases CO2
+        Photosynthesis Absorbs CO2
+      Atmospheric Balance
+        Stable Levels of Oxygen and Carbon Dioxide
+    Importance
+      Life Sustainability
+      Energy Production
+      Ecosystem Functioning

@@ -1,0 +1,51 @@
+mindmap
+  Animal Reproductive Behavior
+    Mating Systems
+      Harem-Based Mating
+        Dominant Male Elephant Seal
+          Defends females from other males
+          Questions
+            Does the dominant male father all pups?
+            How does harem size affect defense?
+      Lek Mating
+        Sage Grouse Behavior
+          Definition of a lek
+          Weight gain and reproductive success
+    Courtship Behaviors
+      Definition
+        Special behaviors to attract mates
+      Examples
+        Peacock tail display
+        Blue-footed booby dance
+        Mating songs in whales
+        Croaking in frogs
+        Antler clashing in deer
+        Jumping in spiders
+    Display Behaviors
+      Definition
+        Fixed actions conveying specific messages
+      Purposes
+        Attracting mates
+        Warning others
+      Examples
+        Male gorilla chest pounding
+        Male robin red breast display
+        Chemical marking by dogs and cats
+    Parental Care
+      Importance
+        Increases offspring survival
+      Examples
+        Nest building and feeding
+        Killdeer distraction behavior
+        Teaching skills in meerkats
+    Territoriality
+      Definition
+        Defense of an area
+      Factors
+        Food availability
+      Defense Methods
+        Display behaviors over fighting
+      Examples
+        Male gorilla displays
+        Robin red breast display
+        Chemical marking by dogs

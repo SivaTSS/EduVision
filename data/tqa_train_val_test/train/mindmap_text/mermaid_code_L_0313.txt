@@ -1,0 +1,38 @@
+mindmap
+  classDiagram
+    Star Classification
+      Hertzsprung-Russell Diagram
+        Characteristics of Stars
+        Brightness and Color
+          Luminosity
+          Temperature in Kelvin
+      Star Colors
+        Order of Colors
+          Coolest to Hottest
+            Red
+            Orange
+            Yellow
+            Blue
+            Blue-white
+        Temperature Ranges
+          Class O
+          Class B
+          Class A
+          Class F
+          Class G
+          Class K
+          Class M
+      Color Classification
+        Classification System
+          Letters Corresponding to Colors
+          Sample Stars
+            Zeta Ophiuchi
+            Rigel
+            Altair
+            Procyon A
+            Sun
+            Epsilon Indi
+            Betelgeuse
+      Star Size and Temperature
+        Relation of Size to Temperature
+        Energy Production

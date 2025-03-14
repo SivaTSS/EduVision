@@ -1,0 +1,30 @@
+mindmap
+  Cooling Systems
+    Purpose
+      Transfer thermal energy
+      Keep things cool
+    Examples
+      Refrigerator
+      Air Conditioner
+    How a Refrigerator Works
+      Thermal energy transfer
+        From cool air to warm air
+      Work
+        Reverses normal heat flow
+        Requires energy (electricity)
+    Refrigerant
+      Definition
+        Low boiling point substance
+        Changes between liquid and gas
+      Function
+        Absorbs thermal energy (liquid)
+        Releases thermal energy (gas)
+    Components of a Refrigerator
+      Compressor
+        Compresses refrigerant
+      Condenser
+        Cools refrigerant
+      Evaporator
+        Evaporates refrigerant
+      Thermostat
+        Controls temperature

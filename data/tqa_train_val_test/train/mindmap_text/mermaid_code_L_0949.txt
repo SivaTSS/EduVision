@@ -1,0 +1,28 @@
+mindmap
+  Mendeleev's Periodic Table
+    Development
+      Year: 1869
+      Method: Organizing elements by atomic mass
+      Cards: Created cards for each element
+      Pattern: Found by increasing atomic mass
+    Structure
+      Periods
+        Definition: Rows of the table
+        Elements: Eight elements per period
+      Groups
+        Definition: Columns of the table
+        Similar Properties: Elements with similar characteristics
+    Significance
+      Predictive Power
+        Missing Elements: Left blanks for undiscovered elements
+        Example: Predicted gallium's properties
+      Educational Tool
+        Purpose: Help students learn about elements
+        Basis: Served as a foundation for modern periodic table
+    Characteristics
+      Periodicity
+        Definition: Repeating patterns in the table
+        Examples: Moon phases, day/night cycle
+      Atomic Mass
+        Definition: Mass of one atom
+        Importance: Unique to each element, aids in organization

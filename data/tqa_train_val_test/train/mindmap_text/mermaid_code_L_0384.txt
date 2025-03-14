@@ -1,0 +1,55 @@
+mindmap
+  Integumentary System
+    Organs
+      Skin
+        Epidermis
+          Structure
+            Epithelial cells
+            No blood vessels or nerve endings
+          Function
+            Constant renewal
+              Mitosis
+              Keratin production
+              Dead cell shedding
+            Melanin production
+              Melanocytes
+              UV protection
+        Dermis
+          Structure
+            Connective tissue
+            Blood vessels
+            Nerve endings
+            Hair follicles
+            Glands
+              Sebaceous glands
+                Produce sebum
+              Sweat glands
+                Produce sweat
+          Function
+            Protects against microorganisms
+            Maintains body temperature
+    Functions of the Skin
+      Homeostasis
+        Water retention
+        Temperature regulation
+      Protection
+        Against UV light
+        Against bacteria
+    Hair
+      Structure
+        Keratin composition
+        Hair follicles
+      Function
+        Protects scalp
+        Insulates body
+        Traps dust and germs
+    Nails
+      Structure
+        Keratin composition
+      Function
+        Protects fingertips and toes
+        Enhances sense of touch
+    Skin Health
+      Protection from UV light
+      Keeping skin clean
+      Acne prevention

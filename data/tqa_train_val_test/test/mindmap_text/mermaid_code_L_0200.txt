@@ -1,0 +1,66 @@
+mindmap
+  Hurricanes
+    Difference
+      Hurricane vs Mid-latitude Cyclone
+    Formation
+      Origin
+        Tropical Latitudes
+        Sea Surface Temperature
+      Energy Source
+        Latent Heat
+        Humid Air Mass
+      Development
+        Tropical Depression
+        Thunderstorms
+        Rotation
+        Wind Shear
+    Characteristics
+      Size and Structure
+        High Winds
+        Calm Eye
+        Rainfall
+      Movement
+        Trade Winds
+        Westerlies
+        Speed
+    Categories
+      Saffir-Simpson Scale
+        Category 1
+          Wind Speed
+          Damage
+        Category 2
+          Wind Speed
+          Damage
+        Category 3
+          Wind Speed
+          Damage
+        Category 4
+          Wind Speed
+          Damage
+        Category 5
+          Wind Speed
+          Damage
+    Damage
+      Causes
+        High Winds
+        Rainfall
+        Storm Surge
+      Impact
+        Coastal Flooding
+        Historical Examples
+          Hurricane Camille
+          Hurricane Katrina
+    Lifecycle
+      Duration
+        5 to 10 Days
+      Dissipation
+        Cooler Water
+        Land Interaction
+        Replacement with Rain and Tornadoes
+    Statistics
+      Frequency
+        100 Hurricanes Annually
+      Trends
+        Property Damage Increase
+        Improved Prediction
+        Exception: Hurricane Katrina

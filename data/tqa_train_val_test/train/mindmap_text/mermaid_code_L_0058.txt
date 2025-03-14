@@ -1,0 +1,56 @@
+mindmap
+  Inner_Planets
+    Overview
+      Definition: Four planets closest to the Sun
+      Characteristics
+        Solid
+        Dense
+        Rocky
+        No rings
+        Smaller than outer planets
+        Shorter orbits
+        Slower spin
+    Mercury
+      Features
+        Smallest planet
+        Closest to the Sun
+        Thin atmosphere
+        Temperature extremes
+        Cratered surface
+      Orbit and Rotation
+        88 Earth days for orbit
+        58 Earth days for rotation
+        Slow rotation
+      Geological Activity
+        Not geologically active
+        Evidence of ancient craters
+    Venus
+      Features
+        Second planet from the Sun
+        Thick, corrosive atmosphere
+        Extremely high surface temperature
+        Mountains, canyons, volcanoes
+      Rotation
+        Spins backwards
+        Slow rotation (243 Earth days)
+      Geological Activity
+        More volcanoes than any other planet
+        No tectonic plates
+        Runaway greenhouse effect
+    Earth
+      Features
+        Third planet from the Sun
+        Abundant liquid water
+        Supports life
+        One large moon
+      Geological Activity
+        Plate tectonics
+        Diverse environments
+        Average temperature: 14°C (57°F)
+    Mars
+      Features
+        Fourth planet from the Sun
+        Thin atmosphere
+        Red color due to iron
+        Two small moons (Phobos and Deimos)
+      Geological Features

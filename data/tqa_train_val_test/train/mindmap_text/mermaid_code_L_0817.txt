@@ -1,0 +1,23 @@
+mindmap
+  Calculating Acceleration
+    Equation for Acceleration
+      Change in Velocity
+      Change in Time
+    SI Unit for Acceleration
+      m/s2
+    Average Acceleration
+      Example 1
+        Cyclist Velocity Change
+          From 4 m/s to 7 m/s
+          Time Period 5 seconds
+          Calculation
+      Example 2
+        Cyclist Velocity Change
+          From 1 m/s to 6 m/s
+          Time Period 5 seconds
+          Calculation
+      Example 3
+        Cyclist Slowing Down
+          From 6 m/s to 2 m/s
+          Time Period 4 seconds
+          Calculation

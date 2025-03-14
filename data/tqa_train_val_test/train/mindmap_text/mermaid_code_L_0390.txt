@@ -1,0 +1,28 @@
+mindmap
+  Cardiovascular System
+    Overview
+      Analogy: Highway System
+      Importance: Lifeline of the Body
+    Parts
+      Heart
+      Blood Vessels
+      Blood
+    Functions
+      Transport
+        Substances
+          Hormones
+          Oxygen
+          Nutrients
+          Cellular Wastes
+      Regulation
+        Body Temperature
+    Circulations
+      Pulmonary Circulation
+        Function: Heart to Lungs
+        Process: Oxygen absorption, Carbon dioxide release
+      Systemic Circulation
+        Function: Heart to Rest of Body
+        Process: Oxygen delivery, Carbon dioxide absorption
+    Valves
+      Function: Control Blood Flow
+      Importance: Prevent Backflow

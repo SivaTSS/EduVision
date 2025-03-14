@@ -1,0 +1,34 @@
+mindmap
+  Insect Reproduction and Life Cycle
+    Insect Reproductive Systems
+      Male Insect Strategies
+        Preventing Other Males
+      Fertilization Methods
+        Internal vs External
+      Accessory Glands
+    Reproductive Methods
+      Sexual Reproduction
+        Egg Fertilization
+        Placement Near Food
+      Asexual Reproduction
+        Offspring Similarity
+        Examples: Aphids, Scale Insects
+    Metamorphosis
+      Definition
+      Types of Metamorphosis
+        Complete Metamorphosis
+          Stages: Egg, Larva, Pupa, Adult
+          Differences in Forms and Habitats
+          Examples: Butterflies, Moths, Flies
+        Incomplete Metamorphosis
+          Stages: Egg, Nymph, Adult
+          Similarity Between Nymph and Adult
+          Examples: Dragonflies, Grasshoppers
+        No True Metamorphosis
+          Characteristics
+          Examples: Silverfish, Firebrats
+    Life Cycle Stages
+      Egg Stage
+      Growth and Transformation
+      Adult Stage
+        Mating and Reproduction

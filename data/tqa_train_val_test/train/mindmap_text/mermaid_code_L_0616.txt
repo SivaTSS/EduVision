@@ -1,0 +1,38 @@
+mindmap
+  Nonrenewable Resources
+    Definition
+      Natural resource
+      Consumed faster than formation
+    Types
+      Fossil Fuels
+        Formation
+          Plant and animal remains
+          Timeframe: 50 to 350 million years
+        Types of fossil fuels
+          Petroleum
+          Coal
+          Natural gas
+        Consumption
+          Less than 200 years
+          Oil supply until 2055
+          Natural gas until 2085
+          Coal until 2250
+      Nuclear Power
+        Definition
+          Nuclear fission
+          Energy creation in reactors
+        Uranium fuel supply
+          Lasts until 2100 or longer
+    Importance of Alternatives
+      Electric cars
+      Consequences of depletion
+        Impact on transportation
+        Need for energy standards
+    Environmental Impact
+      CO2 emissions from fossil fuels
+      Comparison with burning trees
+    Future Considerations
+      Population growth
+      Resource consumption
+      Technological improvements
+      Conservation efforts

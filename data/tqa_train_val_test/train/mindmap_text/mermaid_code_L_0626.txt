@@ -1,0 +1,52 @@
+mindmap
+  Infectious Diseases
+    Pathogens
+      Definition
+        Living organisms or viruses causing disease
+        Commonly referred to as germs
+      Types
+        Bacteria
+          Characteristics
+            One-celled organisms without a nucleus
+          Common Diseases
+            Tuberculosis (TB)
+            Strep throat
+            Pneumonia
+        Fungi
+          Characteristics
+            Eukaryotic organisms, single or multicellular
+          Common Diseases
+            Ringworm
+            Athlete's foot
+            Histoplasmosis
+        Protozoa
+          Characteristics
+            One-celled eukaryotic organisms
+          Common Diseases
+            Malaria
+            Diarrhea (e.g., Giardia lamblia)
+        Viruses
+          Characteristics
+            Nonliving, require host cells to reproduce
+          Common Diseases
+            Colds
+            Flu
+            Cold sores (Herpes simplex)
+    Transmission
+      Vectors
+        Definition
+          Organisms that carry pathogens
+        Examples
+          Mosquitoes (West Nile virus)
+          Ticks (Lyme disease)
+      Direct Contact
+        Contagious diseases
+        Examples
+          Sharing towels
+          Skin contact in sports
+      Environmental
+        Foodborne illnesses
+        Waterborne pathogens (e.g., Giardia)
+      Airborne
+        Droplets from sneezing or coughing
+        Respiratory diseases

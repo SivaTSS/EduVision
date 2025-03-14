@@ -1,0 +1,30 @@
+mindmap
+  Covalent Bonding
+    Definition
+      Covalent Bond
+        Attraction between atoms
+        Sharing of valence electrons
+    Characteristics
+      Nonmetals only
+      Same or different elements
+    Covalent Compounds
+      Formation
+        Atoms of different elements
+        Example: Water (H2O)
+      Molecule
+        Smallest particle of a covalent compound
+    Valence Electrons
+      Determining number of bonds
+        Nitrogen: 3 bonds
+        Chlorine: 1 bond
+    Strength of Bonds
+      Comparison with ionic bonds
+        Covalent bonds are stronger
+    Conductivity
+      Covalent compounds do not conduct electricity
+    Diatomic Molecules
+      Examples
+        Hydrogen, Nitrogen, Oxygen, Halogens
+    Visual Representations
+      Water Molecule (Figure 1.1)
+      Oxygen Molecule (Figure 1.2)

@@ -1,0 +1,31 @@
+mindmap
+  Muscles
+    Types of Muscles
+      Skeletal Muscle
+        Voluntary Control
+        Attached to Skeleton
+        Reflex Actions
+      Smooth Muscle
+        Involuntary Control
+        Found in Organs
+        Pushes Materials
+      Cardiac Muscle
+        Involuntary Control
+        Found in Heart
+        Contracts Together
+    Muscle Fibers
+      Definition
+        Long, Thin Cells
+        Capable of Contraction
+      Proteins
+        Actin
+        Myosin
+    Muscle Control
+      Voluntary Muscles
+        Under Conscious Control
+      Involuntary Muscles
+        Not Under Conscious Control
+    Functions of Muscles
+      Movement
+      Heart Function
+      Organ Function

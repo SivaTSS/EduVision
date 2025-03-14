@@ -1,0 +1,20 @@
+mindmap
+  Lens
+    What is a lens?
+      Definition
+      Function
+    Types of lenses
+      Concave lens
+        Shape
+        Image characteristics
+          Virtual image
+          Size and orientation
+      Convex lens
+        Shape
+        Image characteristics
+          Real or virtual image
+          Focus point
+    Hand lens
+      Function
+      Image formation
+        Right-side up image

@@ -1,0 +1,34 @@
+mindmap
+  Human Genome Project
+    Overview
+      Definition of Genome
+        Genetic Information
+        Uniqueness of Individual Genomes
+      Human Genome Project
+        International Effort
+        Sequencing 3 Billion Bases
+        Identifying 20,000 Genes
+        Completion in 2003
+    Applications
+      Disease Risk Assessment
+        Genetic Basis for Diseases
+        Tests for Genetic Disorders
+      Cost Reduction
+        Sequencing Individual Genomes
+        Preventive Lifestyle Changes
+    Personal Genome Project
+      Goals
+        Understanding Personal Genomes
+        Additional Information Sought
+      Participation Benefits
+        Contribution to Research
+        Personal Health Insights
+    PCR Virtual Lab
+      PCR Process
+        Copies of DNA Sequence
+        Starting DNA Amount
+        Primers Usage
+        Ingredients in PCR Tube
+        Temperature Effects
+          95°C Process
+          72°C Process

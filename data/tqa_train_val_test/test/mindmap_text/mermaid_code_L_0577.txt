@@ -1,0 +1,62 @@
+mindmap
+  Ecology
+    Definition
+      Study of interactions
+      Living organisms and environment
+    Factors
+      Abiotic
+        Non-living components
+        Examples
+          Sunlight
+          Climate
+          Soil
+          Water
+          Air
+      Biotic
+        Living components
+        Examples
+          Plants
+          Animals
+          Bacteria
+          Fungi
+          Protists
+    Levels of Study
+      Cells
+      Organisms
+      Ecosystems
+      Biosphere
+    Fields of Ecology
+      Geology
+      Soil Science
+      Geography
+      Meteorology
+      Genetics
+      Chemistry
+      Physics
+    Biomes
+      Definition
+        Large communities of plants and animals
+      Examples
+        Arctic
+        Tropics
+        Desert
+        Atacama Desert
+    Research Methods
+      Field Studies
+        Data collection in natural settings
+        Example: Insect study in rainforest
+      Laboratory Studies
+        Controlled environment analysis
+        Data analysis from field studies
+    Organism Interactions
+      Growth and reproduction
+      Energy acquisition
+        Photosynthesis in plants
+        Consumption in animals
+    Importance of Benchmarks
+      Definition
+        Reference points in ecology
+      Role in monitoring ecosystems
+    Water Pollution
+      Effects on diversity
+      Impact on stream ecosystems

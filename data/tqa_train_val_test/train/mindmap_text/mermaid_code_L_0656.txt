@@ -1,0 +1,53 @@
+mindmap
+  Renewable Resources and Alternative Energy Sources
+    Renewable Resources
+      Definition
+        Can be replaced by natural processes
+        Examples
+          Sunlight
+          Wind
+          Ocean Tides
+    Sustainable Resources
+      Definition
+        Meets present needs without compromising future generations
+      Examples
+        Wood
+        Cork
+        Bamboo
+        Sustainable farming practices
+    Nonrenewable Resources
+      Definition
+        Cannot be easily replaced
+      Example
+        Fossil Fuels
+    Alternative Energy Sources
+      Solar Power
+        Uses solar cells for electricity
+      Wind Power
+        Uses windmills for electricity
+        Growing usage
+      Hydropower
+        Uses moving water to generate electricity
+        Produces no waste or pollution
+      Geothermal Power
+        Uses Earth's heat to produce steam for electricity
+      Biomass
+        Organic matter used for energy
+        Example: Corn for ethanol
+      Tidal Power
+        Uses ocean tides to generate electricity
+    Energy Production Techniques
+      Electricity Generation
+        Solar, Wind, Hydropower, Geothermal, Biomass, Tidal
+      Heat Production
+        Biomass
+    Biomass Energy
+      Definition
+        Mass of biological organisms
+      Uses
+        Creating electricity from organic matter
+        Example: Ethanol from corn
+    Innovations
+      Trash to Coal
+        Developed by MIT
+        Cleaner burning than fossil fuels

@@ -1,0 +1,33 @@
+mindmap
+  Halogens
+    What are halogens?
+      Definition
+      Group 17 elements
+        Fluorine (F)
+        Chlorine (Cl)
+        Bromine (Br)
+        Iodine (I)
+        Astatine (At)
+    Why are halogens very reactive?
+      Seven valence electrons
+      Eager to gain one electron
+      Reactivity trends
+        Decreases from top to bottom
+      Reactions with alkali metals
+    Physical properties of halogens
+      States of matter
+        Gases: Fluorine, Chlorine
+        Liquid: Bromine
+        Solids: Iodine, Astatine
+      Color variations
+        Fluorine, Chlorine: Green
+        Bromine: Red
+        Iodine, Astatine: Nearly black
+      Electrical and thermal conductivity
+      Melting and boiling points
+    Uses of halogens
+      Dental hygiene
+        Fluorine in toothpaste
+        Chlorine in mouthwash
+      Germ killing
+      Bleaching properties

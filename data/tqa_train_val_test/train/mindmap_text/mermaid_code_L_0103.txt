@@ -1,0 +1,39 @@
+mindmap
+  Carbon Cycle and Climate
+    Greenhouse Gases
+      Role in Climate
+      Importance of CO2
+    Carbon in the Atmosphere
+      Historical Levels
+      Measurement at Mauna Loa
+    Carbon Cycle Process
+      Photosynthesis
+        Inorganic to Organic Carbon
+        Equation: CO2 + H2O + sunlight → C6H12O6 + O2
+      Respiration
+        Organic to Inorganic Carbon
+        Equation: C6H12O6 + O2 → CO2 + H2O + Energy
+      Gas Exchange
+        Photosynthesis vs. Respiration
+    Carbon Reservoirs
+      Definition
+      Types
+        Carbon Sinks
+          Healthy Forests
+          Oceans
+        Carbon Sources
+          Volcanic Gases
+          Fossil Fuels
+    Human Impact
+      Fossil Fuel Combustion
+        CO2 Emissions
+        Equation for Propane Combustion
+      Deforestation
+        Loss of Carbon Sink
+        Transition to Carbon Source
+    Carbon Cycle Balance
+      Importance of Balance
+      Residence Time
+    Climate Change
+      Effects of Increased CO2
+      Need for Sustainable Practices

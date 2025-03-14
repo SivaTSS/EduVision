@@ -1,0 +1,30 @@
+mindmap
+  World Climates
+    Climate Types
+      Major Climate Types
+        Tropical
+          Tropical Wet
+          Tropical Wet and Dry
+        Temperate
+          Mediterranean
+          Marine West Coast
+          Humid Subtropical
+        Continental
+          Humid Continental
+          Subarctic
+        Polar
+          Polar Tundra
+          Alpine Tundra
+    Climate Influences
+      Latitude
+      Oceans
+      Mountain Ranges
+    Microclimates
+      Definition
+      Example
+    Climate Change
+      Effects on Earth
+      Impact on Living Things
+    Biomes
+      Definition
+      Relationship to Climate

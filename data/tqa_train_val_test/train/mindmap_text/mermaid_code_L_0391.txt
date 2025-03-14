@@ -1,0 +1,53 @@
+mindmap
+  Cardiovascular System
+    Heart
+      Structure
+        Muscular organ
+        Four chambers
+          Left atrium
+          Right atrium
+          Left ventricle
+          Right ventricle
+        Valves
+      Function
+        Pumps blood
+        Controlled by pacemaker
+        Rhythmic contractions
+    Blood Vessels
+      Types
+        Arteries
+          Carry oxygen-rich blood
+          Thick walls
+        Veins
+          Carry oxygen-poor blood
+          Thinner walls
+          Valves to prevent backflow
+        Capillaries
+          Connect arteries and veins
+          Exchange of substances
+      Homeostasis
+        Dilation and constriction
+        Regulates blood flow
+    Cardiovascular Diseases
+      Definition
+        Diseases of heart and blood vessels
+      Examples
+        Atherosclerosis
+        Coronary heart disease
+      Risk Factors
+        Non-controllable
+          Age
+          Gender
+          Family history
+        Controllable
+          Avoid smoking
+          Regular physical activity
+          Healthy diet
+          Regular checkups
+    Maintaining Health
+      Lifestyle choices
+        Avoid smoking
+        Regular exercise
+        Healthy body fat percentage
+        Low-fat diet
+        Regular health checkups

@@ -1,0 +1,43 @@
+mindmap
+  Angiosperms
+    Overview
+      Definition: Flowering plants
+      Phylum: Anthophyta
+      Abundance: Most successful phylum
+      Environments: Diverse habitats
+    Flower Structure
+      Common Structures
+        Sepals
+          Definition: Green outer part
+          Collective: Calyx
+        Petals
+          Collective: Corolla
+          Function: Attract pollinators
+        Stamens
+          Definition: Male part
+          Components: Filament, Anther
+        Carpels
+          Definition: Female part
+          Components: Stigma, Style, Ovary
+            Ovary: Becomes fruit
+            Ovules: Female gametophytes
+    Reproduction
+      Methods
+        Self-Pollination
+          Definition: Pollen on same flower
+          Result: Genetically identical plant
+        Cross-Fertilization
+          Definition: Pollen from one flower to another
+          Agents: Wind, Animals
+    Importance
+      Food Sources
+        Grains: Wheat, Rye, Corn
+        Starchy Foods: Potatoes
+        Legumes: Beans
+        Fruits: Seed dispersal, Nutrition
+      Non-Food Uses
+        Textiles: Cotton
+        Lumber: Hardwood trees
+    Comparison with Gymnosperms
+      Similarities
+      Differences

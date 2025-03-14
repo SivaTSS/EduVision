@@ -1,0 +1,30 @@
+mindmap
+  Air Pollution and Human Health
+    Effects on Health
+      Lung Diseases
+        Asthma
+        Lung Cancer
+        Emphysema
+      Other Health Issues
+        Heart Disease
+        Weakened Immune System
+        Viral Infections
+    Vulnerable Populations
+      Infants and Toddlers
+      Adults
+    Pollution Sources
+      Common Pollutants
+        Lead
+        Carbon Monoxide
+        Nitrogen Oxides
+        Sulfur Oxides
+        Ozone
+        Particulates
+    Economic Impact
+      Cost to Washington State
+      Healthcare Costs
+    Research and Studies
+      Asthma and Pollution Link
+      Olympic Games Experiment
+      Lung Cancer Statistics
+      Global Asthma Rates

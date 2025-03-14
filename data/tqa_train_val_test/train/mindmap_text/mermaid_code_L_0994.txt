@@ -1,0 +1,37 @@
+mindmap
+  class: "Protein Classification"
+    Proteins
+      Definition
+        Biochemical compounds
+        Composition
+          Carbon
+          Hydrogen
+          Oxygen
+          Nitrogen
+          Sulfur
+      Structure
+        Amino Acids
+          Building blocks
+          20 different types
+        Protein Molecules
+          Chains of amino acids
+          Covalent bonds
+          Weaker bonds
+            Hydrogen bonds
+      Shape and Function
+        Determinants of shape
+          Sequence of amino acids
+          Number of chains
+        Relationship to function
+          Complex shapes
+      Functions of Proteins
+        Tissue components
+          Muscle
+        Enzymes
+          Speeding up reactions
+        Hormones
+          Regulation of life processes
+        Antibodies
+          Defense against infections
+        Transport proteins
+          Example: Hemoglobin

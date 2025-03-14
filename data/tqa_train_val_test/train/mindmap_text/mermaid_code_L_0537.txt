@@ -1,0 +1,17 @@
+mindmap
+  Hardy-Weinberg Theorem
+    Definition
+      Allele
+      Genetic Equilibrium
+    Conditions for Equilibrium
+      No Mutation
+      No Migration
+      Large Population Size
+      Random Mating
+      No Natural Selection
+    Implications
+      Stability of Allele Frequencies
+      Predicting Future Generations
+    Challenges
+      Rare Occurrence of Conditions
+      Evolutionary Changes

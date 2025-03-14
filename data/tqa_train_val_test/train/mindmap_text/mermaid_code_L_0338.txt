@@ -1,0 +1,31 @@
+mindmap
+  %% Central Topic
+  Fossilization Types
+    Mold Fossils
+      Definition: Depression left in the shape of the material
+      Formation: Original material dissolves
+    Cast Fossils
+      Definition: Rocky material that fills the mold
+      Formation: Sediments fill the mold space
+    Trace Fossils
+      Definition: Indications of organism activity (e.g., footprints)
+    True Form Fossils
+      Definition: Actual remains of the organism
+    Main Kinds of Fossils
+      Permineralization
+        Definition: Minerals replace organic material
+        Process: Mineral-rich water infuses sediment
+        Examples: Dinosaur bones, petrified wood
+      Compression
+        Definition: High pressure leaves dark imprints
+        Common Organisms: Leaves, ferns
+    Preservation of Soft Parts
+      Rarity: Few fossils preserve soft parts
+      Exceptions: Insects in amber, animals in ice
+    Fossilization Processes
+      Five Main Processes
+        1. Unaltered Preservation
+        2. Permineralization
+        3. Mold and Cast Formation
+        4. Compression
+        5. Pyritization

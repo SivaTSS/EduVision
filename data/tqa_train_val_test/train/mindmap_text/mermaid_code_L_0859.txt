@@ -1,0 +1,40 @@
+mindmap
+  Direction
+    Short Routes
+      Example: Home to Friend's House
+      Example: Home to School
+    Vectors
+      Definition: Measurement with Size and Direction
+      Representation: Arrow
+        Length: Represents Distance
+        Direction: Represents Motion
+    Describing Direction
+      Relative Terms
+        Up
+        Down
+        In
+        Out
+        Left
+        Right
+        Forward
+        Backward
+        Sideways
+      Cardinal Directions
+        North
+        South
+        East
+        West
+        Compass Rose: Tool for Navigation
+    Map Navigation
+      Example: Jordan's Route
+        From: Jordan's House to School
+        From: School to Post Office
+      Importance of Direction
+        Example: 3 km to Post Office
+        Correct Directions: 
+          West for 2 km
+          North for 1 km
+    Visual Representation
+      Figure 1.1: Map Overview
+        Locations: Post Office, School, Park
+        Vectors: Red Arrows Indicating Routes

@@ -1,0 +1,44 @@
+mindmap
+  Tornadoes
+    Formation
+      Supercells
+      Thunderstorm Elements
+        Updrafts
+        Wind Patterns
+    Characteristics
+      Structure
+        Funnel-shaped Column
+        Cumulonimbus Cloud
+      Duration and Speed
+        Lasts Seconds to Hours
+        Average Wind Speed
+        Travel Speed
+    Impact
+      Damage
+        Area Affected
+        Causes of Injuries and Deaths
+      Statistics
+        Annual Deaths
+        Violent Tornadoes
+    Conditions for Formation
+      Air Masses
+        Maritime Tropical (mT)
+        Continental Polar (cP)
+      Seasonal Factors
+        Spring Thunderstorms
+      Global Warming Effects
+    Tornado Alley
+      Geographic Area
+        Texas
+        Oklahoma
+        Nebraska
+        South Dakota
+      Frequency of Tornadoes
+    Prediction and Warning
+      Meteorological Challenges
+      Radar Detection
+      Warning Issuance
+    Intensity Measurement
+      Fujita Scale
+        Scale Values
+        Damage Categories

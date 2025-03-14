@@ -1,0 +1,35 @@
+mindmap
+  Lymphatic System
+    Functions
+      Return body fluids to blood
+      Filter and clean lymph
+      Support immune system
+    Components
+      Lymph
+        Clear fluid in lymphatic system
+        Collected from interstitial spaces
+      Lymph Vessels
+        Tube-shaped structures
+        Move lymph via muscle action
+      Lymph Nodes
+        Filters for foreign particles
+        Important for immune function
+      Organs
+        Spleen
+          Filters blood
+          Detects pathogens
+        Thymus Gland
+          Produces T cells
+        Tonsils
+          Help fight infections
+    Circulation
+      Open circulatory system
+      No central pump
+      Movement of lymph
+        Squeezing action of muscles
+    Interstitial Fluid
+      Fluid leaking from blood vessels
+      Collected by lymph vessels
+    Effects of Spleen Removal
+      Impacts immune response
+      Affects blood filtration

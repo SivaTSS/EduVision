@@ -1,0 +1,41 @@
+mindmap
+  Carbon and Nitrogen Cycles
+    Carbon
+      Definition
+        Elemental form
+        Combines with other elements
+      Importance
+        Basis of life
+        Controls life processes
+      Biotic Carbon Cycle
+        Movement between living things and air
+        Photosynthesis and respiration
+      Abiotic Carbon Cycle
+        Movement between air, ground, and oceans
+        Role of oceans
+      Human Impact
+        Burning fossil fuels
+        Deforestation
+        Greenhouse gas effects
+    Nitrogen
+      Definition
+        Key element in proteins
+        Cycles through ecosystems
+      Nitrogen Cycle
+        Stages
+          Nitrogen fixation
+          Nitrogen assimilation
+          Nitrogen waste
+      Importance
+        Essential nutrient for plants
+        Role in fertilizers
+      Human Impact
+        Fertilizer runoff
+        Algal blooms
+        Creation of dead zones
+    Interactions
+      Biotic and Abiotic Cycles
+        Overlapping processes
+      Human Influence
+        Population growth
+        Environmental consequences

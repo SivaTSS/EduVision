@@ -1,0 +1,47 @@
+mindmap
+  Mollusks and Annelids
+    Mollusks
+      Definition
+        Invertebrates
+        Phylum Mollusca
+      Traits
+        Coelom
+        Organ systems
+        Shell
+        Head
+        Foot
+        Radula
+      Reproduction
+        Sexual reproduction
+        Fertilization (internal/external)
+        Larval stages
+      Ecology
+        Habitat (terrestrial, freshwater, marine)
+        Feeding strategies
+          Heterotrophs
+          Parasites
+    Annelids
+      Definition
+        Segmented invertebrates
+        Phylum Annelida
+      Traits
+        Segmentation
+        Coelom
+        Organ systems
+      Reproduction
+        Asexual reproduction (budding, fission)
+        Sexual reproduction
+        Larval stages
+      Ecology
+        Habitat (freshwater, saltwater, terrestrial)
+        Feeding strategies
+          Decomposers (earthworms)
+          Predators (leeches)
+          Filter feeders (polychaete worms)
+    Comparison
+      Similarities
+        Coelom
+        Organ systems
+      Differences
+        Body structure (segmentation vs. non-segmentation)
+        Feeding strategies

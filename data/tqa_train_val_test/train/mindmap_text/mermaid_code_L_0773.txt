@@ -1,0 +1,35 @@
+mindmap
+  History of the Atom
+    Democritus
+      Ideas about the atom
+        "Uncuttable" pieces (atomos)
+        Rejected by Aristotle
+    John Dalton
+      Revived atomic theory (1800)
+        Evidence for atoms
+        Experiments with gases
+        Atomic theory components
+          All substances made of atoms
+          Atoms cannot be divided
+          Atoms of same element are alike
+          Compounds consist of same elements in same ratio
+      Model of atoms
+        Solid wooden balls
+        Limitations of Dalton's model
+    J.J. Thomson
+      Discovery of electrons (1897)
+        Experiments with electric current
+        Plum pudding model
+          Negative electrons in positive "sea"
+    Ernest Rutherford
+      Discovery of the nucleus (1911)
+        Alpha particle experiments
+        Findings from gold foil experiment
+          Most particles passed through
+          Some particles bounced back
+        Conclusion about atomic structure
+          Positive charge concentrated in nucleus
+          Discovery of protons
+          Prediction of neutrons
+      Planetary model of the atom
+        Electrons orbiting nucleus

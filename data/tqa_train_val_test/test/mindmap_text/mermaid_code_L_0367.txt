@@ -1,0 +1,44 @@
+mindmap
+  Animals
+    Traits
+      Multicellular
+      Eukaryotic
+      Heterotrophic
+      Specialized Cells
+      Higher Levels of Organization
+    Classification
+      Animal Kingdom
+        Eukarya Domain
+        Divided into Phyla
+          40 Modern Phyla
+          Major Phyla
+            Porifera
+            Cnidaria
+            Platyhelminthes
+            Nematoda
+            Mollusca
+            Annelida
+            Arthropoda
+            Echinodermata
+            Chordata
+      Groups
+        Invertebrates
+          Lack Backbone
+          95% of Species
+        Vertebrates
+          Have Backbone
+          5% of Species
+    Life Cycle
+      Simple Life Cycle
+      Diploid Organisms
+      Sexual Reproduction
+      Meiosis
+      Fertilization
+      Embryo Development
+      Larval Stages
+    Unique Abilities
+      Movement
+      Internal Digestion
+      Response to Stimuli
+        Nervous System
+        Specialized Nerve Cells

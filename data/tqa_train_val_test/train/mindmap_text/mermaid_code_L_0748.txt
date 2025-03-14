@@ -1,0 +1,32 @@
+mindmap
+  Sound Characteristics
+    Definition
+      Scientific Definition
+      Riddle of the Falling Tree
+    Sound Waves
+      Description
+      Properties
+        Speed
+        Loudness
+        Pitch
+    Properties of Sound
+      Speed of Sound
+        Varies by Medium
+        Temperature Effects
+      Loudness
+        Intensity
+        Decibel Levels
+      Pitch
+        Frequency
+        Human Hearing Range
+    Sound Travel
+      Mediums
+        Solids
+        Liquids
+        Gases
+      Speed Comparison
+        Faster in Solids
+        Slower in Gases
+    Doppler Effect
+      Explanation
+      Real-life Examples

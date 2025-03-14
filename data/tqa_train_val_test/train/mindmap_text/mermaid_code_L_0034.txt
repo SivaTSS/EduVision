@@ -1,0 +1,34 @@
+mindmap
+  Human Population
+    Population Growth
+      Factors Influencing Growth
+        Birth Rate
+        Death Rate
+        Carrying Capacity
+      Historical Growth
+        Slow Growth Until 1800s
+        Industrial Revolution Impact
+          Decrease in Death Rate
+            Improved Agriculture
+            Transportation Advances
+            Sanitation Improvements
+        Demographic Transition
+          Birth Rate Decline
+    Environmental Impact
+      Resource Depletion
+        Natural Resources
+        Soil Erosion
+      Pollution
+        Air Pollution
+        Water Pollution
+      Habitat Destruction
+        Wetlands
+        Invasive Species
+    Sustainable Development
+      Goals
+        Fair Resource Distribution
+        Resource Conservation
+        Ecosystem Protection
+      Individual Actions
+        Resource Management
+        Community Involvement

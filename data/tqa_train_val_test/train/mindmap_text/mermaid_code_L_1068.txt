@@ -1,0 +1,23 @@
+mindmap
+  Wave Interference
+    What is Wave Interference?
+      Definition
+      Interaction of Waves
+    Types of Interference
+      Constructive Interference
+        Definition
+        Amplitude Increase
+        Visual Representation
+          Figure 1.1
+      Destructive Interference
+        Definition
+        Amplitude Decrease
+        Visual Representation
+          Figure 1.2
+    Standing Waves
+      Definition
+      Formation
+        Reflection from Obstacles
+        Combination of Interference
+      Practical Example
+        Using a Rope

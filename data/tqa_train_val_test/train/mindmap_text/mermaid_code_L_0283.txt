@@ -1,0 +1,27 @@
+mindmap
+  Radioactive Decay as a Measure of Age
+    Radiation
+      Definition
+      Detection
+    Types of Radioactive Decay
+      Alpha Decay
+        Composition: 2 protons, 2 neutrons
+        Effect on Nucleus: Loses 2 protons and 2 neutrons
+      Beta Decay
+        Composition: 1 electron
+        Effect on Nucleus: One neutron decays to form a proton and an electron
+    Radioactive Isotopes
+      Definition: Unstable isotopes that change by gaining or losing particles
+      Parent and Daughter Isotopes
+        Parent: Original element
+        Daughter: Stable product formed from decay
+    Half-Life
+      Definition: Time for half of parent isotopes to decay
+      Exponential Decay
+        Explanation: Rate of decay is constant over time
+    Dating Earth Materials
+      Useful Half-Lives
+        Number of half-lives for dating
+      Graphical Representation
+        Decay over time
+        Percent parent and daughter isotopes

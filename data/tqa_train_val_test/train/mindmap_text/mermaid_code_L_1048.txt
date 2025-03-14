@@ -1,0 +1,37 @@
+mindmap
+  Thermal Conductors and Insulators
+    Thermal Conductors
+      Definition
+        Good conductors of thermal energy
+      Examples
+        Metals
+        Metal radiator
+      Properties
+        Freely moving electrons
+        Faster conduction in solids and liquids
+    Thermal Insulators
+      Definition
+        Poor conductors of thermal energy
+      Examples
+        Gases (e.g., air)
+        Materials (e.g., plastic, wood)
+        Down-filled snowsuits
+        Insulation in homes
+      Properties
+        Particles are far apart
+        Less frequent particle collisions
+    Thermal Conduction
+      Definition
+        Transfer of thermal energy between touching particles
+      Process
+        Warmer particles bump into cooler particles
+        Energy transfer occurs
+      Speed of Conduction
+        Faster in solids and liquids than gases
+    Practical Applications
+      Thermal Conductors
+        Heating elements (e.g., toasters)
+        Radiators
+      Thermal Insulators
+        Clothing for warmth
+        Food and drink containers (e.g., Styrofoam coolers, thermos)

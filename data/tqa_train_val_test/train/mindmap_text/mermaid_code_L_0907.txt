@@ -1,0 +1,28 @@
+mindmap
+  Gamma Decay
+    Gamma Rays
+      Definition: Electromagnetic waves
+      Characteristics
+        - Most energetic electromagnetic waves
+        - Carry photons of energy (gamma particles)
+      Production
+        - Occurs during gamma decay of excited nucleus
+    Gamma Decay Process
+      Emission
+        - Nucleus emits gamma particle (energy packet)
+      Comparison with Other Decays
+        - Only energy emitted (unlike alpha/beta decay)
+        - No change in number of protons
+    Reasons for Gamma Decay
+      Stability
+        - Occurs when nucleus is in excited state
+        - Happens after alpha or beta decay
+      Radioactive Elements
+        - Unstable nuclei undergo decay to become stable
+        - Types of decay: alpha, beta, gamma
+    Dangers of Gamma Rays
+      Penetration
+        - Travel farther than alpha/beta particles
+        - Require lead or concrete for shielding
+      Biological Impact
+        - Can damage cells deep inside the body

@@ -1,0 +1,39 @@
+mindmap
+  Maps
+    Topographic Maps
+      Definition
+        Contour Line
+        Contour Interval
+        Index Contour
+      Features
+        Elevation
+        Landscape Shape
+        Rules
+          Lines of Equal Elevation
+          Non-Crossing Lines
+          Bolded Every Fifth Line
+          Constant Elevation Difference
+      Interpretation
+        Hills vs Basins
+        Steep vs Shallow Slopes
+        Walking Along Contour Lines
+        Walking Perpendicular to Contour Lines
+        Close Contour Lines
+    Bathymetric Maps
+      Definition
+        Depth Below Sea Level
+      Features
+        Contour Lines for Depth
+        Comparison to Topographic Maps
+      Example
+        Kilauea and Loihi Volcanoes
+    Geologic Maps
+      Definition
+        Geological Features
+        Rock Units
+        Faults and Folds
+      Features
+        Color-Coded Rock Units
+        Superimposed on Topographic Maps
+      Example
+        Geological Map of Old Faithful Region

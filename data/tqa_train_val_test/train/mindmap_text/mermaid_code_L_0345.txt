@@ -1,0 +1,37 @@
+mindmap
+  Venus
+    Location
+      Relative to Sun
+      Relative to Earth
+    Characteristics
+      Similar to Earth
+        Size
+        Density
+        Proximity
+      Least like Earth
+        Atmosphere
+        Surface Conditions
+    Temperature
+      Greenhouse Effect
+      Atmospheric Composition
+    Surface Features
+      Impact Craters
+        Significance
+        Young Surface
+      Volcanoes
+        Size and Number
+        Active Volcanism
+    Rotation
+      Direction
+      Length of Day
+      Retrograde Rotation
+    Visibility
+      Brightness
+      Morning and Evening Star
+    Internal Structure
+      Core
+      Mantle
+      Crust
+    Study Challenges
+      Thick Atmosphere
+      Harsh Conditions

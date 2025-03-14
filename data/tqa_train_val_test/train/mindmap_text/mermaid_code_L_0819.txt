@@ -1,0 +1,34 @@
+mindmap
+  Work Calculation
+    Equation
+      Work = Force x Distance
+      Rearrangement
+        Force = Work / Distance
+        Distance = Work / Force
+    SI Unit
+      Joule (J)
+      Definition
+        1 Joule = 1 N x 1 m
+    Examples
+      Clarissa and Mom
+        Force = 200 N
+        Distance = 1.1 m
+        Work = 220 J
+      Clarissa's Weight
+        Work = 528 J
+        Distance = Height to truck bed
+      Mowing Lawns
+        First Lawn
+          Force = 100 N
+          Distance = 200 m
+          Work = 20,000 J
+        Second Lawn
+          Distance = 234 m
+          Work = 23,400 J
+      Pushing Mower
+        Distance = 30 m
+        Work = 2700 J
+        Force = 90 N
+      Lifting Mower
+        Work = 400 J
+        Force = 200 N

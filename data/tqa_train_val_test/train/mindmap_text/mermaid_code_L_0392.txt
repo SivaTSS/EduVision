@@ -1,0 +1,42 @@
+mindmap
+  Blood
+    Components
+      Plasma
+        - Liquid part
+        - Contains dissolved substances
+      Blood Cells
+        - Red Blood Cells
+          - Shape: flattened disks
+          - Function: carry oxygen (hemoglobin)
+        - White Blood Cells
+          - Function: defend against infections
+        - Platelets
+          - Function: help blood clot
+    Functions
+      - Transport oxygen and nutrients
+      - Remove carbon dioxide and wastes
+      - Transport hormones
+      - Defend against infections
+      - Repair tissues
+      - Control pH
+      - Regulate body temperature
+    Blood Types
+      - ABO Blood Type
+        - Antigen A
+        - Antigen B
+        - Type A, B, AB, O
+      - Rhesus Blood Type
+        - Rh+ (with antigen)
+        - Rh- (without antigen)
+    Medical Significance
+      - Importance in blood transfusions
+      - Risk of agglutination
+    Diseases of the Blood
+      - Anemia
+        - Causes: blood loss, iron deficiency
+      - Leukemia
+        - Abnormal white blood cells
+      - Hemophilia
+        - Genetic disorder affecting clotting
+      - Sickle-Cell Disease
+        - Genetic disorder affecting red blood cell shape

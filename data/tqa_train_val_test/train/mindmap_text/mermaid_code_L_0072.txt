@@ -1,0 +1,35 @@
+mindmap
+  Energy
+    Definition
+      Energy
+      Fuel
+      Heat
+    Types of Energy
+      Kinetic Energy
+      Potential Energy
+    Energy Sources
+      Renewable Resources
+        Solar Energy
+        Wind Energy
+        Water Energy
+        Biomass Energy
+        Geothermal Energy
+      Non-Renewable Resources
+        Fossil Fuels
+          Coal
+          Oil
+          Natural Gas
+    Energy Transformation
+      Law of Conservation of Energy
+      Examples of Energy Change
+        Kicking a Soccer Ball
+        Cooking Food
+    Energy Demand
+      Human Activities
+      Global Usage
+    Environmental Impact
+      Pollution from Fossil Fuels
+      Sustainable Practices
+    Practical Considerations
+      Energy Conversion Efficiency
+      Environmental Consequences

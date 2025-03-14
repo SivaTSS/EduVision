@@ -1,0 +1,58 @@
+mindmap
+  Nutrients
+    Iodine
+      Uses
+      Sources
+      Deficiency Problems
+    Magnesium
+      Uses
+      Sources
+      Deficiency Problems
+    Riboflavin
+      Uses
+      Sources
+      Deficiency Problems
+    Energy Nutrients
+      Carbohydrates
+        Types
+          Simple
+          Complex
+        Sources
+          Fruits
+          Vegetables
+          Grains
+        Functions
+          Energy Provision
+          Fiber Role
+      Proteins
+        Composition
+          Amino Acids
+        Functions
+          Antibodies
+          Muscle Fibers
+          Enzymes
+        Sources
+          Seafood
+          Eggs
+          Beans
+      Lipids
+        Types
+          Saturated
+            Sources
+              Animal Foods
+            Health Risks
+          Unsaturated
+            Sources
+              Plant Foods
+              Fish
+        Functions
+          Energy Storage
+          Protection
+          Insulation
+    Dietary Recommendations
+      Carbohydrates
+        Daily Intake
+      Proteins
+        Daily Intake
+      Fats
+        Consumption Guidelines

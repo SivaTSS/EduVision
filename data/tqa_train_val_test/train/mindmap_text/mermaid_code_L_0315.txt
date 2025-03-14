@@ -1,0 +1,36 @@
+mindmap
+  Star Power
+    Stars Composition
+      Hydrogen
+      Helium
+    Nuclear Fusion
+      Process
+        Nuclei combine
+        Energy release
+      Importance
+        Prevents collapse
+        Energy source for stars
+    Hydrogen Fusion
+      Initial stage
+      Energy release
+    Star Lifecycle
+      Hydrogen depletion
+      Formation of heavier elements
+        Helium to heavier elements
+      Last element created
+        Iron
+      Death of a star
+        Supernova creation
+    Particle Accelerators
+      Simulation of fusion
+      Energy levels
+      Creation of new particles
+    Sun
+      Major energy source for Earth
+      Comparison with other stars
+      Energy types emitted
+        Electromagnetic radiation
+        Visible light
+        Heat
+        Ultraviolet light
+        Radio waves

@@ -1,0 +1,24 @@
+mindmap
+  Nervous System
+    Major Organs
+      Brain
+      Spinal Cord
+    Functions
+      Control Body Systems
+      Sense Surroundings
+      Maintain Balance
+    Types of Nervous System
+      Somatic Nervous System
+        Function
+          Controls voluntary movements
+        Importance
+          Useful for quick reactions
+      Autonomic Nervous System
+        Function
+          Regulates involuntary functions
+        Difference
+          Operates without conscious control
+    Signals
+      Electrical Messages
+        Carried by Nerves
+        Fast Transmission

@@ -1,0 +1,35 @@
+mindmap
+  Wave Speed
+    Definition
+      Distance traveled in time
+      Measured in meters per second
+    Equation
+      Speed = Wavelength x Frequency
+      Rearranged forms
+        Frequency = Speed / Wavelength
+        Wavelength = Speed / Frequency
+    Components
+      Wavelength
+        Distance between corresponding points
+        Measured in meters
+      Frequency
+        Number of waves per second
+        Measured in hertz (Hz)
+    Calculations
+      Example 1
+        Wavelength: 3 m
+        Frequency: 1 Hz
+        Speed: 3 m/s
+      Example 2
+        Wavelength: 0.1 m
+        Frequency: 2 Hz
+        Speed: 0.2 m/s
+      Example 3
+        Speed: 2 m/s
+        Wavelength: 1 m
+        Frequency: 2 Hz
+    Medium Effects
+      Speed varies by medium
+        Fastest in solids
+        Slowest in gases
+      Particle proximity affects speed

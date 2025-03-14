@@ -1,0 +1,41 @@
+mindmap
+  Flatworms and Roundworms
+    Flatworms
+      Phylum Platyhelminthes
+      Characteristics
+        Invertebrates
+        More than 25,000 species
+        Flat body
+        Bilateral symmetry
+        Incomplete digestive system
+      Adaptations
+        Mesoderm layer
+        Muscle tissues
+        Concentration of nerve tissue
+      Reproduction
+        Sexual reproduction
+        Eggs and sperm produced by same individual
+        Larval stages
+      Ecology
+        Free-living heterotrophs
+        Parasitic forms (e.g., tapeworms)
+        Habitat: water and moist soil
+    Roundworms
+      Phylum Nematoda
+      Characteristics
+        Invertebrates
+        More than 80,000 species
+        Round body
+        Pseudocoelom
+        Complete digestive system
+      Adaptations
+        Tough cuticle covering
+        Fluid pressure for movement
+      Reproduction
+        Sexual reproduction
+        Separate male and female adults
+        High egg production
+      Ecology
+        Free-living heterotrophs
+        Parasitic forms (e.g., hookworms)
+        Role in carbon cycle

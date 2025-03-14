@@ -1,0 +1,48 @@
+mindmap
+  Energy Resources
+    Nonrenewable Energy Resources
+      Definition
+        Limited supply
+        Cannot be replaced quickly
+      Types
+        Fossil Fuels
+          Petroleum (Oil)
+          Natural Gas
+          Coal
+        Nuclear Energy
+          Uranium
+      Drawbacks
+        Pollution
+        Global Climate Change
+    Renewable Energy Resources
+      Definition
+        Replaced in short time
+        Virtually limitless
+      Types
+        Solar Energy
+          Solar panels
+          Heating homes
+        Wind Energy
+          Wind turbines
+          Kinetic energy conversion
+        Biomass Energy
+          Chemical energy from plants
+          Ethanol production
+        Geothermal Energy
+          Heat from Earth's interior
+          Electricity generation
+    World Energy Use
+      Fossil Fuels Dominance
+        Most used worldwide
+        Rich vs. Poor Nations
+          Higher consumption in richer nations
+      Renewable Energy Contribution
+        Low global usage
+        Potential for growth
+    Energy Conservation
+      Definition
+        Saving resources
+        Efficient use
+      Tips for Conservation
+        Daily life practices
+        Home energy efficiency

@@ -1,0 +1,26 @@
+mindmap
+  Scientific Models
+    Definition
+      Representation of complex systems
+      Easier manipulation than real systems
+      Used for predictions
+    Types of Models
+      Physical Models
+        Smaller, simpler representations
+        Examples: globe, map
+      Conceptual Models
+        Ties together ideas to explain phenomena
+      Mathematical Models
+        Sets of equations
+        Usually implemented on computers
+    Importance in Science
+      Tools for understanding complex systems
+      Help analyze and predict behaviors
+      Example: CO2 levels and plant growth
+    Validation of Models
+      Testing against past data
+      Accurate predictions of the present increase future accuracy
+    Limitations
+      Simplicity compared to real systems
+      May not predict real behavior accurately
+      Accuracy depends on computing power and model construction

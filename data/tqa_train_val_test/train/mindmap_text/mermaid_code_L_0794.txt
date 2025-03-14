@@ -1,0 +1,23 @@
+mindmap
+  Activation Energy
+    Definition
+      - Energy required to start a chemical reaction
+    Importance
+      - Needed for reactants to overcome repulsion
+      - Allows breaking of bonds
+    Types of Reactions
+      Exothermic
+        - Releases energy
+        - Requires activation energy to start
+        - Example: Combustion of gasoline
+      Endothermic
+        - Absorbs energy
+        - Requires constant input of energy
+        - Example: Energy absorption process
+    Activation Energy in Reactions
+      - Necessary for all chemical reactions
+      - Example: Starting a car engine
+      - Comparison of energy changes in reactions
+    Visual Representation
+      - Diagrams of energy absorption and dissipation
+      - Graphs showing activation energy in reactions

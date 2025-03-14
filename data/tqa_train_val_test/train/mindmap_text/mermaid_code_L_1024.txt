@@ -1,0 +1,27 @@
+mindmap
+  Significant Figures
+    Determining Significant Figures
+      Measurement Process
+        Directly Readable Digits
+        Estimated Digit
+    Examples of Measurements
+      Beaker Measurement
+        Known Digit
+        Estimated Digit
+      Graduated Cylinder Measurement
+        Reading the Meniscus
+        Significant Figures Count
+    Rules for Counting Significant Figures
+      Leading Zeros
+      Zeros Between Nonzero Digits
+      Zeros Indicating Decimal Point
+      Trailing Zeros
+    Calculations with Significant Figures
+      Fewest Significant Figures Rule
+      Example Calculation
+        Volume Calculation
+        Rounding Necessity
+    Rounding Rules
+      Rounding Down
+      Rounding Up
+      Rounding with 5

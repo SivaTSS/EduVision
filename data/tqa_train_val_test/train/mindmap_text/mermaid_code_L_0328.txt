@@ -1,0 +1,44 @@
+mindmap
+  Astronomy
+    History
+      Ancient Greeks
+        Pythagoras
+          Round Earth Theory
+          Mathematical Arts
+        Aristotle
+          Earth-Centered Model
+          Spherical Earth Evidence
+      Ptolemy
+        Geocentric Model
+          Almagest
+          Epicycles
+          Retrograde Motion
+      Copernicus
+        Heliocentric Model
+          De Revolutionibus Orbium Coelestium
+          Earth as a Planet
+      Tycho Brahe
+        Observations
+        Hybrid Model
+      Johannes Kepler
+        Laws of Planetary Motion
+          Elliptical Orbits
+          Area Law
+          Harmonic Law
+      Galileo Galilei
+        Telescope Observations
+          Moons of Jupiter
+          Phases of Venus
+        Conflict with Church
+      Isaac Newton
+        Laws of Motion
+        Gravity
+        Corrections to Kepler's Laws
+      Modern Astronomy
+        Big Bang Theory
+          Expansion of Universe
+          Cosmic Microwave Background Radiation
+        Edwin Hubble
+          Discovery of Other Galaxies
+        Arno Penzias and Robert Wilson
+          3K Background Radiation

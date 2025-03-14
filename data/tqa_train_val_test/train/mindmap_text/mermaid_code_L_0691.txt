@@ -1,0 +1,32 @@
+mindmap
+  Carbon Cycle
+    Types of Carbon
+      Organic Carbon
+      Carbon Dioxide (CO2)
+        Example: Glucose (C6H12O6)
+    Biological Processes
+      Photosynthesis
+        Converts CO2 to Glucose
+        Chemical Equation: 6CO2 + 6H2O → C6H12O6 + 6O2
+      Cellular Respiration
+        Releases CO2 into Atmosphere
+        Reverse of Photosynthesis
+    Human Impact
+      Burning Fossil Fuels
+        Increases CO2 in Atmosphere
+        Contributes to Global Warming
+      Other Activities
+        Disruption of Carbon Cycle
+    Carbon Cycle Components
+      Carbon Exchange
+        Between Living Organisms and Atmosphere
+      Decomposition
+        Releases Carbon Back to Atmosphere
+      Combustion
+        Organic Matter and Fossil Fuels
+    Greenhouse Gases
+      Definition
+        Traps Heat in Atmosphere
+      Effects
+        Global Temperature Rise
+        Climate Change

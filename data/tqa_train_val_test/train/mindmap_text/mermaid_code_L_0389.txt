@@ -1,0 +1,53 @@
+mindmap
+  Digestive System
+    Major Organs
+      Mouth
+        Functions
+          Mechanical Digestion
+          Chemical Digestion
+            Enzyme Amylase
+      Esophagus
+        Function
+          Transports Food
+      Stomach
+        Functions
+          Mechanical Mixing
+          Chemical Digestion
+            Enzyme Pepsin
+      Small Intestine
+        Parts
+          Duodenum
+            Function
+              Chemical Digestion
+          Jejunum
+            Function
+              Nutrient Absorption
+          Ileum
+            Function
+              Remaining Nutrient Absorption
+      Large Intestine
+        Functions
+          Water Absorption
+          Feces Formation
+        Intestinal Bacteria
+          Roles
+            Vitamin Production
+            Toxin Breakdown
+    Digestion Processes
+      Mechanical Digestion
+      Chemical Digestion
+        Role of Enzymes
+          Examples
+            Amylase
+            Pepsin
+    Digestion Problems
+      Foodborne Illness
+        Prevention
+          Safe Food Handling
+      Food Allergies
+        Common Allergens
+          Milk
+          Shellfish
+          Nuts
+          Grains
+          Eggs

@@ -1,0 +1,34 @@
+mindmap
+  Bathymetric Evidence for Seafloor Spreading
+    Charting the Ocean Floor
+      First Methods
+      Developments in the 1920s
+      Modern Mapping Techniques
+        Echo Sounders
+        Multi-beam Sounders
+    Bathymetric Maps
+      Features of the Seafloor
+        Mid-ocean Ridges
+        Deep Sea Trenches
+        Abyssal Plains
+      Accuracy of Bathymetry
+        Direct vs. Indirect Measurements
+        Requirements for Accurate Mapping
+    Historical Context
+      WWII Contributions
+      Alfred Wegener's Hypothetical Use
+    Research Vessels
+      R/V Atlantis
+        Equipment and Facilities
+        Operations and Crew
+      Research Process
+        Transit to Research Sites
+        Use of Echo Sounders
+    Ocean Floor Features
+      Continental Margin
+        Continental Shelf
+        Continental Slope
+        Continental Rise
+      Geological Significance
+        Formation of Features
+        Implications for Plate Tectonics

@@ -1,0 +1,38 @@
+mindmap
+  Hearing and the Ear
+    Sound
+      Definition
+      Energy form
+      Travels in waves
+    Outer Ear
+      Structures
+        Pinna
+          Function: Catches sound waves
+        Ear Canal
+          Function: Carries sound waves to eardrum
+        Eardrum
+          Function: Vibrates and transmits vibrations
+    Middle Ear
+      Structures
+        Ossicles
+          Types: Hammer, Anvil, Stirrup
+          Function: Amplifies vibrations
+      Lever Mechanism
+        Increases amplitude
+        Improves hearing
+    Inner Ear
+      Structures
+        Cochlea
+          Function: Converts vibrations to electrical signals
+          Hair Cells
+            Function: Triggers electrical impulses
+      Signal Transmission
+        Nerve impulses to the brain
+    Hearing Process
+      Sound wave gathering
+      Amplification
+      Signal conversion
+      Brain interpretation
+    Effects of Loud Sounds
+      Damage to hair cells
+      Impact on hearing ability

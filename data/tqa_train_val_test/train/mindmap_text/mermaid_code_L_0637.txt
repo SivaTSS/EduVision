@@ -1,0 +1,28 @@
+mindmap
+  Genetics and Eye Color
+    Polygenic Traits
+      Definition
+        Controlled by multiple genes
+      Examples
+        Height
+        Skin Color
+        Hair Color
+        Eye Color
+      Characteristics
+        Bell-shaped curve distribution
+        Variation in traits
+        Dominant and recessive alleles
+    Mendel's Rules
+      Violations
+        Polygenic inheritance as an exception
+      Explanation
+        Each dominant allele adds to the expression
+    Specific Traits
+      Eye Color
+        Not controlled by a single gene
+        Melanin levels in blue eyes
+      Skin Color
+        Considered a polygenic trait
+      Albinism
+        Definition of an albino
+        Eye color characteristics

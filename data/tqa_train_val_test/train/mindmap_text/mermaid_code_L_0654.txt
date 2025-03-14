@@ -1,0 +1,33 @@
+mindmap
+  root
+    Recombinant DNA Technology
+      Definition
+        Combination of DNA from different sources
+        Useful in gene cloning and protein production
+      Applications
+        Gene Cloning
+          Making exact copies of genes
+          Uses in medicine and agriculture
+        Protein Production
+          Example: Insulin production
+            Human gene inserted into bacterial DNA
+            Bacteria as factories for insulin
+      Process of Gene Cloning
+        Steps
+          1. Insert gene into vector (recombinant DNA molecule)
+          2. Place vector into host cell (bacterium)
+          3. Clone gene inside bacterium
+          4. Produce protein from cloned DNA
+      Plasmids
+        Definition
+          Small rings of DNA in bacteria
+          Not part of bacterial chromosome
+        Role in Recombinant DNA
+          Used as vectors for foreign DNA
+          Contain antibiotic resistance segments
+          Origin of replication for DNA copying
+      Historical Context
+        Cohen and Boyer
+          First recombinant DNA creation
+          Techniques for bacteria to uptake plasmids
+          Isolation of bacteria with desired genes

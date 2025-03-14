@@ -1,0 +1,34 @@
+mindmap
+  Mendel's Laws and Genetics
+    Mendel's Experiments
+      Dominant vs. Recessive Traits
+        Definition
+        Examples
+      Law of Segregation
+        Explanation
+        Gamete Formation
+    Genetic Ratios
+      9:3:3:1 Ratio
+        Yellow/Smooth
+        Yellow/Wrinkled
+        Green/Smooth
+        Green/Wrinkled
+      F1 Generation Observations
+        TT x tt Cross
+        PP x pp Cross
+    Inheritance Theory
+      No Blending of Traits
+      Hereditary Factors
+        Dominant Factors
+        Recessive Factors
+      Genetic Crosses
+        Representation of Factors
+        Possible Combinations
+    Self-Pollination
+      F1 Generation Outcomes
+        Tt Tall Plants
+        F2 Generation Combinations
+          TT
+          Tt
+          tt
+        Probability of Offspring Traits

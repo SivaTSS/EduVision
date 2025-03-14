@@ -1,0 +1,36 @@
+mindmap
+  Efficiency
+    Definition
+      Input Work
+      Output Work
+      Friction
+    Importance
+      Measure of Performance
+      Less than 100 Percent
+      Closer to 100 Percent is Better
+    Calculation
+      Efficiency Formula
+        Efficiency = Output Work Input Work 100%
+      Example Calculation
+        6000 Joules Output
+        8000 Joules Input
+        Efficiency = 75%
+      Rani's Example
+        7500 Joules Input
+        6700 Joules Output
+        Efficiency = 90%
+    Machines
+      Definition of Work
+        Work = Force x Distance
+      Role of Machines
+        Make Work Easier
+        Cannot Increase Total Work
+      Types of Machines
+        Simple Machines
+          Inclined Plane
+          Dolly
+    Friction
+      Definition
+        Force Opposing Motion
+      Impact on Efficiency
+        Work Used to Overcome Friction

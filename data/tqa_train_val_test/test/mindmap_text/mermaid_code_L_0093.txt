@@ -1,0 +1,35 @@
+mindmap
+  Air Masses
+    Definition
+      Characteristics
+        Temperature
+        Humidity
+    Formation
+      Source Regions
+        Continental
+        Maritime
+        Polar
+        Tropical
+      High Pressure Areas
+    Types of Air Masses
+      Continental
+        Characteristics
+      Maritime
+        Characteristics
+      Polar
+        Characteristics
+      Tropical
+        Characteristics
+    Interactions
+      Overtaking
+        Weather Effects
+      Temperature Moderation
+    Movement
+      High-Level Winds
+      Size
+        Extent
+        Thickness
+    Relationship with Weather
+      Storm Formation
+        Cold vs Warm Air Masses
+      Inversions

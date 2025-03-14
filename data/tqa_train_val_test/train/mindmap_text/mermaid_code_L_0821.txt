@@ -1,0 +1,27 @@
+mindmap
+  Carbon Bonding
+    Types of Bonds
+      Covalent Bonds
+        Definition
+        Characteristics
+      Hydrocarbons
+        Definition
+        Example: Methane (CH4)
+    Valence Electrons
+      Definition
+      Role in Bonding
+      Stability
+    Bonding Types
+      Single Bonds
+        Definition
+        Example: Ethane
+      Double Bonds
+        Definition
+        Example: Ethene
+      Triple Bonds
+        Definition
+        Example: Ethyne
+    Carbon Compounds
+      Diversity
+      Size Range
+      Importance in Matter

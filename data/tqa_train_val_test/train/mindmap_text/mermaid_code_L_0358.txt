@@ -1,0 +1,30 @@
+mindmap
+  Wind Waves
+    Causes of Wave Breaking
+      Wave height and support
+      Occurrence at shore and sea
+    Hurricane Impact on Coastal Development
+      Role of tide height
+      Damage assessment
+    Wave Formation and Travel
+      Origin of ocean waves
+        Wind strength and duration
+        Distance over which wind blows
+      Energy transfer in waves
+        Creation of ripples
+        Wave travel across ocean
+    Wave Dynamics
+      Water molecule motion
+        Circular motion in deep water
+        Elliptical motion in shallow water
+      Energy distribution
+        Surface energy vs. depth
+    Wave Breaking Mechanism
+      Conditions for breaking
+      Friction and energy loss
+    Storm Effects
+      Storm surge impact
+        Sea level rise
+        Damage in shallow areas
+      Maverick waves
+        Generation and significance

@@ -1,0 +1,46 @@
+mindmap
+  Ocean Movements
+    Waves
+      Causes
+        Winds
+        Tsunamis
+      Characteristics
+        Crest
+        Trough
+        Amplitude
+        Wavelength
+      Movement
+        Energy Transfer
+        Water Molecule Movement
+      Breaking Waves
+        Shallow Water Effects
+    Tides
+      Definition
+        High Tides
+        Low Tides
+      Causes
+        Moon's Gravity
+        Sun's Gravity
+      Types
+        Spring Tides
+        Neap Tides
+      Tidal Cycle
+        Frequency
+        Tidal Range
+    Surface Currents
+      Definition
+      Causes
+        Winds
+        Coriolis Effect
+      Climate Impact
+    Deep Currents
+      Definition
+      Causes
+        Density Differences
+        Temperature and Salinity
+      Downwelling
+    Upwelling
+      Definition
+      Nutrient Transport
+      Causes
+        Wind Effects

@@ -1,0 +1,35 @@
+mindmap
+  Water on Earth
+    Water Description
+      Chemical Composition
+        - H2O
+        - States of Matter
+          - Liquid
+          - Gas (Water Vapor)
+          - Solid (Ice)
+    Water Distribution
+      Oceans
+        - Salt Water
+      Freshwater
+        - Ice Caps and Glaciers
+        - Lakes and Soil
+        - Living Things
+    Water Cycle
+      Processes
+        - Evaporation
+        - Transpiration
+        - Condensation
+        - Precipitation
+      Movement
+        - Surface Water
+        - Infiltration
+        - Runoff
+    Importance of Water
+      Life Dependency
+      Recycling of Water
+      Historical Perspective
+        - Water Molecules' Journey
+    Effects of External Factors
+      Forest Fires
+      Sun's Energy
+        - Impact on Water Cycle

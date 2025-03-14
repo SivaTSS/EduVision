@@ -1,0 +1,42 @@
+mindmap
+  Air Pollution Causes
+    Slash-and-Burn Agriculture
+      Definition
+      Pollutants Released
+        Carbon Dioxide (CO2)
+        Carbon Monoxide (CO)
+        Methane (CH4)
+        Particulates
+        Nitrous Oxide (N2O)
+        Hydrocarbons
+        Organic and Elemental Carbon
+      Impact on Greenhouse Gases
+    Volatile Organic Compounds (VOCs)
+      Definition
+      Sources
+        Human-Made Substances
+        Natural Sources (e.g., trees)
+      Common Pollutants
+        Methane
+    Fossil Fuels
+      Types
+        Coal
+        Petroleum
+      Pollutants Released
+        Carbon Monoxide (CO)
+        Nitrogen Dioxide (NO2)
+        Sulfur Dioxide (SO2)
+        Hydrocarbons
+      Sources of Air Pollution
+        Transportation (49%)
+        Factories and Power Plants (28%)
+        Other Sources
+      Incomplete Combustion
+        Mercury Emissions
+          Conversion to Methyl Mercury
+    Particulates
+      Sources
+        Industry (40%)
+        Vehicles (17%)
+        Natural Sources (e.g., volcanic eruptions)
+      Global Distribution

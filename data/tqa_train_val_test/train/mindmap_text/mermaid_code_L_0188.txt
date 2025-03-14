@@ -1,0 +1,34 @@
+mindmap
+  Human Population Growth
+    Exponential Growth
+      Definition
+      Historical Milestones
+        1650: Population
+        1850: Population
+        1930: Population
+        1975: Population
+        Current Population
+    R vs K Selection Theory
+      Comparison
+      Reproductive Strategies
+        R-Selected Organisms
+        K-Selected Organisms
+      Human Characteristics
+        K-Selected Traits
+        Population Growth Curve
+    Carrying Capacity
+      Estimated Capacity
+      Determining Factors
+      Variability Across Regions
+    Resource Implications
+      Space
+      Clean Air
+      Clean Water
+      Food Supply
+    Growth Rate Trends
+      Peak Growth Rate (1962)
+      Current Growth Status
+      Decreasing Growth Rate
+      Future Projections
+    Limiting Factors
+      Potential Constraints

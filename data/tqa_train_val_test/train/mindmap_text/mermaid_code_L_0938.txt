@@ -1,0 +1,39 @@
+mindmap
+  Lever
+    What is a lever?
+      Definition
+      Components
+        Bar
+        Fulcrum
+    Types of Levers
+      First-Class Lever
+        Example: Seesaw
+        Characteristics
+          Location of Forces
+          Ideal Mechanical Advantage
+          Change in Direction
+      Second-Class Lever
+        Example: Wheelbarrow
+        Characteristics
+          Location of Forces
+          Ideal Mechanical Advantage
+          Change in Direction
+      Third-Class Lever
+        Example: Hockey Stick
+        Characteristics
+          Location of Forces
+          Ideal Mechanical Advantage
+          Change in Direction
+    Mechanical Advantage
+      Definition
+      Ideal vs Actual
+    Applications of Levers
+      Hammer
+        Function: Pry Nail
+        Fulcrum Location
+        Mechanical Advantage
+      Broom
+        Function: Sweep Floor
+        Output vs Input Speed
+    Additional Examples
+      User-provided examples

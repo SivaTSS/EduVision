@@ -1,0 +1,21 @@
+mindmap
+  Acceleration
+    Definition
+      Measure of change in velocity
+      Includes speed and direction
+      Vector quantity
+    Calculation
+      Formula: Acceleration = Δv / Δt
+      Example: Cyclist's acceleration
+      Negative acceleration (deceleration)
+    Velocity-Time Graphs
+      Representation of velocity changes over time
+      Slope indicates acceleration
+        Positive acceleration
+        Zero acceleration
+        Negative acceleration
+      Example: Sprinter's velocity-time graph
+    Real-World Examples
+      Roller coaster dynamics
+      Falling objects (gravity: 9.8 m/s²)
+      Everyday experiences (car acceleration)

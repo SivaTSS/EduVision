@@ -1,0 +1,35 @@
+mindmap
+  Relative Ages of Rocks
+    Stratigraphy
+      Definition
+      Laws of Stratigraphy
+        Law of Superposition
+        Law of Lateral Continuity
+        Law of Original Horizontality
+        Law of Cross-Cutting Relationships
+      Unconformities
+        Definition
+        Hutton's Unconformity
+    Relative Age
+      Definition
+      Importance
+    Dating Methods
+      Key Beds
+        Definition
+        Example: Dinosaur Extinction Clay Layer
+      Index Fossils
+        Definition
+        Usage in Matching Rock Layers
+    Geologic Time Scale
+      Definition
+      Divisions
+        Eons
+        Eras
+        Periods
+        Epochs
+      Historical Development
+        Early Time Scale
+        Impact of Radioactivity
+      Major Events
+        Extinction Events
+        Evolution of Life

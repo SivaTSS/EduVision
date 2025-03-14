@@ -1,0 +1,30 @@
+mindmap
+  Electric Charge Transfer
+    Charge Transfer Methods
+      Conduction
+        Definition: Direct contact between materials
+        Example: Van de Graaff generator
+        Everyday Example: Walking on wool carpet
+      Polarization
+        Definition: Movement of electrons within a neutral object
+        Example: Touching a metal doorknob after walking on carpet
+      Friction
+        Definition: Transfer of electrons due to rubbing
+        Example: Rubbing a balloon against hair
+    Ions
+      Cations
+        Definition: Positively charged ions
+        Formation: Atoms lose electrons
+      Anions
+        Definition: Negatively charged ions
+        Formation: Atoms gain electrons
+    Law of Conservation of Charge
+      Definition: Total charge remains constant
+      Implication: Electrons move but are not destroyed
+    Practical Examples
+      Van de Graaff Generator
+        Charge transfer to a person
+      Wool Carpet and Rubber Shoes
+        Charge transfer process
+      Balloon and Hair
+        Charge transfer through friction

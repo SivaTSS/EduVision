@@ -1,0 +1,24 @@
+mindmap
+  Wave Particle Theory
+    Debate on Electromagnetic Radiation
+      Historical Perspectives
+        1600s to Early 1900s
+        Particle vs. Wave Theories
+    Einstein's Wave-Particle Theory
+      Proposal Year
+        1905
+      Key Concepts
+        Electromagnetic Energy
+        Discrete Packets (Photons)
+        Wave-Like Behavior
+    Photons
+      Definition
+        Discrete Energy Packets
+      Energy Dependence
+        Frequency of Electromagnetic Waves
+    Evidence Supporting Theory
+      Double-Slit Experiments
+        Setup Description
+        Results
+          Pinpoints of Light
+          Interference Patterns

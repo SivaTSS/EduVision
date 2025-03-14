@@ -1,0 +1,25 @@
+mindmap
+  Scientific Graphing
+    Advantages of Graphs
+      Visual representation of data
+      Easier interpretation than tables
+    Types of Graphs
+      Bar Graphs
+        Comparison of values
+        Example: Average tornadoes in cities
+        Axes representation
+          X-axis: Cities
+          Y-axis: Average tornadoes
+      Circle Graphs
+        Shows percents of a whole
+        Example: Tornado strength distribution
+        Limitations: Only for percents
+      Line Graphs
+        Shows changes over time
+        Example: Monthly tornado averages
+        Trend analysis
+          Peaks and declines throughout the year
+    Data Tables
+      Table 1.1: Average tornadoes per year (1950-2007)
+      Table 1.2: Percent of U.S. tornadoes by strength (1986-1995)
+      Table 1.3: Monthly tornado averages (2009-2011)

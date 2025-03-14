@@ -1,0 +1,37 @@
+mindmap
+  Climate Influences
+    Maritime Climate
+      Definition
+        Influenced by nearby ocean
+        Less extreme temperatures
+      Characteristics
+        Small seasonal and daily temperature variation
+        Winds predominantly from the sea
+      Examples
+        San Francisco
+          Influenced by California Current
+          Affected by coastal upwelling
+        Virginia Beach
+          Near Atlantic Ocean
+          Less ocean influence due to wind direction
+    Continental Climate
+      Definition
+        Influenced by nearby land
+        More extreme temperatures
+      Characteristics
+        Greater temperature differences
+          Day vs. night
+          Summer vs. winter
+      Examples
+        Wichita
+          Exhibits extreme continental climate
+    Oceanic Influence
+      Temperature Effects
+        Offshore currents affect coastal temperatures
+        Cool California Current moderates temperatures
+        Upwelling brings cold water to surface
+      Regional Variations
+        Southern Alaska
+          Warmer land temperatures due to warm ocean water
+        Gulf Stream
+          Important for northern Europe's climate

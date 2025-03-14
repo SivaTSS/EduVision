@@ -1,0 +1,28 @@
+mindmap
+  Pea Plants and Genetics
+    Simple Traits
+      Definition
+      Examples
+    Heterozygote vs. Homozygote
+      Definition of Heterozygote
+      Definition of Homozygote
+      Differences
+    Mendel's Experiments
+      Purpose of Study
+      Traits Studied
+        Round vs. Wrinkled Seeds
+        White vs. Purple Flowers
+        Tall vs. Short Plants
+      Results
+        F1 Generation
+          All Tall Plants
+        F2 Generation
+          75% Tall, 25% Short
+          No Blending of Traits
+    Inheritance
+      Definition
+      Importance in Genetics
+    Pea Plant Characteristics
+      Self-Pollination
+      Cross-Pollination
+      Quick Growth

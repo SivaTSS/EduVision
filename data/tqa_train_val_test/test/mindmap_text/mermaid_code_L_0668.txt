@@ -1,0 +1,35 @@
+mindmap
+  Safety in Life Sciences
+    Lab Safety
+      FSU Chemistry Lab Safety
+        Cosmetics in Lab
+        Accident Procedures
+        Waste Disposal
+      Science Lab Safety Rules
+        Five Lab Safety Rules
+        Appropriate Clothing
+        Special Lab Attire
+    Hazards in Research
+      Biohazards
+        Definition
+        Examples
+      Types of Hazards
+        Carcinogens
+        Toxins
+        Pathogens
+        Teratogens
+    Safety Guidelines
+      General Practices
+        Follow Instructions
+        Personal Protective Equipment
+        Cleanliness
+      Emergency Procedures
+        Reporting Accidents
+        Handling Broken Glass
+    Field Research Safety
+      Outdoor Regulations
+        Local Laws
+        Permits for Wildlife Study
+      Environmental Considerations
+        Protecting Habitats
+        Species Conservation

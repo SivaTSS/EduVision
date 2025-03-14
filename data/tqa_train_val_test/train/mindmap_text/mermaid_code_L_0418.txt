@@ -1,0 +1,35 @@
+mindmap
+  Water Pollution
+    Definition
+      Water pollution occurs when chemicals, sewage, trash, or heat enter water resources
+      Threatens supply of clean, fresh water
+    Causes
+      Fertilizer Runoff
+        Leads to algal blooms
+        Causes dead zones
+      Point-Source Pollution
+        Examples: factory waste, sewage treatment plants
+      Nonpoint-Source Pollution
+        Example: runoff from fields and lawns
+      Thermal Pollution
+        Caused by heated water discharge
+    Effects
+      Algal Blooms
+        Excessive growth of algae
+        Outcompetes other organisms
+      Dead Zones
+        Hypoxic water cannot support life
+        Example: Gulf of Mexico dead zone
+    Solutions
+      Reducing Fertilizer Use
+      Preserving Wetlands
+        Slow down and filter runoff
+        Provide habitats for species
+    Ocean Pollution
+      Trash
+        Mainly plastics from various sources
+        Dangerous to aquatic life
+      Ocean Acidification
+        Increased CO2 levels lead to more acidic water
+        Harms corals and shellfish
+        Interferes with marine food webs

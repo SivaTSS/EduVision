@@ -1,0 +1,46 @@
+mindmap
+  History of Life on Earth
+    Geologic Time
+      Geologic Time Scale
+      Major Divisions
+        Precambrian Supereon
+        Paleozoic Era
+        Mesozoic Era
+        Cenozoic Era
+    Origins of Life
+      Formation of Earth
+      First Life Forms
+        Prokaryotes
+        Eukaryotes
+      Evolution of Cells
+        Heterotrophs
+        Autotrophs
+        Photosynthesis
+        Cellular Respiration
+    Major Eras
+      Precambrian
+        First Cells
+        Mass Extinction
+      Paleozoic
+        Explosion of Life
+        Major Groups
+          Invertebrates
+          Fish
+          Amphibians
+          Reptiles
+        Mass Extinction
+      Mesozoic
+        Age of Dinosaurs
+        Major Events
+          Triassic Period
+          Jurassic Period
+          Cretaceous Period
+        Mass Extinction
+      Cenozoic
+        Age of Mammals
+        Major Events
+          Tertiary Period
+          Quaternary Period
+    Mass Extinctions
+      Impact on Evolution
+      Causes

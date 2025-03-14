@@ -1,0 +1,32 @@
+mindmap
+  Safety in Life Science Research
+    Lab Safety
+      Common Safety Symbols
+        Hazard Identification
+        Importance of Recognition
+      Basic Safety Rules
+        Wear Protective Gear
+          Long Sleeves
+          Safety Goggles
+          Gloves
+        Avoid Dangerous Behaviors
+          No Horseplay
+          No Eating/Drinking
+        Proper Handling of Materials
+          Acid to Water
+          Hot Objects
+        Cleanliness
+          Spill Cleanup
+          Waste Disposal
+          Washing Hands
+    Field Research Safety
+      Unique Risks
+        Microorganisms
+        Allergic Plants
+        Dangerous Objects
+      Safety Precautions
+        Awareness of Environment
+        Following Instructions
+    Accident Protocol
+      Immediate Reporting
+      Teacher Notification

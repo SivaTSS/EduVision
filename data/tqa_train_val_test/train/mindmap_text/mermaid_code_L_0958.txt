@@ -1,0 +1,30 @@
+mindmap
+  Momentum
+    Definition
+      Property of moving objects
+      Hard to stop
+    Equation
+      Momentum = Mass × Velocity
+    SI Unit
+      kg m/s
+    Examples
+      Skateboarder A
+        Mass: 60 kg
+        Velocity: 1.5 m/s
+        Momentum: 90 kg m/s
+      Skateboarder B
+        Mass: 50 kg
+        Velocity: 2.0 m/s
+        Momentum: 100 kg m/s
+    Comparisons
+      Cody
+        Mass: 40 kg
+        Velocity: 1.1 m/s
+        Momentum: 44 kg m/s
+      Jerod
+        Mass: 68 kg
+        Velocity: 1.1 m/s
+        Momentum: 75 kg m/s
+    Key Points
+      More mass or higher velocity = greater momentum
+      Stationary objects have zero momentum

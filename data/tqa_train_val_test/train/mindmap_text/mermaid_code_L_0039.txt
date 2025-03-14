@@ -1,0 +1,41 @@
+mindmap
+  Topographic Maps
+    Definition
+      Flat maps showing 3D surface features
+      Connect points of equal elevation
+    Features
+      Contour Lines
+        Connect equal elevation points
+        Indicate slope and terrain shape
+      Contour Intervals
+        Difference in elevation between lines
+        Calculated using bold lines
+      V-Shapes
+        Indicate stream valleys
+        Point uphill
+      Circles
+        Concentric circles indicate hills
+        Hatched circles indicate depressions
+    Uses
+      Earth Scientists
+        Describe surface features
+        Determine slope and water flow
+      Engineers
+        Plan roads, bridges, and tunnels
+      Tourists
+        Understand landscape for navigation
+    Reading Topographic Maps
+      Identify landforms
+        Hills, valleys, cliffs, and streams
+      Calculate distances
+        Using horizontal scale
+      Interpret contour spacing
+        Close lines indicate steep slopes
+        Far lines indicate gentle slopes
+    Types of Maps
+      Bathymetric Maps
+        Show underwater features
+        Depth below surface
+      Geologic Maps
+        Display rock units and features
+        Show layers and faults

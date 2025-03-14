@@ -1,0 +1,37 @@
+mindmap
+  Enzymes in the Digestive System
+    Enzymes
+      Definition
+        - Proteins that speed up chemical reactions
+      Role in Digestion
+        - Break down large food molecules
+        - Example: Amylase
+    Digestive Enzymes
+      Types
+        - Amylase
+          - Secreted in the mouth
+          - Breaks down starch into sugars
+        - Proteases
+          - Digest proteins
+          - Examples: Pepsin, Trypsin
+        - Lipases
+          - Break down fats
+          - Example: Pancreatic lipase
+        - Nucleases
+          - Digest nucleic acids
+          - Examples: Deoxyribonuclease, Ribonuclease
+      Bile
+        - Produced in the liver
+        - Stored in the gallbladder
+        - Breaks down fats
+    Hormones in Digestion
+      Definition
+        - Chemical messengers
+      Role
+        - Regulate digestive processes
+      Examples
+        - Gastrin: Secretion of gastric acid
+        - Cholecystokinin: Secretion of pancreatic enzymes
+        - Secretin: Secretion of water and bicarbonate
+        - Ghrelin: Signals hunger
+        - Gastric inhibitory polypeptide: Decreases gastric secretion

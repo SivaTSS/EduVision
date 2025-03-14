@@ -1,0 +1,34 @@
+mindmap
+  Photosynthesis
+    Energy Source
+      Solar Energy
+    Process
+      Raw Materials
+        Carbon Dioxide
+        Water
+      Products
+        Glucose
+        Oxygen
+    Importance
+      Sustaining Life
+      Energy for Organisms
+    Organisms
+      Autotrophs
+        Plants
+        Algae
+      Heterotrophs
+        Animals
+        Fungi
+    Cellular Respiration
+      Comparison with Photosynthesis
+      Role of ATP
+    Chloroplasts
+      Eukaryotic Cells
+      Photosynthetic Capability
+      Non-photosynthetic Organisms
+    Electron Transport Chain
+      Movement of Electrons
+      Hydrogen Ions (H+)
+      Mobile Electron Carriers
+        Function
+        Relationship to Protein Complexes

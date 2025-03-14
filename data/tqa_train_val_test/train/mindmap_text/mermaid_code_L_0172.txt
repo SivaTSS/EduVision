@@ -1,0 +1,35 @@
+mindmap
+  Sun and Planet Formation
+    Age of Solar System
+      - 4.6 billion years
+    Nebular Hypothesis
+      - Definition
+        - Collapse of a giant cloud of gas and dust
+      - Features Explained
+        - Orbital plane
+        - Revolution and rotation of planets
+        - Axes of rotation
+        - Age of moon rocks
+    Formation Process
+      - Initial Collapse
+        - Gravity and potential energy
+        - Kinetic energy from collisions
+      - Disk Formation
+        - Spinning due to angular momentum
+        - Composition: hydrogen, helium, heavier elements
+      - Nuclear Fusion
+        - Birth of the Sun
+        - Stopping further collapse
+    Planet Formation
+      - Protoplanets
+        - Formation from planetesimals
+        - Clumping of dust and gas
+      - Inner Planets
+        - Mercury, Venus, Earth, Mars
+        - Composition: dense rock and metal
+      - Outer Planets
+        - Jupiter, Saturn, Uranus, Neptune
+        - Composition: lighter materials (hydrogen, helium, etc.)
+    Gravitational Sorting
+      - Heavier particles near the center
+      - Lighter particles further out

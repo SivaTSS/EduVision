@@ -1,0 +1,38 @@
+mindmap
+  Blizzards
+    Definition
+      What is a blizzard?
+      Conditions for blizzard
+        Temperature
+        Wind speed
+        Visibility
+    Formation
+      Air masses
+        Cold polar air
+        Warm moist air
+      Mid-latitude cyclone
+        Jet stream interaction
+    Types
+      Severe blizzard
+        Temperature criteria
+        Wind speed criteria
+        Visibility criteria
+    Occurrence
+      Common locations
+        Middle latitudes
+        Polar regions
+      Seasonal patterns
+        Winter prevalence
+    Effects
+      Snow accumulation
+      Sleet and freezing rain
+      Visibility reduction
+    Survival
+      Tips for surviving a blizzard
+    Lake-effect snow
+      Causes
+        Frigid air over Great Lakes
+        Moisture absorption
+      Impacted areas
+        Buffalo, New York
+        Rochester, New York

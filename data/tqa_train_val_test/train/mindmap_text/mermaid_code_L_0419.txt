@@ -1,0 +1,38 @@
+mindmap
+  Natural Resources
+    Definition
+      - Supplied by nature
+      - Supports life
+    Types
+      Renewable
+        - Remade quickly
+        - Examples: sunlight, wind, living things
+        - Sustainable use
+      Nonrenewable
+        - Cannot be remade quickly
+        - Examples: fossil fuels, soil, uranium
+        - Environmental impact
+    Energy Resources
+      Nonrenewable
+        - Fossil fuels
+          - Coal
+          - Oil
+          - Natural gas
+        - Nuclear energy
+      Renewable
+        - Solar energy
+        - Wind energy
+        - Biomass energy
+    Conservation Methods
+      Reduce
+        - Use less
+        - Energy-efficient practices
+      Reuse
+        - Use items again
+        - Repair and repurpose
+      Recycle
+        - Break down and reuse materials
+        - Keep waste out of landfills
+    Biodiversity
+      - Importance as a natural resource
+      - Threats to biodiversity

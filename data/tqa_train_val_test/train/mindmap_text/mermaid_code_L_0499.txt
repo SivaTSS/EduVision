@@ -1,0 +1,47 @@
+mindmap
+  Diabetes
+    Definition
+      Non-infectious disease
+      Inability to control blood sugar
+    Types
+      Type 1 Diabetes
+        Causes
+          Immune system attacks pancreas
+        Characteristics
+          Insulin production failure
+          Develops in childhood/adolescence
+          Requires insulin shots
+        Symptoms
+          Frequent blood sugar monitoring
+          Extreme fatigue
+          Weight loss
+      Type 2 Diabetes
+        Causes
+          Insulin resistance in body cells
+          Often linked to obesity
+        Characteristics
+          Pancreas may still produce insulin
+          Develops in adulthood, increasingly in youth
+        Symptoms
+          Frequent urination
+          Excessive thirst
+          Blurry vision
+    Risk Factors
+      Genetic predisposition
+      Obesity
+      High blood pressure
+    Common Symptoms
+      Frequent urination
+      Extreme thirst
+      Extreme hunger
+      Fatigue
+      Blurry vision
+      Slow healing of cuts
+    Complications
+      Eye complications
+      Foot complications
+      Skin complications
+      High blood pressure
+      Nerve damage
+      Kidney disease
+      Stroke

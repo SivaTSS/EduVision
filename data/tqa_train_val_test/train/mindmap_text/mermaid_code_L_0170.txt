@@ -1,0 +1,31 @@
+mindmap
+  Formation of Earth
+    Heat Sources
+      Gravitational Contraction
+        - Increased pressure and temperature
+      Radioactive Decay
+        - Short-lived isotopes released heat
+      Bombardment
+        - Asteroid impacts in early solar system
+    Layer Separation
+      Differentiation
+        - Denser elements to center
+        - Lighter elements to surface
+      Earth's Layers
+        - Inner Core
+        - Outer Core
+        - Mantle
+        - Crust
+    Early Crust Formation
+      Characteristics
+        - Basaltic composition
+      Recycling Process
+        - Rapid mantle convection
+        - No remnants of early crust
+    Evidence of Early Earth
+      Zircon Crystals
+        - Oldest materials, 4.4 billion years
+      Meteorites
+        - Dating from solar system formation
+      Lunar Rocks
+        - Early Earth-Moon system, 4.5 billion years

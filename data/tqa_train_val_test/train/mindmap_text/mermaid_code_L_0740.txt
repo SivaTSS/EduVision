@@ -1,0 +1,23 @@
+mindmap
+  Thermal Energy Transfer
+    Heat Transfer Methods
+      Conduction
+        Definition
+        Thermal Conductors
+        Thermal Insulators
+        Examples
+      Convection
+        Definition
+        Convection Currents
+        Examples
+      Radiation
+        Definition
+        Energy Transfer by Waves
+        Examples
+    Applications of Thermal Energy
+      Heating Homes
+      Running Vehicles
+    Insulation
+      Purpose
+      Materials
+      Misconceptions

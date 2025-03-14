@@ -1,0 +1,25 @@
+mindmap
+  Chemical Reactions
+    Definition
+      Change of substances
+      Represented by chemical equations
+    Importance of Balancing
+      Law of Conservation of Mass
+        Matter cannot be created or destroyed
+        Same mass in reactants and products
+      Balanced Equations
+        Same number of each type of atom
+        Example: Burning of Methane
+          CH4 + 2O2 → CO2 + 2H2O
+          Balanced: 1 C, 4 H, 4 O on both sides
+    Historical Context
+      Antoine Lavoisier
+        Experiments in the 1700s
+        Sealed jar method
+          Captured gases for accurate measurement
+        Conclusion: Mass is conserved
+    Evidence of Conservation
+      Mass measurements before and after reactions
+      Importance of sealing the jar
+        Prevents gas escape
+        Ensures accurate mass comparison

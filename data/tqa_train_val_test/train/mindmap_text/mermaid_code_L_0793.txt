@@ -1,0 +1,23 @@
+mindmap
+  Acid-Base Neutralization
+    Neutralization Reaction
+      Definition: Reaction producing water and salt
+      Example: HNO3 + KOH → H2O + KNO3
+    Acids
+      Definition: Produce H+ and nonmetal ions in water
+      Example: Hydrochloric acid (HCl)
+        Equation: H2O + 2 HCl → H+ + Cl-
+    Bases
+      Definition: Produce OH- and metal ions in water
+      Example: Sodium hydroxide (NaOH)
+        Equation: H2O + 2 NaOH → OH- + Na+
+    Products of Neutralization
+      Water
+      Salt
+        Definition: Neutral ionic compound
+        Example: Sodium chloride (NaCl)
+          Equation: Na+ + Cl- → NaCl
+    Additional Example
+      Antacid Reaction
+        Reactants: CaCO3 + 2 HCl
+        Products: H2O + CaCl2 + CO2

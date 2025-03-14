@@ -1,0 +1,42 @@
+mindmap
+  Primate Order
+    Definition
+      Primate
+      Traits
+        Five digits
+        Stereoscopic vision
+    Habitats
+      Tropical rainforests
+      Distribution
+        Central and South America
+        Africa
+        South Asia
+    Diet
+      Omnivorous
+      Preferences
+        Fruits
+        Variety of plant and animal foods
+    Learning
+      Ability to learn
+      Comparison with other mammals
+    Primate Types
+      Prosimian
+        Characteristics
+          Smaller size
+          Fewer species
+        Examples
+          Lemurs
+          Lorises
+      Non-prosimian
+        Characteristics
+          Larger size
+        Groups
+          Tarsiers
+          New World monkeys
+          Old World monkeys
+          Apes
+          Humans
+    Development
+      Rate of development
+      Importance of learning
+      Maturation period

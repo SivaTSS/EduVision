@@ -1,0 +1,39 @@
+mindmap
+  Color
+    Visible Light
+      Definition
+      Wavelengths
+        Longest: Red
+        Shortest: Violet
+      Spectrum
+        Seven Main Colors
+    Prism
+      Function
+        Separates Light
+        Bending of Wavelengths
+      Rainbow Formation
+        Individual Raindrops
+    Human Eye
+      Color Detection
+        Primary Colors: Red, Green, Blue
+        Perception of Other Colors
+          Combination of Primary Colors
+          Secondary Colors: Cyan, Yellow, Magenta
+    Pigments
+      Definition
+      Primary Pigment Colors
+        Cyan
+        Magenta
+        Yellow
+      Color Creation
+        Combination of Primary Pigments
+    Opaque vs Transparent
+      Opaque Objects
+        Reflection and Absorption
+      Transparent Objects
+        Light Transmission
+        Color Determination
+    Color Interaction
+      Effect of Light Color on Appearance
+      Absorption of All Light
+        Result: Black

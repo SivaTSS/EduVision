@@ -1,0 +1,20 @@
+mindmap
+  Orbital Motion
+    Definition
+      Orbit
+      Orbital Motion
+      Causes of Orbital Motion
+    Types of Orbits
+      Natural Satellites
+        Moon
+          Gravity Effects
+          Forward Velocity
+      Artificial Satellites
+        Factors for Maintaining Orbit
+    Celestial Relationships
+      Earth and Sun
+        Gravity Interaction
+        Forward Velocity
+      Earth and Other Planets
+        Proximity to Venus and Mars
+        Gravitational Influence

@@ -1,0 +1,35 @@
+mindmap
+  Magnetism
+    Magnets
+      Definition
+        Attracts materials like iron
+        Has north and south poles
+      Properties
+        Magnetic force
+          Attraction and repulsion
+        Magnetic field
+          Surrounds the magnet
+          Visualized with iron filings
+    Types of Materials
+      Ferromagnetic
+        Iron, cobalt, nickel
+        Can be magnetized
+      Nonmagnetic
+        Wood, glass, plastic, copper, aluminum
+    Magnetization
+      Process
+        Alignment of magnetic domains
+        Temporary vs Permanent magnets
+          Temporary: e.g., paper clips
+          Permanent: e.g., stroked iron nail
+    Applications
+      Maglev Train
+        Magnetic levitation
+        High speeds (up to 480 km/h)
+      Natural Magnets
+        Magnetite
+          Historical significance
+          Attracts iron naturally
+    Earth's Magnetic Field
+      Causes northern lights
+      Interaction with magnets

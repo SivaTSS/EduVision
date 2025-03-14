@@ -1,0 +1,32 @@
+mindmap
+  Ecosystems
+    Definition
+      Ecosystem as a unit of nature
+      Biotic and abiotic factors
+      Interaction of factors
+    Energy and Matter
+      Constant energy input
+        Source: Sunlight
+        Chemical compounds
+      Matter recycling
+        Water, carbon, nitrogen
+    Niche and Habitat
+      Niche
+        Role of species in ecosystem
+        Interaction with biotic and abiotic factors
+        Energy and matter acquisition
+      Habitat
+        Physical environment
+        Adaptation to environment
+        Influenced by abiotic factors
+    Competitive Exclusion Principle
+      Definition
+        Two species cannot occupy the same niche
+      Implications
+        Competition for resources
+        Possible outcomes: outcompete or evolve specializations
+    Ecosystem Similarities
+      Terrestrial ecosystems
+        Forests
+        Deserts
+      Factors determining ecosystem locations

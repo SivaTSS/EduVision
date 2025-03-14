@@ -1,0 +1,41 @@
+mindmap
+  Sedimentary Rock Classification
+    Types of Sedimentary Rocks
+      Clastic
+        Rock Fragments
+          Conglomerate
+            Features: Rounded
+          Breccia
+            Features: Angular
+          Sandstone
+            Features: Sand-sized
+          Siltstone
+            Features: Silt-sized
+          Shale
+            Features: Clay-sized
+      Chemical
+        Precipitation from Fluids
+          Rock Salt
+            Type: Chemical precipitate
+          Dolostone
+            Type: Chemical precipitate
+          Limestone
+            Type: Bioclastic
+            Origin: Marine skeletons or coral
+      Biochemical
+        Formation from Organisms
+          Coal
+            Types: Lignite, Bituminous, Anthracite
+    Formation Processes
+      Clastic Rocks
+        Formed from rock fragments
+      Chemical Rocks
+        Precipitate from fluids
+      Biochemical Rocks
+        Formed from living organisms
+    Sediment Size Classification
+      Small to Large
+        Clay-sized
+        Silt-sized
+        Sand-sized
+        Large

@@ -1,0 +1,22 @@
+mindmap
+  Gravity in the Solar System
+    Existence of Earth and Moon
+      Duration
+      Evidence of Moon's Gravity on Earth
+    Newton's Law of Gravitation
+      Definition
+      Force of Attraction
+        Proportional to Mass
+        Inversely Proportional to Distance
+    Effects of Mass and Distance
+      Increasing Mass
+      Increasing Distance
+    Gravitational Attraction
+      Moon to Earth vs. Earth to Sun
+      Why Moon Doesn't Fly Off
+      Why Objects Fall
+    Universal Law of Gravitation
+      Description
+      Role in Orbits
+        Planets around Sun
+        Moons around Planets

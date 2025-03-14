@@ -1,0 +1,43 @@
+mindmap
+  Air Pollution Health Hazards
+    Air Quality Improvement
+      Southern California
+        Since 1960s
+    Health Issues
+      Direct Causes
+        Asthma
+        Emphysema
+      Indirect Causes
+        Increased Cancer Risk
+        Heart Disease
+    Current Air Quality
+      Southern California
+        Health Assessment
+    Primary Cancer Source
+      Air Pollution
+        Chemicals
+          DDT
+          PCBs
+        Indoor Pollutants
+          Radon
+          Asbestos
+    Causes of Death
+      Direct Causes
+        Respiratory Disorders
+      Indirect Causes
+        Cancer
+        Heart Attack
+        Stroke
+    Smog
+      Causes
+        Coal Burning
+        Motor Vehicle Exhaust
+      Associated Issues
+        Eye Irritation
+        Respiratory Problems
+    Indoor Air Pollution Protection
+      Methods
+        Carbon Monoxide Detectors
+        Clean Home Environment
+        Proper Ventilation
+        Functional Air Conditioning

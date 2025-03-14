@@ -1,0 +1,22 @@
+mindmap
+  Bernoulli's Law
+    Definition
+      - Pressure of moving fluid
+      - Relationship with fluid speed
+    Historical Context
+      - Named after Daniel Bernoulli
+      - Swiss mathematician
+      - Discovery in the 1700s
+    Application in Aviation
+      - Wings of airplanes
+        - Shape of wings
+        - Airflow dynamics
+        - Pressure difference
+      - Lift generation
+        - Greater pressure below wings
+        - Allows flight
+    Application in Other Fields
+      - Racecar spoilers
+        - Upside-down wing concept
+        - Airflow and pressure dynamics
+        - Downforce on the track

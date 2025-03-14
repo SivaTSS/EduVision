@@ -1,0 +1,34 @@
+mindmap
+  Sound
+    Importance of Sound
+      Sensing the Environment
+      Communication
+      Music
+    Musical Instruments
+      Sound Production
+        Vibrations
+        Sound Waves
+        Resonance
+      Categories
+        Percussion
+        Wind
+        Stringed
+    Ultrasound
+      Definition
+      Uses
+        Echolocation
+        Sonar
+        Ultrasonography
+    Sound Waves
+      Characteristics
+        Longitudinal Waves
+      Comparison with Electromagnetic Waves
+    Applications of Sound
+      Echolocation
+        Animals (Bats, Whales, Dolphins)
+      Sonar
+        Definition (Sound Navigation and Ranging)
+        Uses (Locating Objects, Depth Measurement)
+      Ultrasonography
+        Definition
+        Medical Applications

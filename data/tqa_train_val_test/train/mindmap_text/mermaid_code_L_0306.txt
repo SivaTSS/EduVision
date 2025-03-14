@@ -1,0 +1,34 @@
+mindmap
+  El Nino and La Nina
+    Characteristics
+      El Nino
+        Trade winds reverse
+        Warm water pools off South America
+        Upwelling stops
+      La Nina
+        Trade winds strengthen
+        Colder water along South America
+        Normal conditions intensified
+    Temperature Situations
+      El Nino
+        Warm temperatures in equatorial Pacific
+      La Nina
+        Cooler temperatures in equatorial Pacific
+    Effects on Upwelling
+      El Nino
+        Nutrient scarcity
+        Decline in plankton and fish populations
+      La Nina
+        Enhanced upwelling
+        Increased nutrient availability
+    Global Climate Impact
+      El Nino
+        Increased rainfall in some regions
+        Drought in others
+      La Nina
+        More extreme normal conditions
+    ENSO Cycle
+      Definition
+        El Nino Southern Oscillation
+      Frequency
+        Occurs every 2 to 7 years

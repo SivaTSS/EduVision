@@ -1,0 +1,46 @@
+mindmap
+  Petroleum Power
+    What is Petroleum?
+      Definition
+      Uses
+        Vehicles
+        Materials
+          Waxes
+          Plastics
+          Fertilizers
+    Crude Oil
+      Formation
+        Dead Organisms
+        Heat and Pressure
+      Characteristics
+        Mixture of Hydrocarbons
+        Appearance
+    Extraction Process
+      Location Requirements
+        Porous Rock Layer
+        Impermeable Layer
+      Extraction Methods
+    Refining Process
+      Purpose
+      Separation of Compounds
+        Fuels
+          Gasoline
+          Diesel
+          Heating Oil
+        Other Products
+          Waxes
+          Plastics
+          Fertilizers
+    Environmental Impact
+      Extraction Consequences
+        Oil Spills
+        Pollution
+      Case Study
+        Gulf of Mexico Explosion
+    U.S. Oil Production
+      Domestic vs. Imported
+      Major Regions
+        Gulf of Mexico
+        Texas
+        Alaska
+        California

@@ -1,0 +1,27 @@
+mindmap
+  Loudness and Intensity of Sound
+    Definition
+      Loudness
+        Perception of sound
+      Intensity
+        Measure of energy in sound waves
+    Relationship
+      Intensity affects loudness
+      Decibel scale
+        Unit of intensity: decibel (dB)
+        Loudness increases with decibel level
+    Decibel Levels
+      Examples
+        20 dB - Whisper
+        30 dB - Quiet room
+        40 dB - Light rainfall
+        60 dB - Vacuum cleaner
+      Harmful Levels
+        High-decibel sounds can damage hearing
+    Factors Affecting Intensity
+      Amplitude
+        Size of sound waves
+        Greater amplitude = more energy
+      Distance
+        Sound spreads over larger area
+        Intensity decreases with distance

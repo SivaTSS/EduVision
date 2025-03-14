@@ -1,0 +1,54 @@
+mindmap
+  Centipedes and Millipedes
+    Myriapoda
+      Characteristics
+        13,000 species
+        Terrestrial lifestyle
+        Single pair of antennae
+        Simple eyes
+      Classes
+        Chilopoda
+          Centipedes
+            Fast predators
+            Venomous
+            3,300 species
+            One pair of legs per segment
+            Modified fangs
+            Egg guarding behavior
+        Diplopoda
+          Millipedes
+            Slower than centipedes
+            Herbivores
+            Two pairs of legs per segment
+            Nesting behavior for eggs
+            Not poisonous
+        Symphyla
+          Symphylans
+            200 species
+            Resemble centipedes
+            Smaller and translucent
+            Feed on plant roots
+        Pauropoda
+          Pauropods
+            0.5-2.0 mm long
+            Found in soil and leaf litter
+            Feed on fungi and decaying matter
+            11-12 body segments
+            Unique forked antennae
+    Habitat
+      Moist forests
+      Grasslands
+      Semi-arid habitats
+      Deserts
+    Diet
+      Centipedes
+        Predatory
+        Small animals
+        Insects and spiders
+        Temporary skin irritation
+      Millipedes
+        Leaf litter
+        Loose organic material
+    Differences
+      Legs
+        Centipedes: one

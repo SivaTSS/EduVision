@@ -1,0 +1,28 @@
+mindmap
+  J. J. Thomson's Atomic Model
+    Discovery of the Electron
+      Year: 1897
+      Method: Cathode Ray Tube
+        Components
+          Cathode
+          Anode
+        Process
+          High-voltage current
+          Observation of cathode ray behavior
+    Thomson's Inference
+      Negatively charged particles
+      Comparison to Plum Pudding
+        Analogy: Original analogy for atomic structure
+    Thomson's Model
+      Description
+        Electrons scattered in positive charge
+      Rejection of Model
+        Discovery of the nucleus
+        Modern atomic structure understanding
+    Historical Context
+      John Dalton's Contribution
+        Year: 1804
+        Concept of atoms as smallest particles
+      Thomson's Background
+        Education: Cambridge University
+        Nobel Prize: 1906

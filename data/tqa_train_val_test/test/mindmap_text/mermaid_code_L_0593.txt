@@ -1,0 +1,34 @@
+mindmap
+  Mammal Classification
+    Traditional Classification
+      Anatomy
+      Habitats
+      Feeding Habits
+    Subclasses and Orders
+      Three Subclasses
+      About 26 Orders
+    Major Groups of Mammals
+      Lagomorphs
+        Examples: Hares, Rabbits
+        Characteristics: Long ears, short tail, strong hind limbs
+      Rodents
+        Examples: Rats, Mice
+        Characteristics: Continuously growing incisors
+      Carnivores
+        Examples: Cats, Dogs, Bears
+      Insectivores
+        Examples: Moles, Shrews
+        Diet: Primarily insects and earthworms
+      Bats
+        Example: Vampire Bat
+        Characteristics: Webbed wings, capable of flight
+      Primates
+        Examples: Monkeys, Apes, Humans
+        Characteristics: Developed hands and feet, large brain
+      Ungulates
+        Examples: Deer, Elephants, Giraffes
+        Characteristics: Hoofed animals
+    Adaptations
+      Terrestrial Mammals
+        Examples: Marsupials, Lagomorphs
+        Movement: Leaping

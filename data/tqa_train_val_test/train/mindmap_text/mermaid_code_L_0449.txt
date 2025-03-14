@@ -1,0 +1,33 @@
+mindmap
+  Aquatic Biomes
+    Freshwater Biomes
+      Definition: Low salt concentration (<1%)
+      Types
+        Ponds and Lakes
+          Size: Few square meters to thousands of square kilometers
+        Streams and Rivers
+          Flowing water from headwaters to mouths
+        Wetlands
+          Types: Marshes, swamps, bogs
+    Marine Biomes
+      Definition: Higher salt concentration
+      Types
+        Oceans
+          Zones: Photic and aphotic
+        Coral Reefs
+          Dominant organisms: Corals and algae
+        Estuaries
+          Definition: Where freshwater meets ocean
+          Salinity: Varies due to mixing
+    Key Factors
+      Sunlight Availability
+        Photic Zone: Up to 200 meters, supports photosynthesis
+        Aphotic Zone: Deeper than 200 meters, relies on chemosynthesis
+      Dissolved Oxygen and Nutrients
+        Surface Water: Higher oxygen levels
+        Near Shore: More nutrients from land runoff
+        Bottom Water: Nutrients from decomposed organisms
+    Comparison
+      Freshwater vs Marine
+        Freshwater: <1% salt, adapted organisms
+        Marine: Higher salt, specialized adaptations

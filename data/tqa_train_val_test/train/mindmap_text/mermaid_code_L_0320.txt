@@ -1,0 +1,35 @@
+mindmap
+  Supervolcanoes
+    Composition
+      Eruption Material
+        > 1,000 km³
+        Comparison
+          Mount St. Helens: 1.2 km³
+          Mount Pinatubo: 25 km³
+    Eruption Magnitude
+      Rarity
+        Extremely rare in Earth's history
+      Impact
+        Potential to change life on Earth
+    Yellowstone Supervolcano
+      Location
+        Beneath Yellowstone National Park
+      Eruption History
+        Catastrophic eruptions: 
+          2.1 million years ago
+          1.3 million years ago
+          640,000 years ago
+      Current Activity
+        Limited to geysers
+    Causes of Eruptions
+      Magma Chamber
+        Large chamber erupts entirely
+        Creates caldera
+          Example: Santorini, Greece
+    Effects on Earth
+      Climate Impact
+        Ash blocking sunlight
+        Reduced photosynthesis
+        Global temperature drop
+      Historical Extinctions
+        Possible contributions to mass extinctions

@@ -1,0 +1,31 @@
+mindmap
+  Radio Waves
+    What are Radio Waves?
+      Definition
+      Characteristics
+        Longest wavelengths
+        Lowest frequencies
+        Least energy
+    AM vs FM Radio Broadcasts
+      AM (Amplitude Modulation)
+        Encoding method
+        Longer wavelengths
+        Reflection off ionosphere
+        Distance coverage
+      FM (Frequency Modulation)
+        Encoding method
+        Shorter wavelengths
+        Passes through ionosphere
+        Clarity of sound
+    Radio Waves in Television Broadcasts
+      Encoding methods
+        Sounds: Frequency Modulation
+        Pictures: Amplitude Modulation
+      Transmission process
+        Broadcast from TV tower
+        Decoding by television sets
+    Electromagnetic Spectrum
+      Definition
+      Range of frequencies
+        10^5 to 10^12 Hz
+      Comparison with other electromagnetic waves

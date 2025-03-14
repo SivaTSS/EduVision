@@ -1,0 +1,27 @@
+mindmap
+  Archimedes Law
+    Definition
+      - Buoyant force
+      - Weight of displaced fluid
+    Key Concepts
+      - Displacement
+        - Volume of fluid displaced
+        - Volume of submerged object
+      - Shape of objects
+        - Effect on buoyancy
+        - Examples (ship vs. steel ball)
+    Historical Context
+      - Archimedes' observation
+        - Water displacement in a tub
+        - Occupying space
+    Practical Applications
+      - Floating objects
+        - Ships
+        - Human body in water
+      - Experimentation
+        - Foil shapes in water
+        - Demonstrating buoyancy
+    Questions
+      - What is Archimedes law?
+      - How does shape affect floating?
+      - Why does a steel ball sink?

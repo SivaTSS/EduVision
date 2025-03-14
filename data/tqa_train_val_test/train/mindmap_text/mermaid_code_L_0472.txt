@@ -1,0 +1,28 @@
+mindmap
+  Cardiovascular System
+    Components
+      - Heart
+      - Blood Vessels
+      - Blood
+    Functions
+      - Deliver Oxygen
+      - Move Nutrients
+      - Remove Wastes
+      - Maintain Body Temperature
+      - Transport Hormones
+    Blood Flow
+      - Oxygen-Rich Blood
+        - Arteries carry blood from heart
+      - Oxygen-Poor Blood
+        - Veins return blood to heart
+    Heart Structure
+      - One-Way Valves
+        - Importance
+        - Effects of Leaky Valves
+    Coronary Arteries
+      - Function
+      - Role in Heart Disease
+    Interaction with Other Systems
+      - Respiratory System
+      - Endocrine System
+      - Nervous System

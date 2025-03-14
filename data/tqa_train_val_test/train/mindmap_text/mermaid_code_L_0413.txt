@@ -1,0 +1,39 @@
+mindmap
+  Biomes
+    Definition
+      Biome as a group of similar ecosystems
+      Abiotic factors and primary producers
+    Terrestrial Biomes
+      Climate Influence
+        Temperature and moisture
+        Examples
+          Tropical rainforest
+          Temperate grasslands
+          Tundra
+      Major Climatic Factors
+        Temperature
+        Moisture
+    Aquatic Biomes
+      Types
+        Freshwater
+          Lakes
+            Zones
+              Littoral zone
+              Limnetic zone
+              Profundal zone
+        Marine
+          Ocean zones
+            Intertidal zone
+            Pelagic zone
+              Photic zone
+              Aphotic zone
+            Benthic zone
+      Primary Producers
+        Phytoplankton
+        Algae
+    Energy and Matter
+      Energy Sources
+      Cycles of Matter
+    Ecosystem Dynamics
+      Constant energy input
+      Recycling of matter

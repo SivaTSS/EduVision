@@ -1,0 +1,30 @@
+mindmap
+  Hydrocarbons
+    Definition
+      - Compounds of carbon and hydrogen
+      - Simplest carbon-based compounds
+    Types
+      Saturated Hydrocarbons
+        - Single bonds (Alkanes)
+        - Examples: Methane, Ethane, Propane
+        - Shapes: Straight-chain, Branched-chain, Cyclic
+        - Isomers
+      Unsaturated Hydrocarbons
+        - At least one double or triple bond
+        - Alkenes (double bonds)
+          - Example: Ethene
+        - Alkynes (triple bonds)
+          - Example: Ethyne (Acetylene)
+        - Aromatic Hydrocarbons
+          - Ring structure with alternating bonds
+          - Example: Benzene
+    Properties
+      - Influence of size on boiling/melting points
+      - Nonpolar nature
+      - Solubility in water
+    Uses
+      - Fuels: Gasoline, Natural gas, Diesel, etc.
+      - Manufacturing: Plastics, Synthetic fabrics
+    Sources
+      - Fossil Fuels: Coal, Petroleum, Natural gas
+      - Formation from dead organisms

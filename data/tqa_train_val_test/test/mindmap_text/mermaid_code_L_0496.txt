@@ -1,0 +1,40 @@
+mindmap
+  Control of Insects
+    Insect Pests
+      Types of Pests
+        Parasitic Insects
+          - Mosquitoes
+          - Lice
+          - Bed Bugs
+        Disease Transmitters
+          - Mosquitoes
+          - Flies
+        Structural Damagers
+          - Termites
+        Crop Destroyers
+          - Locusts
+          - Weevils
+    Control Methods
+      Biological Control
+        Definition
+        Benefits
+          - Natural Predators
+          - Examples
+            - Ladybugs
+            - Lacewings
+            - Dragonflies
+        Risks
+          - Introduction of New Species
+      Chemical Control
+        Definition
+        Insecticides
+          - Usage Statistics
+          - Disadvantages
+            - Poisoning Risks
+            - Environmental Contamination
+        Considerations
+          - Effectiveness
+          - Impact on Natural Enemies
+          - Crop Susceptibility
+          - Toxicity
+          - Resistance Development

@@ -1,0 +1,24 @@
+mindmap
+  Chemical Equations
+    What is a Chemical Equation?
+      Parts of a Chemical Equation
+        Reactants
+        Products
+        Arrow
+        Plus Signs
+        Coefficients
+    Writing Chemical Equations
+      Example: Calcium Carbonate Reaction
+        CaCO3 → CaO + CO2
+      Example: Iron Rusting
+        Fe + O2 → Fe2O3
+    Describing Chemical Reactions
+      Example: 2NO2 → 2O2 + N2
+    Balancing Chemical Equations
+      Definition of Balanced Equation
+      Law of Conservation of Mass
+      Example: Carbon and Oxygen Reaction
+        C + O2 → CO2
+      Example: Rusting Reaction
+        4Fe + 3O2 → 2Fe2O3
+      Coefficients in Balancing

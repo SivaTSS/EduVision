@@ -1,0 +1,30 @@
+mindmap
+  Chemistry of Life
+    Elements
+      Definition
+        Substances that cannot be broken down
+      Types
+        More than 100 known elements
+        92 occur naturally
+    Atomic Structure
+      Atoms
+        Smallest particle of matter
+        Composed of protons, neutrons, electrons
+        Atomic number
+          Number of protons
+        Ions
+          Atoms with charge
+    Periodic Table
+      Created by Dmitri Mendeleev
+      Organization
+        Based on atomic number, properties
+        Groups and periods
+    Molecules and Compounds
+      Molecules
+        Combination of two or more atoms
+      Compounds
+        Combination of different elements
+        Different properties from constituent elements
+    Chemical Reactions
+      Reactants and products
+      Example: Formation of water (H2O)

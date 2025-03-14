@@ -1,0 +1,27 @@
+mindmap
+  HIV and AIDS
+    HIV Replication
+      Steps of Infection
+      Understanding Treatment Development
+      HIV Injection into Cells
+      Enzymes Supplied to Host Cells
+    HIV Immunity
+      Variability in Vulnerability
+      Research on Natural Resistance
+    Development of AIDS
+      Progression from HIV to AIDS
+      Role of Helper T Cells
+      Body Fluids Containing HIV
+      Body Fluids Not Containing HIV
+    Transmission of HIV
+      Modes of Spread
+        Sexual Contact
+        Shared Needles
+        Mother to Child
+      Fluids that May Contain HIV
+      Misconceptions about Transmission
+    Impact of AIDS
+      Definition and Symptoms
+      Immune System Damage
+      Causes of Death in AIDS Patients
+      Historical Context and Statistics

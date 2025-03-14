@@ -1,0 +1,38 @@
+mindmap
+  Pulley
+    What is a Pulley?
+      Definition
+      Function
+    Types of Pulleys
+      Fixed Pulleys
+        Description
+        Example: Flagpole
+      Moveable Pulleys
+        Description
+        Example: Zip-line
+      Compound Pulleys
+        Description
+        Example: Crane
+    Mechanical Advantage
+      Definition
+      Ideal Mechanical Advantage
+        Calculation
+        Factors Affecting
+      Comparison of Pulleys
+        Single Fixed Pulley
+          Rope Segments: 1
+          Ideal Mechanical Advantage: 1
+          Direction Change: Yes
+        Single Moveable Pulley
+          Rope Segments: 2
+          Ideal Mechanical Advantage: 2
+          Direction Change: No
+        Compound Pulley
+          Rope Segments: 2 or more
+          Ideal Mechanical Advantage: 2 or greater
+          Direction Change: Varies
+    Practical Applications
+      Lifting Loads
+      Example: Lifting Buckets from Wells
+    Construction of Compound Pulleys
+      Ideal Mechanical Advantage of 6

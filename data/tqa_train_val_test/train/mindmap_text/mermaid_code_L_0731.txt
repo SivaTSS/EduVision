@@ -1,0 +1,27 @@
+mindmap
+  Buoyancy of Fluids
+    Archimedes Law
+      Definition
+      Explanation of Floating Objects
+        Heavy Objects
+        Displacement of Water
+    Buoyant Force
+      Definition
+      Relationship with Weight
+        Sinking vs. Floating
+    Density
+      Definition
+      Relation to Buoyancy
+        Examples
+          Ice in Water
+          Oil in Water
+          Helium Balloons
+    Applications
+      Machines in Physics
+        Examples
+        Work Easement
+    Visual Aids
+      Figures
+        Fishing Float
+        Steel Ball vs. Ship
+        Fluid Pressure Illustration

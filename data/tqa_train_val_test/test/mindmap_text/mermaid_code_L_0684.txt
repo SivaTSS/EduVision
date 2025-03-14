@@ -1,0 +1,30 @@
+mindmap
+  Structural Evidence for Evolution
+    Vestigial Structures
+      Definition
+        Structures that have lost their use
+      Examples
+        Flightless Cormorant
+          Vestigial trait: wings
+          Compensation: adapted for swimming
+        Penguins
+          Flippers for swimming, not flying
+        Whales
+          Pelvic bones from land-dwelling ancestors
+    Homologous Structures
+      Definition
+        Structures with common function
+      Examples
+        Mammal limbs
+          Bats, lions, whales, humans
+          Common ancestor
+    Embryology
+      Definition
+        Study of organism development
+      Evidence
+        Similarities in embryos
+          Gill slits in human embryos
+          Suggests common ancestry with fish
+        Common ancestors
+          Humans and chimpanzees
+          Different evolutionary paths

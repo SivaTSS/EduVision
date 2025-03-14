@@ -1,0 +1,51 @@
+mindmap
+  Animals Evolution
+    Major Events
+      Earliest Animals
+        Aquatic Invertebrates
+        First Vertebrates
+      Colonization of Land
+        Invertebrates
+        Vertebrates
+    Key Traits
+      Multicellularity
+        Specialized Cells
+        Example: Sponges
+      Tissues
+        Ectoderm and Endoderm
+        Example: Jellyfish
+      Symmetry
+        Radial Symmetry
+          Example: Coral
+        Bilateral Symmetry
+          Example: Beetle
+      Mesoderm
+        Third Embryonic Layer
+        Example: Flatworms
+      Digestive System
+        Incomplete System
+          Example: Jellyfish
+        Complete System
+          Example: Roundworms
+      Body Cavity
+        Pseudocoelom
+          Example: Roundworms
+        Coelom
+          Example: Mollusks and Annelids
+      Segmentation
+        Flexibility and Motion
+        Examples: Earthworm and Ant
+      Notochord
+        Support and Shape
+        Chordates
+    Evolution of Vertebrates
+      Backbone and Cranium
+      Earliest Vertebrates
+        Example: Hagfish
+    Adaptations for Land
+      Invertebrates
+        Exoskeleton
+      Vertebrates
+        True Lungs and Limbs
+        Amniotes
+          Waterproof Eggs

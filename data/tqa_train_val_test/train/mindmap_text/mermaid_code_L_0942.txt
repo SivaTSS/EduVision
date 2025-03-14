@@ -1,0 +1,21 @@
+mindmap
+  Longitudinal Wave
+    What is a Longitudinal Wave?
+      Definition
+      Characteristics
+        Mechanical wave
+        Particle vibration direction
+    Sketch of a Longitudinal Wave
+      Components
+        Compressions
+        Rarefactions
+      Directions
+        Wave direction
+        Particle vibration direction
+    P Waves
+      Definition
+      Cause
+        Earthquakes
+      Behavior
+        Propagation through rocks
+        Compressions and rarefactions in P waves

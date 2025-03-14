@@ -1,0 +1,49 @@
+mindmap
+  Electromagnetic Energy in the Atmosphere
+    Electromagnetic Spectrum
+      Definition
+      Types of Waves
+        Radio Waves
+        Microwaves
+        Infrared
+        Visible Light
+        Ultraviolet
+        X-rays
+        Gamma Rays
+      Wavelengths
+        Longest to Shortest
+        Measurement Units
+    Visible Spectrum
+      Definition
+      Importance
+      Color Breakdown
+        Red
+        Orange
+        Yellow
+        Green
+        Blue
+        Indigo
+        Violet
+    Albedo
+      Definition
+      Expression
+      Examples
+        Snow
+        Earth
+      Determination
+      Effects of Changes
+        Deforestation
+        Snow Melting
+    Energy Transfer
+      Radiation
+      Conservation of Energy
+        Definition
+        Examples
+          Photosynthesis
+          Heat Transfer
+    Light Sources
+      Sun vs. Moon
+      Reflection
+        Definition
+        Examples
+          Planets

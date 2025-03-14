@@ -1,0 +1,51 @@
+mindmap
+  Insects
+    Characteristics
+      Segmented Bodies
+        Exoskeleton
+          Cuticle
+            Exocuticle
+            Inner Layer
+      Communication
+        Bioluminescence
+        Sounds
+        Pheromones
+        Social Behavior
+    Diversity
+      Species Count
+      Habitat Range
+      Size Variation
+    Body Structure
+      Head
+        Antennae
+        Compound Eyes
+        Mouthparts
+      Thorax
+        Legs
+        Wings
+      Abdomen
+        Digestive System
+        Respiratory System
+        Circulatory System
+    Movement
+      Flight
+      Walking
+      Swimming
+    Social Insects
+      Types
+        Termites
+        Ants
+        Bees
+        Wasps
+      Nesting Behavior
+      Migration
+    Classification
+      Wingless Insects
+        Bristletails
+        Silverfish
+      Winged Insects
+        Mayflies
+        Dragonflies
+        Grasshoppers
+        Beetles
+        Butterflies

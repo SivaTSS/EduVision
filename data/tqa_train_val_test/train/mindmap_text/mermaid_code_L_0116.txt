@@ -1,0 +1,24 @@
+mindmap
+  Comets
+    Why do comets have tails near the Sun?
+      Formation of tails
+        Ice vaporization
+        Glowing coma
+        Tail direction
+    Kuiper Belt
+      Location
+      Contents
+        Short-period comets
+        Asteroids
+        Dwarf planets
+    Halley's Comet
+      Appearance frequency
+        75-year period
+        Next appearance in 2061
+      Historical significance
+        Records dating back two millennia
+    Oort Cloud
+      Location
+        50,000 - 100,000 AU from the Sun
+      Long-period comets
+        Periods of thousands to millions of years

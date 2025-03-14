@@ -1,0 +1,21 @@
+mindmap
+  Earth’s Magnetic Field
+    Magnetic Poles
+      North Pole
+      South Pole
+    Magnetosphere
+      Definition
+      Protection from Solar Radiation
+    Northern Lights
+      Explanation
+        Energetic Particles
+        Collision with Atmosphere
+        Light Patterns
+    Navigation
+      Human Compasses
+      Animal Navigation
+        Loggerhead Turtle
+          Sensing Magnetic Field
+          Migration Routes
+        Migratory Birds
+          Visual Patterns in Eyes

@@ -1,0 +1,35 @@
+mindmap
+  Sedimentary Rocks
+    Sediment Size
+      History of Depositional Environment
+    Types of Sediments
+      Fragments of Other Rocks
+        Sand
+        Silt
+        Clay
+      Organic Materials
+      Chemical Precipitates
+    Weathering Processes
+      Mechanical Weathering
+        Breaks Rocks Apart
+      Chemical Weathering
+        Dissolves Less Stable Minerals
+    Erosion and Transport
+      Agents of Erosion
+        Water
+        Wind
+        Ice
+        Gravity
+      Sediment Deposition
+        Beaches
+        Deserts
+        Oceans
+        Lakes
+        Rivers
+        Marshes
+        Swamps
+    Formation of Sedimentary Rocks
+      Influence of Sediment Type
+      Color Determination
+        Oxygen Presence
+        Oxygen Poor Environments

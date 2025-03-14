@@ -1,0 +1,20 @@
+mindmap
+  Wave Frequency
+    What is wave frequency?
+      Definition: Number of waves passing a fixed point in a given time
+    SI Unit
+      Hertz (Hz)
+      1 Hz = 1 wave/second
+    Frequency Calculation
+      Example: 10 waves in 5 seconds = 2 Hz
+    Relationship to Energy
+      Higher frequency = more energy
+      Same amplitude comparison
+    Measurement
+      Counting crests in a time period
+    Wavelength
+      Definition: Distance between corresponding points on adjacent waves
+      Relationship: Higher frequency = shorter wavelength
+    Vibration Frequency
+      Frequency of wave = frequency of vibrations causing the wave
+      Higher frequency requires more energy

@@ -1,0 +1,26 @@
+mindmap
+  Groundwater Pollution
+    Chemicals in Drinking Water
+      Sources of Contaminants
+        Underground Storage Tanks
+        Agricultural Fields
+        Landfills
+      Types of Contaminants
+        Municipal
+        Agricultural
+        Industrial
+    Groundwater Movement
+      Infiltration into Aquifers
+      Flow through Aquifers
+    Rock and Soil Filtration
+      Effectiveness of Filtration
+      Limitations of Filtration
+    Karst Aquifers
+      Contamination Mechanisms
+      Impact of Rainfall
+    Pollution Statistics
+      Usable Groundwater Pollution
+      Municipal Groundwater Pollution
+    Well Contamination
+      Prevalence of Contaminants
+      Case Study: Florida

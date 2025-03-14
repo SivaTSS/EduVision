@@ -1,0 +1,32 @@
+mindmap
+  Animal Behavior
+    Cyclic Behavior
+      Yearly Cycles
+        Hibernation
+          Definition: State of slowed body processes
+          Duration: Weeks to months
+          Examples: Bats, squirrels, snakes
+          Misconception: Bears do not truly hibernate
+        Migration
+          Definition: Movement from one place to another
+          Triggers: Environmental changes (e.g., shorter days)
+          Common Species: Birds, fish, insects
+          Examples: 
+            - Red Knots
+              - Migration distance: Thousands of miles
+              - Resource: Horseshoe crab eggs
+              - Population decline reasons
+            - Swainson's Hawk
+              - Migration route: North America to South America
+              - Distance: Almost 5,000 miles
+            - Wildebeest and Zebra
+              - Great migration in East Africa
+              - Distance: Around 1,800 miles
+      Daily Cycles
+        Circadian Rhythms
+          Definition: Daily cycles of behavior
+          Control: Biological clock in the brain
+          Examples: 
+            - Diurnal Animals: Active during the day (e.g., humans, birds)
+            - Nocturnal Animals: Active at night (e.g., bats, foxes)
+          Impact: Sleep patterns and daily activities

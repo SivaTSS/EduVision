@@ -1,0 +1,29 @@
+mindmap
+  Chemical Bonding
+    Ionic Bond
+      Definition: Electrons transferred between atoms
+      Example: Sodium Chloride (NaCl)
+      Sodium: Valence Electrons: 1
+      Chlorine: Valence Electrons: 7
+      Ion Charges: 
+        Sodium Ion: +1
+        Chlorine Ion: -1
+      Formation: Atoms bond due to charge attraction
+    Covalent Bond
+      Definition: Atoms share one or more electrons
+      Example: Methane (CH4)
+      Strength: Strong bonds, require energy to break
+      Organic Compounds: Common in biological structures
+      Oxygen: Valence Electrons: 6
+      Bonding: Oxygen and Hydrogen
+    Hydrogen Bond
+      Definition: Weak bond between polar molecules
+      Example: Water
+      Polarity: Water has a positive and negative side
+      Importance: Good solvent due to polarity
+    Comparison
+      Covalent vs Ionic: Sharing vs Transferring electrons
+      Strength: Hydrogen bonds are weaker than covalent bonds
+    Water Molecule
+      Structure: Two hydrogen atoms and one oxygen atom
+      Polarity: Oxygen side negative, hydrogen side positive

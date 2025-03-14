@@ -1,0 +1,25 @@
+mindmap
+  Phenotype and Genotype
+    Definition
+      Phenotype: Traits or characteristics
+      Genotype: Genetic makeup
+    Natural Selection
+      Acts on Phenotype
+        Distinction between AA and Aa
+        Homozygous vs Heterozygous
+      Does not act on Genotype
+        Environment cannot distinguish
+    Harmful Genes
+      Dominant Harmful Genes
+        Impact on population
+      Recessive Harmful Genes
+        Example: Tay-Sachs disease
+          Carriers: Heterozygous individuals
+          Maintained in gene pool
+      Gene Pool
+        Complete set of genes and alleles
+        Importance of carriers
+    Lethal Recessive Genes
+      Persistence in Gene Pool
+        Carriers do not express phenotype
+        Mating of heterozygous individuals

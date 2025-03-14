@@ -1,0 +1,26 @@
+mindmap
+  Magnetic Evidence for Seafloor Spreading
+    Magnetic Stripes
+      Pattern of Stripes
+        Normal and Reversed Polarity
+        Symmetrical about Mid-Ocean Ridge
+        Abrupt Ends at Continents
+    Age of Seafloor
+      Magnetic Polarity
+        Younger at Ridge Crest
+        Older Away from Ridge
+      Other Indicators
+        Radiometric Age Dating
+        Fossil Ages
+    Geological Processes
+      Mid-Ocean Ridge
+        Magma Rising
+        New Oceanic Crust Formation
+      Changes with Distance
+        Rock Age
+        Sediment Thickness
+        Crust Thickness
+        Heat Flow
+    Historical Context
+      WWII Magnetometer Use
+      Discovery of Magnetic Patterns

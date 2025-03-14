@@ -1,0 +1,31 @@
+mindmap
+  Noble Gases
+    Definition
+      Nonreactive elements
+      Group 18 of periodic table
+    Properties
+      Colorless and odorless
+      Low boiling points
+      Stable electron configuration
+    Reactivity
+      Almost nonreactive
+      Octet rule
+        Atoms form compounds for eight valence electrons
+        Example: Sodium and chlorine reaction
+    Elements
+      Helium (He)
+        Two electrons
+        Exists as single atoms
+      Neon (Ne)
+      Argon (Ar)
+      Krypton (Kr)
+      Xenon (Xe)
+      Radon (Rn)
+        Radioactive
+    Applications
+      Balloons
+        Helium-filled balloons float
+      Light bulbs
+        Argon prevents filament corrosion
+      Lighted signs
+        Different gases emit different colors

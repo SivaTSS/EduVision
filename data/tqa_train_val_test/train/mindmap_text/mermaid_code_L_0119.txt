@@ -1,0 +1,31 @@
+mindmap
+  Continental Drift
+    Alfred Wegener
+      Background
+        Meteorologist
+        Explorer
+        Born in 1880
+      Key Events
+        1910: Interest in continental movement
+        1911: Discovery of identical fossils
+        1915: Proposal of continental drift hypothesis
+        1930: Continued research
+        1960: Acceptance of theory
+    Evidence for Hypothesis
+      Fit of Continents
+        Puzzle piece alignment
+      Fossil Evidence
+        Identical species on separate continents
+        Examples: Glossopteris, Mesosaurus, Cynognathus, Lystrosaurus
+      Geological Evidence
+        Similar rock types and ages
+        Mountain ranges: Appalachians and Greenland
+      Climate Evidence
+        Ancient glaciers in warm climates
+        Coral reefs and coal seams in cold locations
+    Criticism and Support
+      Initial Skepticism
+        Wegener labeled "crazy man"
+        Need for more evidence
+      Support from Colleagues
+        Call for exploration and validation

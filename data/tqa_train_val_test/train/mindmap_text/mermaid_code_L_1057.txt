@@ -1,0 +1,30 @@
+mindmap
+  Unsaturated Hydrocarbons
+    Definition
+      Hydrocarbons with double or triple bonds
+    Types
+      Alkenes
+        At least one double bond
+        Naming convention
+          Ends in -ene
+          Prefix for number of carbon atoms
+        Properties
+          Different shapes
+          Isomers
+          Boiling and melting points
+      Aromatic Hydrocarbons
+        Cyclic hydrocarbons
+        Structure
+          Alternating single and double bonds
+          Benzene as smallest example
+        Uses
+          Strong aroma
+          Applications in air fresheners and mothballs
+      Alkynes
+        At least one triple bond
+        Naming convention
+          Ends in -yne
+          Prefix for number of carbon atoms
+        Properties
+          Rare in nature
+          Straight or branched chains

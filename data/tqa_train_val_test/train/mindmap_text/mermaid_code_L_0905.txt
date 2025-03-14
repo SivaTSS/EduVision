@@ -1,0 +1,23 @@
+mindmap
+  Friction
+    Definition
+      Opposes motion
+      Occurs between touching surfaces
+    Factors Affecting Friction
+      Surface roughness
+        Rougher surfaces = more friction
+        Smoother surfaces = less friction
+      Weight of objects
+        Heavier objects = greater friction
+    Effects of Friction
+      Produces heat
+        Molecules move faster
+        Warms hands when rubbed
+      Can be beneficial
+        Increases grip (e.g., sand on ice)
+      Can be problematic
+        Causes wear in machinery
+        Overheating in engines
+    Reducing Friction
+      Use of lubricants (e.g., oil in engines)
+      Making surfaces smoother

@@ -1,0 +1,39 @@
+mindmap
+  Radioisotopes
+    Video
+      Analogy
+        Stable Isotopes
+        Radioactive Isotopes
+    Definitions
+      What is a Radioisotope?
+        Example: Carbon-14
+      Unstable Nuclei
+        Reasons for Instability
+          Too Many Protons
+          Unstable Proton-to-Neutron Ratio
+    Isotopes
+      Definition
+        Same Protons, Different Neutrons
+      Radioactive Isotopes
+        Characteristics
+          Constant Decay
+          Emission of Radiation
+    Stability
+      Proton-to-Neutron Ratios
+        Small Protons: 1:1
+        Large Protons: 1:1.5
+    Carbon Example
+      Carbon-12
+        Stable Nucleus
+        Proton-to-Neutron Ratio: 1:1
+      Carbon-14
+        Unstable Nucleus
+        Proton-to-Neutron Ratio: 1:1.3
+        Use in Fossil Dating
+          Carbon Intake During Life
+          Decay After Death
+    Periodic Table
+      Elements with Radioactive Isotopes
+        More than 83 Protons
+        Unstable Nuclei
+        Lab-Created Elements

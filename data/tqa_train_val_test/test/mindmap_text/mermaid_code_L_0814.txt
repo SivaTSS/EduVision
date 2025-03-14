@@ -1,0 +1,18 @@
+mindmap
+  Boyles Law
+    Definition
+      Statement
+      Inverse Relationship
+    Explanation
+      Pressure Increase
+      Gas Molecule Behavior
+    Applications
+      Bubble Wrap Example
+      Balloon Experiment
+    Historical Context
+      Robert Boyle
+      1660s Experiments
+      Father of Modern Chemistry
+    Graphical Representation
+      Volume vs Pressure
+      Inverse Relationship Graph

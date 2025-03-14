@@ -1,0 +1,51 @@
+mindmap
+  Human Body
+    Levels of Organization
+      Cells
+        Basic units of structure and function
+        Specialized cells
+          Bone cells
+          Surface skin cells
+          Nerve cells
+          Skeletal muscle cells
+      Tissues
+        Four types
+          Connective
+          Epithelial
+          Muscle
+          Nervous
+      Organs
+        Composed of tissues
+        Examples
+          Skin
+          Brain
+          Lungs
+          Kidneys
+          Heart
+      Organ Systems
+        Groups of organs
+        Examples
+          Circulatory System
+          Skeletal System
+          Muscular System
+          Digestive System
+          Respiratory System
+          Nervous System
+    Homeostasis
+      Definition
+        Internal environment stability
+      Mechanisms
+        Blood sugar regulation
+          Insulin secretion
+        Water level regulation
+          Excretory system response
+      Consequences of imbalance
+        Illness
+        Toxic waste buildup
+        Potential death
+    Comparison of Tissues
+      Muscle Tissue
+        Function: contraction
+        Types: skeletal, cardiac, smooth
+      Epithelial Tissue
+        Function: protection, secretion, absorption

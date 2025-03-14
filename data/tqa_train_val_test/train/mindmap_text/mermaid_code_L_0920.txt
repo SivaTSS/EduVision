@@ -1,0 +1,43 @@
+mindmap
+  Alkali Metals and Hydrogen
+    Alkali Metals
+      Definition
+        Group 1 elements
+        One valence electron
+      Properties
+        Very reactive
+        Solids at room temperature
+        Low density
+        Softness
+      Reactivity
+        Increases down the group
+        Comparison with hydrogen
+    Hydrogen
+      Characteristics
+        Nonmetal
+        Reactive gas
+        Exists as diatomic molecules (H2)
+      Comparison with Alkali Metals
+        Similar reactivity
+        Differences in properties
+    Group 1 Elements
+      Common Properties
+        One valence electron
+        Similar chemical behavior
+      Individual Elements
+        Sodium (Na)
+          Soft, silvery metal
+          Reacts explosively with water
+          Importance in living cells
+        Potassium (K)
+          Soft, silvery metal
+          Essential for plants
+          Found in fertilizers
+        Francium (Fr)
+          Largest, heaviest atom
+          Radioactive and rare
+          Easily loses valence electron
+    Compounds Formation
+      Group 1 and Group 17
+        Reactivity with halogens
+        Formation of stable compounds

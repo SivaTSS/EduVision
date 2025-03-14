@@ -1,0 +1,20 @@
+mindmap
+  Replication in Science
+    What is Replication?
+      Definition
+      Importance of Consistent Results
+    Why is Replication Important?
+      Validating Research
+      Acceptance of Results
+      Hypothesis to Theory
+      Incorrect Results
+    Case Study: Vaccine-Autism Study
+      Original Claim
+        Link between Vaccine and Autism
+        Impact on Vaccination Rates
+      Replication Attempts
+        Failure to Replicate
+        Consequences of Non-Replication
+      Outcome
+        Fraudulent Research
+        Importance of Replication in Uncovering Truth

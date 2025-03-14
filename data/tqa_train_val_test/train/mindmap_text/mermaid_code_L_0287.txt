@@ -1,0 +1,36 @@
+mindmap
+  Heliocentric and Geocentric Models
+    Geocentric Model
+      Definition: Earth-centered model
+      Structure: Spheres layered around Earth
+        - Moon
+        - Mercury
+        - Venus
+        - Sun
+        - Mars
+        - Jupiter
+        - Saturn
+        - Stars
+      Issues
+        - Retrograde motion of planets
+        - Ptolemy's solution: Epicycles and deferents
+    Heliocentric Model
+      Definition: Sun-centered model
+      Proponent: Nicolaus Copernicus
+      Features
+        - Simplicity: No epicycles or deferents
+        - Kepler's contribution: Elliptical orbits
+    Key Figures
+      - Galileo Galilei
+        - Discoveries: Moons of Jupiter, Phases of Venus
+        - Impact: Shift in acceptance of heliocentric model
+      - Johannes Kepler
+        - Elliptical orbits
+    Copernican Revolution
+      Definition: Shift from Earth-centered to Sun-centered view
+      Significance: Fundamental change in understanding the universe
+    Earth's Motion
+      Revolution: 365.24 days for one complete orbit
+      Rotation: Spinning on its axis
+      Perihelion: Closest point to the Sun
+      Aphelion: Farthest point from the Sun

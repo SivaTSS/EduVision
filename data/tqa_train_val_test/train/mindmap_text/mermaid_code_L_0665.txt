@@ -1,0 +1,38 @@
+mindmap
+  RNA
+    Types of RNA
+      mRNA
+        Function
+          Carries instructions from nucleus to cytoplasm
+        Location
+          Produced in the nucleus
+      tRNA
+        Function
+          Brings amino acids to ribosome
+        Location
+          Cytoplasm
+      rRNA
+        Function
+          Part of ribosome structure
+        Location
+          Ribosome
+    Comparison of RNA and DNA
+      Composition
+        Different sugars
+          Ribose in RNA
+          Deoxyribose in DNA
+        Base differences
+          Uracil in RNA replaces thymine in DNA
+      Structure
+        RNA is single-stranded
+        DNA is double-stranded
+    Role of RNA in Protein Synthesis
+      mRNA
+        Messenger from DNA to ribosome
+      tRNA
+        Transfers amino acids
+      rRNA
+        Forms ribosome
+    Ribosome Structure
+      Site of protein synthesis
+      Composed of rRNA and proteins

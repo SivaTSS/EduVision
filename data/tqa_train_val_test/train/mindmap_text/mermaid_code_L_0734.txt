@@ -1,0 +1,54 @@
+mindmap
+  Simple Machines
+    Types of Simple Machines
+      Wedge
+        Definition
+        Examples
+          - Axe head
+          - Chisel
+      Inclined Plane
+        Definition
+        Examples
+          - Ramp
+          - Highway
+        Ideal Mechanical Advantage
+      Screw
+        Definition
+        Examples
+          - Wood screw
+          - Spiral staircase
+        Ideal Mechanical Advantage
+      Lever
+        Definition
+        Classes of Levers
+          - First-Class
+            - Changes direction
+            - Examples
+          - Second-Class
+            - Increases force
+            - Examples
+          - Third-Class
+            - Increases distance
+            - Examples
+        Ideal Mechanical Advantage
+      Wheel and Axle
+        Definition
+        Examples
+          - Ferris wheel
+          - Car steering wheel
+        Ideal Mechanical Advantage
+      Pulley
+        Definition
+        Types of Pulleys
+          - Fixed Pulley
+          - Moveable Pulley
+          - Compound Pulley
+        Ideal Mechanical Advantage
+    Mechanical Advantage
+      Definition
+      Calculation
+        - Input distance
+        - Output distance
+    Applications
+      Combining Simple Machines
+      Efficiency and Mechanical Advantage

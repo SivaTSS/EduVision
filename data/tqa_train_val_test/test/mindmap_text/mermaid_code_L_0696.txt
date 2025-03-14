@@ -1,0 +1,23 @@
+mindmap
+  Evolution
+    Tracing Evolution
+      Richard Dawkins
+        Chimpanzee Descent
+        Evolutionary Tree
+          Close Species
+          Far Species
+      Rate of Evolution
+        Gradual Change
+        Observable Evolution
+          Bacteria
+          Human Generations
+      Evolutionary Tree Purpose
+        Visualizing Relationships
+        Common Ancestors
+      Historical Context
+        Charles Darwin
+          Idea of Evolutionary Tree
+        Ernst Haeckel
+          Alternative Tree of Life
+      Great Apes
+        Five Species

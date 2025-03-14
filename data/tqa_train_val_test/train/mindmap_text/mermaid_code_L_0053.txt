@@ -1,0 +1,28 @@
+mindmap
+  Planet Earth
+    Characteristics of Earth
+      Round shape evidence
+      Essential substances for life
+    Gravity and Motion
+      Effect on solar system
+      Earth-Moon interaction
+    Earth's Magnetism
+      Magnetic field creation
+      Protection from radiation
+    Earth's Rotation
+      Daily rotation
+      Foucault Pendulum experiment
+    Earth's Revolution
+      Annual revolution
+      Seasons due to axial tilt
+    Solar System Context
+      Inner vs. outer planets
+      Distance from the Sun
+    Earth's Spheres
+      Atmosphere
+      Hydrosphere
+      Biosphere
+      Lithosphere
+    Life Support Conditions
+      Requirements for life on other planets
+      Experiments to demonstrate Earth's rotation

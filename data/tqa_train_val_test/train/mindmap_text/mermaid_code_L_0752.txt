@@ -1,0 +1,38 @@
+mindmap
+  Electromagnetic Waves
+    Properties
+      Speed
+        Speed of Light
+          3.0 x 10^8 m/s
+          Fastest in the universe
+          Slower in mediums (e.g., water)
+      Wavelength
+        Definition
+          Distance between corresponding points
+        Range
+          From kilometers to fractions of a millimeter
+      Frequency
+        Definition
+          Number of waves per second
+        Range
+          From thousands to trillions of waves per second
+        Relationship with Energy
+          Higher frequency = Greater energy
+    Relationships
+      Speed, Wavelength, Frequency
+        Equation
+          Speed = Wavelength x Frequency
+        Inverse Relationship
+          Shorter wavelength = Higher frequency
+          Longer wavelength = Lower frequency
+    Effects of Medium
+      Refraction
+        Bending of light when passing from air to water
+        Example: Light slows down in water
+    Applications
+      Calculating Frequency and Wavelength
+        Example Problem
+          Given wavelength = 3 m, find frequency
+          Frequency = 1.0 x 10^8 Hz
+        Practice Problems
+          URLs for further practice

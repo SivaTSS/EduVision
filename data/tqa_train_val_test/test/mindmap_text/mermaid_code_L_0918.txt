@@ -1,0 +1,35 @@
+mindmap
+  Science History
+    Ancient Contributions
+      Greek Philosophers
+        Thales
+          Father of Science
+          Natural Causes
+        Aristotle
+          Empiricism
+          Observations and Inductive Reasoning
+    Dark Ages
+      Decline of Science in Europe
+      Flourishing Science Elsewhere
+        Persian Scholars
+          Geber
+            Scientific Method
+            Father of Chemistry
+    Scientific Revolution
+      Beginning of Modern Science
+      Copernicus
+        Heliocentric Model
+        Copernican Revolution
+      Galileo
+        Telescope Improvements
+        Astronomical Discoveries
+      Other Contributions
+        Kepler's Laws of Planetary Motion
+        Newton's Laws
+          Universal Gravitation
+          Three Laws of Motion
+    20th Century Advances
+      Albert Einstein
+        General Theory of Relativity
+        Matter and Energy Relationship
+        New Understanding of Gravity

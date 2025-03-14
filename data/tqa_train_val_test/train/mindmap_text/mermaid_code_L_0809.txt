@@ -1,0 +1,31 @@
+mindmap
+  Biochemical Compounds
+    Definition
+      Description: Carbon-based compounds in living things
+      Importance: Evidence for evolution from common ancestors
+    Composition
+      Elements: Carbon, Hydrogen, Oxygen
+      Additional Elements: Nitrogen, Phosphorus, Sulfur
+    Structure
+      Polymers: Large molecules made of monomers
+      Macromolecules: Very large compounds, e.g., titin
+    Classes of Biochemical Compounds
+      Carbohydrates
+        Elements: Carbon, Hydrogen, Oxygen
+        Examples: Sugars, Starches, Cellulose
+        Functions: Provide energy, store energy in plants
+      Proteins
+        Elements: Carbon, Hydrogen, Oxygen, Nitrogen, Sulfur
+        Examples: Enzymes, Hormones
+        Functions: Speed up biochemical reactions, regulate life processes
+      Lipids
+        Elements: Carbon, Hydrogen, Oxygen
+        Functions: Store energy in animals and plants, make up cell walls
+      Nucleic Acids
+        Elements: Carbon, Hydrogen, Oxygen, Nitrogen, Phosphorus
+        Examples: DNA, RNA
+        Functions: Store genetic information, help make proteins
+    Energy Storage
+      Classes: Carbohydrates, Lipids
+    Oxygen Content
+      Classes: Carbohydrates, Proteins, Lipids, Nucleic Acids

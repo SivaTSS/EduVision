@@ -1,0 +1,26 @@
+mindmap
+  Mutations
+    Types of Mutations
+      Substitution Mutation
+        Example: Genetic Disorder
+        Effect on Protein
+      Frameshift Mutation
+        Explanation
+        Causes
+      Chromosomal Mutations
+        Deletion
+        Duplication
+        Inversion
+        Insertion
+        Translocation
+    Gene Regulation
+      Effects of Mutations
+        Non-gene DNA Impact
+      Transcription Factor Proteins
+    Mutation Causes
+      Errors in DNA Replication
+      Environmental Mutagens
+        Example: Tobacco Smoke
+    Mutation Effects
+      Beneficial vs. Detrimental
+      Evolutionary Role

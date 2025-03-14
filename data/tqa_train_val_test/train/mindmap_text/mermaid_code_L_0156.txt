@@ -1,0 +1,38 @@
+mindmap
+  Energy from Biomass
+    Biomass
+      Definition
+        Material from recently living plants and animals
+      Uses
+        Direct burning
+        Biofuel production
+          Crops (e.g., corn, algae)
+          Organic materials (e.g., almond shells, food scraps)
+    Biofuels
+      Advantages
+        Cleaner burning than fossil fuels
+        Less pollution and carbon dioxide
+        Liquid form suitable for gas tanks
+      Production
+        Biochemical refining
+        Thermochemical refining
+        Gasification with oxygen
+    Algae as Biofuel
+      Advantages over other sources
+        Requires less land and energy
+        Grows in non-arable areas
+        Carbon neutral
+      Research focus
+        Promising alternative to traditional crops
+    Challenges
+      Inefficiency of some crops (e.g., corn)
+        Energy and resources consumed vs. produced
+      Environmental impact
+        Fertilizer and pesticide runoff
+        Pollutants in water bodies
+    Biomass Power
+      Reliability
+        More reliable than other renewable sources
+      Waste utilization
+        Cow manure for methane
+        Food scraps for green energy

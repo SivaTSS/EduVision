@@ -1,0 +1,22 @@
+mindmap
+  Einstein's Concept of Gravity
+    Newton's Description of Gravity
+      Law of Gravity
+        Force of attraction
+        Strength depends on mass and distance
+      Limitations
+        Predicts motion of most objects
+        Does not explain why gravity occurs
+        Not applicable in all cases
+    Einstein's Explanation of Gravity
+      Theory of General Relativity
+        Gravity as warping of space-time
+        Mathematical derivation
+        Visual analogy: bowling ball on trampoline
+      Implications
+        Massive bodies curve space-time
+        Objects move due to space-time curvature
+    Acceptance of Einstein's Theory
+      Supported by evidence
+      Widely accepted today
+      Newton's law still used for calculations

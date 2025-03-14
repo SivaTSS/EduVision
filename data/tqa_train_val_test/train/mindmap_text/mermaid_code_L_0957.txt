@@ -1,0 +1,29 @@
+mindmap
+  Covalent Compounds
+    Definition
+      Nonmetallic elements
+      Covalent bonds
+      Molecule
+    Properties
+      Low boiling points
+      Cannot conduct electricity
+      Solubility in water
+    Naming Rules
+      Left-most element first
+      Suffix -ide for second element
+      Use of prefixes
+        mono-
+        di-
+        tri-
+        tetra-
+        penta-
+        hexa-
+    Examples
+      Hydrogen chloride (HCl)
+      Dinitrogen trioxide (N2O3)
+      Carbon dioxide (CO2)
+    Comparison with Ionic Compounds
+      Bonding differences
+      Burning properties
+      Solubility differences
+      Conductivity differences

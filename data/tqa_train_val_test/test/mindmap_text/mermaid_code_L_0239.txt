@@ -1,0 +1,35 @@
+mindmap
+  Mid-Latitude Cyclones
+    Definition
+      Cyclone
+        System of winds
+        Rotating counter-clockwise (Northern Hemisphere)
+        Area of low pressure
+    Formation
+      Polar front
+        Large temperature difference
+      Air masses
+        Opposite directions
+        Warm and cold fronts
+    Characteristics
+      Low pressure cell
+        Rising moist air
+        Creates clouds and precipitation
+      Size and duration
+        Diameter: 1,000 to 2,500 km
+        Duration: 2 to 5 days
+        Wind speeds: up to 125 km/h
+    Precipitation
+      Heaviest location
+        Near cold front
+    Noreasters
+      Definition
+        Mid-latitude cyclones from the northeast
+      Frequency
+        About 30 per year in mid-Atlantic and New England
+      Example
+        1993 Storm of the Century
+    Air Motion
+      Counterclockwise rotation
+      Coriolis effect
+        Winds deflected to the right

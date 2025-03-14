@@ -1,0 +1,30 @@
+mindmap
+  Climate and Its Causes
+    Climate Definition
+      Average Weather
+      Long-term Patterns
+    Latitude
+      Distance from Equator
+      Temperature Variation
+        Directness of Sun's Rays
+        Temperature Extremes
+    Oceans
+      Influence on Climate
+        Coastal vs. Inland Climates
+          Mild Coastal Climate
+          Extreme Inland Climate
+      Ocean Currents
+        Temperature Regulation
+        Impact on Coastal Climate
+    Mountains
+      Altitude Effects
+        Temperature Decrease with Height
+        Air Density and Heat
+      Precipitation Effects
+        Rain Shadow Effect
+        Wind Patterns
+    Global Air Currents
+      Influence on Precipitation
+      Creation of Global Winds
+        Prevailing Winds
+        Air Mass Movement

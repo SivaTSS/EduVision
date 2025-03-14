@@ -1,0 +1,34 @@
+mindmap
+  Energy Forms
+    Types of Energy
+      Mechanical Energy
+        Definition: Energy of movement
+        Example: Drummer hitting drums
+      Chemical Energy
+        Definition: Energy stored in atomic bonds
+        Example: Batteries converting to electrical energy
+      Electrical Energy
+        Definition: Energy of moving electrons
+        Example: Electric current in wires
+      Electromagnetic Energy
+        Definition: Energy traveling as waves
+        Example: Stage lights
+      Thermal Energy
+        Definition: Energy of moving atoms
+        Example: Jogger sweating
+      Sound Energy
+        Definition: Mechanical energy from vibrations
+        Example: Singer's voice
+      Nuclear Energy
+        Definition: Energy stored in atomic nuclei
+        Example: Energy from nuclear power plants
+    Energy in Figures
+      Figure 1.1
+        Description: Drummer with mechanical energy
+      Figure 1.2
+        Description: Remote control and electronic device
+      Figure 1.3
+        Description: Stage lights using electrical energy
+      Figure 1.5
+        Description: Boy playing trumpet
+        Forms of Energy: Mechanical, Sound, Thermal

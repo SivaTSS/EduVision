@@ -1,0 +1,43 @@
+mindmap
+  Glaciers
+    Types of Glaciers
+      Continental Glaciers
+        - Large ice sheets
+        - Flow outward from accumulation
+      Alpine Glaciers
+        - Form in high mountains
+        - Travel through valleys
+      Ice Caps
+        - Cover larger areas than valleys
+        - Can encompass entire mountain ranges
+    Glacier Formation
+      - Zone of Accumulation
+        - More snow falls than melts
+      - Zone of Ablation
+        - More melting than accumulation
+      - Equilibrium Line
+        - Separates accumulation and ablation zones
+      - Conversion Process
+        - Snow to firn to glacial ice
+    Glacier Movement
+      - Factors Influencing Movement
+        - Ice amount, slope steepness, ground roughness
+      - Movement Mechanisms
+        - Plastic flow under pressure
+        - Sliding on lubricated base
+      - Speed Variability
+        - Ranges from fast to nearly zero
+    Glacier Features
+      - Crevasses
+        - Cracks from movement
+      - Bergshrund
+        - Large crevasse at glacier top
+    Environmental Impact
+      - Water Resource
+        - Provides water in summer for organisms and humans
+      - Melting Trends
+        - Global melting and shrinking glaciers
+        - Example: Glacier National Park
+    Challenges
+      - Protection of Glaciers
+        - Issues in Yosemite National Park

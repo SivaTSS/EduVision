@@ -1,0 +1,37 @@
+mindmap
+  Seismic Waves
+    Properties
+      P-waves
+        - Fastest waves
+        - Travel through solids, liquids, gases
+        - Arrive first at seismograph
+        - Compression/expansion motion
+        - Bend at layer boundaries
+        - P-wave shadow zone
+      S-waves
+        - Slower than P-waves
+        - Travel only through solids
+        - Arrive second at seismograph
+        - Up and down motion
+        - Cause change in shape of materials
+    Seismology
+      - Study of seismic waves
+      - Learn about earthquakes
+      - Investigate Earth's interior
+      - Use of seismographs
+    Types of Seismic Waves
+      Body Waves
+        - P-waves
+        - S-waves
+      Surface Waves
+        - Travel along Earth's surface
+        - Slowest seismic waves
+        - Cause most damage
+    Earth's Interior
+      - Inner core
+      - Outer core
+      - Lower mantle
+      - Upper mantle
+      - Crust
+      - Liquid outer core indicated by S-wave disappearance
+      - P-wave behavior at mantle-core boundary

@@ -1,0 +1,38 @@
+mindmap
+  Chemical Formula
+    Analogy
+      Chemical Symbol
+      Chemical Formula
+    Compounds
+      Definition
+        Represented by Chemical Formulas
+        Elements by Chemical Symbols
+        Ratios by Subscripts
+    Types of Compounds
+      Ionic Compounds
+        Definition
+          Positive Metal Ions
+          Negative Nonmetal Ions
+        Example
+          Sodium Chloride
+            Chemical Formula: NaCl
+            Ratio: 1 Na+, 1 Cl-
+          Calcium Iodide
+            Chemical Formula: CaI2
+            Ratio: 1 Ca2+, 2 I-
+      Covalent Compounds
+        Definition
+          Nonmetals Joined by Covalent Bonds
+        Example
+          Hydrogen Peroxide
+            Chemical Formula: H2O2
+            Ratio: 2 H, 2 O
+          Carbon Dioxide
+            Chemical Formula: CO2
+            Ratio: 1 C, 2 O
+    Writing Chemical Formulas
+      Ionic Compounds
+        Order: Metal First, Nonmetal Second
+      Covalent Compounds
+        Order: Left to Right in Periodic Table
+        Same Group Rule

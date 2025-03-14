@@ -1,0 +1,30 @@
+mindmap
+  John Dalton's Atomic Theory
+    Who was John Dalton?
+      Background
+        Working-class family
+        Teaching and research
+    Evidence for Atoms
+      Experiments with gases
+        Pressure and properties
+        Inference of tiny particles
+      Research on compounds
+        Consistency in element ratios
+        Discrete particles concept
+    Dalton's Atomic Theory
+      Basic Ideas
+        All substances made of atoms
+        Atoms as smallest particles
+        Atoms of same element are alike
+        Compounds consist of same kinds of atoms
+      Acceptance
+        Immediate acceptance by scientists
+        Still largely accepted today
+        Modern understanding of subatomic particles
+    Modeling Atoms
+      Dalton's Model
+        Solid, hard spheres
+        Wooden balls representation
+      Modern Models
+        Representation of subatomic particles
+        Differences from Dalton's models

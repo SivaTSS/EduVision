@@ -1,0 +1,43 @@
+mindmap
+  Satellites, Shuttles, and Space Stations
+    Satellites
+      Uses
+        Imaging
+        Communications
+        Navigation
+        Human habitation
+      Types
+        Geostationary
+          Characteristics
+          Orbit height
+        Polar
+          Characteristics
+      Life Determinants
+        Orbital position
+    Rockets
+      Function
+        Thrust
+        Newton's Third Law
+      Importance
+        Launching satellites
+    International Space Station (ISS)
+      Purpose
+        Scientific research
+      Construction
+        Modular system
+      Human presence
+        Astronaut transportation
+        Observations
+    Space Shuttles
+      Design
+        Parts
+          Orbiter
+          Fuel tank
+          Booster rockets
+      Functionality
+        Reusability
+        Equipment transport
+        Repairs
+      Missions
+        History
+        Transition to ISS servicing

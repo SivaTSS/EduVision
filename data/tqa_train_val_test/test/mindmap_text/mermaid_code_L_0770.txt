@@ -1,0 +1,31 @@
+mindmap
+  Behavior of Gases
+    Properties of Gases
+      Pressure
+        Definition
+        Factors Affecting Pressure
+      Gas Laws
+        Boyle's Law
+          Definition
+          Inverse Relationship
+          Real-life Example
+        Charles's Law
+          Definition
+          Direct Relationship
+          Real-life Example
+        Amontons's Law
+          Definition
+          Direct Relationship
+          Real-life Example
+    Effects of Temperature
+      Heating a Gas
+        Kinetic Energy Increase
+        Volume and Pressure Increase
+      Cooling a Gas
+        Potential State Change
+        Energy Role in State Changes
+    Applications
+      Weather Balloons
+        Expansion and Bursting
+      Scuba Diving
+        Air Bubbles and Pressure Changes

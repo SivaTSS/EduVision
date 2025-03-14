@@ -1,0 +1,38 @@
+mindmap
+  Terrestrial Biomes
+    Definition
+      Area of land with similar climate
+      Communities of plants and animals
+    Factors Affecting Biomes
+      Latitude
+        Distance from equator
+        Biome progression: Arctic → Boreal → Temperate → Subtropical → Tropical
+      Humidity
+        Amount of water in the air
+        Categories: Humid, Semi-humid, Semi-arid, Arid
+      Elevation
+        Height above sea level
+        Temperature changes with elevation
+    Types of Terrestrial Biomes
+      Tropical Rainforest
+        High biodiversity
+        Warm and humid
+      Savanna
+        Annual precipitation
+        Dominance of grasses
+      Desert
+        Less than 50 cm rainfall
+        Adaptations of desert plants
+      Grasslands
+        Dominated by grasses
+        Includes savanna and temperate grasslands
+      Forests
+        Dominated by trees
+        Types: Tropical, Temperate, Boreal (Taiga)
+      Tundra
+        Coldest biome
+        Types: Arctic and Alpine tundra
+        Characteristics: Low temperatures, little precipitation, short growing seasons
+    Biodiversity
+      Highest near the equator
+      Variation in plant and animal life

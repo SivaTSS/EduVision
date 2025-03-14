@@ -1,0 +1,40 @@
+mindmap
+  Living Things
+    Characteristics
+      First Characteristic
+        Definition
+      One-Cell Organisms
+        Explanation
+      Second Characteristic
+        Definition
+      Third Characteristic
+        Definition
+      Fourth Characteristic
+        Definition
+      Homeostasis
+        Explanation
+      Fifth Characteristic
+        Definition
+    Origins of Life
+      Importance of Replication
+      Study of Extreme Environments
+        Purpose
+      Methods of Research
+        Experiments
+        Study of Extremophiles
+        Traces of Ancient Life
+    Amino Acids
+      Role in Life
+        Building Blocks of Proteins
+      Formation
+        Miller-Urey Experiment
+          Setup
+          Results
+      Classification
+        Essential Amino Acids
+        Non-Essential Amino Acids
+      Physiological Roles
+        Muscle Growth
+        Immune Function
+        Hormone and Enzyme Synthesis
+        Neurotransmitter Precursors

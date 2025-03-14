@@ -1,0 +1,19 @@
+mindmap
+  Inclined Plane
+    What is an inclined plane?
+      Definition
+      Types of simple machines
+        Wedge
+        Screw
+    How does an inclined plane make work easier?
+      Sloping surface
+      Supports weight
+      Less force needed
+      Greater distance
+    Mechanical advantage
+      Definition
+      Ratio of output to input force
+      Always greater than 1
+      Effect of slope
+        Gradual slope
+        Steeper slope

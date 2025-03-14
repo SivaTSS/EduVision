@@ -1,0 +1,18 @@
+mindmap
+  Sedimentary Rocks
+    Lithification
+      Compaction
+        Definition: Squeezing of sediments
+        Process: Weight of overlying sediments
+      Cementation
+        Definition: Binding of sediments
+        Process: Fluids crystallize in spaces
+      Types of Sedimentary Rocks
+        Clastic Rocks
+          Definition: Non-organic sediments
+        Bioclastic Rocks
+          Definition: Organic material included
+    Key Questions
+      Step 1: First step of lithification
+      Step 2: Effect of water being pushed out
+      Step 3: Material between mineral grains

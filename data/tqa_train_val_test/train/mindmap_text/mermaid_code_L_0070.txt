@@ -1,0 +1,24 @@
+mindmap
+  Sedimentary Rocks
+    Formation
+      Sediments
+        Types: Pebbles, Sand, Silt, Clay
+        Fossils: Organism remains and traces
+      Processes
+        Compaction
+        Cementation
+    Properties
+      Clastic Rocks
+        Types: Conglomerate, Breccia, Sandstone, Siltstone, Shale
+      Chemical Rocks
+        Examples: Halite, Gypsum
+    Uses
+      Construction
+        Example: Sandstone in the White House
+      Historical Information
+        Insights into Earth's history
+    Environments
+      Deposition Locations
+        Beaches, Deserts, Oceans, Lakes, Rivers, Marshes
+      Layering
+        Youngest on top, oldest below

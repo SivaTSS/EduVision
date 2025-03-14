@@ -1,0 +1,22 @@
+mindmap
+  Newtons Second Law of Motion
+    Definition
+      - Acceleration = Net Force / Mass
+    Key Concepts
+      - Rate of Change of Momentum
+      - Force and Acceleration
+        - Direct Relationship
+        - Doubling Force Doubles Acceleration
+      - Force and Mass
+        - Inverse Relationship
+        - Doubling Mass Halves Acceleration
+    Factors Affecting Acceleration
+      - Net Force
+      - Mass
+    Practical Examples
+      - Tony vs. Sam
+        - Mass Comparison
+        - Acceleration Differences
+      - Skateboard Example
+        - Net Force Acting on Skates
+        - Friction's Role

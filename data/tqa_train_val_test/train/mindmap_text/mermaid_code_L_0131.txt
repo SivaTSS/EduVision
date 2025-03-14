@@ -1,0 +1,47 @@
+mindmap
+  Dwarf Planets
+    Characteristics
+      Definition of a Planet
+        Orbit a star
+        Spherical shape
+        Not a star
+        Cleared orbit
+      Definition of a Dwarf Planet
+        Orbit a star
+        Nearly spherical
+        Not cleared orbit
+        Not a moon
+    Pluto
+      Historical Classification
+        Ninth planet until early 2000s
+        Misconceptions due to telescope limitations
+      Characteristics
+        Small, icy, and rocky
+        Diameter: 2,400 km
+        Orbit: tilted and elliptical
+      Moons
+        Charon
+        Nix
+        Hydra
+      Controversy
+        Reasons for reclassification
+        Ongoing debate about planetary status
+    Other Dwarf Planets
+      Eris
+        Largest known dwarf planet
+        Discovered in 2003
+        Moon: Dysnomia
+      Ceres
+        Closest dwarf planet to the Sun
+        Largest object in the asteroid belt
+        Characteristics: round, rocky
+      Haumea
+        Made a dwarf planet in 2008
+      Makemake
+        Third largest and second brightest
+        Composition: methane, ethane, nitrogen ices
+    Future Discoveries
+      Potential new dwarf planets
+        Quaoar
+        Varuna
+        Orcus

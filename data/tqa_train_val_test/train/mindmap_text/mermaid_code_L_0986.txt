@@ -1,0 +1,28 @@
+mindmap
+  Potential Energy
+    What is Potential Energy?
+      Definition
+      Forms of Potential Energy
+    Gravitational Potential Energy
+      Definition
+      Calculation
+        Formula: GPE = weight x height
+      Examples
+        Diver on Diving Board
+        Girl on Sled
+        Gymnast on Balance Beam
+    Elastic Potential Energy
+      Definition
+      Characteristics
+        Stretched or Compressed
+        Return to Original Shape
+      Examples
+        Pogo Stick
+        Slingshot
+    Other Forms of Potential Energy
+      Chemical Energy
+        Definition
+        Examples: Food, Batteries
+      Nuclear Energy
+        Definition
+        Radioactive Elements

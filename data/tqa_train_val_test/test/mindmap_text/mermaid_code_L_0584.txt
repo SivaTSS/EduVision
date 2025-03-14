@@ -1,0 +1,45 @@
+mindmap
+  Animal Behavior
+    Learned Behavior
+      Definition
+        Occurs after experience or practice
+      Advantages
+        More flexible than innate behavior
+        Adaptable to changing conditions
+    Methods of Learning
+      Habituation
+        Definition
+          Getting used to something after exposure
+        Examples
+          Crows habituating to scarecrows
+      Observational Learning
+        Definition
+          Learning by watching and copying
+        Examples
+          Children learning from parents
+          Young wolves learning hunting skills
+      Conditioning
+        Definition
+          Learning through rewards or punishments
+        Examples
+          Training dogs with treats
+          Children learning through rewards
+      Play
+        Definition
+          Learning skills through play
+        Examples
+          Kittens practicing hunting
+          Children learning social skills
+      Insight Learning
+        Definition
+          Learning from past experiences and reasoning
+        Examples
+          Tool-making in chimpanzees
+          Problem-solving in humans
+    Intelligence in Animals
+      Comparison
+        Humans as most intelligent
+        Other intelligent species: apes, crows
+      Case Study: Koko the Gorilla
+        Learning sign language
+        Demonstrating gorilla intelligence

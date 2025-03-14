@@ -1,0 +1,23 @@
+mindmap
+  Compound Machine
+    Definition
+      - Consists of multiple simple machines
+      - Examples: wheelbarrow, corkscrew, bicycles, cars
+    Simple Machines in Wheelbarrow
+      - Lever
+        - Applies upward force to load
+        - Increases force for easier lifting
+      - Wheel and Axle
+        - Pushed over ground
+        - Increases force for easier pushing
+    Example: Scissors
+      - Consists of simple machines
+      - Labeling of components
+    Efficiency vs. Mechanical Advantage
+      - Lower efficiency due to friction
+        - Friction opposes motion
+        - More moving parts = more friction
+        - Lubricants reduce friction
+      - Greater mechanical advantage
+        - Product of mechanical advantages of components
+        - Example calculation for wheelbarrow

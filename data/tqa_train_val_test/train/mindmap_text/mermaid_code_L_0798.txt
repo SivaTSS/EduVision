@@ -1,0 +1,27 @@
+mindmap
+  Alpha Decay
+    What is Alpha Decay?
+      Definition
+      Types of Nuclear Decay
+        Alpha Decay
+        Beta Decay
+        Gamma Decay
+    Why Alpha Decay Occurs
+      Unstable Nuclei
+      Emission of Alpha Particle
+    Example of Alpha Decay
+      Uranium-238 to Thorium-234
+        Nuclear Equation
+          238 U 92 -> 234 Th 90 + 4 He + Energy
+      Polonium-210 Decay
+        Nuclear Equation
+          210 Po 84 -> 206 Pb 82 + 4 He + Energy
+    Balancing Nuclear Equations
+      Importance of Balancing
+      Subscript and Superscript
+    Risks of Alpha Decay
+      Comparison to Other Decays
+      Penetration Ability
+      Health Risks
+        Inhalation of Polonium-210
+        Lung Cancer Risk

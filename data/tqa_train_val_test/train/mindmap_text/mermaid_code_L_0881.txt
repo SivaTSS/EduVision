@@ -1,0 +1,33 @@
+mindmap
+  Electromagnetic Spectrum
+    Relationship
+      Wavelength and Frequency
+        Shorter Wavelengths
+          Higher Frequencies
+          More Energy
+    Types of Waves
+      Radio Waves
+        Longest Wavelengths
+        Lowest Frequencies
+        Least Energy
+      Microwaves
+        Source
+          Common Sources
+      Infrared Light
+        Longest Wavelengths
+        Sources
+          People
+          Light Bulbs
+      Visible Light
+      Ultraviolet Light
+      X Rays
+        Shortest Wavelengths
+        Highest Frequencies
+        Most Energy
+      Gamma Rays
+        Most Dangerous
+    Diagram Explanation
+      Visual Representation
+        Curved Line
+        Color/Symbol Representation
+        Wavelengths and Frequencies

@@ -1,0 +1,37 @@
+mindmap
+  Respiratory System
+    Definition
+      Respiration
+      Cellular Respiration
+    Structures
+      Nose
+      Trachea
+      Lungs
+      Diaphragm
+    Processes
+      Breathing
+        Inhaling
+        Exhaling
+      Gas Exchange
+        Between air and blood
+        Between blood and cells
+      Gas Transport
+    Diseases
+      Asthma
+        Symptoms
+        Triggers
+      Pneumonia
+        Symptoms
+        Causes
+      Emphysema
+        Symptoms
+        Causes
+    Health
+      Avoiding Smoking
+      Healthy Lifestyle
+        Nutrition
+        Sleep
+        Physical Activity
+      Hygiene
+        Handwashing
+        Avoiding Sick Contacts

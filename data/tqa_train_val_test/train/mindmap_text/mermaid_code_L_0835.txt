@@ -1,0 +1,44 @@
+mindmap
+  Compounds
+    Definition
+      Unique substance
+      Formed by chemical combination
+      Fixed ratio of elements
+    Types of Compounds
+      Covalent Compounds
+        Definition
+          Atoms held by covalent bonds
+          Formed between nonmetals
+        Example
+          Water (H2O)
+      Ionic Compounds
+        Definition
+          Ions held by ionic bonds
+          Formed when metals transfer electrons to nonmetals
+        Example
+          Sodium chloride (NaCl)
+    Properties
+      Fixed composition
+      Differ from constituent elements
+      Example: Water vs. Hydrogen and Oxygen
+    Comparison with Mixtures
+      Mixtures
+        Combination of substances in any proportion
+        Example: Lemonade
+      Differences
+        Compounds have fixed ratios; mixtures do not
+    Chemical Bonds
+      Definition
+        Force of attraction between atoms or ions
+      Types
+        Covalent bonds
+        Ionic bonds
+    Examples of Compounds
+      Water (H2O)
+        2:1 ratio of hydrogen to oxygen
+      Hydrogen Peroxide (H2O2)
+        Different properties from water
+      Carbon Dioxide (CO2)
+        Odorless, colorless gas
+      Carbon Monoxide (CO)
+        Harmful gas, colorless and odorless

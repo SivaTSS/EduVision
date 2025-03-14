@@ -1,0 +1,39 @@
+mindmap
+  Introduction to the Oceans
+    Ocean Formation
+      Early Earth Conditions
+        Too hot for liquid water
+        Cooling process
+        Sources of water vapor
+      Formation of Oceans
+        Condensation of water vapor
+        Changes in size and shape
+    Influence of Oceans
+      Climate Regulation
+        Exchange of gases
+        Temperature moderation
+      Impact on Atmosphere
+        Major source of water vapor
+        Absorption of carbon dioxide
+    Ocean Water Composition
+      Salinity
+        Dissolved minerals
+        Sodium chloride as main salt
+      Variability
+        Factors affecting salinity
+        Nutrient levels
+    Ocean Zones
+      Based on Distance from Shore
+        Intertidal Zone
+        Neritic Zone
+        Oceanic Zone
+      Based on Depth
+        Photic Zone
+        Aphotic Zone
+      Benthic Zone
+    Nutrient and Sunlight Distribution
+      Relationship to Ocean Zones
+      Effects on Marine Life
+    Ocean Currents
+      Definition and Function
+      Major Ocean Currents

@@ -1,0 +1,29 @@
+mindmap
+  Scientific Theories and Laws
+    Definition
+      Theory: Explanation of complex phenomena
+      Law: Description of consistent phenomena
+    Comparison
+      Hypothesis
+        Initial idea to be tested
+      Theory
+        Supported by evidence
+        Predicts future events
+      Law
+        Always applies under specific conditions
+    Relationships
+      Can a theory become a law?
+      Can a law become a theory?
+      Can a hypothesis become a law or theory?
+    Importance in Science
+      Hypothesis
+      Theory
+      Law
+    Characteristics
+      Theory
+        Strong evidence
+        Constantly tested and revised
+        Simpler model of reality
+      Law
+        Applies under same conditions
+        May have exceptions

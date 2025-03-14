@@ -1,0 +1,40 @@
+mindmap
+  Mollusks
+    Definition
+      - Invertebrates
+      - Examples
+        - Clams
+        - Squid
+        - Snails
+    Characteristics
+      - Body Structure
+        - Head with tentacles
+        - Muscular foot
+        - Mantle
+        - Organ mass
+        - Complete digestive tract
+        - Gills
+        - Radula
+      - Shell
+        - Made of chitin
+        - Secretion by mantle
+    Relationship to Other Organisms
+      - Closely related to segmented worms (Annelida)
+      - Similar early development stages
+      - Shared organ system features
+      - Differences
+        - Lack of body segmentation
+        - Basic body shape variations
+    Adaptations
+      - Shell functions
+        - Protection against predators
+      - Foot functions
+        - Movement
+        - Burrowing
+        - Jet propulsion
+      - Radula variations
+        - Feeding adaptations
+      - Nautilus foot adaptation
+    Environmental Context
+      - Beach habitats
+      - Shell diversity

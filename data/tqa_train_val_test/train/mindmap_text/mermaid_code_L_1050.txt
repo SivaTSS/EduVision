@@ -1,0 +1,27 @@
+mindmap
+  Thermal Radiation
+    Definition
+      Transfer of thermal energy
+      Waves travel through air/space
+    Mechanism
+      Thermal energy from fire to hands
+      Thermal energy from sun to Earth
+    Characteristics
+      All objects radiate thermal energy
+      Thermal energy = total kinetic energy of particles
+    Methods of Transfer
+      Thermal radiation
+      Conduction
+      Convection
+    Examples
+      Bonfire
+        Transfers energy to hands
+      Heated home
+        Radiates energy outdoors
+        Insulation effects
+      People
+        Radiate thermal energy
+    Detection
+      Special cameras
+        Visual representation of radiated heat
+        Areas of high thermal energy

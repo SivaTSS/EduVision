@@ -1,0 +1,31 @@
+mindmap
+  Simple Machines
+    What is a Machine?
+      Definition
+      Purpose
+    Changing Forces
+      Increase Strength
+      Increase Distance
+      Change Direction
+    Input and Output Forces
+      Input Force
+      Output Force
+      Input Distance
+      Output Distance
+    Work and Machines
+      Work Equation
+      Work Definition
+      Misconceptions
+    Types of Simple Machines
+      Inclined Plane
+      Lever
+      Wedge
+      Screw
+      Pulley
+      Wheel and Axle
+    Compound Machines
+      Definition
+      Examples
+        Wheelbarrow
+        Washing Machines
+        Cars

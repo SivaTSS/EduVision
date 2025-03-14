@@ -1,0 +1,38 @@
+mindmap
+  Respiratory System
+    Inspiration and Expiration
+      Definition
+      Muscle Control
+        Diaphragm
+    Organs
+      Lungs
+      Pharynx
+      Larynx
+        Voice Box
+      Trachea
+        Function
+        Leads to Bronchi
+      Bronchi
+        Branch into Bronchioles
+      Diaphragm
+        Importance
+    Air Passage
+      Nose
+        Function
+          Filter
+          Warm
+          Moisten
+      Pharynx
+        Function
+          Passage for Food and Air
+      Larynx
+        Sound Production
+      Trachea
+        Windpipe
+      Bronchioles
+        Lead to Alveoli
+    Gas Exchange
+      Alveoli
+        Structure
+        Function
+          Oxygen and Carbon Dioxide Exchange

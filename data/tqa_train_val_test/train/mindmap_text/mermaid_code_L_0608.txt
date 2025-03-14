@@ -1,0 +1,39 @@
+mindmap
+  Muscles, Bones, and Movement
+    Muscles
+      Types
+        Skeletal Muscles
+          Function
+            Move bones
+            Work in pairs
+          Structure
+            Attached by tendons
+            Flexors and extensors
+        Smooth Muscles
+          Function
+            Contract hollow organs
+            Move food
+            Regulate blood pressure
+        Cardiac Muscles
+          Function
+            Pump blood
+            Rhythmic contraction
+    Movement
+      Joint Movement
+        Bending
+          Biceps contracts
+          Triceps relaxes
+        Straightening
+          Triceps contracts
+          Biceps relaxes
+      Muscle Pairs
+        Opposing pairs
+          Example: Biceps and Triceps
+          Example: Quadriceps and Hamstrings
+          Example: Pectorals and Trapezius
+    Muscle Control
+      Voluntary Control
+        Skeletal muscles
+      Involuntary Control
+        Smooth muscles
+        Cardiac muscles

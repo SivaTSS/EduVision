@@ -1,0 +1,33 @@
+mindmap
+  Transition Metals
+    What are Transition Metals?
+      Definition
+      Groups 3-12 of the Periodic Table
+      Examples
+        Copper (Cu)
+        Iron (Fe)
+        Zinc (Zn)
+        Silver (Ag)
+        Gold (Au)
+    Properties of Transition Metals
+      Conductivity
+        Electricity
+        Heat
+      Malleability
+      Ductility
+      Melting and Boiling Points
+      Density
+      Colorful Compounds
+      Luster
+    Comparison with Other Metals
+      Groups 1 and 2
+        Reactivity
+        Corrosion Resistance
+      Valence Electrons
+        Relation to Reactivity
+    Lanthanides and Actinides
+      Lanthanides
+        Reactivity
+      Actinides
+        Radioactivity
+        Laboratory Creation

@@ -1,0 +1,19 @@
+mindmap
+  Air Pressure and Altitude
+    Changes in Air Pressure
+      From Sea Level to Top of Atmosphere
+      Greatest at Earth's Surface
+      Decreases with Altitude
+    Factors Affecting Atmospheric Pressure
+      Density of Atmosphere
+        Gas Molecules Pulled by Gravity
+        More Collisions = Greater Pressure
+      Depth of Atmosphere
+        Greatest at Sea Level
+        Decreases with Altitude
+    Breathing and Air Pressure
+      Mechanism of Breathing
+        Air Pressure Allows Breathing
+      Sipping Through a Straw
+        Lower Pressure in Straw
+        Fluid Flows from High to Low Pressure

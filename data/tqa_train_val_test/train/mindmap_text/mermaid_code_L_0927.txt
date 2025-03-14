@@ -1,0 +1,36 @@
+mindmap
+  SI Units
+    Importance
+      Common Measurement System
+      Standardization in Science and Technology
+    Basic SI Units
+      Length
+        Meter (m)
+        Kilometer (km)
+        Decimeter (dm)
+        Centimeter (cm)
+        Millimeter (mm)
+        Micrometer (μm)
+        Nanometer (nm)
+      Mass
+        Kilogram (kg)
+    Conversion
+      SI to English
+        1 m = 39.37 in
+        1 kg = 2.20 lb
+      Examples
+        Mars Climate Orbiter
+        Rod's Wire Experiment
+    Prefixes
+      Kilo- (k)
+        1000
+      Deci- (d)
+        0.1
+      Centi- (c)
+        0.01
+      Milli- (m)
+        0.001
+      Micro- (μ)
+        0.000001
+      Nano- (n)
+        0.000000001

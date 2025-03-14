@@ -1,0 +1,33 @@
+mindmap
+  Velocity
+    What is velocity?
+      Definition
+      Measure of speed and direction
+    Difference from speed
+      Speed vs. velocity
+      Velocity as a vector
+    Representation of velocity
+      Use of arrows
+        Length indicates speed
+        Direction indicates motion
+    Examples
+      Car traveling north at 50 mi/h
+      Car traveling east at 25 mi/h
+      Average velocity calculation
+        Car traveling northwest for 2 hours, 90 miles
+    Average velocity calculation
+      Formula: velocity = distance / time
+      SI unit: m/s + direction
+    Key concepts
+      Same velocity conditions
+        Same speed and direction
+      Different velocities
+        Different speeds
+        Different directions
+    Sample problem
+      Dog's velocity example
+        36 meters in 18 seconds
+        Result: 2 m/s east
+      Opposite direction example
+        36 meters in 24 seconds
+        Result: 1.5 m/s west

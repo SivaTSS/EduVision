@@ -1,0 +1,34 @@
+mindmap
+  Heat Budget of Planet Earth
+    CERES
+      Definition
+      Measurement
+      Importance
+    Radiation Budget
+      Ideal Radiation Budget
+      Incoming Solar Radiation
+        Absorption by Gases
+        Reflection by Clouds
+        Scattering
+      Energy Distribution
+        Equator vs. Poles
+        Albedo Effects
+    Energy Absorption
+      Surfaces
+        Rocks
+        Soil
+        Water
+      Heat Radiation
+    Climate Change
+      Earth Warming
+      Greenhouse Gases
+      Carbon Footprint
+    Effects of Energy Imbalance
+      Increased Solar Emission
+      Increased Greenhouse Gases
+      Energy Outflow vs. Inflow
+    Regional Differences
+      Solar Energy Distribution
+        Equatorial Region
+        Polar Regions
+      Day Length and Sun Angle

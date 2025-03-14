@@ -1,0 +1,27 @@
+mindmap
+  Groundwater Depletion
+    Irrigation Changes
+      Impact on Farming
+      Increased Water Demand
+    Scientific Needs
+      Future Water Use Planning
+      GRACE Satellite
+        Functionality
+        Groundwater Detection
+    Aquifer Depletion
+      Indicators of Depletion
+      Case Study: India
+        Consequences of Decline
+    Problems of Overuse
+      Groundwater Overuse Issues
+        Subsidence
+        Saltwater Intrusion
+    Ogallala Aquifer
+      Importance
+        Irrigation Supply
+        Geographic Coverage
+      Overuse Statistics
+        Withdrawal vs. Replenishment
+    Groundwater Management
+      Well Depth Issues
+      Economic Implications

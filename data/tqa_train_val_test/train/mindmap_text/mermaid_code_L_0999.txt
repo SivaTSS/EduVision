@@ -1,0 +1,31 @@
+mindmap
+  Radioactivity
+    Definition
+      Ability to emit charged particles and energy
+      General term: Radiation
+    Discovery
+      Antoine Henri Becquerel
+        Experiment with uranium
+        Found uranium leaves image on photographic plate
+        Nobel Prize for discovery
+      Marie Curie
+        Coined the term "radioactivity"
+        Discovered polonium and radium
+        Two Nobel Prizes for discoveries
+    Radioactive Elements
+      Uranium
+        Example: uranium-238
+      Radium
+      Polonium
+    Unstable Nuclei
+      Characteristics
+        Too much energy
+        Too many protons
+        Unstable proton-neutron ratio
+      Transformation
+        Change in number of protons
+        Resulting in different elements
+    Types of Radioactivity
+      Alpha Emission
+        Definition of alpha particle
+        Behavior after emission

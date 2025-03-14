@@ -1,0 +1,30 @@
+mindmap
+  Accelerating Objects
+    Equation for Acceleration
+      Formula: a = F/m
+      Rearranged: F = m*a
+    Example: Corey on Skateboard
+      Mass: 60 kg
+      Net Force: 30 N
+      Acceleration Calculation
+    Example: Xander on Scooter
+      Mass: 50 kg
+      Net Force: 25 N
+      Acceleration Calculation
+    Newton's Second Law
+      Definition: a = F/m
+      Impact of Mass on Acceleration
+        Greater Mass = Less Acceleration
+        Smaller Mass = Greater Acceleration
+    Units of Measurement
+      Force: Newton (N)
+      Acceleration: m/s²
+      Force Definition: 1 kg*m/s²
+    Measuring Forces
+      Mass Measurement
+      Acceleration Calculation
+      Challenges in Measuring Net Force
+    Example Calculation
+      Xander's Acceleration: 0.8 m/s²
+      Force Calculation: F = m*a
+      Alternative Mass Scenario: 40 kg

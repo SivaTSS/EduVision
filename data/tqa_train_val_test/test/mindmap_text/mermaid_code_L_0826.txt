@@ -1,0 +1,22 @@
+mindmap
+  Charles Law
+    Definition
+      Relationship between temperature and volume
+      Constant pressure condition
+    Key Concepts
+      Gas behavior
+        Particle energy increase
+        Volume expansion
+      Historical Context
+        Early 1800s experiments
+        Jacques Charles
+        Joseph Gay-Lussac
+        Influence of Robert Boyle
+    Applications
+      Hot air balloons
+      Real-life examples
+        Temperature effects on gas volume
+        Experiment with balloons
+    Related Gas Laws
+      Boyle's Law
+      Amontons' Law

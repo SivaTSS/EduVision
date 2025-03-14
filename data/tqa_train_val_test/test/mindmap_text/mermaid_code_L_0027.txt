@@ -1,0 +1,38 @@
+mindmap
+  Storms
+    Definition
+      Episode of severe weather
+      Major disturbance in the atmosphere
+    Types of Storms
+      Thunderstorms
+        Heavy rains
+        Lightning
+        Hail and high winds
+        Common occurrence
+      Tornadoes
+        Funnel-shaped cloud
+        Whirling winds
+        Classification by wind speed
+        Tornado Alley
+      Hurricanes
+        Large storm
+        High winds and heavy rains
+        Formation over warm ocean water
+        Eye of the hurricane
+        Classification by wind speed
+        Storm surge
+      Winter Storms
+        Develop from cyclones at higher latitudes
+        Types
+          Blizzards
+            High winds
+            Low visibility
+          Lake-effect snow storms
+            Moisture from lakes
+            Heavy snowfall
+    Causes of Storms
+      Temperature differences
+      Air pressure differences
+    Storm Prediction
+      Data collection methods
+      Importance of advance warning

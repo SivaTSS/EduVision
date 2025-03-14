@@ -1,0 +1,30 @@
+mindmap
+  Nonvascular Plants
+    Definition
+      - Lack seeds
+      - Lack vascular tissue
+    Types
+      - Bryophytes
+        - Mosses
+          - Green fuzz on rocks/trees
+          - Gametophyte stage
+            - Haploid
+            - Produces gametes
+          - Sporophyte stage
+            - Diploid
+            - Forms sporangium
+            - Releases spores
+        - Hornworts
+          - Hornlike sporophytes
+          - Flattened lobes as gametophytes
+          - Grows in moist areas
+        - Liverworts
+          - Two appearances
+            - Leafy like mosses
+            - Flattened and ribbon-like
+          - Found along stream beds
+          - Thallose liverworts
+    Characteristics
+      - Short stature
+      - No true roots, stems, or leaves
+      - Leafy appearance

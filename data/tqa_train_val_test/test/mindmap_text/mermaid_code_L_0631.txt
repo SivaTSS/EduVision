@@ -1,0 +1,33 @@
+mindmap
+  Plant Characteristics
+    Characteristics of Plants
+      Eukaryotic
+        Cells with nucleus
+        Membrane-bound organelles
+      Photosynthetic
+        Process of photosynthesis
+        Role of chloroplasts
+      Multicellular
+        Composed of multiple cells
+        No single-celled plants
+    Adaptations
+      Varied environments
+        Desert
+        Tropical rain forest
+        Aquatic
+      Support for animal life
+        Food source for animals
+        Habitat for insects and birds
+    Key Concepts
+      Producers and Autotrophs
+        Definition of producers
+        Relationship with autotrophs
+      Sporophyte vs. Gametophyte
+        Main differences
+    Comparison with Other Organisms
+      Fungi and Mushrooms
+        Energy source of mushrooms
+        Why mushrooms are not plants
+      Protists
+        Eukaryotic but not plants
+        Example: Algae

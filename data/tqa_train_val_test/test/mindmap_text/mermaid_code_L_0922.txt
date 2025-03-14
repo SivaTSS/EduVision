@@ -1,0 +1,22 @@
+mindmap
+  Hypothesis
+    Role in Science
+      Definition
+        Educated guess
+        Testable and falsifiable
+    Criteria of Scientific Hypothesis
+      Testable
+        Observations can agree/disagree
+        Example: "Invisible creatures"
+      Falsifiable
+        Can be proven false
+        Example: "Other planets with life"
+    Examples
+      Falling Objects
+        Statement: "Two objects dropped at the same time will reach the ground at the same time"
+        Testable
+        Falsifiable
+      Limitations
+        Impossible to prove true
+        Need to test all combinations
+        Evidence supports likelihood of truth

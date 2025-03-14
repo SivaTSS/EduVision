@@ -1,0 +1,27 @@
+mindmap
+  Power
+    What is Power?
+      Definition
+      Measurement
+    SI Unit for Power
+      Watt (W)
+      Joules per second (J/s)
+    Calculating Power
+      Formula: Power = Work / Time
+      Examples
+        Toaster: 21,000 J in 30 s
+        Microwave: 1,000 W
+    Horsepower
+      Definition
+      Conversion: 1 HP = 745 W
+      Examples
+        Car engine: 182 HP
+        Comparison with horses
+    Practical Applications
+      Light bulbs
+        25 W vs 60 W
+      Appliances
+        High-power vs low-power
+    Work Calculation
+      Formula: Work = Power × Time
+      Example: 1,000 W for 20 s

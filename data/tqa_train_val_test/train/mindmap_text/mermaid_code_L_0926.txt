@@ -1,0 +1,31 @@
+mindmap
+  Internal Combustion Engines
+    Combustion Engine
+      Definition
+        Complex machine
+        Burns fuel for thermal energy
+        Converts energy to work
+    Internal Combustion Engine
+      Definition
+        Burns fuel internally
+        Found in most motor vehicles
+      Working Principle
+        Steps of operation
+          Fuel-air mixture intake
+          Compression of mixture
+          Ignition by spark plug
+          Expansion and downward piston movement
+          Exhaust gas expulsion
+          Cycle repetition
+      Energy Conversion
+        Thermal energy to kinetic energy
+    Engine Components
+      Cylinder
+      Piston
+      Crankshaft
+      Driveshaft
+    Engine Configuration
+      Number of Cylinders
+        Four cylinders (common)
+        Eight cylinders (powerful cars)
+        More for race cars

@@ -1,0 +1,31 @@
+mindmap
+  Visible Light
+    What is Visible Light?
+      Definition
+      Importance for Organisms
+        Humans
+        Animals
+        Plants
+    Incandescence
+      Definition
+      Examples
+        Sun
+        Incandescent Bulbs
+        Flames
+    Luminescence
+      Definition
+      Types
+        Fluorescence
+          Process
+          Examples
+        Electroluminescence
+          Process
+          Examples
+        Bioluminescence
+          Process
+          Examples
+    Illumination
+      Definition
+      Examples
+        Moon
+        Objects Reflecting Light

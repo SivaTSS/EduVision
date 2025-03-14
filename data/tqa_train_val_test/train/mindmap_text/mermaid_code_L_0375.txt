@@ -1,0 +1,39 @@
+mindmap
+  Fish
+    Traits
+      Aquatic adaptations
+        Gills
+        Fins
+        Scales
+        Swim bladder
+      Circulatory system
+      Digestive system
+      Nervous system
+        Sense organs
+    Reproduction
+      Sexual reproduction
+        Separate sexes
+        Oviparous
+        Spawning
+      Development
+        Eggs
+        Larvae
+        Metamorphosis
+    Classification
+      Classes
+        Hagfish
+          Traits: Primitive, no scales, no backbone
+        Lampreys
+          Traits: No scales, sucker mouth
+        Cartilaginous fish
+          Traits: Cartilage skeleton, jaws
+        Ray-finned fish
+          Traits: Bony skeleton, swim bladder
+        Lobe-finned fish
+          Traits: Fleshy fins, lung-like organ
+    Habitat and Diet
+      Saltwater
+      Freshwater
+      Feeding habits
+        Predators
+        Prey types

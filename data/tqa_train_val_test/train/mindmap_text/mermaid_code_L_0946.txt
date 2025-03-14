@@ -1,0 +1,49 @@
+mindmap
+  Mechanical Advantage
+    Video Overview
+    Lever Example
+      Juan's Lever
+        Input Force: 30 N
+        Input Distance: 1 m
+        Output Distance: 0.2 m
+        Weight of Rock: ?
+        Mechanical Advantage: ?
+    Machine Mechanics
+      Definition
+        Mechanical Advantage of a Machine
+      Calculations
+        Actual Mechanical Advantage
+          Formula: Output Force / Input Force
+          Factors: Overcoming Friction
+        Ideal Mechanical Advantage
+          Formula: Input Distance / Output Distance
+          Difference from Actual
+            Always Greater Due to Friction
+    Practical Applications
+      Measuring Forces
+        Difficulty in Measuring Input/Output Forces
+        Easier to Measure Distances
+      Inclined Plane Example
+        Ramp Characteristics
+          Input Distance: 6 m
+          Output Distance: 2 m
+          Ideal Mechanical Advantage: 3
+        Another Ramp Example
+          Input Distance: 8 m
+          Output Distance: 4 m
+          Ideal Mechanical Advantage: 2
+    Machine Types
+      Force and Distance Relationships
+        Strength of Force
+          Increases
+          Decreases
+          Stays the Same
+        Distance Over Force
+          Decreases
+          Increases
+          Stays the Same
+        Examples
+          Ramp: >1
+          Hammer: <1
+          Flagpole: =1
+          Pulley: =1

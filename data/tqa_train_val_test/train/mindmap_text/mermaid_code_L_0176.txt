@@ -1,0 +1,39 @@
+mindmap
+  Galaxies
+    Types of Galaxies
+      Spiral Galaxies
+        Characteristics
+          Rotating disk of stars and dust
+          Spiral arms
+          Young stars
+        Examples
+          Andromeda Galaxy
+          Sombrero Galaxy
+          Pinwheel Galaxy
+      Elliptical Galaxies
+        Characteristics
+          Egg-shaped
+          Mostly old stars
+          Little gas and dust
+        Examples
+          Giant elliptical galaxies
+          Dusty elliptical galaxies
+      Irregular Galaxies
+        Characteristics
+          No clear shape
+          Deformed by gravitational attraction or collisions
+        Example
+          NGC 1427A
+    Dwarf Galaxies
+      Characteristics
+        Small size (millions to billions of stars)
+        Most common type
+        Often irregular in shape
+      Types
+        Dwarf elliptical galaxies
+        Dwarf spiral galaxies
+      Interaction with Larger Galaxies
+        Collisions and mergers
+    Formation of Stars
+      Regions with dust and gas
+      Locations of star formation

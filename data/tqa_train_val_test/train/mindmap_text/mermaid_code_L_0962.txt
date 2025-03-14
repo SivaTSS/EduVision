@@ -1,0 +1,29 @@
+mindmap
+  Technology
+    Definition
+      Application of science
+      Solving practical problems
+    Evolution
+      New materials
+      New designs
+      New processes
+      Example: Solar-powered cars
+        Advantages
+          Free energy
+          No pollution
+        Timeline
+          1954: First modern solar cell
+          1955: First solar car (Sunmobile)
+          1983: First practical solar car (Quiet Achiever)
+          1987: First World Solar Challenge
+          2008: First commercial solar car (Venturi Astrolab)
+    Impact
+      Society
+      Science
+      Industry
+    3-D Printing
+      Advantages
+        Accessibility
+        Reduced pollution
+        Material efficiency
+      Comparison to traditional manufacturing

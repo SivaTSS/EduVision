@@ -1,0 +1,25 @@
+mindmap
+  Pascals Law
+    What is Pascals Law?
+      Definition
+      Importance
+    Application of Pascals Law
+      Ketchup Packet Example
+        Effect of tearing a hole
+        Squeezing the packet
+      Toothpaste Tube Example
+        Pressure transmission
+      Hydraulic Systems
+        Hydraulic brakes
+          Force increase mechanism
+        Hydraulic car lifts
+        Airplane controls
+    Pressure Concepts
+      Definition of Pressure
+        Equation: Pressure = Force / Area
+      Relationship between Force and Area
+        Equation: Force = Pressure * Area
+    Historical Context
+      Blaise Pascal
+        Contributions to fluid pressure
+        SI unit of pressure: Pascal (Pa)

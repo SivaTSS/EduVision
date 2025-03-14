@@ -1,0 +1,43 @@
+mindmap
+  Atmosphere
+    Composition
+      Gases
+        Oxygen (O2)
+        Carbon Dioxide (CO2)
+        Ozone (O3)
+    Functions
+      Supports Life
+        Photosynthesis
+          CO2 to O2
+          Chemical Reaction: 6CO2 + 6H2O + solar energy → C6H12O6 + 6O2
+        Respiration
+          O2 to CO2
+          Chemical Reaction: C6H12O6 + 6O2 → 6CO2 + 6H2O + energy
+      Water Cycle
+        Reservoir for Water
+        Source of Precipitation
+    Temperature Regulation
+      Greenhouse Effect
+        Greenhouse Gases
+          Carbon Dioxide
+          Methane
+          Water Vapor
+          Ozone
+      Temperature Extremes
+        Without Atmosphere
+          Frigid Nights
+          Scorching Days
+    Human Impact
+      Changing Composition
+        Pollution
+        Climate Change
+      Negative Effects
+        Global Warming
+        Ozone Depletion
+    Importance
+      Unique to Earth
+        Comparison to Moon
+        Life Support System
+      Sound Transmission
+        Energy Transmission
+        Flight Capability

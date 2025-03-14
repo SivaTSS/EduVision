@@ -1,0 +1,28 @@
+mindmap
+  Harmful Bacteria
+    Types of Diseases
+      Strep Throat
+      Tuberculosis
+      Pneumonia
+      Leprosy
+      Lyme Disease
+    Food Poisoning
+      Causes
+        Raw Eggs
+        Undercooked Meats
+      Prevention
+        Cooking Thoroughly
+        Washing Surfaces
+        Hand Hygiene
+    Treatment
+      Antibiotics
+        Importance of Adherence
+    Biological Weapons
+      Examples
+        Anthrax
+      Historical Context
+        2001 Terrorism Incident
+    Infection Process
+      Salmonella typhimurium
+        Competition in Intestines
+        Effects of Infection

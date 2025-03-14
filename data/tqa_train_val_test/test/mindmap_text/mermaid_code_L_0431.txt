@@ -1,0 +1,48 @@
+mindmap
+  Genetics Advances
+    Pedigrees
+      Genetic Disorder Transmission
+        From Mothers to Sons
+        From Fathers to Daughters
+        Affected Individuals: Males
+    Human Genome Project
+      Significance
+        Increased Knowledge of Genetic Disorders
+        Blueprint for Human Organism
+      Accomplishments
+        Sequencing 3 Billion Bases
+        Identifying 20,000 Human Genes
+    Genetic Disorders
+      Types
+        Autosomal Recessive
+        X-linked Disorders
+        Dominant Disorders
+      Examples
+        Marfan Syndrome
+        Cystic Fibrosis
+        Sickle Cell Anemia
+        Hemophilia A
+    Biotechnology
+      Definition
+        Use of Technology to Change Genetic Makeup
+      Methods
+        Gene Cloning
+        Polymerase Chain Reaction
+      Applications
+        Gene Therapy
+        Genetically Modified Organisms (GMOs)
+        Production of Human Proteins
+    Chromosomal Disorders
+      Causes
+        Errors in Meiosis
+      Examples
+        Down Syndrome
+        Turner Syndrome
+        Klinefelter Syndrome
+    Pros and Cons of Biotechnology
+      Benefits
+        Solving Human Problems
+        Improved Agriculture
+      Concerns
+        Health Risks of GMOs
+        Environmental Impact

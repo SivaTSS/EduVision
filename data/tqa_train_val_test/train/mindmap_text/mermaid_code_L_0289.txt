@@ -1,0 +1,38 @@
+mindmap
+  Rock Cycle
+    Types of Rocks
+      Igneous
+        Formation
+          Cooling of magma
+          Environments
+        Characteristics
+          Composition
+          Texture
+      Sedimentary
+        Formation
+          Compaction and cementation
+          Weathering and erosion
+        Types
+          Sandstones
+          Shales
+          Limestones
+      Metamorphic
+        Formation
+          Heat and pressure
+        Changes
+          Mineral composition
+          Texture
+    Processes
+      Crystallization
+        Cooling rates
+        Crystal formation
+      Erosion and Sedimentation
+        Weathering
+        Transportation
+        Deposition
+      Metamorphism
+        Heat and pressure effects
+    Rock Cycle Dynamics
+      Continuous process
+      No beginning or end
+      Transformation pathways

@@ -1,0 +1,43 @@
+mindmap
+  Crustaceans
+    Characteristics
+      Exoskeleton
+        Carapace
+      Body Systems
+        Circulatory System
+        Digestive System
+        Excretory Structures
+        Nervous System
+      Growth
+        Molting Process
+    Classes
+      Branchiopoda
+        Examples: Brine shrimp
+      Remipedia
+        Characteristics: Blind, cave-dwelling
+      Cephalocarida
+      Maxillopoda
+        Examples: Barnacles, copepods
+      Ostracoda
+        Characteristics: Small, bivalve shells
+      Malacostraca
+        Examples: Crabs, lobsters, shrimp, krill, woodlice
+    Reproduction
+      Sexual Reproduction
+        Separate sexes
+        Egg-laying habits
+    Feeding
+      Filter Feeding
+        Comparison with Mollusks
+        Evolutionary Perspective
+    Appendages
+      Functions
+        Movement
+        Feeding
+        Sensory Perception
+    Examples
+      Crabs
+      Lobsters
+      Shrimp
+      Krill
+      Woodlice

@@ -1,0 +1,23 @@
+mindmap
+  Position-Time Graphs
+    Making a Position-Time Graph
+    Slope of a Line Graph
+      Definition of Slope
+      Slope Representation
+        Represents Velocity
+        Steeper Slope = Faster Motion
+    Negative Slope
+      Can it Slope Downward?
+      Explanation
+    Average Velocity
+      Calculation
+        Change in Position / Change in Time
+      Example from Graph 1
+        Distance Traveled in 5 Seconds
+    Graph Analysis
+      Graph 1
+        Position vs. Time
+        Distance Traveled
+      Graph 2
+        Velocity Representation
+        Horizontal Line = Zero Velocity

@@ -1,0 +1,25 @@
+mindmap
+  Wedge
+    What is a wedge?
+      Definition
+      Structure
+        Thin end
+        Thick end
+    How does a wedge change the force?
+      Force application
+      Mechanical advantage
+        Greater than 1
+        Output vs. input force
+    Examples of wedges
+      Axe
+      Hammer
+      Bolt
+      File
+      Knife
+        Chopping pecans
+        Cutting almonds
+    Mechanical advantage details
+      Longer, thinner wedge
+      Trade-off
+        Shorter distance
+        Repeated force application

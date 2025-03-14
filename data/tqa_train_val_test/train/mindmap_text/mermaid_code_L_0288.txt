@@ -1,0 +1,23 @@
+mindmap
+  Rock Types
+    Definition
+      Naturally formed
+      Non-living Earth material
+    Composition
+      Made of minerals
+        Mixture of different minerals
+        Single mineral type (e.g., quartzite)
+      Non-mineral rocks
+        Example: Coal (organic material)
+    Classification
+      Identified by minerals
+      Identified by texture
+        Size of mineral grains
+        Shape of mineral grains
+        Arrangement of mineral grains
+    Importance of Texture
+      Reflects rock formation history
+      Distinctive for each rock type
+      Example: Diorite vs. Andesite
+        Different cooling rates
+        Visible vs. microscopic grains

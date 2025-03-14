@@ -1,0 +1,50 @@
+mindmap
+  Principles of Relative Dating
+    Relative Dating
+      Definition
+      Purpose
+        Determine relative ages
+        Not absolute ages
+    Steno's Laws
+      Original Horizontality
+        Sediments deposited horizontally
+        Implications of tilting
+      Lateral Continuity
+        Continuous sheets of sediments
+        Valley cutting through layers
+      Superposition
+        Youngest layers on top
+        Oldest layers on bottom
+    Laws of Relative Dating
+      Law of Superposition
+        Youngest on top, oldest on bottom
+      Law of Original Horizontality
+        Sediments deposited flat
+      Law of Cross-Cutting Relationships
+        Younger features cut older features
+      Law of Inclusions
+        Inclusion indicates older rock
+    Unconformities
+      Definition
+      Types
+        Angular Unconformity
+          Indications of geological history
+        Disconformity
+          Identification methods
+        Nonconformity
+          Causes and identification
+    Faunal Succession
+      Definition
+      Importance in dating
+    Grand Canyon as a Case Study
+      Illustration of principles
+      Coconino Sandstone
+        Characteristics
+        Geological significance
+    Historical Context
+      Early Geologists
+        Limitations in absolute dating
+      Contributions of William Smith
+        Principle of faunal succession
+      Contributions of James Hutton
+        Principle of cross-cutting relationships

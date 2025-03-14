@@ -1,0 +1,44 @@
+mindmap
+  Nature of Science
+    Importance of Questions
+      Curiosity about the natural world
+      Encourages exploration
+    Scientific Method
+      Steps to answer questions
+        Asking a question
+        Conducting research
+        Formulating a hypothesis
+        Designing an experiment
+        Collecting data
+        Analyzing results
+        Drawing conclusions
+    Hypothesis and Theory
+      Definition of hypothesis
+      Definition of theory
+      Testing and validation
+    Types of Scientific Models
+      Physical models
+        Examples: globes, diagrams
+      Conceptual models
+        Explanatory ideas
+      Mathematical models
+        Use of equations
+    Safety in Science
+      Lab safety guidelines
+        Proper equipment
+        Personal protective gear
+      Fieldwork precautions
+        Appropriate clothing
+        Emergency preparedness
+    Experiment Design
+      Components of an experiment
+        Independent variable
+        Dependent variable
+        Experimental controls
+      Example experiment
+        Question, hypothesis, variables, safety precautions
+    Data Collection and Analysis
+      Types of data
+        Measurements and observations
+      Importance of accurate data
+      Peer review process

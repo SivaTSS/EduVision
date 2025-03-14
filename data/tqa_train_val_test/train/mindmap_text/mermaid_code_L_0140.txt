@@ -1,0 +1,40 @@
+mindmap
+  Earths Core
+    Core Composition
+      Inner Core
+        Solid
+        Composition
+          85% Iron
+          15% Nickel
+      Outer Core
+        Liquid
+        Composition
+          Dense Metal
+    Seismic Waves
+      P-waves
+        Travel Through
+          Solids
+          Liquids
+        Behavior in Liquid
+      S-waves
+        Travel Through
+          Solids
+        Do Not Travel Through
+          Liquids
+    Magnetic Field
+      Cause
+        Convection in Outer Core
+      Evidence
+        Density Calculations
+        Metallic Meteorites
+    Heat Sources
+      Inner Core
+        Radioactive Element Breakdown
+      Convection Currents
+        Result of Heat
+    Implications of Density
+      Crust Density
+        If Denser
+          Core Material Implications
+      Outer Core Temperature
+        Reasons for High Temperature

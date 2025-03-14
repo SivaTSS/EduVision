@@ -1,0 +1,32 @@
+mindmap
+  Human Circulation
+    Blood Vessels
+      Types
+        Arteries
+          Function: Carry blood away from the heart
+          Structure: Thick walls, elastic
+        Veins
+          Function: Return blood to the heart
+          Structure: Thinner walls, valves
+        Capillaries
+          Function: Exchange of gases and substances
+          Structure: Thin walls
+      Endothelium
+        Definition: Inner lining of blood vessels
+        Present in: Arteries, veins, capillaries
+      Circulation Types
+        Systemic Circulation
+          Function: Carries oxygen-rich blood to the body
+          Pathway: Left ventricle → Aorta → Body → Vena Cava → Right atrium
+        Pulmonary Circulation
+          Function: Carries oxygen-poor blood to the lungs
+          Pathway: Right ventricle → Pulmonary arteries → Lungs → Pulmonary veins → Left atrium
+      Key Components
+        Aorta
+          Description: Largest artery, carries oxygen-rich blood
+        Vena Cava
+          Description: Collects deoxygenated blood from the body
+        Pulmonary Arteries
+          Description: Only arteries carrying oxygen-poor blood
+        Pulmonary Veins
+          Description: Only veins carrying oxygen-rich blood

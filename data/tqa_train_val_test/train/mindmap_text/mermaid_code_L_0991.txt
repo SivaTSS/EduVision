@@ -1,0 +1,30 @@
+mindmap
+  Base Properties
+    What is a base?
+      Definition
+      Ionic compounds
+        Positive metal ions
+        Negative nonmetal ions
+        Ionic bonds
+    Properties of bases
+      Taste
+        Bitter
+      Feel
+        Slippery
+      Conductivity
+        Conduct electricity in water
+    Detection of bases
+      Litmus paper
+        Red to blue
+      Other indicators
+        Red cabbage juice
+    pH scale
+      Measurement of strength
+        Scale from 0 to 14
+        Neutral (pH 7)
+        Basic (pH > 7)
+        Strongest bases (pH close to 14)
+    Uses of bases
+      Cleaning products
+      Concrete
+      Soaps

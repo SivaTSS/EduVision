@@ -1,0 +1,34 @@
+mindmap
+  Science
+    Definition
+      Knowledge
+      Learning about the natural world
+      Based on evidence and logic
+    Induction
+      Drawing conclusions from observations
+      Example of gravity
+      Refinement of ideas
+    Scientific Theories vs. Laws
+      Scientific Theory
+        Broad explanation
+        Supported by evidence
+        Example: Kinetic theory of matter
+      Scientific Law
+        Statement of consistent natural phenomena
+        Example: Newton's law of gravity
+    History of Science
+      Milestones
+        Ancient civilizations
+        Contributions of Thales and Aristotle
+        Scientific Revolution
+      Contributions of Women and Minorities
+        Marie Curie
+        Lise Meitner
+        Irene Joliot-Curie
+        Maria Goeppert-Mayer
+        Ada E. Yonath
+        Shirley Ann Jackson
+        Ellen Ochoa
+    Physical Science
+      Subject matter
+      Investigative questions

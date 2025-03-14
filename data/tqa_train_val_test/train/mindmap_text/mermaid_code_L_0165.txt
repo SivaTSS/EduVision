@@ -1,0 +1,29 @@
+mindmap
+  Faults
+    Outcrop Features
+      Fault Indicators
+      Rock Displacement
+        San Andreas Fault
+        Origin of Rocks
+    Types of Faults
+      Joints
+        Definition
+        Formation
+      Dip-Slip Faults
+        Normal Fault
+          Hanging Wall
+          Footwall
+        Reverse Fault
+          Footwall Movement
+          Thrust Fault
+      Strike-Slip Faults
+        Horizontal Movement
+        Right-Lateral
+        Left-Lateral
+    Geological History
+      Grand Teton Mountain Range
+      Earthquake Impact
+    Fault Mechanics
+      Fracture and Movement
+      Slip Definition
+      Fault Dip

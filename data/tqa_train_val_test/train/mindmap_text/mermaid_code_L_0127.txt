@@ -1,0 +1,18 @@
+mindmap
+  Distance Between Stars
+    Parallax
+      Definition: Apparent shift in position
+      Range: Effective for a few hundred light years
+      Example: Observing a finger with alternating eyes
+      Measurement Process
+        Step 1: Observe star from one position
+        Step 2: Wait six months for Earth's orbit shift
+        Step 3: Observe star again and note position change
+        Calculation: Distance based on parallax angle
+    Measuring Distant Stars
+      Limitations of Parallax
+        Too small for distances over a few hundred light years
+      Alternative Methods
+        Brightness Comparison
+          Similarity to Sun's brightness
+          Observed vs. Expected brightness

@@ -1,0 +1,39 @@
+mindmap
+  Ferns and Seedless Plants
+    Reproduction
+      Asexual
+        Fragmentation
+      Sexual
+        Gametophyte
+          Male
+            Produces flagellated sperm
+          Female
+            Produces eggs
+        Fertilization
+          Requires water
+    Life Cycle
+      Nonvascular Plants
+        Dominant Stage: Gametophyte (Haploid)
+          Green photosynthetic carpet (Moss)
+        Process
+          1. Male gametophyte produces sperm
+          2. Sperm swims to egg
+          3. Sporophyte forms, dependent on gametophyte
+          4. Sporophyte produces spores
+      Vascular Plants
+        Dominant Stage: Sporophyte (Diploid)
+          Recognizable leafy fern
+        Process
+          1. Gametophyte is heart-shaped
+          2. Fertilization occurs
+          3. Gametophyte dies, sporophyte lives independently
+    Key Concepts
+      Alternation of Generations
+        Diploid and haploid stages
+      Moist Environments
+        Necessary for reproduction
+      Sorus
+        Location: Underside of fronds
+        Contains spores
+      Antheridiogen
+        Effect on gametophyte development

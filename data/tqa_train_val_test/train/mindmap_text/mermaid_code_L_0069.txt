@@ -1,0 +1,45 @@
+mindmap
+  Igneous Rocks
+    Formation
+      Slow Cooling
+        Intrusive Rocks
+          Large Crystals
+          Examples
+            Granite
+            Diorite
+            Gabbro
+            Peridotite
+      Rapid Cooling
+        Extrusive Rocks
+          Small Crystals
+          Glassy Texture
+          Examples
+            Basalt
+            Pumice
+            Rhyolite
+    Classification
+      By Crystal Size
+        Large Crystals
+        Small Crystals
+      By Mineral Composition
+        Light-colored Minerals
+          Granite
+          Rhyolite
+        Dark-colored Minerals
+          Gabbro
+          Basalt
+    Properties
+      Texture
+        Crystalline
+        Glassy
+      Density
+        Light (Pumice)
+        Heavy (Basalt)
+    Uses
+      Construction
+        Countertops
+        Buildings
+        Monuments
+      Art
+        Diorite for sculptures
+        Porphyry for decorative art

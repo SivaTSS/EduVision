@@ -1,0 +1,35 @@
+mindmap
+  Rotation of Earth
+    Axis of Rotation
+      Tilt of Axis
+      Imaginary Line
+    Earth’s Rotation
+      Duration
+        24 hours
+        23 hours, 59 minutes, 4 seconds
+      Speed
+        Equator: 1,700 km/h
+        Poles: negligible
+      Direction
+        Counterclockwise from North Pole
+    Seasons
+      Northern Hemisphere
+        Summer conditions
+        Opposite season during Southern Hemisphere summer
+      Southern Hemisphere
+        Summer conditions
+        Opposite season during Northern Hemisphere summer
+    Foucault's Pendulum
+      Demonstration of Rotation
+      Experiment by Léon Foucault
+      Direction Change
+    Celestial Observations
+      Sun, Moon, and Stars
+        Rise in the East
+        Set in the West
+    Wobble Effect
+      Definition
+      Cycle Duration
+    Future Seasons
+      Changes in 13,000 years
+      Reasons for changes

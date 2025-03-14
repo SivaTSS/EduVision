@@ -1,0 +1,47 @@
+mindmap
+  Atmosphere Layers
+    Earth’s Atmosphere
+      Major Layers
+        Troposphere
+          Properties
+            - Lowest layer
+            - Temperature decreases with altitude
+            - Contains 75% of atmospheric gas
+            - Weather occurs here
+          Temperature Changes
+            - Heat from the Sun and Earth's surface
+            - Convection cells
+            - Temperature inversion
+        Stratosphere
+          Properties
+            - Above troposphere
+            - Temperature increases with altitude
+            - Contains ozone layer
+          Ozone Layer
+            - Absorbs UV radiation
+            - Protects Earth's surface
+        Mesosphere
+          Properties
+            - Above stratosphere
+            - Temperature decreases with altitude
+            - Meteors burn up here
+        Thermosphere
+          Properties
+            - Above mesosphere
+            - Temperature increases with altitude
+            - Contains charged particles (ions)
+            - Northern and Southern lights occur here
+        Exosphere
+          Properties
+            - Highest layer
+            - Gas molecules far apart
+            - Merges with outer space
+            - Weak gravity allows molecules to escape
+    Temperature Changes
+      Altitude Effects
+        - Decreases in troposphere and mesosphere
+        - Increases in stratosphere and thermosphere
+    Energy from the Sun
+      Effects on Atmosphere
+        - Causes winds in troposphere
+        - Influences temperature changes

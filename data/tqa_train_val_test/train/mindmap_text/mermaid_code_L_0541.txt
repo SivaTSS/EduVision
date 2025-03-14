@@ -1,0 +1,39 @@
+mindmap
+  Hearing and Balance
+    Hearing
+      Sound Waves
+        Travel through air
+        Vibrations in ear
+      Ear Structure
+        Outer Ear
+          Pinna
+          Ear Canal
+        Middle Ear
+          Eardrum
+          Tiny Bones
+            Hammer (Malleus)
+            Anvil (Incus)
+            Stirrup (Stapes)
+        Inner Ear
+          Cochlea
+          Auditory Nerve
+      Process of Hearing
+        Sound waves hit eardrum
+        Vibrations pass through bones
+        Cochlea converts vibrations
+        Hair cells release neurotransmitters
+        Nerve impulses to brain
+      Hearing Loss
+        Damage from loud sounds
+        Permanent loss of hair cells
+    Balance
+      Sense of Balance
+        Role of Ears
+        Kinocilium
+      Semicircular Canals
+        Liquid movement
+        Hair cells send impulses
+        Connection to cerebellum
+      Maintaining Balance
+        Body position sensing
+        Muscle response from cerebellum

@@ -1,0 +1,30 @@
+mindmap
+  Electromagnetic Waves
+    Definition
+      Electromagnetic Radiation
+      Transverse Wave
+    Components
+      Electric Field
+        Definition
+        Characteristics
+      Magnetic Field
+        Definition
+        Characteristics
+    Generation
+      Vibrating Charged Particle
+      Creation of Fields
+    Propagation
+      Travel Through Space
+      Travel Through Matter
+      Energy Transfer
+    Interaction with Matter
+      Reflection
+      Refraction
+      Diffraction
+      Absorption
+    Sources
+      Sun
+      Technological Sources
+        Radio Waves
+        Microwaves
+        X Rays

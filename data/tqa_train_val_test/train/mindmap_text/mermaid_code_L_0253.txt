@@ -1,0 +1,32 @@
+mindmap
+  Nuclear Power
+    Definition
+      Nuclear energy release
+      Process of splitting atoms
+    Common Fuels
+      Uranium
+      Plutonium
+    Sources of Materials
+      Mining
+      Processing
+    Advantages
+      Clean energy
+      No air pollution
+      Low greenhouse gas emissions
+    Disadvantages
+      Radioactive waste
+      Long-term storage issues
+      Safety concerns
+    Contamination
+      Causes of contamination
+      Nuclear disasters
+        Three Mile Island
+        Chernobyl
+        Fukushima
+    Economic Aspects
+      Cost comparison with nonrenewable sources
+      Investment in nuclear technology
+    Future Considerations
+      Public perception
+      Policy implications
+      Alternatives to fossil fuels

@@ -1,0 +1,33 @@
+mindmap
+  Chromosomal Disorders
+    Down Syndrome
+      Inheritance
+        Are all cases inherited?
+      Chromosome Count
+        Complete extra chromosome?
+      Screening
+        Fetal screening methods
+    Rare Chromosome Disorders
+      Commonalities
+        Shared traits of individuals
+      Clinical Geneticist
+        Training differences from regular doctors
+      Karyotype
+        Definition and significance
+      Genetic Material
+        Do disorders always involve extra material?
+    Chromosomal Disorder Definition
+      Causes of Down Syndrome
+      Timing of Chromosomal Defects
+      Embryo Survival
+        Fate of embryos with extra chromosomes
+    Types of Chromosomal Disorders
+      Down Syndrome
+        Trisomy 21
+        Characteristics
+      Klinefelter Syndrome
+        XXY genotype
+        Symptoms
+      Cri du Chat Syndrome
+        Missing chromosome 5
+        Symptoms

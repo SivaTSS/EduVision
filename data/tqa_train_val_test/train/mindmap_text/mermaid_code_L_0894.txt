@@ -1,0 +1,23 @@
+mindmap
+  Enzymes as Catalysts
+    Definition
+      - Proteins that speed up biochemical reactions
+      - Necessary for life
+    Function
+      - Reduce activation energy
+      - Increase reaction rate
+      - Not changed in reactions
+    Models of Enzyme Action
+      - Lock-and-Key Model
+        - Substrates fit into active site
+      - Induced Fit Theory
+        - Enzyme changes shape to fit substrate
+    Factors Affecting Enzyme Activity
+      - Temperature
+      - pH
+    Importance in Digestion
+      - Over 1000 enzymes needed
+      - Examples: Amylase, Pepsin
+    Biochemical Reactions
+      - Occur constantly in cells
+      - Enzymes prevent slow reactions

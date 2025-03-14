@@ -1,0 +1,35 @@
+mindmap
+  Touch
+    What is Touch?
+      Definition
+      Importance
+    Touch Receptors
+      Types
+        Mechanoreceptors
+          Function: Pressure, vibrations, texture
+          Location: Fingertips, skin
+        Thermoreceptors
+          Function: Temperature sensation
+          Types: Hot receptors, cold receptors
+          Location: Face, ears
+        Pain Receptors (Nociceptors)
+          Function: Detect pain and damage
+          Location: Skin, muscles, bones, blood vessels, organs
+        Proprioceptors
+          Function: Body position awareness
+          Location: Joints, tendons, muscles
+    Sensory Neurons
+      Location: Skin, internal organs
+      Functions: Pain, pressure, temperature detection
+    Communication with the Brain
+      Pathway of Sensation
+        From receptors to central nervous system
+        Processing in the brain (e.g., frontal lobe)
+      Reflex Arcs
+        Definition: Direct response via spinal cord
+        Example: Knee-jerk reaction
+    Sensitivity of Skin
+      Areas with High Sensitivity
+        Palms, soles, face, tongue, lips
+      Comparison with Other Body Parts
+        Internal pain detection (e.g., stomach, joints)

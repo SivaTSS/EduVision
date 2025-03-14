@@ -1,0 +1,27 @@
+mindmap
+  Producers
+    Definition
+      Autotrophs
+      Make own food
+    Photosynthesis
+      Process
+        Sunlight
+        Carbon Dioxide (CO2)
+        Water (H2O)
+        Glucose (C6H12O6)
+      Importance
+        Energy conversion
+        Oxygen production
+    Types of Producers
+      Terrestrial
+        Plants
+      Aquatic
+        Phytoplankton
+        Algae
+        Diatoms
+      Chemosynthetic
+        Bacteria
+    Ecosystem Role
+      Energy flow
+      Food source for consumers
+      Dependency of ecosystems on producers

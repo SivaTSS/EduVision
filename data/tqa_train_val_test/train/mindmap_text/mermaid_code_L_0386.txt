@@ -1,0 +1,31 @@
+mindmap
+  Muscular System
+    Definition
+      Muscle
+      Muscle Fibers
+    Muscle Contraction
+      Myofibrils
+      Actin and Myosin
+      ATP Energy
+    Types of Muscle Tissue
+      Cardiac Muscle
+        Location: Heart
+        Involuntary Control
+      Smooth Muscle
+        Location: Internal Organs
+        Involuntary Control
+      Skeletal Muscle
+        Location: Attached to Bones
+        Voluntary Control
+    Structure and Function
+      Muscle Fiber Composition
+      Role of Tendons
+    Maintaining Muscle Health
+      Regular Exercise
+        Resistance Exercise
+        Aerobic Exercise
+      Importance of Stretching
+      Nutrition for Muscle Health
+    Muscle Movement
+      Working in Pairs
+        Example: Biceps and Triceps

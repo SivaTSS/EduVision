@@ -1,0 +1,22 @@
+mindmap
+  Neutrons
+    What is a neutron?
+      Definition
+      Location in atom
+      Charge
+      Mass and diameter
+    Comparison with protons
+      Similarities
+      Differences
+    Isotopes
+      Definition
+      Example: Carbon isotopes
+        Carbon-12
+        Carbon-14
+        Carbon-13
+      Naming convention
+    Fundamental particles
+      Quarks
+        Types: Up quark, Down quarks
+      Gluons
+        Role in binding quarks

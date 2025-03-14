@@ -1,0 +1,20 @@
+mindmap
+  atomic forces
+    electromagnetic force
+      attraction between electrons and protons
+      repulsion between protons
+      force-carrying particles: photons
+      charged particles
+        electrons: charge -1
+        protons: charge +1
+    strong nuclear force
+      holds nucleus together
+      attraction between quarks
+      force-carrying particles: gluons
+      residual strong force
+      limits on atomic stability
+    weak nuclear force
+      changes subatomic particles
+      force-carrying particles: W and Z bosons
+      short-range force
+      role in radioactive decay

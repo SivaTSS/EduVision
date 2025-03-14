@@ -1,0 +1,41 @@
+mindmap
+  Neurological Disorders
+    Examples
+      - Multiple Sclerosis
+      - Epilepsy
+      - Cerebral Palsy
+    Symptoms
+      - Fever
+      - Headache
+      - Stiff Neck
+      - Muscle Weakness
+      - Difficulty Moving
+    Types of Disorders
+      - Infections
+        - Encephalitis
+          - Causes: Viruses
+          - Symptoms: Fever, Headache, Drowsiness
+        - Meningitis
+          - Causes: Bacteria, Viruses
+          - Symptoms: Fever, Headache, Stiff Neck
+      - Tumors
+        - Brain Tumors
+          - Symptoms: Headaches, Speech Difficulties
+      - Headaches
+        - Tension Headaches
+          - Causes: Muscle Tension, Stress
+          - Relief: Relaxation, Pain Relievers
+        - Migraines
+          - Causes: Blood Vessel Dilation
+          - Symptoms: Nausea, Severe Pain
+    Effects on Body Systems
+      - Movement Control
+      - Cognitive Functions
+    Special Considerations
+      - Reyes Syndrome
+        - Risk: Aspirin Use in Viral Infections
+      - Age Factors
+        - Rare Diseases in Young People
+          - Huntington's Disease
+          - Parkinson's Disease
+          - Alzheimer's Disease

@@ -1,0 +1,19 @@
+mindmap
+  Testing Hypotheses
+    Purpose of Scientific Method
+      Create a Hypothesis
+      Investigate Mechanism
+    Developing Hypotheses
+      Hypothesis 1: Volcanic Activity
+        Test: CO2 from Volcanoes
+          Data from Scientific Literature
+          Findings: Constant Eruptions
+          Conclusion: Hypothesis 1 Discarded
+      Hypothesis 2: Fossil Fuel Burning
+        Test: CO2 Emissions Data
+          Findings: Increase Since Industrial Revolution
+          Conclusion: Hypothesis 2 Supported
+    Importance of Multiple Hypotheses
+      Investigation Progress
+      Falsifiability in Science
+        Discarding Incorrect Hypotheses

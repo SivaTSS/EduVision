@@ -1,0 +1,45 @@
+mindmap
+  Outer Planets
+    Differences from Inner Planets
+      Size
+      Composition
+        Gas Giants
+          Hydrogen
+          Helium
+      Gravity
+    Main Features
+      Jupiter
+        Largest Planet
+        Great Red Spot
+        Galilean Moons
+          Io
+          Europa
+          Ganymede
+          Callisto
+      Saturn
+        Rings
+          Composition
+          Discovery
+        Titan
+          Atmosphere
+          Potential for Life
+      Uranus
+        Tilted Axis
+        Composition
+        Moons
+          Miranda
+          Ariel
+          Umbriel
+          Titania
+          Oberon
+      Neptune
+        Great Dark Spot
+        Strong Winds
+        Moons
+          Triton
+    Comparisons
+      Outer Planets to Each Other
+      Outer Planets to Earth
+    Liquid Presence
+      Europa's Ocean
+      Titan's Lakes

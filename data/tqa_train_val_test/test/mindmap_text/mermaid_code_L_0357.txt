@@ -1,0 +1,27 @@
+mindmap
+  Wind Power
+    Local Winds
+      Desert and Mountains
+      Wind Turbines
+    Energy Capture
+      Wind Turbine Function
+      Kinetic Energy
+    Wind Farm Locations
+      Land vs. Offshore
+      Cape Wind Project
+    Wind Energy Basics
+      Causes of Wind
+      Harnessing Wind Energy
+    Advantages of Wind Power
+      Clean Energy
+      Abundant Resource
+    Downsides of Wind Power
+      Intermittency
+      Aesthetic Concerns
+      Cost and Maintenance
+    Historical Use
+      Windmills for Grain and Water
+      Sailing Ships
+    Growth of Wind Power
+      Fastest Growing Renewable Source
+      Technological Advances

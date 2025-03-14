@@ -1,0 +1,33 @@
+mindmap
+  Mars
+    Why is Mars red?
+      Reddish color from iron oxide
+      Named after the god of war
+    Liquid Water on Mars
+      Current absence of liquid water
+      Evidence of past liquid water
+        Surface features resembling water-eroded canyons
+        Presence of ice caps
+    Surface Characteristics
+      Young vs. old surface
+      Comparison to Earth
+        Similarities: volcanoes, canyons
+        Differences: smaller, colder, drier
+      Notable features
+        Olympus Mons
+          Largest volcano and mountain in the solar system
+        Valles Marineris
+          Largest canyon in the solar system
+    Mars' Atmosphere
+      Thin atmosphere
+      Low atmospheric pressure
+      Composition: mostly carbon dioxide
+      Weak greenhouse effect
+    Moons of Mars
+      Phobos and Deimos
+        Small, irregular rocky bodies
+        Thought to be captured asteroids
+        Named after Greek mythology characters
+    Exploration of Mars
+      Studied through space probes, rovers, satellites
+      Future human missions planned by NASA and ESA

@@ -1,0 +1,25 @@
+mindmap
+  acceleration
+    Definition
+      - Measure of change in velocity
+      - Rate of change
+      - Vector quantity
+    Examples
+      - Carousel rider
+      - Skydiver in free fall
+      - Driving around a bend
+    Types of Acceleration
+      - Positive acceleration (increase in speed)
+      - Negative acceleration (deceleration)
+      - Change in direction without speed change
+    Effects of Acceleration
+      - Sensation of change in speed
+      - Feeling during car rides
+        - Pressed against seat when speeding up
+        - Pushed forward when slowing down
+        - Pushed to the left during right turn
+        - Pushed to the right during left turn
+    Observations
+      - Analyze velocity changes in examples
+        - Direction changing but speed constant
+        - Speed changing but direction constant

@@ -1,0 +1,32 @@
+mindmap
+  Mendeleev and the Periodic Table
+    History
+      1700s: Early attempts to organize elements
+      1860s: Mendeleev's successful method
+    Mendeleev's Periodic Table
+      Organization
+        By atomic mass
+        Predicting unknown elements
+      Structure
+        Rows: Periods
+        Columns: Groups (Families)
+        Repeating pattern: Periodicity
+      Predictions
+        Missing elements
+        Example: Gallium
+    Modern Periodic Table
+      Organization
+        By atomic number
+        Unique atomic number for each element
+      Structure
+        Rows: Periods
+        Columns: Groups (18 groups)
+        Change from metals to nonmetals
+      Additional Information
+        Chemical symbols
+        Classes of elements: Metals, Metalloids, Nonmetals
+        Color coding in the table
+    Comparison
+      Similarities to Mendeleev's table
+      Differences in organization
+      Importance of accurate predictions

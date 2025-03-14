@@ -1,0 +1,30 @@
+mindmap
+  Chemical Reactions and Energy
+    Energy in Reactions
+      Breaking Bonds
+      Forming Bonds
+      Types of Reactions
+        Endothermic
+          Definition
+          Energy Requirement
+          Example: Photosynthesis
+        Exothermic
+          Definition
+          Energy Release
+          Example: Combustion
+    Activation Energy
+      Definition
+      Importance in Reactions
+    Reaction Rates
+      Factors Affecting Rates
+        Temperature
+        Concentration
+        Surface Area
+        Catalysts
+          Definition
+          Role in Reactions
+    Law of Conservation of Energy
+      Energy Changes in Reactions
+      Energy Storage in Products
+    Comparison of Reactions
+      Endothermic vs Exothermic

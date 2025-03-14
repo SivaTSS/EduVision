@@ -1,0 +1,31 @@
+mindmap
+  Echinoderms
+    Importance
+      Ecosystem
+        Grazers
+        Food source
+        Oxygenation
+      Human Uses
+        Food
+          Sea urchins
+          Sea cucumbers
+        Medicine
+          Tumor cell research
+        Lime source
+    Ecological Roles
+      Sand dollars
+        Burrowing
+      Sea cucumbers
+        Habitat for parasites
+      Starfish
+        Algae control
+    Food Chain
+      Grazing on seaweed
+      Prey for sea otters
+      Impact of extinction
+        Algal growth increase
+    Research Applications
+      Sea urchins
+        Developmental biology
+        Fertilization studies
+        Early embryo research

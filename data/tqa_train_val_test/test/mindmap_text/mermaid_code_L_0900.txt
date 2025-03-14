@@ -1,0 +1,25 @@
+mindmap
+  Field Study
+    Definition
+      - Real-world evidence gathering
+      - Contrast with laboratory experiments
+    Appropriateness
+      - When to use field studies
+      - Example problem: River water pollution
+    Importance
+      - Learning about the environment
+      - Measurements and observations in real-world settings
+    Methodology
+      - Sample collection
+        - Multiple locations
+        - Analysis in lab
+      - Identifying pollution sources
+        - Point-source pollution
+          - Example: Wastewater pipe
+        - Nonpoint-source pollution
+          - Example: Runoff rainwater
+    Comparison of Samples
+      - Nonpoint-source pollution
+        - Similar pollutants across samples
+      - Point-source pollution
+        - Unique pollution in specific sample

@@ -1,0 +1,33 @@
+mindmap
+  Mammal Characteristics
+    What is a Mammal?
+      Definition
+      Diversity
+        Range of species
+        Habitats
+    Unique Characteristics
+      Hair or Fur
+      Sweat Glands
+      Mammary Glands
+      Middle Ear Bones
+      Neocortex
+      Specialized Teeth
+      Four-Chambered Heart
+    Types of Mammals
+      Viviparous
+        Definition
+        Majority of mammals
+      Monotremes
+        Characteristics
+        Example: Platypus
+        Other: Echidnas
+      Marsupials
+        Characteristics
+        Examples: Kangaroos, Koalas
+      Placental Mammals
+        Development in Uterus
+        Examples: Humans, Whales, Dogs
+    Evolutionary Adaptations
+      Land to Ocean Transition
+        Examples: Whales, Dolphins
+      Specialized Traits for Habitats

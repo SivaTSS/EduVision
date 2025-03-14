@@ -1,0 +1,38 @@
+mindmap
+  Ecosystems
+    Definition
+      - Living and nonliving interactions
+      - Importance of recycling matter
+    Ecology
+      - Study of ecosystems
+      - Interactions of organisms
+    Components
+      Abiotic Factors
+        - Temperature
+        - Water
+        - Soil
+        - Air
+      Biotic Factors
+        - Populations
+        - Species (plants, animals, fungi, microorganisms)
+    Energy Flow
+      - Source of energy
+        - Sunlight
+        - Photosynthesis
+      - Producers
+        - Plants
+      - Consumers
+        - Herbivores
+        - Carnivores
+    Nutrient Recycling
+      - Biogeochemical cycles
+        - Carbon
+        - Nitrogen
+      - Continuous recycling of water
+    Ecosystem Examples
+      - Rainforest
+      - Savanna
+      - Tundra
+      - Desert
+      - Great Barrier Reef
+      - Greater Yellowstone Ecosystem

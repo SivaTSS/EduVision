@@ -1,0 +1,42 @@
+mindmap
+  Nucleic Acids
+    Definition
+      Biochemical Class
+      Types
+        RNA (Ribonucleic Acid)
+        DNA (Deoxyribonucleic Acid)
+    Structure
+      Nucleotides
+        Components
+          Phosphate Group
+          Sugar
+            Deoxyribose (DNA)
+            Ribose (RNA)
+          Nitrogen Bases
+            DNA Bases
+              Adenine
+              Thymine
+              Guanine
+              Cytosine
+            RNA Base
+              Uracil
+      Bonds
+        Covalent Bonds
+        Hydrogen Bonds
+          Base Pairing
+            Adenine - Thymine
+            Guanine - Cytosine
+    Functions
+      DNA
+        Genetic Code
+        Protein Synthesis Instructions
+      RNA
+        Copies Genetic Code
+        Synthesizes Proteins
+    Comparison
+      Structure
+        Single Chain (RNA)
+        Double Helix (DNA)
+      Function
+        DNA: Stores Genetic Information
+        RNA: Translates Instructions

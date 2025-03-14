@@ -1,0 +1,26 @@
+mindmap
+  Bohr's Atomic Model
+    Development
+      Builds on Rutherford's Model
+        Focus on Nucleus
+        Electrons as Planets
+      Historical Context
+        John Dalton's Atom
+        J.J. Thomson's Electron
+        Ernest Rutherford's Nucleus
+    Key Concepts
+      Energy Levels
+        Fixed Distances from Nucleus
+        Electrons as Concentric Spheres
+        Lower and Higher Energy Levels
+      Energy Quanta
+        Minimum Energy Absorption/Release
+        Discrete Energy Units
+        Connection to Electrons
+    Scientific Impact
+      Importance of Communication
+        Collaboration in Science
+        Nobel Prize in Physics (1922)
+      Acceptance of Model
+        Basis for Future Research
+        Explanation of Element Properties

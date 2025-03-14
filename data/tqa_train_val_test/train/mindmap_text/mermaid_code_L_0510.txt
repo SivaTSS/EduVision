@@ -1,0 +1,27 @@
+mindmap
+  Energy Pyramids
+    Types of Ecological Pyramids
+      Pyramid of Numbers
+      Pyramid of Biomass
+      Pyramid of Energy
+    Energy Transfer
+      Energy Loss
+        Heat Release
+        10% Rule
+      Trophic Levels
+        Definition
+        Limitations
+    Energy Flow in Food Chains
+      Producers
+        Role of Plants
+        Energy Conversion
+      Herbivores
+        Energy Usage
+        Energy Storage
+      Carnivores
+        Energy Storage Comparison
+    Example of Energy Pyramid
+      Trophic Levels in Forest Community
+        Producers: Plants
+        Primary Consumers: Herbivores (Caterpillars)
+        Secondary Consumers: Carnivores (Birds)

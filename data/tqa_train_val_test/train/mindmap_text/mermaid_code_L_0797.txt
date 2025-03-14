@@ -1,0 +1,49 @@
+mindmap
+  Alloys
+    What is an alloy?
+      Definition
+        Mixture of a metal with other elements
+      Example
+        Steel, Bronze, Brass
+    Properties of alloys
+      Differences from pure metals
+        Enhanced usefulness
+        Formation process
+          Melting and dissolving elements
+          Cooling and hardening
+    Common alloys
+      Brass
+        Composition
+          Copper and Zinc
+        Characteristics
+          Softer, shiny, easy to shape
+        Uses
+          Musical instruments, doorknobs, plumbing fixtures
+      Stainless Steel
+        Composition
+          Nickel, Chromium, Carbon, Iron
+        Characteristics
+          Shiny, strong, rust-resistant
+        Uses
+          Sinks, utensils
+      Gold Jewelry
+        Composition
+          Gold, Copper, Silver
+        Characteristics
+          Harder than pure gold
+        Uses
+          Jewelry
+      Bronze
+        Composition
+          Copper and Tin
+        Characteristics
+          Harder than pure copper and tin
+        Historical significance
+          First alloy made
+          Used for statues, coins
+    Sterling Silver
+      Composition
+        93% Silver, 7% Copper
+      Properties
+        Harder and stronger than pure silver
+        Retains malleability and luster

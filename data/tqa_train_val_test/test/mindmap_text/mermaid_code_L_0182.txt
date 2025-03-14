@@ -1,0 +1,33 @@
+mindmap
+  Global Wind Belts
+    Atmospheric Circulation Cells
+      Hadley Cell
+        Trade Winds
+        High Pressure Zone
+        Low Precipitation
+      Ferrel Cell
+        Westerlies
+        Variable Weather
+      Polar Cell
+        Polar Easterlies
+        Low Pressure Zone
+        Cold, Dry Air
+    Wind Patterns
+      Surface Winds
+        High to Low Pressure
+        Coriolis Effect
+      Jet Streams
+        Definition
+        Polar Jet Stream
+        Seasonal Movement
+    Precipitation and Climate
+      Low Pressure Areas
+        Rising Air
+        High Precipitation
+      High Pressure Areas
+        Sinking Air
+        Dry Conditions
+    Polar Front
+      Junction of Cells
+      Variable Weather
+      Influence on North America and Europe

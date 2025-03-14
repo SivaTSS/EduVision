@@ -1,0 +1,41 @@
+mindmap
+  Radiometric Dating
+    Radiocarbon Dating
+      Definition
+      Isotopes of Carbon
+        Carbon-12
+        Carbon-13
+        Carbon-14
+          Stability
+      Formation of Carbon-14
+      Usage
+        Age Range
+        Accuracy
+      Carbon in Living Organisms
+        Carbon Uptake
+        Carbon-14 in Living Organisms
+      Post-Mortem Changes
+        Decay Process
+        Half-Life
+      Limitations
+        Maximum Age for Dating
+        Inapplicability to Recent Objects
+    Other Radiometric Dating Methods
+      Potassium-Argon Dating
+        Mechanism
+        Best Materials
+        Age Range
+      Uranium-Lead Dating
+        Isotopes
+          Uranium-238
+          Uranium-235
+        Mechanism
+        Best Materials
+        Age Range
+    General Principles
+      Measurement of Isotopes
+      Accuracy Checks
+      Limitations of Radiometric Dating
+        Measurable Isotopes Requirement
+        Inapplicability to Sedimentary Rocks
+      Relative Dating Techniques

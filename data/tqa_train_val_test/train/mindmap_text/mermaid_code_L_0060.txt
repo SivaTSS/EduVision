@@ -1,0 +1,55 @@
+mindmap
+  Asteroids and Other Solar System Objects
+    Asteroid Belt
+      Definition
+      Location
+      Formation
+      Mass Comparison
+    Asteroids
+      Characteristics
+        Irregular Shape
+        Small Size
+        No Atmosphere
+        Geologically Inactive
+      Types
+        Near-Earth Asteroids
+        Main Belt Asteroids
+      Impact on Earth
+        Potential Damage
+        Historical Extinctions
+    Comets
+      Definition
+      Characteristics
+        Icy Composition
+        Elliptical Orbits
+        Coma and Tail Formation
+      Types
+        Short-Period Comets
+          Origin: Kuiper Belt
+        Long-Period Comets
+          Origin: Oort Cloud
+    Meteoroids, Meteors, and Meteorites
+      Definitions
+        Meteoroid
+        Meteor
+        Meteorite
+      Processes
+        Entry into Atmosphere
+        Meteor Showers
+    Dwarf Planets
+      Definition
+      Examples
+        Ceres
+        Pluto
+        Makemake
+        Haumea
+        Eris
+      Characteristics
+        Spherical Shape
+        Not Clearing Orbit
+    Scientific Exploration
+      Importance of Asteroids
+      Space Missions
+        NEAR Shoemaker
+        Hayabusa
+        Dawn Mission

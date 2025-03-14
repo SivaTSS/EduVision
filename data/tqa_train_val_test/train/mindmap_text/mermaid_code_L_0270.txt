@@ -1,0 +1,32 @@
+mindmap
+  %% Central Topic
+  Precambrian Continents
+    Why Felsic Continental Crust Not First?
+    Importance of Greenstones
+      Definition of Greenstones
+      Role in Early Earth History
+    Vigorous Plate Tectonics in Early Earth
+      Faster Convection
+      Characteristics of Early Plate Tectonics
+    Cratons
+      Definition of Craton
+      Shield and Platform
+        Cratonic Rock at Surface
+        Younger Sediments Covering Cratons
+      Geological Significance
+        Paleogeography Insights
+        Felsic Igneous Rocks
+        Rounded Sedimentary Grains
+    Greenstone Significance
+      Presence in Oceanic Trenches
+      Indication of Subduction Zones
+    Precambrian Shields
+      Definition and Age
+      Examples
+        Canadian Shield
+    Erosion and Exposure
+      Younger Rocks and Platforms
+      Exposed Cratons
+    Earth's Interior and Cooling
+      Warmer Interior in Pre-Archean and Archean
+      Remaining Internal Heat

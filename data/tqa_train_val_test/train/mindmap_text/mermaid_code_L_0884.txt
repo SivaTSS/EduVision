@@ -1,0 +1,26 @@
+mindmap
+  Electron Cloud Atomic Model
+    Movement of Electrons
+      Influences
+    Heisenberg Uncertainty Principle
+      Definition
+      Relation to Electron Orbitals
+    Bohr's Model of the Atom
+      Fixed Energy Levels
+      Limitations
+        Cannot Explain All Electron Behaviors
+        Only Works for Hydrogen
+    Schrödinger's Contribution
+      Problem with Bohr's Model
+      Wave Behavior of Electrons
+      Equation for Electron Probability
+      Identification of Orbitals
+        Shapes of Orbitals
+          Spheres
+          Dumbbells
+          Rings
+    Electron Cloud Model
+      Quantum Mechanical Model
+      Visual Representation
+        Fuzzy Cloud Around Nucleus
+        Densest Area of Cloud

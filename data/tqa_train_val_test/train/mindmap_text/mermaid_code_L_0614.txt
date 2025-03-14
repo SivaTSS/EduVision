@@ -1,0 +1,33 @@
+mindmap
+  Non-Infectious Reproductive System Disorders
+    Male Reproductive Disorders
+      Testicular Cancer
+        Common Age Group
+        Signs and Symptoms
+        Misdiagnosis
+        Treatability
+        Treatment Options
+        Causes
+        Risk Factors
+      Testicular Injuries
+        Common Causes
+        Symptoms
+        Duration
+    Female Reproductive Disorders
+      Vaginitis
+        Symptoms
+        Causes
+        Treatment
+      Ovarian Cysts
+        Definition
+        Cancerous vs Non-Cancerous
+        Common Type
+        Symptoms
+        Surgical Removal
+      Breast Cancer
+        Common Age Group
+        Symptoms
+        Treatment
+    General Information
+      Non-Transmissible Disorders
+      Impact on Health

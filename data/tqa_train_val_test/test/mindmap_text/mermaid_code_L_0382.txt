@@ -1,0 +1,34 @@
+mindmap
+  Animal Behavior
+    Communication
+      Definition
+      Importance for Social Animals
+      Methods
+        Hearing
+        Sight
+        Smell
+    Social Animals
+      Definition
+      Examples
+        Insects
+        Birds
+        Mammals
+      Cooperation
+        Task Division
+        Defense
+        Food Sharing
+    Reproductive Behaviors
+      Mating
+        Courtship Behaviors
+      Care for Offspring
+    Defensive Behaviors
+      Territoriality
+      Defensive Displays
+    Cyclical Behaviors
+      Annual Cycles
+        Migration
+        Hibernation
+      Daily Cycles
+        Circadian Rhythms
+        Diurnal
+        Nocturnal

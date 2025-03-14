@@ -1,0 +1,50 @@
+mindmap
+  Cancer
+    How Cancer Cells Grow and Divide
+      Oncogenes
+        Definition
+        Receptor Differences
+      Cancer Spread
+        Bloodstream Metastasis
+    How Cancer Grows and Spreads
+      Genetic Mutations
+        Formation of Cancer
+        Mutation Rates
+      Angiogenesis
+        Role in Cancer Spread
+    Carcinogens
+      Definition
+      Examples
+        Pathogens
+          HPV
+          Hepatitis B
+        Chemicals
+          Tobacco
+          Asbestos
+          Formaldehyde
+          Benzene
+          Cadmium
+          Nickel
+        Radiation
+          UV Radiation
+          Radon
+    Types of Cancer
+      Adult Cancers
+        Prostate Cancer
+        Breast Cancer
+        Lung Cancer
+      Childhood Cancers
+        Leukemia
+    Treatment Options
+      Surgery
+      Chemotherapy
+      Radiation Therapy
+    Warning Signs of Cancer
+      Bowel/Bladder Changes
+      Non-healing Sores
+      Unusual Bleeding
+      Lumps
+      Chronic Indigestion
+      Difficulty Swallowing
+      Changes in Warts/Moles
+      Persistent Cough

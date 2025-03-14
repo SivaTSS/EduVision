@@ -1,0 +1,47 @@
+mindmap
+  Using Satellites and Computers
+    Orbits
+      Geostationary Orbits
+        Definition
+        Uses
+          Weather Satellites
+          Communications Satellites
+      Polar Orbits
+        Definition
+        Uses
+          Global Weather Observation
+          Land and Ocean Monitoring
+    Satellite Types
+      Weather Satellites
+      Communications Satellites
+      Global Positioning Satellites
+      Climate Satellites
+    Global Positioning System (GPS)
+      Functionality
+        GPS Receiver
+        Satellite Signals
+        Location Calculation
+      Number of Satellites Needed
+        One Satellite
+        Two Satellites
+        Minimum for Accurate Location
+    Geographic Information Systems (GIS)
+      Definition
+      Applications
+        Mapping Natural Resources
+        Urban Planning
+        Data Integration
+    Satellite Imagery
+      Types of Images
+        Water Vapor
+        Ocean Temperatures
+        Vegetation
+      Importance
+        Large Scale Observation
+        Disaster Tracking
+    Historical Context
+      1900 Galveston Hurricane
+        Lack of Satellite Technology
+        Impact on Lives
+      Hurricane Katrina (2005)
+        Role of Satellites in Disaster Response

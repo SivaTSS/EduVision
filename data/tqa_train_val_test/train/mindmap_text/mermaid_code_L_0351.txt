@@ -1,0 +1,43 @@
+mindmap
+  Water Pollution
+    Point Source Pollution
+      Definition
+      Examples
+    Non-Point Source Pollution
+      Definition
+      Common Pollutants
+        Fertilizers
+        Pesticides
+        Animal Waste
+      Impact on Water Quality
+        Greatest Impact
+        Pathways to Water Sources
+    Municipal Pollution
+      Sources
+        Sewage
+        Storm Drains
+        Septic Tanks
+        Yard Runoff
+        Boats
+      Effects on Health
+    Industrial Pollution
+      Sources
+        Factories
+        Hospitals
+      Types of Pollutants
+        Radioactive Substances
+        Heavy Metals
+        Fossil Fuel By-products
+        Oil and Petroleum Products
+        Heat
+    Agricultural Pollution
+      Sources
+        Crop Runoff
+        Livestock Waste
+      Environmental Impact
+        Algal Blooms
+        Oxygen Depletion
+    Global Context
+      Developed vs. Developing Countries
+        Raw Sewage Issues
+        Water Shortages

@@ -1,0 +1,28 @@
+mindmap
+  Symbiosis
+    Definition
+      Close interaction between different species
+      At least one species benefits
+    Types
+      Mutualism
+        Both species benefit
+        Examples
+          Herbivores and intestinal bacteria
+          Clownfish and sea anemone
+          Plover bird and African crocodile
+          Ostrich and zebra
+      Commensalism
+        One species benefits, other unaffected
+        Examples
+          Spiders and trees
+          Cattle egrets and livestock
+          Tigers and golden jackals
+      Parasitism
+        Parasitic species benefits, host harmed
+        Examples
+          Hookworm
+            Lives in host's intestine
+            Causes pain
+            Can kill host (rare)
+    Importance
+      Necessary for survival of one or both organisms

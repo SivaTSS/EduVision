@@ -1,0 +1,38 @@
+mindmap
+  Reactants and Products
+    Chemical Reactions
+      Definition
+        Reactants
+        Products
+      General Formula
+        Reactants → Products
+      Bond Changes
+        Bonds break
+        New bonds form
+    Examples
+      Candle Burning
+        Reactants
+          Fuel (candlewick and wax)
+          Oxygen
+        Products
+          Carbon dioxide
+          Water vapor
+      Water Formation
+        Reactants
+          Hydrogen (H2)
+          Oxygen (O2)
+        Products
+          Water (H2O)
+    Chemical Equations
+      Representation
+        Direction of Reaction
+          Forward Arrow (→)
+          Reverse Arrow (←)
+      Combustion Reaction
+        General Equation
+          Fuel + O2 → CO2 + H2O
+    Key Concepts
+      Atom Rearrangement
+        Same Atoms
+        Different Combinations
+        New Substances

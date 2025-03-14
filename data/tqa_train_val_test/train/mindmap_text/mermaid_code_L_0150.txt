@@ -1,0 +1,36 @@
+mindmap
+  Climate and Latitude
+    Solar Radiation
+      Equator
+        Most solar radiation
+        Direct overhead sunlight
+        Equal day length year-round
+      Poles
+        Least solar radiation
+        Low sun angle
+        Six months of night
+        Thick atmosphere filtering sunlight
+        High albedo from ice and snow
+    Temperature Variation
+      Importance of Latitude
+        Determines temperature
+        Exceptions to the rule
+      Geographic Influences
+        Andes Mountains
+          Lower temperatures in western South America
+        Rocky Mountains
+          Lower temperatures due to altitude
+        Gulf Stream
+          Warmer temperatures in Western Europe
+    Precipitation Patterns
+      Rising Air Regions
+      Sinking Air Regions
+    Climate Characteristics
+      Deserts
+        Sahara and American Southwest at similar latitudes
+      Forests
+        Abundant at 60-degrees latitude
+        Stormy regions
+      Polar Deserts
+        North and South Poles classified as deserts
+        Presence of snow

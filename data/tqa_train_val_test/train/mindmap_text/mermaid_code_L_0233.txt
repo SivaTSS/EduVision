@@ -1,0 +1,21 @@
+mindmap
+  mesosphere
+    Location
+      Above stratosphere
+    Temperature
+      Gradient
+        Decreases with altitude
+        Extremely cold at top (-90°C)
+    Density
+      Very low gas density
+      99.9% of atmosphere's mass below
+      Low air pressure
+    Human Effects
+      Severe burns from UV light
+      Blood boiling at normal temperature
+      Lack of oxygen
+    Meteors
+      Burn due to low air density
+      Interaction with atmosphere
+    Clouds
+      Occasional noctilucent clouds

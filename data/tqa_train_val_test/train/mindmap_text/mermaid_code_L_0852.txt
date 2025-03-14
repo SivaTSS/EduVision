@@ -1,0 +1,28 @@
+mindmap
+  Radiation
+    Uses
+      Alpha Radiation
+        Smoke Alarms
+      Beta Radiation
+        Medical Applications
+      Gamma Radiation
+        Cancer Treatment
+        Imaging
+        Sterilization
+    Dangers
+      Background Radiation
+        Sources
+          Rocks
+          Cosmic Rays
+        Effects
+          Safe Levels
+          Long-term Exposure
+          High-dose Exposure
+      Radon
+        Formation
+        Health Risks
+          Lung Cancer
+    Detection
+      Geiger Counter
+        Function
+        Operation

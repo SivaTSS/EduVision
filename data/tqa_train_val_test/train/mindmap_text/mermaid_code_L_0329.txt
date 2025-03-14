@@ -1,0 +1,32 @@
+mindmap
+  Thermosphere and Beyond
+    Thermosphere
+      Location
+      Temperature Gradient
+      Sub-layers
+        Ionosphere
+          Definition
+          Ionization Process
+          Characteristics
+            Radio Wave Reflection
+            AM Radio Reception
+    Ionosphere
+      Name Origin
+      Ions Sources
+        Solar Radiation
+        Solar Wind
+      Aurora
+        Causes
+        Location
+          Aurora Borealis
+          Aurora Australis
+    Van Allen Radiation Belts
+      Description
+      Origin of Particles
+        Solar Flares
+      Magnetic Field Interaction
+    Solar Wind
+      Composition
+        Protons
+        Electrons
+      Effects on Earth

@@ -1,0 +1,21 @@
+mindmap
+  Decomposition Reactions
+    Definition
+      - Breakdown of one reactant into two or more products
+      - General equation: AB → A + B
+    Examples
+      - Hydrogen Peroxide
+        - Decomposition: 2 H2O2 → 2 H2O + O2
+      - Carbonic Acid
+        - Decomposition: H2CO3 → H2O + CO2
+      - Water
+        - Decomposition: 2 H2O → 2 H2 + O2
+    Characteristics
+      - Opposite of synthesis reactions
+      - Products vary based on reactants
+    Balanced Equations
+      - Missing components in examples
+        - 2Ni2O3 → 4Ni + ?
+        - 2Al2O3 → ? + 3O2
+    General Rules
+      - Decomposition of metal hydrogen carbonates

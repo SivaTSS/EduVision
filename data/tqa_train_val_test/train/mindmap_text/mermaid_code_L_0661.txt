@@ -1,0 +1,23 @@
+mindmap
+  Respiratory System
+    Inhalation
+      Definition: Air intake through nose/mouth
+      Process: Diaphragm and rib muscles contract
+      Effect: Chest volume increases, air pressure decreases
+    Exhalation
+      Definition: Air expulsion through nose/mouth
+      Process: Diaphragm and rib muscles relax
+      Effect: Air pressure increases, air pushed out
+    Gas Exchange
+      Location: Alveoli
+      Mechanism: Simple diffusion
+        Oxygen: Moves from alveoli to blood
+        Carbon Dioxide: Moves from blood to alveoli
+    Role of Epiglottis
+      Function: Prevents food from entering the trachea
+    Breathing vs. Respiration
+      Breathing: Movement of air in and out
+      Respiration: Includes gas exchange and cellular processes
+    Control of Breathing
+      Involuntary: Controlled by brain
+      Voluntary: Can be controlled during activities (e.g., swimming, singing)

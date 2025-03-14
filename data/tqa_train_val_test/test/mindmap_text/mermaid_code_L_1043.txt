@@ -1,0 +1,38 @@
+mindmap
+  Technological Design Process
+    Technological Design
+      Definition
+      Importance
+      Similarity to Scientific Investigation
+    Steps of the Process
+      Identify a Problem
+      Research the Problem
+      Generate Possible Solutions
+      Select the Best Solution
+      Create a Model
+      Test the Model
+      Refine and Retest
+      Communicate Final Solution
+    Constraints
+      Cost
+      Safety
+      Functionality
+    Example: Tri-ATHLETE Robot
+      Problems Addressed
+      Solutions Provided
+      Testing Methods
+      Design Refinement
+    Example: Solar-Powered Car
+      Research Questions
+        Best Shape for Sunlight
+        Energy Conversion
+        Backup Energy Source
+      Design Development
+      Model Testing
+    Example: Wheelchair Carrier
+      Research Questions
+        Personal Items to Carry
+        Modifiable Carriers
+        Attachment Points
+      Model Creation
+      Testing Procedures

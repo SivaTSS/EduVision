@@ -1,0 +1,34 @@
+mindmap
+  Community
+    Definition
+      Biotic component of an ecosystem
+      Populations of species in an area
+    Community Interactions
+      Predation
+        Predator-prey relationship
+        Balance of populations
+        Keystone species
+      Competition
+        Intraspecific competition
+          Same species
+          Natural selection
+        Interspecific competition
+          Different species
+          Outcomes: extinction or adaptation
+      Symbiosis
+        Mutualism
+          Both species benefit
+          Example: clownfish and anemone
+        Parasitism
+          One species benefits, one is harmed
+          Example: hookworm
+        Commensalism
+          One species benefits, other is unaffected
+          Example: cattle egrets and cattle
+    Adaptations
+      Predator adaptations
+        Capture prey
+      Prey adaptations
+        Avoid predators
+      Camouflage
+        Benefits for both predator and prey

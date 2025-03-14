@@ -1,0 +1,20 @@
+mindmap
+  Doppler Effect
+    Definition
+      Change in frequency of sound waves
+      Occurs with moving source relative to listener
+    Explanation
+      Sound waves bunch up when source approaches
+      Sound waves spread out when source moves away
+      Higher frequency = higher pitch
+      Lower frequency = lower pitch
+    Example: Police Car Siren
+      Approaching Listener A
+        Sound waves closer together
+        Higher pitch heard
+      Moving Away from Listener B
+        Sound waves farther apart
+        Lower pitch heard
+      After Passing Listener A
+        Sudden drop in pitch
+        Sound waves spread out

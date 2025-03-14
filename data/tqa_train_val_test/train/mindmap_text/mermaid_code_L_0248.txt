@@ -1,0 +1,29 @@
+mindmap
+  Natural Gas Power
+    Fracking
+      Definition
+      Process
+        Drilling a Fracking Well
+        Hydraulic Fracturing
+      Environmental Concerns
+        Groundwater Contamination
+        Earthquake Generation
+      Advantages
+    Natural Gas Formation
+      Comparison to Crude Oil
+      Formation Process
+        Organic Material
+        Shale Formation
+    Natural Gas Characteristics
+      Composition
+        Methane
+      Environmental Impact
+        Cleaner Burning
+        Fewer Greenhouse Gases
+    Natural Gas Processing
+      Necessity of Processing
+      Removal of Impurities
+      Delivery and Usage
+        Cooking
+        Heating
+        Electricity Generation

@@ -1,0 +1,48 @@
+mindmap
+  Life Sciences
+    Biology
+      Subspecialties
+        Entomology
+          Focus: Study of insects
+        Virology
+          Focus: Study of viruses
+        Bacteriology
+          Focus: Study of bacteria
+        Microbiology
+          Focus: Study of microorganisms
+        Ecology
+          Focus: Interactions between organisms and environments
+        Botany
+          Focus: Study of plants
+        Zoology
+          Focus: Study of animals
+        Marine Biology
+          Focus: Organisms in oceans
+        Freshwater Biology
+          Focus: Organisms in freshwater environments
+      Cell Biology
+        Focus: Cellular structure and function
+      Genetics
+        Focus: Heredity and gene transmission
+      Molecular Biology
+        Focus: Study of molecules (DNA, proteins)
+      Anatomy
+        Focus: Structures of animals
+      Physiology
+        Focus: Functions of tissues and organs
+      Neuroscience
+        Focus: Study of the nervous system
+      Developmental Biology
+        Focus: Growth and development of organisms
+      Biochemistry
+        Focus: Chemistry of living organisms
+      Epidemiology
+        Focus: Disease spread and occurrence
+      Evolution
+        Focus: Changing of species over time
+      Ecology
+        Focus: Ecosystems and biodiversity
+      Biogeography
+        Focus: Distribution of organisms
+      Population Biology
+        Focus: Biodiversity and evolution of populations

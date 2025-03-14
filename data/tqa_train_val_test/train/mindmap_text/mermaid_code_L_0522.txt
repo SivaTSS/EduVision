@@ -1,0 +1,31 @@
+mindmap
+  Flatworms
+    Characteristics
+      No true body cavity
+      Bilateral symmetry
+      Incomplete digestive system
+      No respiratory system
+      No blood vessels
+      Ladder-like nervous system
+      Cephalization
+    Types
+      Free-living
+        Marine flatworms
+        Freshwater flatworms
+          Example: Dugesia
+      Parasitic
+        Tapeworms
+          Scolex with hooks and suckers
+    Nervous System
+      Comparison to cnidarians
+      Sensory organs
+        Eyespots
+    Reproduction
+      Internal fertilization
+      External fertilization
+      Advantages of internal fertilization
+    Habitat
+      Variety of environments
+      Feeding habits
+        Carnivores
+        Scavengers

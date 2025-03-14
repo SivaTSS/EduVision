@@ -1,0 +1,37 @@
+mindmap
+  Absolute Ages of Rocks
+    Absolute Age
+      Definition
+      Difference from Relative Age
+    Radiometric Dating
+      Methods
+        Carbon-14 Dating
+        Other Isotopes
+      Process
+        Radioactive Decay
+          Definition
+          Breakdown of Isotopes
+          Half-Life
+            Definition
+            Example: Carbon-14
+    Radioactive Decay
+      Unstable Isotopes
+        Definition
+        Example: Carbon-14
+          Formation in Atmosphere
+          Decay Process
+            Alpha Particle Loss
+            Stable Element Formation
+    Carbon-14 Dating
+      Mechanism
+        Carbon Intake in Living Organisms
+        Decay After Death
+        Estimation of Time Since Death
+      Limitations
+        Age Range
+        Applicability to Organic Remains
+    Other Isotopes for Dating
+      Potassium-40
+      Uranium-235
+      Uranium-238
+      Comparison with Carbon-14

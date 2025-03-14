@@ -1,0 +1,36 @@
+mindmap
+  Scientific Method
+    Definition
+      Series of steps to investigate questions
+      Goal: Answer questions about the natural world
+    Key Concepts
+      Scientific Question
+        Testable
+        Example: Age of Earth vs. Angels on a pin
+      Observation
+        Definition: Gathering information
+        Types
+          Qualitative
+          Quantitative
+      Inference
+        Definition: Conclusion based on observations
+    Steps of the Scientific Method
+      Ask a Question
+        Based on observations or previous data
+      Background Research
+        Essential for understanding the question
+      Hypothesis
+        Testable prediction
+      Experimentation
+        Conduct experiments or make observations
+      Data Collection
+        Gather results from experiments
+      Conclusion
+        Analyze data to answer the question
+    Variables
+      Independent Variable
+        Example: Amount of CO2
+      Dependent Variable
+        Example: Temperature change
+    Example Question
+      Is the amount of carbon dioxide in Earth's atmosphere changing?

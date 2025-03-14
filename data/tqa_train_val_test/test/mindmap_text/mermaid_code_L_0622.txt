@@ -1,0 +1,38 @@
+mindmap
+  Speciation
+    Definition
+      Creation of a new species
+      Natural vs. Artificial selection
+    Natural Selection
+      Process
+        Adaptation to environment
+        Survival of beneficial traits
+      Example
+        Giraffe neck length
+    Artificial Selection
+      Definition
+        Human-driven breeding
+      Example
+        Selective breeding of cows
+        Dog breeds from wolves
+    Reproductive Isolation
+      Definition
+        Prevents mating between populations
+      Types
+        Geographic isolation (Allopatric)
+        Behavioral isolation (Sympatric)
+    Allopatric Speciation
+      Definition
+        Geographic separation of populations
+      Examples
+        Darwin's finches on Galapagos Islands
+        Squirrels separated by the Grand Canyon
+    Sympatric Speciation
+      Definition
+        Non-geographic separation
+      Examples
+        Orcas with different hunting behaviors
+        Galapagos finches with distinct mating signals
+    Comparison
+      Natural vs. Artificial Selection
+      Allopatric vs. Sympatric Speciation

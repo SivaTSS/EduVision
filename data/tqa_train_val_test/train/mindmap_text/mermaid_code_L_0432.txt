@@ -1,0 +1,41 @@
+mindmap
+  Darwin's Theory of Evolution
+    Theory of Evolution by Natural Selection
+      Definition
+        Change in inherited traits over time
+        Process of natural selection
+      Major Ideas
+        Evolution occurs
+        Natural selection as a mechanism
+    Darwin's Voyage on the Beagle
+      Duration and Route
+        1831-1836
+        Global expedition
+      Observations
+        Fossils of ancient organisms
+        Galapagos Islands
+          Giant tortoises
+          Finches
+    Influences on Darwin
+      Artificial Selection
+        Breeding for beneficial traits
+        Example: Pigeons
+      Other Scientists
+        Jean Baptiste Lamarck
+          Proposed species change over time
+        Charles Lyell
+          Geological processes and Earth's age
+        Thomas Malthus
+          Population growth and resource limits
+    Key Observations
+      Galapagos Tortoises
+        Shell shape variations
+        Adaptations to island environments
+      Galapagos Finches
+        Beak size and shape variations
+        Adaptations to available food sources
+    Publication
+      On the Origin of Species
+        Year: 1859
+        Impact on science
+        Evidence for the theory

@@ -1,0 +1,38 @@
+mindmap
+  Rock Types
+    Definition
+      What is a rock?
+      Composition of rocks
+    Major Rock Types
+      Igneous Rocks
+        Formation
+          Magma cooling
+          Lava cooling
+        Characteristics
+          Crystals
+          Types of igneous rocks
+      Sedimentary Rocks
+        Formation
+          Compaction and cementation
+          Types of sediments
+        Characteristics
+          Fossils
+          Layers
+      Metamorphic Rocks
+        Formation
+          Heat and pressure
+        Characteristics
+          Texture changes
+          Mineral composition
+    Rock Cycle
+      Processes
+        Cooling and crystallization
+        Weathering and erosion
+        Metamorphism
+      Transformations
+        Igneous to sedimentary
+        Sedimentary to metamorphic
+        Metamorphic to igneous
+    Importance of Rocks
+      Clues about Earth's history
+      Uses in modern society

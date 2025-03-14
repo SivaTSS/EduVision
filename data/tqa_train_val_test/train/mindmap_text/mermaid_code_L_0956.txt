@@ -1,0 +1,30 @@
+mindmap
+  Modern Periodic Table
+    What is the modern periodic table?
+      Definition
+      Arrangement by atomic number
+      Representation of elements
+    Periods and Groups
+      Periods
+        Definition
+        Characteristics
+        Example: Period 1 (H, He)
+      Groups
+        Definition
+        Characteristics
+        Example: Group 1 (Reactive solids)
+        Example: Group 18 (Noble gases)
+    Element Example: Lead (Pb)
+      Protons
+      Class of elements
+    Metalloids
+      Definition
+      Groups containing metalloids
+      Example: Arsenic (As)
+    Historical Context
+      Dmitri Mendeleev
+        Organization by atomic mass
+        Groups and periods in Mendeleev's table
+      Modern vs. Mendeleev's table
+        Arrangement by atomic number
+        Discovery of new elements

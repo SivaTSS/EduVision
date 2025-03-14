@@ -1,0 +1,16 @@
+mindmap
+  Accelerating Due to Gravity
+    Why Objects Fall Faster
+      Longer Fall Increases Velocity
+      Acceleration Rate
+        9.8 m/s²
+    Rate of Acceleration
+      Constant for All Objects
+      Independent of Mass
+    Effect of Mass
+      Mass vs. Acceleration
+        Bowling Ball vs. Soccer Ball
+        Same Acceleration in Vacuum
+      Air Resistance
+        Affects Different Objects
+        Example: Leaf vs. Acorn

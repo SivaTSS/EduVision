@@ -1,0 +1,22 @@
+mindmap
+  Distance
+    Definition
+      Length of route between two points
+    SI Unit
+      Meter (m)
+      Other units
+        Centimeters (cm)
+        Kilometers (km)
+    Examples
+      Measuring distances
+        From bottom to top of a sheet of paper (cm)
+        From house to school (km)
+      Race distances
+        Length of track (e.g., 100 meters)
+    Maps
+      Using scale to measure distance
+        Example: Distance from Jordan's house to school (2 km)
+      Points of interest
+        School
+        Park
+        Post office

@@ -1,0 +1,28 @@
+mindmap
+  Chordates
+    Characteristics
+      Notochord
+      Dorsal Hollow Nerve Cord
+      Post-anal Tail
+      Pharyngeal Slits
+    Classes
+      Fish
+      Amphibians
+      Reptiles
+      Birds
+      Mammals
+    Subphyla
+      Urochordata
+        Tunicates
+        Larval Stage Features
+      Cephalochordata
+        Lancelets
+        Fish-like Characteristics
+      Vertebrata
+        Humans
+        Other Vertebrates
+    Development
+      Embryonic Traits
+      Adult Traits
+      Misconceptions
+        Gill Slits in Humans

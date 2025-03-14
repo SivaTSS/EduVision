@@ -1,0 +1,31 @@
+mindmap
+  Earth Science
+    Branches
+      Geology
+        Study of solid materials
+        Processes creating structures
+        Composition of rocks and minerals
+        Natural processes of creation and destruction
+        Human use of Earth materials
+      Oceanography
+        Study of ocean environment
+        Coverage of Earth's surface
+        Exploration of ocean depths
+        Marine geology
+      Meteorology
+        Study of weather patterns
+        Use of technology for forecasting
+        Study of clouds, hurricanes, tornadoes
+      Climatology
+        Study of the atmosphere
+        Long-range climate changes
+        Impact of carbon dioxide on climate
+      Environmental Science
+        Effects of humans on the environment
+        Interaction with landscape, atmosphere, water, living things
+        Relation to climate change
+      Astronomy
+        Study of outer space
+        Use of telescopes
+        Design of spacecraft
+        Information gathering from space

@@ -1,0 +1,37 @@
+mindmap
+  Population Growth
+    Limiting Factors
+      Definition
+        - Environmental elements that lower growth rate
+      Examples
+        - Low food supply
+        - Lack of space
+        - Light
+        - Water
+        - Nutrients
+        - Oxygen
+        - Disease/Parasites
+        - Temperature
+        - Predation
+        - Weather
+        - Human activities (pesticides, habitat destruction)
+    Types of Growth
+      Exponential Growth
+        - Characterized by rapid increase (J-shaped curve)
+        - Occurs without limiting factors
+      Logistic Growth
+        - Characterized by S-curve
+        - Occurs with limiting factors
+        - Levels off at carrying capacity (K)
+    Carrying Capacity
+      Definition
+        - Maximum population size supported without habitat destruction
+      Influences
+        - Determined by limiting factors
+        - Affects birth and death rates
+    Population Dynamics
+      Initial Growth
+        - High birth rates with ample resources
+      Resource Depletion
+        - Decrease in resources leads to lower birth rates
+        - Population stabilizes at carrying capacity

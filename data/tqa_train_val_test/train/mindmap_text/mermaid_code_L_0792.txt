@@ -1,0 +1,18 @@
+mindmap
+  Accuracy and Precision
+    Accuracy
+      Definition: Close to true value
+      Example: Golf balls in oversized hole
+        Characteristics: All balls land in hole
+    Precision
+      Definition: Close in value to each other
+      Example: Golf balls clustered together
+        Characteristics: Balls close but not near hole
+    Measurement Evaluation
+      Questions
+        1. Complete the statement
+        2. What makes measurements precise?
+        3. Kami's measurements analysis
+          Results: 66.71 mL, 66.70 mL, 66.69 mL
+          Actual volume: 69.70 mL
+          Evaluation: Precise but not accurate
