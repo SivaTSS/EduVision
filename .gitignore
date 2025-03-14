@@ -1,9 +1,7 @@
 results
 *.ipynb_checkpoints
 keys.json
-
-
-
+models
 
 data/*
 !data/tqa_train_val_test/
