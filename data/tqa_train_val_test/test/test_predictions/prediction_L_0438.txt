@@ -1,0 +1,38 @@
+mindmap
+  Archaea
+    Definition
+      Prokaryotes in Archaea Domain
+      Discovered in extreme environments
+      Classified as bacteria until 1970s
+    Extremophiles
+      Halophiles
+        Love salt
+        Found in Great Salt Lake, Dead Sea
+      Hyperthermophiles
+        Love heat
+        Grow in hot springs, geysers
+      Acidophiles
+        Love acids
+        Found in acid mine drainage, volcano vents
+      Alkaliphiles
+        Love bases
+        Found in Mono Lake, other basic environments
+    Habitats
+      Soils
+      Bodies of water
+      Marshlands
+      Human belly button
+    Ecological Roles
+      Decomposers
+        Break down sewage in waste treatment plants
+        Recycle carbon and nitrogen
+      Relationships with other organisms
+        Live inside animals, including humans
+        Help cows digest cellulose
+        Produce methane gas as waste product
+    Importance
+      Make up 20% of Earth's total mass of living things
+      Common in the ocean
+      Abundant in plankton
+      None known to cause human disease
+      More likely to help hosts

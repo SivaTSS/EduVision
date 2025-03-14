@@ -1,0 +1,41 @@
+mindmap
+  Scientific Method
+    Scientific Question
+      Testable
+      Observation
+        Types
+          Direct
+          Indirect
+    Background Research
+    Hypothesis
+    Experiment
+      Independent Variable
+      Dependent Variable
+    Data Collection
+    Conclusion
+    Iterative Process
+      Refine Question
+      Refine Hypothesis
+      Refine Experiment
+    Example: Tomato Plants
+      Independent Variable: Fertilizer
+      Dependent Variable: Growth Rate
+    Good Science Questions
+      Testable
+      Specific
+      Measurable
+      Observable
+      Relevant
+    Non-Science Questions
+      Unanswerable
+      Subjective
+    CO2 Levels
+      Rising Since 1880
+      Greenhouse Gas
+      Testable Question
+      Data Collection
+      Conclusion
+      Iterative Process
+        Refine Question
+        Refine Hypothesis
+        Refine Experiment

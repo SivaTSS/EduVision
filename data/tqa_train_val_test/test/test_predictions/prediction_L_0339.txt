@@ -1,0 +1,36 @@
+mindmap
+  Marine Organisms
+    Kelp
+      Definition
+      Importance
+      Adaptations
+    Phytoplankton
+      Differences from Plants
+      Importance
+    Zooplankton
+      Description
+      Importance
+    Plants
+      Types
+      Locations
+    Invertebrates
+      Variety
+      Adaptations
+    Fish
+      Characteristics
+      Adaptations
+    Reptiles
+      Types
+      Locations
+    Birds
+      Shorebirds
+      Seabirds
+    Mammals
+      Characteristics
+      Adaptations
+      Types
+        Cetaceans
+        Sirenians
+        Mustelids
+        Pinnipeds
+        Polar Bear

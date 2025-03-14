@@ -1,0 +1,28 @@
+mindmap
+  Fungi Reproduction
+    Asexual Reproduction
+      Spores
+        Formed by fungi
+        Released to create new fungi
+        Haploid reproductive cells
+        Genetically identical offspring
+      Budding
+        Fungus grows new part of body
+        Breaks off to form new organism
+      Fragmentation
+        Piece of mycelium splits off
+        Fragment can produce new colony
+    Sexual Reproduction
+      Zygospore
+        Results from two parents
+        Increases genetic diversity
+      Mating Types
+        (+) and (-) hyphae
+        Fuse to form mycelium with sporangia
+    Advantages
+      Asexual Reproduction
+        Faster reproduction
+        More offspring
+      Sexual Reproduction
+        Increases genetic diversity
+        Adaptive to a wider range of environments

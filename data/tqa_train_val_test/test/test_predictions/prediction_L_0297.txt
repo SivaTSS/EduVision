@@ -1,0 +1,60 @@
+mindmap
+  Scientific Explanations and Interpretations
+    Science
+      Definition
+        Facts
+          Data
+            Collection
+          Evidence
+            Types
+    Scientific Method
+      Steps
+        1. Ask a Question
+        2. Do Background Research
+        3. Construct a Hypothesis
+        4. Test the Hypothesis by Doing an Experiment
+        5. Analyze the Data
+        6. Interpret the Results
+        7. Communicate the Results
+      Importance
+        Reliability
+        Objectivity
+        Replicability
+    Peer Review
+      Definition
+        Importance
+          Quality Control
+          Improvement of Work
+      Process
+        Submission
+        Review
+        Revision
+        Publication
+    Theories
+      Definition
+        Examples
+          Evolution
+          Plate Tectonics
+      Modification
+        Reasons
+          New Evidence
+          Improved Understanding
+      Rejection
+        Rarity
+        Consequences
+    Technology
+      Role
+        Data Collection
+        Analysis
+        Communication
+    Misconceptions
+      Sources
+        Print Media
+        Personal Beliefs
+      Examples
+        Coca-Cola Tooth Dissolving
+        Astrology
+    Opinions vs. Facts
+      Definition
+        Differences
+          Subjectivity

@@ -1,0 +1,51 @@
+mindmap
+  Living Things
+    Organization
+      Taxonomy
+        Shape of Life
+          Study of classification
+          Helps other scientists
+          First system: Aristotle
+          Contribution: Linnaeus
+          Classification
+            Categories
+              Domain
+              Kingdom
+              Phylum
+              Class
+              Order
+              Family
+              Genus
+              Species
+            Scientific Name
+              Genus and Species
+              Example: Coyote
+            Species Definition
+              Interbreeding
+              Fertile Offspring
+              Distinctive Features
+    Classification
+      Physical Features
+        Organism Appearance
+        Evolutionary Relationships
+      Importance
+        Understanding Biodiversity
+        Identifying Species
+        Scientific Communication
+    Examples
+      Lions and Tigers
+        Evolutionary Relationship
+      Red and Sugar Maples
+        Similar Genus
+      Human Species
+        Distinctive Appearance
+        Interbreeding Ability
+    Resources
+      Nova: Classifying Life
+        Classification Categories
+        Binomial Nomenclature
+        Species Definition
+      Shape of Life
+        Taxonomy Video
+        Classification Examples
+        Scientific Communication

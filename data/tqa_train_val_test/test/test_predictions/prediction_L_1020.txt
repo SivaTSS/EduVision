@@ -1,0 +1,29 @@
+mindmap
+  Physical Science
+    Matter and Energy
+      Definition
+        Matter: All the stuff that exists in the universe
+        Energy: Ability for matter to move and change
+      Study Areas
+        Chemistry: Study of matter and energy at atomic and molecular scale
+        Physics: Study of matter and energy at all scales
+    Scope
+      Definition
+        Physical Science: Study of matter and energy
+      Influence on Life
+        Everyday Applications
+          Light
+          Electricity
+          Heat
+          Motion
+        Dependence on Discoveries
+          Synthetic Fibers
+          Phone Calls
+          Computers
+    Importance
+      Basis for Modern Life
+        Athletes
+        Everyone
+      Role in Discoveries
+        Smallest Particles of Matter
+        Investigations

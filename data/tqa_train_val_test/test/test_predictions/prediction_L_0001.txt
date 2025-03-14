@@ -1,0 +1,46 @@
+mindmap
+  Nature of Science
+    Scientific Method
+      Asking Questions
+        Importance of Questions
+        Forming Hypotheses
+      Steps of Scientific Method
+        Experiment Design
+          Independent Variable
+          Dependent Variable
+          Experimental Controls
+        Data Collection
+          Measurements
+          Descriptions
+        Data Analysis
+          Graphing
+          Drawing Conclusions
+        Peer Review
+          Publication in Journals
+          Formation of Theories
+    Scientific Models
+      Types of Models
+        Physical Models
+          Globes
+          Drawings
+        Idea Models
+          Explanations of Phenomena
+        Mathematical Models
+          Climate Models
+      Uses of Models
+        Simplification of Complex Systems
+        Prediction of Future Events
+    Safety in Science
+      Importance of Safety
+        Prevention of Accidents
+      Safety Precautions
+        Use of Proper Equipment
+        Cleanliness
+      Field Safety
+        Clothing
+        Supplies
+        Communication
+    Conclusion
+      Importance of Science
+      Continuous Learning
+      Encouragement of Questions

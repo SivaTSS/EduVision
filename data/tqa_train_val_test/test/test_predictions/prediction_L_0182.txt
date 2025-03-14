@@ -1,0 +1,51 @@
+mindmap
+  Global Wind Belts
+    Atmospheric Circulation Cells
+      Hadley Cell
+        Trade Winds
+      Ferrel Cell
+        Westerlies
+      Polar Cell
+        Polar Easterlies
+    Wind Belts
+      Northern Hemisphere
+        Trade Winds
+          Northeast to Southwest
+        Westerlies
+          Southwest
+        Polar Easterlies
+          Northeast
+      Southern Hemisphere
+        Trade Winds
+          Northeast to Southwest
+        Westerlies
+          Southwest
+        Polar Easterlies
+          Northeast
+    Jet Stream
+      Definition
+      Polar Jet Stream
+        Fast-flowing River of Air
+        Turbulent Weather
+        Seasonal Movement
+    Precipitation
+      Low Pressure Regions
+        Rising Air
+        Rain
+      High Pressure Regions
+        Sinking Air
+        Evaporation
+        Dry Regions
+    Polar Front
+      Definition
+      Weather Variability
+      North America and Europe
+    Climate Influence
+      Precipitation Amount
+      Low Pressure Regions
+        Rising Air
+        Rain
+      High Pressure Regions
+        Sinking Air
+        Evaporation
+        Dry Regions

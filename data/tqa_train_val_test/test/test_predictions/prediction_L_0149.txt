@@ -1,0 +1,34 @@
+mindmap
+  Climate
+    Maritime Climate
+      Influenced by nearby ocean
+      Moderated temperatures
+      Less extreme
+    Continental Climate
+      Influenced by nearby land
+      More extreme
+      Greater temperature differences
+    Ocean's Influence
+      Temperature of offshore currents
+      Moderates temperatures
+      Affects nearby land areas
+    Comparison
+      San Francisco
+        Influenced by cool California current
+        Upwelling brings cold water
+      Wichita
+        More extreme continental climate
+      Virginia Beach
+        Near Atlantic Ocean
+        Less influenced by ocean
+        Winds come from continent
+    Factors Affecting Climate
+      Ocean's Temperature
+        California Current
+        Upwelling
+      Wind Direction
+        San Francisco winds come from Pacific
+        Virginia Beach winds come from continent
+      Latitude
+        Influence of westerly winds
+        Gulf Stream's effect on northern Europe

@@ -1,0 +1,39 @@
+mindmap
+  Plant Responses and Special Adaptations
+    Plant Responses
+      Tropisms
+        Gravitropism
+          Roots grow downward due to gravity
+        Phototropism
+          Stems and leaves grow toward light
+      Daily and Seasonal Changes
+        Growth and Development
+          Dormancy in fall
+          Leaf changes and fall
+        Defense Against Disease
+          Cell death around infected tissue
+          Hormones and toxins
+    Special Adaptations
+      Aquatic Plants
+        Advantages
+          Plenty of water
+          Less support needed
+        Challenges
+          Pollination
+          Light penetration
+      Xerophytes
+        Adaptations
+          Increase water intake
+          Decrease water loss
+          Store water
+      Epiphytes
+        Growth on other plants
+        Support from host trees
+        Increased light exposure
+      Carnivorous Plants
+        Nutrient source
+          Insects or small animals
+        Growth location
+          Thin or poor soil
+        Examples
+          Venus fly traps

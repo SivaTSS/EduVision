@@ -1,0 +1,34 @@
+mindmap
+  Symbiosis
+    Definition
+      Close and long-term interaction between different species
+      Benefit gained by each individual
+    Types of Symbiotic Relationships
+      Mutualism
+        Both species benefit
+        Example: Herbivores and Bacteria
+      Commensalism
+        One species benefits while the other is not affected
+        Example: Spiders and Trees
+      Parasitism
+        Parasitic species benefits while the host species is harmed
+        Example: Hookworms
+    Mutualistic Relationships
+      Clownfish and Sea Anemone
+        Clownfish protects anemone
+        Anemone protects clownfish
+    Commensal Relationships
+      Cattle Egrets and Livestock
+        Cattle egrets feed on insects from livestock
+      Ostrich and Zebra
+        Ostrich moves with zebra herd
+        Zebra has keen sense of sight
+    Parasitic Relationships
+      Hookworms
+        Parasites live inside host organisms
+        Cause pain and harm to host
+    Questions
+      What defines a symbiotic relationship?
+      What is symbiosis?
+      What is the difference between mutualism and commensalism?
+      What is an example of a paras

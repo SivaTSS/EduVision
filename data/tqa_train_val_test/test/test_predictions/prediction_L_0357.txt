@@ -1,0 +1,36 @@
+mindmap
+  Wind Power
+    Causes of Wind
+      Sun Heats Earth Unevenly
+        Warm Air Rises
+        Cool Air Moves In
+    Harnessing Wind Energy
+      Wind Turbines
+        Capture Energy
+        High in Sky
+      Wind Farms
+        On Land
+        Near Coastlines
+    Advantages of Wind Power
+      No Pollution
+      Plentiful in Many Places
+    Disadvantages of Wind Power
+      Intermittent Power
+      Expensive
+      Aesthetic Issues
+    Wind Power Growth
+      Fastest Growing Renewable Energy Source
+      Cape Wind Project
+        Controversy
+        Supply of Electricity
+    Historical Use of Wind Power
+      Windmills for Grinding Grain
+      Sailing Ships
+    Wind Power Today
+      Wind Farms in Mountain Passes
+      Wind Farms in California
+        Altamont Pass
+        San Gorgonio Pass
+        Tehachapi Pass
+    Conclusion
+      Wind Power's Potential

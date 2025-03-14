@@ -1,0 +1,36 @@
+mindmap
+  Weather
+    Air Masses
+      Continental
+        Polar
+        Tropical
+      Maritime
+        Polar
+        Tropical
+    Fronts
+      Cold
+        Formation
+        Weather
+      Warm
+        Formation
+        Weather
+      Occluded
+        Formation
+        Weather
+      Stationary
+        Formation
+        Weather
+    Cyclones
+      Definition
+      Formation
+    Anticyclones
+      Definition
+      Formation
+    Storms
+      Tornadoes
+      Thunderstorms
+      Hurricanes
+    Weather Changes
+      Causes
+      Effects
+      Predictions

@@ -1,0 +1,37 @@
+mindmap
+  Echinoderms
+    Importance to Ecosystem
+      Sand Dollars
+        Role in Food Chain
+        Burrowing in Sand
+      Sea Cucumbers
+        Habitat for Parasites
+        Role in Food Chain
+    Food Source
+      Sea Cucumbers
+        Delicacy in SE Asia
+        Soups and Stews
+      Sea Urchins
+        Consumed in Japan, Peru, Spain, France
+        Taste: Soft and Melting
+    Medicine and Research
+      Sea Cucumbers
+        Toxins Slow Down Tumor Growth
+      Sea Urchins
+        Model Organisms
+          Fertilization and Egg Activation
+          Physiological Processes
+          Regulation of Differentiation
+          Molecular Basis of Early Development
+    Uses
+      Lime Source for Farmers
+        Skeleton as Lime Source
+        Approx. 4000 Tons Used Annually
+    Overpopulation and Extinction
+      Sea Urchin Die-off
+        Coral Reef Destruction
+        Increased Algal Growth
+        Geographic Variation
+    References
+      Smart Polymer Inspired by Sea Cucumbers
+        URL: URL:

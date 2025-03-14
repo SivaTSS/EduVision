@@ -1,0 +1,68 @@
+mindmap
+  Animal Communication
+    Definition
+      Communication
+        Sharing information
+      Importance
+        Survival
+          Food
+          Defense
+          Mating
+          Offspring
+    Methods
+      Sound
+        Birds
+          Calls
+          Warnings
+        Monkeys
+          Warnings
+          Mating
+        Frogs
+          Attraction
+        Gibbons
+          Territory
+      Sight
+        Primates
+          Gestures
+          Facial expressions
+        Peacocks
+          Mating
+      Scent
+        Ants
+          Chemicals
+          Communication
+        Dogs
+          Marking territory
+    Human Communication
+      Language
+        Symbols
+          Words
+          Meanings
+      Facial expressions
+        Emotions
+      Gestures
+        Actions
+    Examples
+      Birds
+        Calls
+          Warnings
+          Mating
+      Monkeys
+        Warnings
+          Predators
+          Mating
+      Frogs
+        Attraction
+      Gibbons
+        Territory
+    Questions
+      Definition
+        What is communication?
+      Importance
+        Why is communication important?
+      Scent
+        How do animals communicate with scent?
+      Sight
+        How do animals communicate through sight?
+      Language
+        What is language?

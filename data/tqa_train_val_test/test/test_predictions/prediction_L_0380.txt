@@ -1,0 +1,31 @@
+mindmap
+  Primates
+    Definition
+      Mammal in Primate Order
+      Placental mammals
+      Includes lemurs, lorises, tarsiers, monkeys, apes, humans
+    Traits
+      Five digits on extremities
+      Stereoscopic vision
+      Arboreal origins
+    Habitats
+      Tropical rainforests
+      Central and South America, Africa, South Asia
+    Diet
+      Omnivorous
+      Prefer fruit but consume variety of plant and animal foods
+    Prosimian vs Non-Prosimian
+      Prosimians: smaller, fewer, include lemurs, lorises
+      Non-Prosimians: tarsiers, New World monkeys, Old World monkeys, apes, humans
+    Development
+      Slow rates of development
+      Long maturation period
+      Plenty of time to learn from elders
+    Learning Ability
+      Ability to learn new behaviors
+      Mammals in general, primates in particular
+    Examples
+      Mouse lemur
+      Gorilla
+      Gibbon
+      Chimpanzee

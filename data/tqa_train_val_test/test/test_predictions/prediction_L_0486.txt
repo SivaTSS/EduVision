@@ -1,0 +1,49 @@
+mindmap
+  Choosing Healthy Foods
+    Lesson: Choosing Healthy Foods
+      MyPyramid
+        Grains
+          Whole Grains
+            Whole Wheat Bread
+            Whole Wheat Pasta
+            Brown Rice
+        Vegetables
+          Dark Green Vegetables
+            Spinach
+            Broccoli
+          Orange Vegetables
+            Carrots
+            Sweet Potatoes
+        Fruits
+          Fresh Fruits
+            Oranges
+            Apples
+            Bananas
+            Strawberries
+        Oils
+          Unsaturated Oils
+            Olive Oil
+            Canola Oil
+            Vegetable Oil
+        Dairy
+          Low-Fat or Fat-Free Milk
+          Yogurt
+          Cottage Cheese
+          Other Cheeses
+        Meat and Beans
+          Fish
+          Chicken
+          Lean Cuts of Beef
+          Soybeans
+          Kidney Beans
+        Nutrient-Poor Foods
+          Ice Cream
+          Cookies
+          Potato Chips
+    MyPlate
+      Balancing Calories
+        Enjoy Your Food
+        Avoid Oversized Portions
+      Foods to Increase
+        Make Half Your Plate Fruits and Vegetables
+        Make at Least Half Your Grains Whole Grains

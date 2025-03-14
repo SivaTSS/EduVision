@@ -1,0 +1,28 @@
+mindmap
+  Experiment
+    Definition
+      Controlled scientific study
+      Specific variables
+    Variables
+      Manipulated variable
+        Independent variable
+      Responding variable
+        Dependent variable
+    Control
+      Held constant
+      Influence on outcome
+    Ramp Experiment
+      Manipulated variable
+        Steepness of ramp
+      Responding variable
+        Time to reach bottom
+      Control
+        Smoothness of ramp
+    Other Variables
+      Block related
+        Smoothness
+      Control
+        Identical blocks
+    Implications
+      Unexpected results
+      Importance of controls

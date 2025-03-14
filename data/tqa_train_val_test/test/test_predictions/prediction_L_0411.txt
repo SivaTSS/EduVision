@@ -1,0 +1,46 @@
+mindmap
+  Community
+    Definition
+      Biotic component of an ecosystem
+      Populations of all species in an area
+    Interactions
+      Predation
+        Predator consumes prey
+        Keystone species
+          Prairie dogs
+          Improve soil and water quality
+      Competition
+        Intraspecific
+          Natural selection
+          Adaptations
+        Interspecific
+          Extinction or adaptation
+          Specialized adaptations
+    Symbiosis
+      Mutualism
+        Both species benefit
+        Example: clownfish and anemone
+      Parasitism
+        One species benefits, other is harmed
+        Parasite lives in or on host
+        Example: hookworm
+      Commensalism
+        One species benefits, other unaffected
+        Example: cattle egrets and cattle
+  Predation
+    Predator-Prey Relationship
+      Predator: wolves, moose
+      Prey: moose, wolves
+    Adaptations
+      Camouflage
+        Benefits both predator and prey
+        Example: Figure 23.11
+    Keystone Species
+      Prairie dogs
+        Affect most other species in community
+        Improve soil and water quality
+  Competition
+    Intraspecific
+      Natural Selection
+        Adaptations
+          Food

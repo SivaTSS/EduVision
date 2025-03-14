@@ -1,0 +1,54 @@
+mindmap
+  Arthropods
+    Importance to Ecosystem
+      Pollination
+        Bees
+        Butterflies
+        Moths
+        Flies
+        Beetles
+      Decomposition
+        Mites
+        Ticks
+        Centipedes
+        Millipedes
+    Importance to Humans
+      Food Source
+        Crustaceans
+          Crabs
+          Lobsters
+          Shrimp
+          Prawns
+          Crayfish
+        Insects
+          Beetles
+          Locusts
+          Butterflies
+          Ants
+          Stinkbugs
+      Pollination
+        Animal Pollinators
+          Bees
+          Birds
+          Bats
+      Minilivestock
+        Cultivation
+          Beetles
+          Grubs
+      Pest Control
+        Cockroaches
+        Whip Scorpions
+        Millipedes
+    Human Uses
+      Food
+        Honey
+        Beeswax
+        Silk
+      Medicine
+        Pollens
+        Antiseptics
+      Products
+        Kevlar Vests
+        Fishing Nets
+        Surgical Sutures
+        Adhesives

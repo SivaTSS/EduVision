@@ -1,0 +1,45 @@
+mindmap
+  Arthropods
+    Definition
+      Phylum Arthropoda
+      Four living subphyla: Chelicerates, Myriapods, Hexapods, Crustaceans
+    Characteristics
+      Segmented body
+        Head, Thorax, Abdomen
+      Appendages
+        Feeding, Sensory, Defense, Locomotion
+      Nervous System
+      Hard Exoskeleton
+        Chitin
+        Molting
+      Open Circulatory System
+        Hemolymph
+        Hemolymph distribution
+      Digestive System
+        Mouth, Anus
+      Respiration
+        Aquatic: Gills
+        Terrestrial: Tracheal System, Book Lungs, Oxygen Absorbing Skin
+    Examples
+      Spiders
+      Ants
+      Flies
+      Insects
+      Crustaceans
+        Lobsters
+        Crabs
+        Barnacles
+        Crayfish
+        Shrimp
+    Significance
+      Diversity
+        Over a million described species
+        Many more yet to be described
+      Impact on Humans
+        Pest control
+        Food source
+        Medical research
+    Adaptations
+      Jointed Limbs
+        Significance for Arthropods
+      Appendage Adaptations

@@ -1,0 +1,62 @@
+mindmap
+  Diversity of Birds
+    Evolution
+      Dinosaurs
+        Velociraptors
+          Size
+          Skeleton comparison
+        Descent
+          Carnivorous or herbivorous
+          Evidence
+    Fossils
+      "Dave" from China
+        Significance
+    Lifestyle
+      Penguins
+        Feeding habits
+        Oxygen storage
+        Diving
+    Speed
+      Fastest animal
+        Peregrine Falcon
+          Speed
+          G-force
+    Classification
+      Generalists
+        Examples
+      Carnivores
+        Hawks
+        Falcons
+        Eagles
+        Osprey
+        Vultures
+        Owls
+      Herbivores
+        Geese
+        Cockatoos
+        Parrots
+      Specialists
+        Hummingbirds
+    Habitats
+      Waterfowl
+        Ducks
+        Geese
+        Swans
+        Pelicans
+      Landfowl
+        Chickens
+        Turkeys
+    Flightless Birds
+      Ostrich
+      Kiwi
+    Adaptations
+      Beaks
+        Carnivorous
+          Hawks
+          Eagles
+          Falcons
+          Owls
+        Herbivorous
+          Goose
+          Parrot
+        Specialist

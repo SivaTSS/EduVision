@@ -1,0 +1,40 @@
+mindmap
+  Mammal Reproduction
+    Monotremes
+      Egg-laying
+      Leathery eggs
+      Similar to reptiles and birds
+    Marsupials
+      Live young
+      Born immature
+      Develop in pouch
+      Examples: kangaroos, koalas, opossums
+    Placental Mammals
+      Live young
+      Develop in womb
+      Placenta allows nutrient exchange
+      Examples: cats, dogs, people
+    Mating Systems
+      Group of females and one male
+      Seal species
+      Male elephant seals larger than females
+    Sexual Dimorphism
+      Differences between sexes
+      Size differences
+      Dominant males in mating
+    Reproductive Strategies
+      Monotremes: egg-laying
+      Marsupials: pouch development
+      Placental mammals: placenta development
+    Placenta
+      Allows nutrient exchange
+      Keeps wastes from fetus
+      Umbilical cord function
+    Marsupial Reproduction Process
+      Parental care differences
+      Marsupial babies find pouch
+      Licking during birth
+    Marsupial vs Placental Mammals
+      Primary difference: development location
+      Marsupials: pouch development
+      Placental mammals: placenta

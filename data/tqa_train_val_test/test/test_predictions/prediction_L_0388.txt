@@ -1,0 +1,51 @@
+mindmap
+  Choosing Healthy Foods
+    Nutrition Facts Label
+      Serving Size
+        Calories
+      Percent Daily Values
+        Fiber
+        Vitamin A
+        Vitamin C
+        Iron
+      Ingredients
+        Main Ingredient
+        Processed Ingredients
+    MyPlate
+      Food Groups
+        Grains
+        Vegetables
+        Fruits
+        Dairy
+        Protein
+      Guidelines
+        Enjoy Food
+        Avoid Oversized Portions
+        Fruits and Vegetables
+        Whole Grains
+        Low-Fat Milk
+        Low-Sodium Foods
+        Water Instead of Sugary Drinks
+    Physical Activity
+      Importance
+        Energy Balance
+        Health Benefits
+        Exercise Recommendations
+      Obesity
+        Definition
+        Causes
+        Health Problems
+        Life Expectancy
+    Balancing Food and Exercise
+      Calories
+        Daily Needs
+        Activity Calculator
+      Choosing Healthy Foods
+        MyPlate
+        Nutrition Facts Label
+        Ingredient List
+      Exercise Recommendations
+        Daily Activity
+        Balancing Energy
+        Health Benefits
+        Avoiding Obesity

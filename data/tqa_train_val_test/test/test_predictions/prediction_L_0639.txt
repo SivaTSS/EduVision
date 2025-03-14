@@ -1,0 +1,37 @@
+mindmap
+  Predation
+    Definition
+      Feeding on another living organism
+    Types
+      True Predation
+        Active hunting
+        Sitting and waiting
+      Grazing
+        Eating part of prey without killing
+    Adaptations
+      Prey
+        Camouflage
+        Speed
+        Heightened senses
+      Predators
+        Camouflage
+        Speed
+        Heightened senses
+    Keystone Species
+      Definition
+        Species with large effect on ecosystem balance
+    Examples
+      Lion and Zebra
+      Bear and Fish
+      Fox and Rabbit
+    Predator-Prey Relationships
+      Essential for ecosystem balance
+    Parasitism
+      Symbiotic relationship
+    Mimicry
+      Adaptation for avoiding predators
+      Example: Dart Frog
+    Camouflage
+      Adaptation for avoiding detection
+    Symbiosis
+      Concept to be described later

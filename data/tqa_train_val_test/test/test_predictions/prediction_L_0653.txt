@@ -1,0 +1,32 @@
+mindmap
+  Punnett Squares
+    Definition
+      Tool for predicting offspring from a cross
+      Uses laws of probability
+    Steps to Create
+      1. Parent factors: top of square
+      2. Parent factors: left side of square
+      3. Pull factors into boxes
+    Example
+      Cross between purple flowers (Bb)
+    Calculation
+      Percentage of offspring with certain trait
+    Mendels Rules of Heredity
+      1. Dominant factors mask recessive factors
+      2. Each parent contributes one factor
+    Crosses
+      Black rabbit x White rabbit
+      Hybrid Ff rabbits
+    Offspring Appearance
+      Potential offspring from crosses
+    Practice
+      Using Punnett squares to predict offspring
+    Trait Dominance
+      Dominant trait: purple flowers
+      Recessive trait: white flowers
+    Cross with White Flower
+      Cross between white flower (bb) and purple flower (Bb)
+    Offspring Percentages
+      Percentage of purple and white offspring
+    Conclusion
+      Dominant trait is purple in pea plants

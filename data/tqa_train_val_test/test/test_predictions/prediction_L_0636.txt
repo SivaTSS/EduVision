@@ -1,0 +1,49 @@
+mindmap
+  Plants
+    Evolution
+      From green algae
+        Similarities
+          Cellulose in cell walls
+          Shared chemicals
+        Differences
+          Embryo retention
+          Cuticle
+          Stomata
+          Vascular tissue
+    Adaptations
+      Embryo retention
+        Inside female plant
+      Cuticle
+        Seals water in plant
+        Prevents gas exchange
+      Stomata
+        Small pores in leaves
+        Open/close based on weather
+      Vascular tissue
+        Xylem and phloem
+          Xylem: water and nutrients
+          Phloem: sugars
+    Comparison
+      Xylem vs. Phloem
+        Transport
+          Xylem: water and nutrients
+          Phloem: sugars
+        Structure
+          Similarities
+            Transport vessels
+            Cell walls
+          Differences
+            Xylem: water and nutrients
+            Phloem: sugars
+    Functions
+      Xylem
+        Transports water and nutrients
+      Phloem
+        Transports sugars
+      Stomata
+        Allows gas exchange
+        Regulates water loss
+    Significance
+      Importance of vascular tissue
+      Prevention of water loss
+      Role of stomata

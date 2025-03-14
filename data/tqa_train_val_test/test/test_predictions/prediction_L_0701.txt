@@ -1,0 +1,36 @@
+mindmap
+  Archaea
+    Types of Archaea
+      Halophiles
+        Living in salty environments
+        Found in Great Salt Lake, Dead Sea
+      Thermophiles
+        Living in extremely hot environments
+        Can thrive in temperatures near 100C
+      Methanogens
+        Produce methane
+        Live in swamps, inside cows and termites
+    Cell Wall
+      Differences from bacteria
+        Unique phospholipids
+        Allow archaea to withstand harsh environments
+    Discovery
+      First found in extreme environments
+      Distinguished by environment in which they live
+    Soil
+      Abundant in soil
+      Important roles in the environment
+    Ocean
+      Found among plankton
+      Discovery of their roles ongoing
+    Mutualistic Relationships
+      Methanogens and animals
+      Breakdown of cellulose
+      Example of mutualism
+    Questions
+      Where can archaea be found?
+      Where were they first found?
+      How does the cell wall of archaea differ from the common cell wall of bacteria?
+      How do the different phospholipids used by archaea allow them to withstand harsh environments?
+      If you wanted to find a photosynthetic archaea where would be a good place to look? Why?
+      Where do hal

@@ -1,0 +1,38 @@
+mindmap
+  Fungi and Symbiotic Relationships
+    Symbiotic Relationships
+      Definition
+        Two organisms living closely together
+      Types of Symbiotic Relationships
+        Mutualism
+          Beneficial to both organisms
+          Example: Mycorrhizae
+        Parasitism
+          One organism benefits at the expense of the other
+          Example: Dutch Elm disease
+    Mycorrhizae
+      Definition
+        Symbiotic relationship between fungi and plant roots
+      Function
+        Fungi provide minerals and water to plants
+        Plants provide sugars to fungi
+    Lichens
+      Definition
+        Composite organism consisting of a fungus and a bacterium or alga
+      Function
+        Fungus provides nutrients to the bacterium or alga
+        Bacterium or alga performs photosynthesis
+    Fungi and Insects
+      Definition
+        Symbiotic relationship between fungi and insects
+      Examples
+        Ants and termites
+          Fungi help digest food
+        Ambrosia beetles
+          Fungi help digest bark of trees
+    Parasitic Fungi
+      Definition
+        Fungi that harm other organisms
+      Examples
+        Dutch Elm disease
+          Caused by a fungus carried by be

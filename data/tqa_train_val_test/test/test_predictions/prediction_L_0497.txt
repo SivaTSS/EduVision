@@ -1,0 +1,39 @@
+mindmap
+  Crustaceans
+    Definition
+      Arthropod subphylum
+      Includes crabs, lobsters, shrimp, krill, woodlice
+    Characteristics
+      Exoskeleton
+        May be bound together
+        Carapace: thick back shield
+      Main body cavity
+        Expanded circulatory system
+        Heart near back
+      Digestive system
+        Straight tube with gastric mill
+        Digestive glands
+      Waste removal
+        Structures like kidneys
+      Reproduction
+        Separate sexes
+        Sexual reproduction using eggs and sperm
+      Shedding outer skeleton
+        Vulnerable during growth period
+    Classification
+      Six classes
+        Branchiopoda
+          Small, freshwater animals
+          Feed on plankton and detritus
+        Remipedia
+          Blind organisms in deep caves
+        Cephalocarida
+          Small crustaceans
+        Maxillopoda
+          Ostracoda
+            Small animals with bivalve shells
+          Malacostraca
+            Largest class
+            Most familiar animals
+            Diverse body forms
+            Examples: Nectiopoda, Horseshoe shrimp, Barnacles, Copepods, Seed shrimp, Crabs,

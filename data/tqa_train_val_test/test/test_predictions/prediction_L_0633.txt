@@ -1,0 +1,51 @@
+mindmap
+  Plant Hormones
+    Stimuli
+      Gravity
+      Light
+      Touch
+      Seasonal Changes
+    Hormones
+      Ethylene
+        Fruit Ripening
+        Abscission
+      Gibberellins
+        Growth Promotion
+        Dormancy Breaking
+      Cytokinins
+        Cell Division
+        Senescence Prevention
+      Abscisic Acid
+        Stomata Closing
+        Dormancy Maintenance
+      Auxins
+        Apical Dominance
+        Tropisms
+    Functions
+      Fruit Ripening
+      Dormancy Breaking
+      Growth Promotion
+      Cell Division
+      Stomata Closing
+      Dormancy Maintenance
+      Apical Dominance
+      Tropisms
+    Importance
+      Communication
+      Response to Environment
+      Hormone Roles
+      Plant vs. Mammal Hormones
+    Examples
+      Ethylene Gas
+      Ripe Fruit Ripening
+      Paper Bag Experiment
+      Abscission
+      Gibberellins
+      Dwarf Plants
+      Cytokinins
+      Cytokinins in Tissue Culture
+      Abscisic Acid
+      Stomata Closing
+      Dormancy Maintenance
+      Auxins
+      Apical Domin

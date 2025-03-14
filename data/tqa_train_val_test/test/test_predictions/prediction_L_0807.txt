@@ -1,0 +1,17 @@
+mindmap
+  Bernoulli's Law
+    Definition
+      Pressure of a moving fluid
+      Less when fluid is moving faster
+    Explanation
+      Bernoulli used mathematics
+      Discovered by Daniel Bernoulli
+    Application
+      Wings of airplanes and birds
+      Lift created for flight
+    Spoiler on Racecar
+      Upside-down wing
+      Air pressure pushes car downward
+    Questions
+      How does a spoiler work?
+      How does Bernoulli's law explain lift?

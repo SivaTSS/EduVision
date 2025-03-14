@@ -1,0 +1,42 @@
+mindmap
+  Modern Genetics
+    Genotype
+      Definition
+        Combo of alleles
+        Example: TT, Tt, tt
+    Phenotype
+      Definition
+        Traits observable
+      Connection to Genotype
+        Genotype expresses phenotype
+        Example: Tall vs Short
+    Alleles
+      Definition
+        Variants of genes
+    Mendel's Work
+      Foundation of modern genetics
+      Questions left unanswered
+    DNA
+      Genetic material
+      Encodes genes
+    Chromosomes
+      DNA wound into chromosomes
+      Homologous pairs
+    Genetic Factors
+      Dominant and recessive factors
+    Allele Types
+      Dominant vs Recessive
+        Dominant: Affects phenotype in homozygous condition
+        Recessive: Only affects phenotype in homozygous condition
+    Genotype and Phenotype
+      Homozygous vs Heterozygous
+        Homozygous dominant (TT)
+        Homozygous recessive (tt)
+        Heterozygous (Tt)
+    Rapid DNA Analysis
+      Tools for analysis
+      Future applications
+    Plant Traits
+      Investigated traits
+      Reasons for investigation
+    iPlant Genotype to Phen

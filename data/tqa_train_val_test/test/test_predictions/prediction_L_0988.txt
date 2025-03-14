@@ -1,0 +1,40 @@
+mindmap
+  Pressure in Fluids
+    Definition
+      Pressure defined
+        Force acting on a given area
+        Measures concentration of force
+    SI Unit
+      Pascal (Pa)
+        N/m2
+        Equation for pressure
+          Pressure = Force/Area
+    Factors Influencing Pressure
+      Depth
+        Greater depth = greater pressure
+        More weight pressing down
+      Density
+        Dense fluids exert more pressure
+        Closer particle collisions
+    Examples
+      Siphon
+        Liquid movement
+        Uphill flow
+        No backflow
+      Pushpin
+        Force concentration
+        Pressure increase
+      Calculating Pressure
+        Force and area
+        Pressure equation
+        Force calculation
+          Force = Pressure * Area
+    Applications
+      Break-dancer
+        Weight and pressure
+        Balancing on hand
+        Lying down on ground
+    Conclusion
+      Fluid pressure factors
+      Pressure calculation
+      Practical applications

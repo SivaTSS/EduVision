@@ -1,0 +1,25 @@
+mindmap
+  Amontons Law
+    Definition
+      Increasing temperature of a gas while holding its volume constant increases pressure
+    Explanation
+      Gas particles heat up and gain energy
+      Faster movement causes more collisions and greater pressure
+    Demonstration
+      Sealed jug containing air
+      Heating air increases pressure
+    Real-World Application
+      Tire pressure example
+        Friction between tires and road generates heat
+        Increased temperature causes pressure increase
+    Experiment
+      Father's classic experiment
+        Small piece of paper in glass bottle
+        Lit paper causes egg to slip inside bottle
+    Gas Laws
+      Amontons Law
+        One of three commonly known gas laws
+      Boyles Law
+        Relationship between volume and pressure of a gas
+      Charles Law
+        Relationship between volume and temperature of a gas

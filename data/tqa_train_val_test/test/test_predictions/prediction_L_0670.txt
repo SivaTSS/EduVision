@@ -1,0 +1,57 @@
+mindmap
+  Scientific Investigation
+    Scientific Method
+      Observations
+      Question
+      Research
+      Hypothesis
+      Experiment
+      Results
+      Conclusions
+        Control Variables
+          Dependent Variable
+          Independent Variable
+          Control Variables
+        Steps of a Scientific Investigation
+          Observations
+          Question
+          Research
+          Hypothesis
+          Experiment
+          Results
+          Conclusions
+          Communication
+    Deformed Frogs
+      Observations
+      Question
+      Research
+      Hypothesis
+      Experiment
+      Results
+      Conclusions
+    Good Hypothesis
+      Testable
+      Measurable
+      Refutable
+      Predictable
+    Scientific Community
+      Communication
+      Journal Articles
+      Talks
+      Journalists
+    Importance of Scientific Investigation
+      Reproducibility
+      Evidence-Based
+      Advancement of Knowledge
+      Problem-Solving
+    Scientific Method Steps
+      1. Make Observations
+      2. Identify Question
+      3. Research
+      4. Form Hypothesis
+      5. Test Hypothesis
+      6. Analyze Results
+      7. Draw Conclusions
+      8. Communicate Results
+    Scientific Method Features
+      Evidence-Based

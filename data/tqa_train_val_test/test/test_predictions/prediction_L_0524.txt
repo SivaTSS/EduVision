@@ -1,0 +1,46 @@
+mindmap
+  Food Webs
+    Definition
+      Food Chain
+        Single pathway of feeding interactions
+        Arrows show feeding relationships
+        Example: plant grasshopper bird snake owl
+      Food Web
+        Multiple intersecting pathways
+        Example: Arctic Ocean ecosystem
+    Importance
+      Energy Flow
+        Constant need for energy
+        Organisms eat other organisms
+        Producers, consumers, decomposers
+    Differences
+      Food Chain vs Food Web
+        Food chain: single pathway
+        Food web: multiple intersecting pathways
+    Components
+      Producers
+        Beginning of food chain
+        Create energy through photosynthesis
+      Consumers
+        Herbivores, carnivores
+        Use glucose for energy
+      Decomposers
+        Break down dead organisms
+        Recycle nutrients
+    Food Web Construction
+      Requirements
+        Contain producers, consumers, decomposers
+        Show feeding relationships
+      Number of Food Webs
+        Multiple possibilities
+        Complex ecosystems
+    Food Chain Example
+      Phytoplankton
+        Krill
+          Fish
+            Shark
+    Food Web Example
+      Arctic Ocean ecosystem
+        Loons, Arctic Tern
+          Beluga, Sea Duck
+            Zooplankton feeders

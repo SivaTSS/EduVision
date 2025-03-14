@@ -1,0 +1,30 @@
+mindmap
+  Scientific Community
+    Peer Review
+      Quality Control
+        Ensures scientific method is followed
+        Ensures data is accurate and reliable
+    Replication
+      Importance of replicating results
+        Confirms validity of research
+        Ensures scientific integrity
+    Scientific Integrity
+      Importance of scientific integrity
+        Ensures scientific research is honest
+        Ensures scientific research is reliable
+    Funding
+      Importance of funding
+        Ensures scientific research is possible
+        Ensures scientific research is well-funded
+    Scientific Community
+      Importance of scientific community
+        Ensures scientific research is well-regulated
+        Ensures scientific research is well-funded
+    Media Impact
+      Impact of media on scientific research
+        Can cause mistrust in scientific research
+        Can cause unwarranted criticism
+    Scientific Training
+      Importance of scientific training
+        Ensures scientists are well-trained
+        Ensures scientists are well-equipped to conduct research

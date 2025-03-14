@@ -1,0 +1,35 @@
+mindmap
+  Learned Behavior of Animals
+    Methods of Learning
+      Habituation
+        - Forming a habit
+        - Getting used to something after exposure
+        - Example: Crows becoming used to a scarecrow
+      Observational Learning
+        - Learning by watching and copying others
+        - Example: Young wolves learning hunting skills from older wolves
+      Conditioning
+        - Learning through rewards or punishments
+        - Example: Training a dog to fetch a ball
+      Play
+        - Learning skills needed as adults
+        - Example: Kittens learning to be better predators
+      Insight Learning
+        - Learning from past experiences and reasoning
+        - Example: Making tools to solve problems
+    Examples of Learned Behavior
+      Tool Use
+        - Octopus opening jars
+        - Gorilla using a walking stick
+      Conditioning
+        - Bees learning to find nectar in certain flowers
+        - Human children learning to study for tests
+      Observational Learning
+        - Human children learning to tie their shoes
+        - Monkeys learning to wash their food
+    Implications for Animal Intelligence
+      Flexibility of Learned Behavior
+        - Ability to change behavior if conditions change
+        - Example: Learning a new route to school
+      Dependence on Learned Behavior
+        - Humans rely on learned behavior more

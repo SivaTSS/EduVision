@@ -1,0 +1,57 @@
+mindmap
+  Plant Classification
+    Non-vascular Plants
+      Definition
+        - First plants to evolve
+        - No vascular tissue
+      Examples
+        - Mosses
+        - Liverworts
+        - Hornworts
+    Seedless Vascular Plants
+      Definition
+        - Have vascular tissue
+        - No seeds
+      Examples
+        - Ferns
+        - Whisk ferns
+        - Club mosses
+        - Horsetails
+    Gymnosperms
+      Definition
+        - Have seeds
+        - No flowers
+      Examples
+        - Redwood
+        - Fir
+        - Cypress
+    Angiosperms
+      Definition
+        - Have vascular tissue
+        - Have seeds
+        - Have flowers
+      Examples
+        - Magnolia
+        - Rose
+        - Tulip
+        - Tomato
+    Plant Classification
+      Phyla
+        - 12 phyla in total
+      Groups
+        - Four main groups
+    Seedless Vascular Plants
+      Definition
+        - Evolution
+        - Vascular tissue
+        - No seeds
+    Gymnosperms
+      Definition
+        - Evolution
+        - Seeds
+        - No flowers
+    Angiosperms
+      Definition
+        - Evolution
+        - Vascular tissue
+        - Se

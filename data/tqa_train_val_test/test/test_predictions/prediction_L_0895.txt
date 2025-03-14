@@ -1,0 +1,33 @@
+mindmap
+  Ethics in Science
+    Definition
+      Deciding what's right and wrong
+    Importance
+      Guiding scientific investigations
+      Ensuring safety and reliability
+    Ethical Rules
+      Honest reporting
+        Avoiding fabrication or alteration
+      Objectivity
+        Avoiding bias
+      Carefulness
+        Minimizing errors
+      Informed consent
+        Informing coworkers and community
+        Informing human subjects
+      Animal welfare
+        Treating animals humanely
+      Human subjects
+        Informing subjects of risks
+        Ensuring consent
+    Ethical Dilemmas
+      Pacific Yew
+        Saving lives vs. preserving trees
+    Scientific Solutions
+      Synthetic drug production
+        Win-win solution
+    Personal Ethical Decisions
+      Driving cars and climate change
+        Carpooling as an ethical solution
+    Figure 1.1
+      Ethical violation example

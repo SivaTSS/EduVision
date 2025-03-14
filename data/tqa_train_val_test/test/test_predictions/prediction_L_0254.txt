@@ -1,0 +1,40 @@
+mindmap
+  Observations and Experiments
+    Observations
+      Types
+        Direct observations
+        Indirect observations
+      Techniques
+        Microscopes
+        Telescopes
+    Experiments
+      Definition
+        Controlled conditions
+        Verification or falsification of a hypothesis
+      Design
+        Independent variable
+        Dependent variable
+        Control group
+      Errors
+        Systematic errors
+        Random errors
+        Margin of error
+        Inconsistent data points
+        Correction methods
+    Hypothesis Testing
+      Data Collection
+        Observations
+        Experiments
+      Guidelines
+        Manipulation of only one variable
+        Control of other factors
+        Use of control group
+        Error correction
+    Examples
+      Vitamin D Levels Experiment
+        Control group
+        Dependent variable
+        Independent variable
+    References
+      Figure 1.2
+      Figure

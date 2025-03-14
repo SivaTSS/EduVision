@@ -1,0 +1,50 @@
+mindmap
+  Weather Maps
+    Purpose
+      Graphically depict weather conditions
+      Display multiple features
+      Computer models or human observations
+    Isolines
+      Isotherms: Lines of constant temperature
+        Temperature gradients
+        Front location
+      Isobars: Lines of constant pressure
+        Pressure cells
+        High and low pressure
+      Isotachs: Lines of constant wind speed
+        Tropical cyclones
+        Jet stream location
+    Symbols
+      Isotherms
+        Temperature gradients
+        Front location
+      Isobars
+        High and low pressure cells
+      Isotachs
+        Tropical cyclones
+        Jet stream location
+    Pressure Cells
+      High Pressure
+        Closed isobars
+        Real life appearance
+      Low Pressure
+        Closed isobars
+        Real life appearance
+    Fronts
+      Definition
+        Cold Front
+          Symbol on map
+        Warm Front
+          Symbol on map
+      Stationary Front
+        Symbol on map
+      Occluded Front
+        Symbol on map
+    Wind Direction
+      High Pressure
+        Wind direction
+      Low Pressure
+        Wind direction
+    Isolines
+      Close together
+        Meaning

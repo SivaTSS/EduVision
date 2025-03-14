@@ -1,0 +1,23 @@
+mindmap
+  Genetics
+    Definition of Gene and Allele
+      Gene: section of a chromosome containing genetic code for a protein
+      Allele: different versions of a gene
+    Relationship between Genotype and Phenotype
+      Genotype: combination of alleles inherited from parents
+      Phenotype: expression of genotype as a trait
+    Predicting Genotype and Phenotype Ratios
+      Punnett Square: tool for predicting possible genotypes and phenotypes
+      Dominant and Recessive Alleles
+        Dominant: expressed in heterozygotes (e.g., B allele for violet flower color)
+        Recessive: only expressed in homozygotes (e.g., b allele for white flower color)
+    Complex Traits
+      Codominance: both alleles expressed equally in heterozygotes
+        Example: red and white flower
+      Incomplete Dominance: dominant allele not completely dominant
+        Example: pink flower with incompletely dominant allele for red petals
+    Multiple Allele and Polygenic Traits
+      Multiple Allele Trait: multiple alleles for a single gene
+      Polygenic Trait: multiple genes controlling a single trait
+    Environment's Influence on Traits
+      Skin color: influenced by genes and

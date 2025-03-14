@@ -1,0 +1,43 @@
+mindmap
+  Local Winds
+    Causes
+      Differential Heating
+        Water Specific Heat
+        Land and Sea Breezes
+          Sea Breezes
+            Formation
+            Effects
+          Land Breezes
+            Formation
+            Effects
+        Monsoon Winds
+          Formation
+          Effects
+    Types
+      Mountain and Valley Breezes
+        Formation
+        Effects
+      Katabatic Winds
+        Formation
+        Effects
+      Chinook Winds
+        Formation
+        Effects
+      Santa Ana Winds
+        Formation
+        Effects
+    Adiabatic Process
+      Definition
+      Role in Wind Formation
+    Fire and Dust
+      Santa Ana Winds and Fires
+      Desert Winds and Dust
+    Climate Impact
+      Moderation of Coastal Climates
+      Monsoon Rain and Weather
+      Rainshadow Effect
+    Questions
+      Sea and Land Breezes
+      Santa Ana Winds
+      Chinook Winds
+      Monsoon Winds

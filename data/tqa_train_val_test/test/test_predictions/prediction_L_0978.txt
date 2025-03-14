@@ -1,0 +1,29 @@
+mindmap
+  Pascals Law
+    Definition
+      - Enclosed fluid
+      - Pressure change transmitted equally
+    Example
+      - Toothpaste tube
+        - Squeeze tube
+        - Pressure transmitted
+        - Force at open end
+    Application
+      - Hydraulic brakes
+        - Pressure transmission
+        - Force increase
+      - Hydraulic car lifts
+        - Heavy objects lifting
+        - Pressure transmission
+      - Airplane controls
+        - Pressure transmission
+        - Force increase
+        - Switch operation
+    Pressure
+      - Force on area
+        - Equation: Pressure = Force / Area
+      - SI Unit: Pascal (Pa)
+        - Named after Blaise Pascal
+    Researcher: Blaise Pascal
+      - French mathematician and physicist
+      - Contributions: Pascals Law

@@ -1,0 +1,30 @@
+mindmap
+  Physical Science
+    Definition
+      Study of matter and energy
+      Includes chemistry and physics
+    Focus
+      Chemistry: Matter and energy at atomic and molecular scale
+      Physics: Matter and energy at all scales
+    Relevance
+      Explains everyday observations and actions
+      Advances make modern life possible
+    Careers
+      Pharmacist
+      Surveyor
+      Research Scientist
+      Engineer
+    Examples
+      Pharmacist: Prescribes and dispenses medication
+      Surveyor: Measures and maps land
+    Concepts
+      Motion
+      Forces
+      Energy forms
+    Applications
+      Driving a car
+      Text messaging
+      Sending a tweet
+      Turning on a light
+    URL
+      Careers in Physical Science: <http://diplomaguide.com/article_directory/sh/page/Physical%20Science/sh/Job_Titles_and_Careers_List.html>

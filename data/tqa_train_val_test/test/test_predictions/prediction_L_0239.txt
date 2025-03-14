@@ -1,0 +1,48 @@
+mindmap
+  Mid Latitude Cyclones
+    Definition
+      Counter-clockwise rotation
+      Low pressure center
+    Formation
+      Polar front
+      Large temperature difference
+      Coriolis effect
+      Warm and cold fronts
+    Characteristics
+      Intense storms
+      Westerly winds
+      Diameter: 1000-2500 km
+      Wind speed: up to 125 km/h
+    Types
+      Mid-latitude cyclones
+      Noreasters
+    Precipitation
+      Rising air
+      Moist air
+      Rain or snow
+    Impact
+      Frequency: 30/year in mid-Atlantic
+      Storm duration: 2-5 days
+      Region: US, Europe
+    Mid-Latitude Cyclone Stages
+      Formation
+        Polar front
+        Temperature difference
+        Coriolis effect
+      Development
+        Warm and cold fronts
+        Low pressure cell
+        Rising air
+      Maturity
+        Precipitation
+        Winds
+        Diameter
+      Dissipation
+        Eastward movement
+        Duration: 2-5 days
+    Noreasters
+      Definition
+        Mid-latitude cyclones
+        Northeast direction
+      Frequency
+        30/year in mid-Atl

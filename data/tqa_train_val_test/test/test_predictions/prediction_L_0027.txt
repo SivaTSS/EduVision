@@ -1,0 +1,51 @@
+mindmap
+  Storms
+    Definition
+      Episode of severe weather
+      Caused by major disturbance in atmosphere
+    Types of Storms
+      Thunderstorms
+        Heavy rains
+        Lightning
+        Hail
+        High winds
+        Common in Midwest
+      Tornadoes
+        Funnel-shaped cloud
+        Whirling winds
+        Narrow
+        Cause by severe thunderstorms
+        Tornado Alley
+      Hurricanes
+        Large storm
+        High winds
+        Heavy rains
+        Form over warm ocean water
+        Hurricane Katrina
+        Storm Surge
+        Energy source
+      Winter Storms
+        Blizzards
+          High winds
+          Poor visibility
+          Dangerous
+        Lake-Effect Snow Storms
+          Heavy snowfall
+          Near lakes
+          More than 254 cm (100 inches)
+    Causes of Storms
+      Atmospheric Disturbances
+        Warm and humid air
+        Differences in temperature and air pressure
+    Predicting Storms
+      Data Collection
+        Satellite imagery
+        Weather stations
+      Warning Systems
+        Hurricane predictions
+        Evacuation plans
+    Impact of Storms
+      Damage
+        Homes and businesses
+        Thousands of dollars
+        Thousands of lives

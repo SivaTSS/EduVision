@@ -1,0 +1,39 @@
+mindmap
+  Climate
+    Definition
+      Average weather over many years
+      Includes average temperatures, precipitation, and timing of precipitation
+    Factors Affecting Climate
+      Latitude
+        Temperature changes with latitude
+          Directness of Sun's rays
+          Poles have lowest temperatures
+        Global air currents
+          Create wet and dry zones at different latitudes
+          Create global winds
+        Ocean currents
+          Influence coastal climate
+          Affect temperature of atmosphere and climate
+      Nearby oceans
+        Coastal climate
+          Mild temperatures
+          High precipitation
+        Inland climate
+          More extreme temperatures
+          Lower precipitation
+      Mountains
+        Air temperature falls at higher altitudes
+          Less dense air
+          Fewer collisions
+        Rain shadows
+          Cast by mountain ranges
+          Dry conditions on leeward side
+    Predicting Climate
+      Based on location
+      Similar locations may have same climate
+
+Input: Lesson: climate and its causes
+
+6. An ocean current flows from north to south off the western coast of a continent. The current flows close to land at 50 N latitude. Predict how the current affects the climate of the coast at that latitude. Explain your prediction.
+
+One winter day in Chicago, the temperature hit 20 C (68 F). This

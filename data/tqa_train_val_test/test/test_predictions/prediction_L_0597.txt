@@ -1,0 +1,21 @@
+mindmap
+  Mendels Laws and Genetics
+    Mendels Experiment
+      Dominant Trait
+        Yellow Peas
+      Recessive Trait
+        Green Peas
+    Law of Segregation
+      Hereditary Factors
+        Purple vs White Flowers
+      Dominant vs Recessive Traits
+        Purple Masks White
+      Segregation of Factors
+        TT vs tt
+    Genetic Crosses
+      F1 Generation
+        Tt Tall Plants
+      F2 Generation
+        TT, Tt, tT, tt Combinations
+      Self-Pollination
+        F2 Offspring Characteristics

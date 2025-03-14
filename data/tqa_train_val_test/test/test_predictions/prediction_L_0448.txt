@@ -1,0 +1,26 @@
+mindmap
+  Animal-like Protists (Protozoa)
+    Definition
+      Single-celled eukaryotes
+      Share traits with animals
+    Characteristics
+      Heterotrophs: eat outside food
+      Move by flagella, cilia, or pseudopodia
+      Size: 0.01-0.5mm
+    Classification
+      Four groups: Flagellates, Ciliates, Sporozoans
+    Flagellates
+      Long flagella (tails)
+      Rotate propeller-like
+      Example: Trypanosoma (African sleeping sickness)
+    Ciliates
+      Move by cilia (thin tail-like projections)
+      Example: Paramecium
+    Sporozoans
+      Produce spores
+      Example: Toxoplasma
+    Examples
+      Amoeba (pseudopodia)
+      Paramecium (ciliates)
+      Trypanosoma (flagellates)
+      Toxoplasma (sporozoans)

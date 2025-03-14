@@ -1,0 +1,37 @@
+mindmap
+  Seasonal Changes in Plants
+    Leaf Color
+      Source of Leaf Color
+        Chlorophyll
+        Carotenoids
+        Anthocyanins
+      Change in Leaf Color
+        Factors Affecting Color Change
+          Temperature
+          Humidity
+          Light
+      Falling Leaves
+        Reasons for Leaf Fall
+          Nutrient Depletion
+          Preparation for Winter
+          Disease and Pests
+    Seasonal Changes in Plants
+      Detection of Seasonal Changes
+        Photoperiodism
+          Definition
+          Importance
+        Long-Day Plants
+          Examples
+          Characteristics
+        Short-Day Plants
+          Examples
+          Characteristics
+    Conclusion
+      Understanding Seasonal Changes
+        Importance of Understanding
+        Future Implications
+        Potential Applications
+
+Input: Lesson: seasonal changes in plants
+
+Use the resource below to answer the questions that follow. Why Do Leaves Change Color? at http://dnr.wi.gov/eek/veg/trees/treestruecolor.htm. 1. 2. 3. 4. 5. Where does leaf color come from? How do leaves change color? Do leaves change color because of weather? How does temperature affect the color of the leaves? Why do leaves fall?

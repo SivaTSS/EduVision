@@ -1,0 +1,42 @@
+mindmap
+  Pressure of Fluids
+    Definition of Pressure
+      Pressure Equation
+        Force Area
+        SI Unit: Pascal (Pa)
+    Factors Affecting Pressure
+      Depth
+        Increased Pressure with Depth
+        Ocean Pressure vs. Atmosphere Pressure
+      Density
+        Dense Fluids Exert More Pressure
+        Water vs. Air
+    Pressure Calculation
+      Force Calculation
+        Pressure = Force/Area
+      Pressure Calculation Example
+        Break Dancer Pressure Calculation
+    Pascals Law
+      Explanation
+        Ketchup Example
+      Applications
+        Hydraulic Car Lift
+    Bernoullis Law
+      Explanation
+        Airplane and Bird Wings
+      Applications
+        Airplane Lift
+        Race Car Spoiler
+    Fluid Density and Pressure
+      Differences in Fluid Density
+        Floating Objects
+        Non-Floating Objects
+    Pressure and Depth
+      Ocean Pressure
+        Pressure Increase with Depth
+        Diver Safety
+      Atmospheric Pressure
+        Air Pressure Decrease with Altitude
+        Air Pressure at High Altitudes
+    Real World Applications
+      Hydra

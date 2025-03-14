@@ -1,0 +1,28 @@
+mindmap
+  Weather Forecasting
+    Concepts
+      Barometer
+        Explanation
+      Low Pressure
+        Stormy Weather
+    Technology
+      Data Collection
+        Weather Stations
+        Weather Balloons
+        Satellites
+        Radar
+      Data Analysis
+        Computer Models
+    Weather Maps
+      Purpose
+        Actual Weather
+        Predicted Weather
+      Components
+        Isobars
+        Isotherms
+        Low-Pressure Centers
+        High-Pressure Centers
+        Fronts
+    Climate vs. Weather
+      Definition
+      Differences

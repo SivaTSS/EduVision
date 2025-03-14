@@ -1,0 +1,22 @@
+mindmap
+  Field Study
+    Definition
+      Gathering evidence in the real world
+    Importance
+      Investigating the environment
+      Gathering samples for analysis
+    Types of Pollution
+      Point-source pollution
+        Single source of pollution
+      Nonpoint-source pollution
+        Pollution enters the river everywhere
+    Investigating Problems
+      Field studies vs laboratory experiments
+      Example: investigating pollution in a river
+    Methods
+      Collecting samples
+        River water samples
+      Analyzing samples
+        Identifying pollutants
+    Conclusion
+      Importance of field studies for environmental scientists

@@ -1,0 +1,36 @@
+mindmap
+  Insects as Pests
+    Common Pests
+      Parasitic Insects
+        Mosquitoes
+        Lice
+        Bed Bugs
+      Disease Transmitters
+        Mosquitoes
+        Flies
+      Structure Damagers
+        Termites
+      Crop Destroyers
+        Locusts
+        Weevils
+    Biological Control
+      Predation
+        Ladybugs
+        Lacewings
+        Hoverflies
+      Parasitism
+        Wasps
+        Flies
+    Chemical Control
+      Insecticides
+        Pesticides
+        Success against pest
+        Impact on natural enemies
+        Susceptibility of crop
+        Toxicity to environment and humans
+        Development of resistance
+    Disadvantages of Pesticides
+      Human Poisoning
+      Fish Poisoning
+      Honeybee Poisoning
+      Contamination of Meat and Dairy Products

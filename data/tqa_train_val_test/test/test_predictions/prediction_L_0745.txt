@@ -1,0 +1,46 @@
+mindmap
+  Scientific Investigation
+    Steps of Investigation
+      Research Question/Problem
+      Hypothesis
+      Gathering Evidence
+      Analyzing Evidence
+      Deciding on Evidence Support
+      Drawing Conclusions
+      Communicating Results
+    Ethics in Scientific Research
+      Honest Reporting
+      Avoiding Bias
+      Careful Data Collection
+      Informing Subjects
+      Informing Community
+      Animal Treatment
+    Measurement in Science
+      Temperature Scales
+      Fahrenheit vs Celsius
+      Converting Temperatures
+    Experiment Design
+      Manipulated Variable
+      Responding Variable
+      Controls
+    Field Studies
+      Real-World Evidence
+    Communication in Science
+      Peer-Reviewed Journals
+      Scientific Meetings
+      Public Outreach
+    Ethical Decision Making
+      Climate Change Impact
+      Factors Influencing Decisions
+    Pseudoscience
+      Unscientific Claims
+      Lack of Evidence
+      Lack of Replicability
+    Snuffalufagus
+      Invisible Visitor
+      Unscientific Claims
+    Hypothesis
+      Potential Answer
+      Testable by Evidence
+    Prediction
+      If-Then

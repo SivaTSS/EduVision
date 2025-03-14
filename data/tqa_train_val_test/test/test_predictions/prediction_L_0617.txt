@@ -1,0 +1,34 @@
+mindmap
+  Nonvascular Plants
+    Definition
+      Lack seeds and vascular tissue
+      Examples: mosses, hornworts, liverworts
+    Characteristics
+      Short in height
+      Lack true roots, stems, and leaves
+      Leafy appearance
+      Stem-like and root-like structures
+    Phyla
+      Mosses
+        Recognized as green fuzz on damp rocks and trees
+        Tiny stem-like and leaf-like structures
+        Gametophyte stage
+        Sporophyte stage with sporangium
+      Hornworts
+        Named for hornlike sporophytes
+        Gametophytes in flattened lobes
+        Grow in moist and humid areas
+      Liverworts
+        Two distinct appearances: leafy or flattened
+        Can resemble a liver
+        Thallose liverworts: flattened, ribbon-like body
+    Reproduction
+      Nonvascular seedless plants
+      Bryophytes: mosses, hornworts, liverworts
+      Gametophyte stage
+        Haploid, one set of chromosomes
+        Produce gametes
+      Sporophyte stage
+        Diploid, two sets of chromosomes
+        Forms sporangium
+        Re

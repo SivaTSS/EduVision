@@ -1,0 +1,40 @@
+mindmap
+  Animal Behaviors
+    Definition
+      Any way animals act, alone or with others
+    Purposes
+      Food acquisition
+        Cat chases mouse
+        Mother dog nurses puppies
+      Survival of young
+        Mother dog washes puppies
+        Rabbit runs from predators
+      Thermoregulation
+        Lizard suns on rocks
+    Fitness
+      Importance for survival
+        Energy for movement
+        Growth and development
+    Evolutionary Significance
+      Increased fitness
+        Passing genes to next generation
+      Behavioral Traits
+        Influenced by genes
+        Adaptive advantage
+    Learning
+      Innate behavior
+        Grasping in human babies
+      Trial and Error
+        Crow vending machine
+      Observational Learning
+        Mirror neurons
+    Animal Examples
+      Cnidarians
+        Anemone swims away from sea star
+      Insects and Birds
+        Behavioral diversity
+    Questions
+      Animal behaviors
+      Fitness
+      Evolutionary relationships
+      Learning mechanisms

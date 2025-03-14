@@ -1,0 +1,24 @@
+mindmap
+  Oceanic Pressure
+    Water Pressure Changes
+      Pressure Increases with Depth
+        Pressure Increases by 10 kPa per Meter
+        Pressure at 30 Meters Double Surface Pressure
+        Pressure at 500 Meters Too Great for Humans
+      Pressure at Deep Ocean
+        Pressure at 11,000 Meters
+    Diving Deep Below the Surface
+      Divers in Pressure-Resistant Vehicles
+      Scuba Divers and Pressure Adjustment
+        Divers Must Ascend Slowly
+        Stops During Ascent
+        Health Problems from Rapid Ascent
+    Dissolved Gases and Bubbles
+      Gases Come Out of Solution
+        Less Gas Dissolves at Lower Pressure
+        Formation of Bubbles
+    Scuba Diving and Pressure
+      Scuba Diving Depth Limit
+      Pressure Adjustment During Ascent
+        Stops During Ascent
+        Health Problems from Rapid Ascent

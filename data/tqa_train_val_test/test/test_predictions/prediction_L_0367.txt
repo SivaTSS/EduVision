@@ -1,0 +1,46 @@
+mindmap
+  Animals
+    Definition
+      Multicellular eukaryotes
+      Heterotrophic
+      Specialized cells
+      Higher levels of organization
+    Characteristics
+      No cell wall
+      Flexible cells
+      Specialized tissues and organs
+      Internal digestion
+    Life Cycle
+      Diploid organisms
+      Sexual reproduction
+      Meiosis
+      Fertilization
+      Embryonic development
+      Larval stages
+    Classification
+      Animal Kingdom
+        Phyla
+          Porifera
+          Cnidaria
+          Platyhelminthes
+          Nematoda
+          Mollusca
+          Annelida
+          Arthropoda
+          Echinodermata
+          Chordata
+        Invertebrates
+          Majority of species
+        Vertebrates
+          Phylum Chordata
+          Fish
+          Amphibians
+          Reptiles
+          Birds
+          Mammals
+    Questions
+      What traits do all animals share?
+      How do animals differ from other eukaryotes?
+      What is a general animal life cycle?
+      How do animals develop specialized cells?
+      What is the difference between invertebrates and vertebrates?

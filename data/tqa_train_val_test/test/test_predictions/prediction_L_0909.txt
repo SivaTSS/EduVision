@@ -1,0 +1,31 @@
+mindmap
+  Gases
+    Definition
+      State of matter
+      Particles can pull apart
+      No fixed shape or volume
+    Properties
+      Spread out to fill space
+      Pressure created by particles
+    Pressure
+      Force against a given area
+      Depends on number and speed of particles
+    Atmospheric Pressure
+      Greatest at sea level
+      Decreases with altitude
+    Air Pressure Effects
+      Cake baking
+      High altitude instructions
+    Experiment
+      Two identical sealed boxes
+      Air particles represented by dots
+      More air particles in box B
+      Volume of air is the same in both boxes
+    Conclusion
+      Air pressure is greater in box B
+      Due to more air particles and faster movement
+    References
+      Figure 1.1
+      Figure 1.2
+      Figure 1.3
+      Figure 1.4

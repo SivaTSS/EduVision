@@ -1,0 +1,29 @@
+mindmap
+  Genetics
+    Definition
+      Study of inheritance
+    Mendel's Experiments
+      Pea plants chosen for study
+        Easily identifiable traits
+        Rapid growth
+        Self-pollination or cross-pollination
+      Results
+        No blending of traits
+        Consistent inheritance patterns
+    Mendel's Contributions
+      Father of genetics
+      Inheritance patterns for multiple traits
+      Disproved "blend" theory of traits
+    Key Concepts
+      Simple traits
+        Single gene trait
+      Heterozygote vs Homozygote
+        Heterozygote: two different alleles
+        Homozygote: two identical alleles
+      Trait Breeding
+        Yellow wrinkled peas with yellow smooth peas
+        Green wrinkled plants
+      Mendel's Questions
+        What is inheritance?
+        Why did Mendel choose pea plants?
+        What were Mendel's consistent results?

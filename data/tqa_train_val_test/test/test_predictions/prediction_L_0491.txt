@@ -1,0 +1,36 @@
+mindmap
+  Cnidarians
+    Definition
+      Phylum Cnidaria
+      Includes organisms such as jellyfish, corals, sea anemones
+    Body Plans
+      Polyp
+        Cup-shaped body with mouth facing upward
+        Examples: sea anemone, coral
+      Medusa
+        Bell-shaped body with mouth and tentacles facing downward
+        Examples: jellyfish
+    Radial Symmetry
+      Circular body plan
+      Any cut through center leaves two equal halves
+    Tissues
+      Gastrovascular cavity
+        Large space for digestion and nutrient movement
+      Nerve-net
+        Net-like structure of connected nerve cells
+    Reproduction
+      Asexual budding (polyps)
+      Sexual formation of gametes (medusae, some polyps)
+    Colonies
+      Portuguese Man o War
+        Colony of polyps with air-filled polyp for floating
+        Feeding polyps with tentacles
+      Coral Reefs
+        Built from cnidarians called corals
+        Sessile polyps with tentacles for feeding
+        Calcium carbonate skeletons
+        Important habitats for ocean life
+    Nematocysts
+      Stinging cells
+      Used for catching food
+      Paralyze prey with poisonous thread

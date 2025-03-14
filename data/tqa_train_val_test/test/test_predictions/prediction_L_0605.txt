@@ -1,0 +1,35 @@
+mindmap
+  Molecular Evidence for Evolution
+    Genetic Sequence
+      Blueprint of Organism
+      Similarities and Differences
+    Molecular Clock
+      DNA Sequences
+      Amino Acid Sequences
+      Species Relationships
+    Genomes
+      Genetic Makeup
+      Comparison of Species
+    Biochemical Building Blocks
+      Amino Acids
+      Nucleotides
+    DNA and RNA Development
+      Determination of Organisms
+    Genetic Analysis
+      Basal Organism
+      Evolutionary Clock
+    Regulatory Genes
+      Differences between Organisms
+    Hox Genes
+      Phase of Development
+      Organisms with Hox Genes
+    Molecular Differences
+      Mammal and Bird
+      Mammal and Frog
+      Mammal and Fish
+      Whale and Horse
+      Whale and Shark
+    Evolutionary Patterns
+      Mammal and Bird
+      Mammal and Whale
+      Mammal and Shark

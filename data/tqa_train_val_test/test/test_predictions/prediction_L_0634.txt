@@ -1,0 +1,42 @@
+mindmap
+  Plant-like Protists
+    Autotrophs
+      Photosynthesis
+        Carbon Dioxide
+        Water
+        Sunlight
+    Differences from Plants
+      No True Stems
+      No Roots
+      No Leaves
+    Examples
+      Ulva
+      Seaweed
+      Kelp
+    Multicellular Species
+      Macrocystis pyrifera
+    Ecosystem Role
+      Base of Marine Food Chain
+      Oxygen Production
+    Classification
+      Chlorophyta
+        Green Algae
+      Red Algae
+        Macrocystis pyrifera
+      Brown Algae
+      Diatoms
+      Dinoflagellates
+      Euglenoids
+      Rhodophyta
+      Phaeophyta
+      Chrysophyta
+      Pyrrophyta
+      Euglenophyta
+    Species Count
+      Chlorophyta: 7,500
+      Red Algae: 5,000
+      Brown Algae: 1,500
+      Diatoms: 4,000
+      Dinoflagellates: 1,000
+      Euglenoids: Gonyaulax
+      Euglena

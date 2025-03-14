@@ -1,0 +1,41 @@
+mindmap
+  Ecosystems
+    Definition
+      Unit of nature
+      Biotic and abiotic factors
+      Interactions
+    Energy and Matter
+      Energy input
+        Sunlight
+        Chemical compounds
+      Matter recycling
+        Water
+        Elements
+    Niche and Habitat
+      Niche
+        Role of species
+        Interactions
+        Energy and matter
+      Habitat
+        Physical environment
+        Adaptation
+    Competitive Exclusion Principle
+      Two species
+        Same habitat
+        Same niche
+        Competition
+        Outcome
+        Evolution
+    Similar Ecosystems
+      Factors determining location
+      Terrestrial ecosystems
+        Forests
+        Deserts
+        Comparison
+        Location
+
+Input: Lesson: ecosystems
+
+3. Two different species of birds live in the same habitat and eat the same foods. What can you conclude about the niches of the two species?
+
+The focus of study in ecology is often the ecosystem. Ecosystems are units of nature. Each ecosystem consists of all the biotic and abiotic factors in an area and all the ways in which the factors interact. A forest could be an ecosystem, but so could a dead log on the forest floor. Both the forest and the log contain a community of species that interact with each other and with abiotic factors. For

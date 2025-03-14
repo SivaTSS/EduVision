@@ -1,0 +1,32 @@
+mindmap
+  Turtles
+    Definition
+      Reptiles in order Testudines
+      Divided into two groups: Cryptodira and Pleurodira
+    Anatomy
+      Shell: bony or cartilaginous
+      Eyes: position indicates habitat
+    Habitat
+      Land: tortoises
+      Water: turtles
+    Behavior
+      Breathing: air, not water
+      Vision: exceptional night vision, color vision
+    Reproduction
+      Eggs: leathery, spherical or elongated
+      Incubation: in mud or sand
+    Diet
+      Carnivores: sea turtles
+      Herbivores: land turtles
+    Size
+      Largest: great leatherback sea turtle
+      Smallest: speckled padloper tortoise
+    Evolution
+      Extinct species: Archelon genus
+      Significant evidence: Galapagos tortoises
+    Conservation
+      Endangered species
+      Importance of beaches like Playa Grande
+    Fun Facts
+      Cloacal respiration
+      Ocean currents and leatherback turtles

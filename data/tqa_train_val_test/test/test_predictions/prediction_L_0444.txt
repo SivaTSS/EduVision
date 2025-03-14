@@ -1,0 +1,38 @@
+mindmap
+  Amphibians
+    Definition
+      Vertebrates that live in both water and on land
+      Approximately 6,000 species
+    Characteristics
+      Ectothermic
+        Body temperature depends on environment
+        Affects behavior
+      Respiratory Organs
+        Lungs for land breathing
+        Skin for underwater breathing
+      Adaptations
+        Skin to prevent water loss
+        Eyelids for vision on land
+        Eardrum for hearing
+        Tail for movement
+    Habitats
+      Fresh water sources
+        Streams, rivers, lakes, swamps, ponds
+      Dry environments
+        Forests, meadows, marshes
+    Reproduction
+      Sexual reproduction
+        External, internal, or internal fertilization
+    Life Cycle
+      Egg Stage
+        Fertilization methods
+      Larval Stage
+        Legless, gilled, water-dwelling
+      Adult Stage
+        Four-legged, land-dwelling
+    Examples
+      Frogs
+      Toads
+      Salamanders
+      Newts
+      Caecilians

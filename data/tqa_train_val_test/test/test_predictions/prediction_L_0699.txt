@@ -1,0 +1,34 @@
+mindmap
+  Tropisms
+    Definition
+      Growth towards or away from a stimulus
+    Types
+      Phototropism
+        Stimulus: Light
+        Growth: Towards light
+        Example: Leaves and stems
+      Gravitropism
+        Stimulus: Gravity
+        Growth: Towards or away from gravity
+        Example: Roots and shoots
+      Thigmotropism
+        Stimulus: Touch
+        Growth: Around a stimulus
+        Example: Tendrils
+    Mechanism
+      Auxins
+        Hormones that cause growth
+        Move to one side of the stem
+        Cause rapid cell growth on that side
+        Result: Bending
+    Experiments
+      Phototropism
+        Signal in growing tip
+        Migration up and down
+        Agar block
+        Hormone: Auxin
+    Conclusion
+      Importance of tropisms
+        Adaptation to environment
+        Survival and growth
+        Phototropism, gravitropism, and thigmotropism

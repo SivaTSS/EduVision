@@ -1,0 +1,33 @@
+mindmap
+  Technology Careers
+    Engineers
+      Definition
+        Creative problem solvers
+        Use math and science
+      Types
+        Electrical Engineers
+        Mechanical Engineers
+    Careers in Technology
+      Roller Coaster Design
+        Math and Science Knowledge
+        Logical Thinking
+        Creativity
+      Video Game Development
+        Three-Dimensional Structures
+        Two-Dimensional Drawings
+    Technology Professionals
+      Skills
+        Logical Thinking
+        Creativity
+      Knowledge
+        Math and Science
+          Physical Science
+          Geometry
+          Forces and Motion
+    URLs for More Information
+      Roller Coaster Design
+        URL 1
+        URL 2
+      Video Game Development
+        URL 3
+        URL 4

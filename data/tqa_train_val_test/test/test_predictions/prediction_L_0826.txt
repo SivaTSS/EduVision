@@ -1,0 +1,16 @@
+mindmap
+  Charles Law
+    Definition
+      - Law that describes the relationship between the temperature and volume of a gas, assuming constant pressure
+    Effects of Temperature on Gas Volume
+      - Increasing temperature increases gas volume
+      - Decreasing temperature decreases gas volume
+    Explanation
+      - Heating a gas gives particles more energy
+      - Particles move faster and spread out, increasing volume
+    Real-World Examples
+      - Hot air balloons
+      - Balloons inflated on a hot day and then cooled
+    Historical Context
+      - Developed by Jacques Charles and Joseph Gay-Lussac in the early 1800s
+      - Part of three well-known gas laws, including Boyles Law and Amontons Law

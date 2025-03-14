@@ -1,0 +1,59 @@
+mindmap
+  Hurricanes
+    Definition
+      Tropical cyclones
+      Formation
+        Tropical depression
+        Low pressure cell
+        Thunderstorms
+        Rotation
+        Energy source
+    Formation Process
+      Warm seas
+      Humid air mass
+      Low pressure cell
+      Thunderstorms
+      Rotation
+      Energy source
+    Characteristics
+      Size
+      Wind speeds
+      Rainfall
+      Energy production
+      Tornadoes
+    Movement
+      Prevailing winds
+      Trade winds
+      Westerlies
+      Direction change
+      Speed
+    Damage
+      High winds
+      Rainfall
+      Storm surge
+        Sea level rise
+        Seawater impact
+        Flooding
+    Duration
+      Average duration
+      Path
+      Disintegration
+    Frequency
+      Number of hurricanes
+      Tropical storms
+      Tropical depressions
+    Impact
+      Property damage
+      Coastal development
+      Prediction improvements
+      Fatalities
+        Hurricane Katrina
+          Destructiveness
+          Costliness
+          Death toll
+    Saffir-Simpson Hurricane Scale
+      Categories
+        Category 1 (weak)
+        Category 2 (moderate)
+        Category 3 (strong)
+        Category 4 (very strong)

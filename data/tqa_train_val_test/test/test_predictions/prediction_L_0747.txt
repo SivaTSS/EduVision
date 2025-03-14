@@ -1,0 +1,46 @@
+mindmap
+  Technology
+    Definition
+      Application of knowledge to real-world problems
+      Includes methods, processes, and devices
+    Engineers
+      Professionals in technology
+      Background in physical science
+      Careers in engineering
+    Technological Design
+      Steps
+        1. Research questions
+        2. Develop possible designs
+        3. Make a model
+        4. Test the model
+    Constraints
+      Laws of nature
+      Properties of materials
+      Cost
+      Ethical concerns
+    Evolution of Technology
+      Computers
+        ENIAC (1946)
+        ERMA (1955)
+        PDP-8 (1968)
+        Macintosh 128K (1984)
+        MacBook Air (2010)
+    Science and Technology
+      Goals
+        Science: Increase knowledge
+        Technology: Use knowledge for practical purposes
+      Relationship
+        Science advances technology
+        Technology advances science
+    Technology and Society
+      Influence on each other
+        Technology affects society
+          Makes lives easier or healthier
+        Society affects technology
+          Sets direction of technology
+    Nanotechnology
+      Manipulation of atoms and molecules
+      Matter
+        Characteristics
+        Consists of atoms and molecules
+    Ethical Concerns

@@ -1,0 +1,43 @@
+mindmap
+  Weather versus Climate
+    Weather
+      Definition
+        Change from day to day
+        Directly related to energy in the system
+      Factors
+        Air temperature
+        Air pressure
+        Fog
+        Humidity
+        Cloud cover
+        Precipitation
+        Wind speed and direction
+    Climate
+      Definition
+        Long-term average of weather
+        Predictable
+      Factors
+        Air temperature
+        Humidity
+        Wind speed and direction
+        Precipitation
+        Position relative to factors
+          Angle of the Sun
+          Cloud cover
+          Air pressure
+          Energy in the system
+    Interest
+      Cold place in December
+      Summer day
+      Planning vacation
+      Choosing location for picnic
+    Questions
+      Factors of weather
+      Factors of climate
+      How climate changes
+      How weather changes
+    Sources
+      Sun as energy source
+      Atmosphere as location
+      Climate as long-term average of weather
+      Climate as predictable

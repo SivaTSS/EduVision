@@ -1,0 +1,50 @@
+mindmap
+  Protist Characteristics
+    Kingdom Protista
+      Definition
+        Eukaryotic organisms
+        Not animals, plants, or fungi
+      Classification
+        Animal-like protists
+          Heterotrophs
+          Moveable
+        Plant-like protists
+          Autotrophs
+          Photosynthesize
+        Fungi-like protists
+          Heterotrophs
+          Cell walls
+          Spores
+    Protist Characteristics
+      Eukaryotic
+        Nucleus
+        Mitochondria
+      Parasites
+        Some protists
+      Environments
+        Aquatic or moist
+    Protist Diversity
+      Shapes
+        Simple to complex
+      Evolution
+        First eukaryotes
+      Classification
+        Animal-like
+        Plant-like
+        Fungi-like
+    Protist Classification
+      Animal-like
+        Heterotrophs
+        Moveable
+      Plant-like
+        Autotrophs
+        Photosynthesize
+      Fungi-like
+        Heterotrophs
+        Cell walls
+        Spores
+    Protist Reproduction
+      Not all the same
+    Protist Examples
+      Simple protists
+        Similar to prokary

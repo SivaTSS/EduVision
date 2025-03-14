@@ -1,0 +1,32 @@
+mindmap
+  Reptiles
+    Definition
+      Tetrapods (four-legged)
+      Ectothermic (internal temperature depends on environment)
+    Characteristics
+      Skin covered in scales
+      Advanced eyesight
+      Sense of smell (tongue in snakes)
+      Lungs for breathing air
+      Amniotes (embryos surrounded by thin membrane)
+      Cloaca (single exit/entrance for sperm, eggs, waste)
+    Reproduction
+      Sexual reproduction (two parents)
+      Asexual reproduction (one parent)
+      Cloaca (single exit/entrance for sperm, eggs, waste)
+      Amniotic eggs (leathery or hard shell)
+      No larval stages
+    Examples
+      Snakes
+      Alligators
+      Crocodiles
+      Turtles
+      Tortoises
+      Jaragua Sphaero (dwarf gecko)
+      Saltwater crocodile
+    Orders
+      Squamata (lizards, snakes, amphisbaenids)
+      Crocodilia (crocodiles, gharials, caimans, alligators)
+      Testudines (turtles, tortoises)
+      Sphenodontia (tuatara)
+    Miscon

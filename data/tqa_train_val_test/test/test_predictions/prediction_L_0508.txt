@@ -1,0 +1,48 @@
+mindmap
+  Ecosystems
+    Definition
+      Living things and nonliving things
+      Interacting in the same area
+    Ecology
+      Study of ecosystems
+      Living organisms interact with each other
+      Living organisms interact with environment
+    Ecosystem Components
+      Biotic Factors
+        Plants
+        Animals
+        Fungi
+        Microorganisms
+      Abiotic Factors
+        Temperature
+        Water
+        Soil
+        Air
+    Energy Flow
+      Producers
+        Plants
+        Algae
+      Consumers
+        Herbivores
+        Carnivores
+    Nutrient Recycling
+      Carbon
+      Nitrogen
+    Biogeochemical Cycles
+      Recycling of nutrients
+      Carbon cycle
+      Nitrogen cycle
+    Water Recycling
+      Continuous recycling
+    Energy Depiction
+      Interactions of organisms
+      Flow of energy
+    Ecosystem Examples
+      Rainforest
+      Savanna
+      Tundra
+      Desert
+    Ecosystem Sites
+      Great Barrier Reef
+      Greater Yellowstone Ecosystem
+      Desert Botanical Gardens

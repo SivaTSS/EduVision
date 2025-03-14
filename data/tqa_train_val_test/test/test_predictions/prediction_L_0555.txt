@@ -1,0 +1,26 @@
+mindmap
+  Human Vision
+    Definition
+      Vision: ability to see light
+    Eye Components
+      Cornea: outer layer of eye
+      Pupil: opening in center of eye
+        Expansion/Contraction: adjusts amount of light entering eye
+      Retina: inner layer of eye
+        Cells: rods and cones
+          Rods: sensitive to low light
+          Cones: sensitive to color
+    Depth Perception
+      Two Eyes: different angles
+        Stereopsis: 3D images
+    Color Vision
+      Importance: fruit identification
+        Evolution: tree-dwelling primates
+    Comparison to Other Animals
+      Raptors: 8x better vision
+        Night Vision: other animals
+      Color Blindness: dogs, cats
+        Ultraviolet Vision: bees, butterflies
+    Benefits of Color Vision
+      Fruit Identification: ripe vs. green
+        Importance: survival of primates

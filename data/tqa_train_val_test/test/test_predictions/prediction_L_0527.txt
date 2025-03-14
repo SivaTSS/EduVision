@@ -1,0 +1,34 @@
+mindmap
+  Fungi
+    Definition
+      Kingdom Fungi
+      Heterotrophs
+    Differences from Plants
+      Energy Source
+        Autotrophs vs Heterotrophs
+      Absorption of Nutrients
+        Absorption vs Consumption
+    Types of Fungi
+      Yeasts
+      Molds
+      Mushrooms
+    Number of Species
+      Estimated 1.5 million species
+    Visibility
+      Some visible without microscope
+      Most not visible without microscope
+    Habitats
+      Soil
+      Decaying logs
+      Inside plants or animals
+    Fungi Interactions
+      Symbiotic relationships
+        Lichens
+    Fungi Benefits
+      Decomposition of matter
+      Release of nutrients
+      Food for other organisms
+    Fungi in Daily Life
+      Mold on bread
+      Mushrooms on pizza
+      Antibiotics for humans

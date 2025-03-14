@@ -1,0 +1,52 @@
+mindmap
+  Weather Data Collection
+    Contemporary Forecasting
+      Radiosondes
+        Data Collection
+      Satellites
+        Data Collection
+          Visible Light
+          Infrared
+      Radar
+        Data Collection
+          Precipitation Characteristics
+          Doppler Radar
+    Weather Stations
+      Thermometers
+        Mercury
+        Modern
+      Barometers
+        Water
+        Air
+        Mercury
+      Other Instruments
+        Wind Speed
+        Wind Direction
+        Humidity
+        Precipitation
+    Weather Data Usage
+      Atmospheric Characteristics
+        Temperature
+        Pressure
+        Humidity
+      Weather Systems
+        High Pressure Cells
+        Low Pressure Cells
+        Fronts
+    Data Collection Methods
+      Land-Based Stations
+      Sea Surface Stations
+      Orbiting Stations
+      Balloon Launches
+      Airplane Drops
+    Data Analysis
+      Pressure Changes
+      Weather Prediction Improvement
+      Satellite Monitoring
+      Long-Term Climate Changes
+    References
+      World Meteorological Organization
+      Instruments Measurement
+      Radar Technology
+      Satellite Data Collection
+      Weather Station Networks

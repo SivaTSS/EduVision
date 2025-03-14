@@ -1,0 +1,35 @@
+mindmap
+  Ecosystem Change
+    Ecological Succession
+      Definition
+        Process in which species numbers and types change over time
+    Primary Succession
+      Definition
+        Occurs in an area never colonized by living things
+      Pioneer Species
+        Bacteria and lichens
+        Grow on bare rock
+      Soil Formation
+        Organic matter added to soil
+        Improves soil and holds water
+    Secondary Succession
+      Definition
+        Occurs in a formerly inhabited area disturbed
+      Pioneer Species
+        Grasses and other small plants
+      Soil Already in Place
+        Faster than primary succession
+    Climax Community
+      Definition
+        Stable state of an ecosystem
+      Likelihood
+        Rare in real-world ecosystems
+        Disturbances prevent climax communities
+    Human Impact
+      Environmental Problems
+        Caused by human actions
+      Effects on Living Things
+        Various impacts on ecosystems
+    Conclusion
+      Ecosystems are dynamic
+      Continued change is likely

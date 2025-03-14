@@ -1,0 +1,50 @@
+mindmap
+  Weather Prediction
+    Numerical Weather Prediction
+      Mathematical Models
+        Calculates weather conditions
+        Horizontally and vertically
+        Grid points
+      Supercomputers
+        Processes data
+        Makes calculations
+        Provides accurate forecasts
+      Meteorologist Interpretation
+        Adds analysis
+        Improves forecast accuracy
+    Weather Forecasts
+      Accuracy
+        Most accurate forecasts
+        Reduces property damage
+        Reduces fatalities
+      Broadcasting
+        Satellites
+        Worldwide distribution
+    Data Collection
+      Sources
+        Maps
+        Calculators
+      Numerical Weather Prediction
+        Uses more data
+        Makes more calculations
+        Improves forecast accuracy
+    Weather Balloons
+      Monitoring Weather
+        Above Earth
+      GIFTS
+        GIFTS stands for Global Integrated Forecast System
+        Collects data
+        Better than weather balloons
+        Remote Sensing
+          Senses water vapor
+          Predicts hurricanes
+        Wind Sensing
+          Senses winds
+          Predicts hurricane paths
+    Hurricane Predictions
+      Hurricane Paths
+        Difficult to predict
+        More than a day or two
+      Online Weather Prediction
+        Popular sites
+        Duration of predictions

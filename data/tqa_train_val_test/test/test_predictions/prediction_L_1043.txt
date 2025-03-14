@@ -1,0 +1,41 @@
+mindmap
+  Technological Design Process
+    Definition
+      Process for developing new technology
+    Steps
+      Identify Problem
+        Identify a problem to solve
+      Research
+        Gather information about the problem
+      Generate Solutions
+        Brainstorm possible solutions
+      Select Best Solution
+        Choose the best solution from the options
+      Create Model
+        Design a physical representation of the solution
+      Test Model
+        Evaluate the model's effectiveness
+      Refine and Retest
+        Make improvements and test again
+      Communicate Solution
+        Share the final solution with others
+    Similarities to Scientific Investigation
+      Both rely on evidence and reason
+      Both follow a logical sequence of steps
+    Limitations and Constraints
+      Factors such as cost and safety
+    Importance of Testing and Refining
+      Ensures the design works to solve the problem
+      Allows for problem-solving and modification
+    Example: Tri-ATHLETE Robot
+      Designed to solve specific problems
+      Tested and refined through multiple versions
+      Final solution communicated to others
+    Application: Designing a Solar-Powered Car
+      Researching questions about design
+      Developing possible solutions
+      Creating and testing a model
+      Refining and improving the design
+    Application: Designing a Personal Item Carrier
+      Researching questions about design
+      Developing

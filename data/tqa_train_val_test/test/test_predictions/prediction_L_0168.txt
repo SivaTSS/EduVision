@@ -1,0 +1,22 @@
+mindmap
+  Ecosystems
+    Flow of Matter
+      Nutrients
+        Sources
+          Rocks and Minerals
+          Plants
+          Other Regions
+        Cycles
+          Decomposers
+          Streams
+          Wind
+    Differences from Energy Flow
+      Entry and Exit Points
+      Trophic Levels
+      Physical Environment
+    Impact of Decomposers
+      Role in Nutrient Breakdown
+      Importance to Life on Earth
+      Lack of Decomposers
+        Consequences
+        Extinction of Life

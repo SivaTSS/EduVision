@@ -1,0 +1,29 @@
+mindmap
+  Scientific Theories
+    Definition
+      Explanation of natural world
+      Based on repeated observations
+    Evidence
+      Direct, physical observation
+      Measurable or "quantifiable"
+      Data from experiments
+    Hypothesis
+      Proposed explanation
+      Tries to explain observation
+    Scientific Law
+      Statement describing natural phenomena
+      Always happens under certain conditions
+    Scientific Theory
+      Well-established explanation
+      Tested and confirmed by many
+      Produces understanding of world
+    Importance
+      Answers scientific questions
+      Helps understand natural world
+    Changes
+      Adaptable to new evidence
+      Can change theories as needed
+    Examples
+      Germ theory of disease
+      Cell theory
+      Theory of evolution

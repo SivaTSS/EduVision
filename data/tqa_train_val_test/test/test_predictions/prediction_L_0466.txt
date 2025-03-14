@@ -1,0 +1,53 @@
+mindmap
+  Blood Pressure
+    Definition
+      Circulating blood pressure on blood vessel walls
+    Measurement
+      Sphygmomanometer
+        Digital sphygmomanometer
+        Inflatable cuff
+        Pressure meter
+    Components
+      Systolic Pressure
+        Pressure on blood vessels during heartbeat
+      Diastolic Pressure
+        Pressure on blood vessels between heartbeats
+    Health Implications
+      Hypertension
+        Definition
+          Always high blood pressure
+        Causes
+          Lifestyle factors
+          Genetic factors
+          Health conditions
+        Symptoms
+          "Silent killer"
+        Treatment
+          Diet changes
+          Exercise
+          Medication
+    Healthy Ranges
+      Systolic Pressure
+        Less than 120
+      Diastolic Pressure
+        Less than 80
+    Effects of High Blood Pressure
+      Cardiovascular Disease
+        Heart disease
+        Stroke
+        Other diseases
+    Low Blood Pressure
+      Definition
+        Less pressure in blood vessels
+      Symptoms
+        Dizziness
+        Fainting
+        Dehydration
+        Blurred vision
+        Nausea
+        Fatigue
+    Lifestyle Changes
+      Exercise
+        Importance
+      Sodium Intake
+        Reduc

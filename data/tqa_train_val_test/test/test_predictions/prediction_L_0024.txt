@@ -1,0 +1,30 @@
+mindmap
+  Air Movement
+    Definition of Wind
+      Wind as Air Movement
+      Wind as Air Pressure Difference
+    Causes of Wind
+      Heating Differences
+        Troposphere
+        Convection Currents
+        Local Winds
+          Land and Sea Breezes
+            Daytime Cooling
+            Nighttime Cooling
+          Monsoons
+            Seasonal Changes
+            Importance in Southern Asia
+    Global Winds
+      Causes
+        Unequal Heating
+        Coriolis Effect
+      Jet Streams
+        Definition
+        Location
+        Importance
+    Questions
+      Define Wind
+      What are Local Winds
+      Describe Monsoons
+      How does Coriolis Effect Influence Global Winds
+      How do Heating Differences Cause Winds

@@ -1,0 +1,37 @@
+mindmap
+  Protists Nutrition
+    Plant-like Protists
+      Algae
+        Photosynthesis
+    Fungi-like Protists
+      Slime Molds
+        Decompose Decaying Matter
+    Animal-like Protists
+      Filter-feeders
+        Flagellum Whipping
+      Endocytosis
+        Wrap Around Prey
+        Create Food Vacuole
+        Produce Toxins
+        Digest Food
+    Parasitic Protists
+      Harm Hosts
+        Absorb Nutrients
+    Endocytosis and Exocytosis
+      Types of Endocytosis
+        Phagocytosis
+        Pinocytosis
+        Receptor-mediated Endocytosis
+      Differences
+        Involvement of Membrane
+        Size of Material Ingested
+        Role of Receptors
+    Filter-feeding
+      Constant Flagellum Whipping
+      Food Intake
+    Slime Molds
+      Energy Source
+      Habitat
+    Parasitic Protists
+      Harm Hosts
+      Nutrient Absorption

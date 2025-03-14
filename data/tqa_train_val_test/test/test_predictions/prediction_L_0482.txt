@@ -1,0 +1,29 @@
+mindmap
+  Centipedes and Millipedes
+    Habitat
+      Centipedes: moist forests
+      Millipedes: moist forests, grasslands, semi-arid habitats, deserts
+    Diet
+      Centipedes: nighttime predators, insects, spiders, small invertebrates, lizards
+      Millipedes: herbivores, decaying plant material
+    Legs
+      Centipedes: one pair per segment
+      Millipedes: two pairs per segment
+    Classification
+      Myriapoda: 13,000 species
+        Chilopoda: centipedes
+        Diplopoda: millipedes
+        Symphyla: symphylans
+        Pauropoda: pauropods
+    Characteristics
+      Antennae: single pair
+      Eyes: simple
+    Behavior
+      Centipedes: fast, venomous, guard eggs and young
+      Millipedes: slow, non-poisonous, protect eggs with hard soil nest
+    Size
+      Centipedes: from half an inch to 12 inches
+      Millipedes: small, translucent, 0.5-2.0 mm long
+    Distribution
+      Centipedes: all continents except Antarctica
+      Millipedes: all continents except

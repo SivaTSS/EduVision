@@ -1,0 +1,53 @@
+mindmap
+  Science
+    Definition
+      Knowledge-based
+      Evidence-based
+      Logic-based
+    Induction
+      Drawing conclusions
+      Observations
+      Generalizations
+    Scientific Theories
+      Broad explanations
+      Widely accepted
+      Evidence-based
+    Scientific Laws
+      Statements
+      Conditions
+      Always happen
+    History of Science
+      Ancient civilizations
+      Thales
+      Aristotle
+      Dark Ages
+      Scientific Revolution
+    Contributions
+      Women
+        Marie Curie
+        Lise Meitner
+        Irene Joliot-Curie
+        Maria Goeppert-Mayer
+        Ada E. Yonath
+        Shirley Ann Jackson
+      Minorities
+    Milestones
+      Mesopotamian calendar
+      Alhazen's studies
+      Chinese inventions
+      Copernicus' theory
+      Galileo's discoveries
+      Newton's law of gravity
+      Human chromosomes sequencing
+    Methods
+      Observation
+      Induction
+      Deduction
+    Goals
+      Understanding the world
+      Explaining phenomena
+      Predicting outcomes
+    Importance
+      Advancing knowledge
+      Improving lives
+      Enhancing society

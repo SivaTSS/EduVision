@@ -1,0 +1,23 @@
+mindmap
+  Replication in Science
+    Definition
+      Getting the same result when an experiment is repeated
+    Importance
+      Checking work
+        Repeated replication of investigations may turn a hypothesis into a theory
+        If results cannot be replicated they are likely to be incorrect
+      Replication in Practice
+        Example of vaccine-autism study
+          Initial study found a link between a common childhood vaccine and autism
+          Other researchers tried to replicate the study but could not find a link
+          Investigators determined that the original study was a fraud
+    Reasons for Replication
+      To confirm results
+      To check work
+      To turn a hypothesis into a theory
+    Limitations
+      Not every investigation is repeated
+      Time and resources required for replication
+    Consequences of Incorrect Results
+      Epidemics and deaths due to unvaccinated children
+      Financial losses due to fraudulent research

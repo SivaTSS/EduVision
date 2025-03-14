@@ -1,0 +1,43 @@
+mindmap
+  Bird Reproduction
+    Mating Displays
+      Male Pheasants
+        Display 1
+        Display 2
+      African Widow Bird
+        Display Danger
+        Benefit
+    Mating Behavior
+      Intelligence
+      Mating Duration
+      Parental Care
+        Importance
+    Offspring Care
+      Altricial Birds
+        Examples
+      Precocial Birds
+        Examples
+    Brood Parasitism
+      Definition
+      Host Bird
+      Benefit
+    Reproduction Process
+      Internal Fertilization
+      Egg Development
+      Egg Laying
+        Nesting
+        Incubation
+    Egg Protection
+      Camouflage
+      Nest Location
+      Parental Defense
+    Parental Care
+      Monogamy
+      Incubation
+      Parental Roles
+        Defense
+        Feeding
+    Evolutionary Adaptations
+      Precocial vs Altricial
+      Brood Parasitism
+      Parental Care

@@ -1,0 +1,35 @@
+mindmap
+  Air Masses
+    Definition
+      Temperature and humidity
+      Formation
+        High pressure zones
+        Source regions
+          Continental
+          Maritime
+          Polar
+          Tropical
+    Characteristics
+      Four types
+        Continental
+          Cold and dry
+        Maritime
+          Warm and moist
+        Polar
+          Cold and moist
+        Tropical
+          Hot and moist
+    Movement
+      High-level winds
+      Sharing characteristics
+    Interactions
+      Storms
+        Colder air over warmer ground
+        Warmer air over colder ground
+    Effects
+      Temperature moderation
+      Inversions
+        Cold air trapped near ground
+    Size
+      Up to 1,600 km across
+      Several kilometers thick

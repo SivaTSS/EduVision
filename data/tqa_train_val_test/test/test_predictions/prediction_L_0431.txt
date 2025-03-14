@@ -1,0 +1,51 @@
+mindmap
+  Genetics
+    Human Genome Project
+      Significance
+        Increased knowledge of genetic disorders
+        Identification of human genes
+      Completion Year
+        2003
+    Genetic Disorders
+      Causes
+        Single gene mutations
+        Chromosome separation errors
+      Examples
+        Autosomal recessive disorders
+          Marfan syndrome
+          Cystic fibrosis
+          Sickle cell anemia
+          Hemophilia A
+        X-linked recessive disorders
+          Turner's syndrome
+          Klinefelter's syndrome
+      Chromosomal disorders
+        Down syndrome
+        Turner's syndrome
+        Klinefelter's syndrome
+    Biotechnology
+      Definition
+        Use of technology to change organisms
+      Methods
+        Polymerase chain reaction
+          Gene copying
+        Gene cloning
+          Gene insertion into bacterial cells
+      Applications
+        Gene therapy
+          Curing genetic disorders
+        Genetically modified organisms (GMOs)
+          Food crops
+            Corn
+            Others
+        Human protein production
+          Insulin
+          Others
+    Pros and Cons
+      Pros
+        Solving human problems
+        Benefits in medicine and agriculture
+      Cons
+        Health concerns
+          GMOs and human health
+        Environmental concerns

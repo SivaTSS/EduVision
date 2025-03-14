@@ -1,0 +1,51 @@
+mindmap
+  Plants
+    Evolution
+      Aquatic origin
+        Green algae
+        Stoneworts
+      Colonization of land
+        Hazards
+          Dryness
+          Solar radiation
+      Adaptations
+        Vascular tissue
+          Plumbing system
+          Improved water absorption
+        True leaves
+        Roots
+        Dominant diploid generation
+    Evolution of vascular plants
+      First vascular plants
+        Fern-like plants
+      Evolution of seeds
+        Seeds as reproductive structures
+          Embryo
+          Endosperm
+          Hull
+        Seed dispersal
+          Structures for dispersal
+          Waiting for favorable conditions
+    Classification of plants
+      Nonvascular plants (bryophytes)
+        Liverworts
+        Hornworts
+        Mosses
+      Vascular plants (tracheophytes)
+        Seedless vascular plants
+          Ferns
+        Seed plants (spermatophytes)
+          Gymnosperms
+            Conifers
+          Angiosperms
+            Apple trees
+    Reproduction
+      Sexual reproduction
+        Male and female reproductive organs
+        Pollination
+          Pollinators
+          Pollen tubes
+      Asexual reproduction
+        Spores
+        Seeds
+          Naked seeds in

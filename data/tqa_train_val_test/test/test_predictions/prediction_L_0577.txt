@@ -1,0 +1,60 @@
+mindmap
+  Ecology
+    Definition
+      Study of living organisms
+      Interactions with environment
+    Fields of Study
+      Geology
+      Soil Science
+      Geography
+      Meteorology
+      Genetics
+      Chemistry
+      Physics
+    Levels of Study
+      Cells
+      Organisms
+      Biomes
+    Biomes
+      Large communities of plants and animals
+      Arctic
+      Tropics
+      Desert
+    Research Methods
+      Field Studies
+        Collect data outside
+        Count and classify organisms
+      Laboratory Studies
+        Work inside
+        Analyze data
+        Use computer programs
+    Abiotic Factors
+      Sunlight
+      Climate
+      Soil
+      Water
+      Air
+    Biotic Factors
+      Plants
+      Animals
+      Bacteria
+      Fungi
+      Protists
+    Interactions
+      Plants and animals
+        Sunlight and oxygen
+        Carbon dioxide and water
+      Abiotic and biotic factors
+        Examples
+    Biotic Factors
+      Biotic factors
+        Plants
+        Animals
+        Bacteria
+        Fungi
+        Protists
+    Abiotic Factors
+      Abiotic factors
+        Sunlight
+        Climate
+        Soil

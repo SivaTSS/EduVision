@@ -1,0 +1,47 @@
+mindmap
+  Insect Food
+    Insect Mouthparts
+      Honeybee Mouthparts
+        Description
+      Sponging
+        Process
+        Differences with Butterflies
+      Cockroaches vs Butterflies
+        Design Implications
+    Insect Food Sources
+      Plant Eaters
+        Aphids
+        Leafhoppers
+        Praying Mantises
+      Predators
+        Mosquitoes
+        Aphids
+      Parasites
+        Fleas
+        Lice
+    Insect Feeding Methods
+      Chewing
+        Dragonflies
+        Grasshoppers
+        Beetles
+      Siphoning
+        Moths
+        Butterflies
+        Proboscis
+      Sponging
+        Definition
+        Housefly Example
+    Insect Senses
+      Prey Detection
+    Insect Mouthparts Adaptations
+      Assassin Bugs
+    Insect Food Consumption
+      Silkworm Diet
+      Locust Diet
+    Insect Diet Variety
+      Plant Eaters
+      Predators
+      Parasites
+      Chewing Insects
+      Siphoning Insects
+      Sponging Insects

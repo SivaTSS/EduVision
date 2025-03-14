@@ -1,0 +1,43 @@
+mindmap
+  Animal Evolution
+    Oldest Animal Fossils
+      Age: 630 million years
+      First Animals: Aquatic Invertebrates
+    Invertebrate Evolution
+      Multicellularity
+        Specialization of Cells
+        No Tissues
+      Tissues and Organization
+        Ectoderm and Endoderm
+        Jellyfish Example
+      Symmetry
+        Radial Symmetry
+          Coral Example
+        Bilateral Symmetry
+          Beetle Example
+      Mesoderm
+        Third Embryonic Layer
+        Flatworm Example
+      Digestive System
+        Single Opening
+          Jellyfish Example
+        Two Openings
+          Roundworm Example
+      Body Cavity
+        Pseudocoelom
+          Roundworm Example
+        Coelom
+          Mollusk and Annelid Examples
+      Segmentation
+        Earthworm and Ant Examples
+      Notochord
+        Chordates
+          Tunicates Example
+    Vertebrate Evolution
+      First Vertebrates
+        Earliest: 550 million years ago
+        Hagfish Example
+      Land Colonization
+        Invertebrates: 450 million years ago
+        Exoskeleton Adaptation
+        First Vertebrates: 3

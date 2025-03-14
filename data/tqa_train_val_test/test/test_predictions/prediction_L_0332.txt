@@ -1,0 +1,52 @@
+mindmap
+  Tornadoes
+    Formation
+      Supercells
+        Supercell thunderstorms
+        Power source
+      Thunderstorm elements
+        Rising air
+        Surrounding air
+    Characteristics
+      Wind speed
+        Average
+        Maximum
+      Duration
+        Average
+        Maximum
+      Path
+        Speed
+        Distance
+    Damage
+      Injuries and deaths
+        Causes
+      Frequency
+        Annual average
+        Variation
+    Formation factors
+      Air masses
+        Spring meeting
+      Jet stream
+        Role
+    Prediction
+      Wide region
+      Radar tracking
+    Scale
+      Fujita Scale
+        Wind speed
+        Damage levels
+    Impact
+      Destruction
+        Small area
+        Flying debris
+      Fatalities
+        Average
+        Deadliest tornadoes
+    Regions
+      Tornado Alley
+        Location
+        Violent tornadoes
+    Satellite image
+      April 2011 tornadoes
+    References
+      "Tornadoes." Encyclopædia Britannica, Encyclopædia Britannica, Inc., 16 Mar. 2018, www.britannica.com/science/tornado. Accessed 16 Mar. 20

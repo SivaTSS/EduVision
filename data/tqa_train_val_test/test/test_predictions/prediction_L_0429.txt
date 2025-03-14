@@ -1,0 +1,30 @@
+mindmap
+  Gregor Mendel
+    Monk
+    Austrian
+    Mid-1800s
+    Pea Plants
+      Easy to Grow
+      Quick Growth
+      Observable Traits
+      Two Forms
+    Sexual Reproduction
+      Male Gametes
+      Female Gametes
+      Pollination
+    Mendels Experiments
+      One Trait at a Time
+        Law of Segregation
+      Two Traits at a Time
+        Law of Independent Assortment
+    Mendels Laws
+      Law of Segregation
+        Factors Separate
+        Dominant Factor
+      Law of Independent Assortment
+        Factors Go Independently
+        All Possible Combinations
+    Mendels Legacy
+      Ignored until 1900
+      Father of Genetics
+      Science of Heredity

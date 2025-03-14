@@ -1,0 +1,40 @@
+mindmap
+  Ecosystem Roles
+    Consumers
+      Herbivores
+        Examples: Rabbits, Deer, Caterpillars
+      Carnivores
+        Examples: Snakes, Hawks
+      Omnivores
+        Examples: Dogs, Bears, Raccoons
+    Decomposers
+      Importance
+        Stability of Ecosystem
+        Recycling Nutrients
+      Examples
+        Mushrooms on Decaying Log
+        Bacteria in Soil
+  Energy Sources
+    Producers
+      Photosynthesis
+        Plants, Phytoplankton
+    Consumers
+      Herbivores
+        Eat Producers
+      Carnivores
+        Eat Other Animals
+      Omnivores
+        Eat Both Producers and Animals
+  Food Chain
+    Producers
+      Primary Consumers
+        Herbivores
+      Secondary Consumers
+        Carnivores
+    Decomposers
+      Break Down Waste
+      Recycle Nutrients
+  Ecosystem Stability
+    Decomposers Role
+      Recycling Nutrients
+      Stability of Ecosystem

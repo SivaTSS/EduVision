@@ -1,0 +1,43 @@
+mindmap
+  Origin of Species
+    Allopatric Speciation
+      Physical Separation
+        Mountain Range
+        Canyon
+        Rivers
+      Examples
+        Galapagos Islands Finches
+        Grand Canyon Squirrels
+    Sympatric Speciation
+      Behavioral Separation
+        Orca Whales
+        Galapagos Island Finches
+    Natural Selection
+      Definition
+        Adaptation
+        Survival
+      Evolution
+        Beneficial Traits
+        Gene Pool
+    Artificial Selection
+      Definition
+        Human Breeding
+        Dog Breeds
+    Reproductive Isolation
+      Geographic Barrier
+        Allopatric Speciation
+      Behavioral Barrier
+        Sympatric Speciation
+    Speciation
+      Definition
+        Creation of New Species
+      Process
+        Natural Selection
+        Artificial Selection
+    Evolution
+      Difference from Speciation
+        Adaptation within Species
+    Testing Species
+      Mating Experiments
+        Fertile Offspring
+        Separate Species

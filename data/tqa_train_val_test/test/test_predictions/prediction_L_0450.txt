@@ -1,0 +1,33 @@
+mindmap
+  Arachnids
+    Definition
+      Class of joint-legged invertebrates
+      Subphylum Chelicerata
+      Over 100,000 named species
+    Characteristics
+      Four pairs of legs (8 total)
+      Chelicerae: feeding and defense
+      Pedipalps: feeding, moving, reproducing
+      No antennae or wings
+      Cephalothorax: head and thorax fusion
+      Abdomen
+      Internal breathing systems
+    Subgroups
+      Araneae: spiders
+        Approx. 40,000 species
+        Web-spinning, venomous
+        Only 200 harmful to humans
+      Opiliones: daddy-long-legs
+        Approx. 6,300 species
+        Long legs, omnivores
+        Nocturnal, brown or vivid colors
+      Scorpiones: scorpions
+        Approx. 2,000 species
+        Venomous, predators
+        Live birth, up to 25 years old
+      Acarina: mites and ticks
+        Approx. 30,000 species
+        Small size, various habitats
+        Parasitic, disease transmission
+    Uses
+      Silk: webs,

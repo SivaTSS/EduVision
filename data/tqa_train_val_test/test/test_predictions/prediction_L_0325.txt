@@ -1,0 +1,47 @@
+mindmap
+  Atmosphere
+    Convection
+      Warm air rises
+        Lower density
+        Buoyancy
+      Cool air sinks
+        Higher density
+        Sinking
+    Temperature Gradient
+      Definition
+        Change in temperature with distance
+      Layers
+        Troposphere
+          Temperature decreases with altitude
+        Stratosphere
+          Temperature increases with altitude
+        Mesosphere
+          Temperature decreases with altitude
+        Thermosphere
+          Temperature increases with altitude
+    Causes
+      Heat source
+        Sun
+          Solar radiation
+        Earth
+          Heat from the surface
+      Air pressure
+        Density
+          Warm air
+            Lower pressure
+          Cool air
+            Higher pressure
+    Implications
+      Weather patterns
+        Storms
+          Tornadoes
+          Hurricanes
+        Climate change
+          Global warming
+          Greenhouse effect
+      Air pollution
+        Ozone depletion
+          Hole in the ozone layer
+        Carbon dioxide
+          Greenhouse gas
+          Climate change

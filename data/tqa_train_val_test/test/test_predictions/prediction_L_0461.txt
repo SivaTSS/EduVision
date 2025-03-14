@@ -1,0 +1,20 @@
+mindmap
+  Basic and Applied Science
+    Basic Research
+      Definition
+        Understanding fundamental problems
+      Examples
+        Cell function
+        Cholesterol production
+    Applied Research
+      Definition
+        Application of basic scientific knowledge
+      Examples
+        Medicine
+        Wind energy technology
+    Relationship
+      Basic research as source of applied science
+    Emphasis on Applied Science
+      Need for more emphasis
+      Improving human health
+      Creating new technologies

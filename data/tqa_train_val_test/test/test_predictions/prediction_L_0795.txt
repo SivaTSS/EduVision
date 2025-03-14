@@ -1,0 +1,42 @@
+mindmap
+  Atmosphere Pressure
+    Pressure Changes
+      Sea Level to Top
+        Density and Depth
+          Gas Molecules
+          Gravity Pull
+          Collisions
+          Pressure
+    Factors
+      Altitude Increase
+        Density Decline
+          Gas Particles
+          Volume
+        Depth Decrease
+          Distance
+          Pressure
+    Breathing
+      Air Pressure
+        Straw Sipping
+          Pressure Difference
+          Fluid Flow
+        Breathing
+          Pressure Difference
+          Air Movement
+    Conclusion
+      Pressure Explanation
+        Gas Molecules
+        Gravity
+        Collisions
+        Depth
+      Pressure Uses
+        Straw Sipping
+        Breathing
+        Air Pressure
+        Pressure Difference
+        Fluid Flow
+        Air Movement
+        Gas Molecules
+        Gravity
+        Collisions
+        Depth

@@ -1,0 +1,32 @@
+mindmap
+  Technology and Science
+    Relationship
+      Technology uses science to solve problems
+      Science uses technology to make discoveries
+    Telescope and Microscope
+      Invention
+        Telescope: Hans Lippershey, 1600s
+        Microscope: Scientific knowledge of light and lenses
+      Improvement
+        Galileo's telescope, 1600s
+      Discoveries
+        Hills and valleys on the moon
+        Spots on the sun
+        Jupiter's moons
+        Sun's rotation
+        Discovery of cells
+    Seismometers and Spectrometers
+      Technological Devices
+        Seismometers: Measure earthquakes
+        Spectrometers: Analyze light spectra
+      Scientific Discoveries
+        Earthquake studies
+        Light spectrum analysis
+    Scientific Revolution
+      Galileo's Discoveries
+        Sun at the center of the solar system
+        Impact on science
+    Advancements
+      Technology and Science working together
+      Mutual benefits
+      Continuous progress

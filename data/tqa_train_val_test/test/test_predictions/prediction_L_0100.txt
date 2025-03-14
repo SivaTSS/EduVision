@@ -1,0 +1,32 @@
+mindmap
+  Ecosystems
+    Ecosystem Components
+      Biotic Factors
+        Species
+        Population
+        Community
+        Niche
+      Abiotic Factors
+        Habitat
+        Biotic Factors
+          Light
+          Oxygen
+          Water
+          Carbon Dioxide
+          Good Soil
+          Nutrients
+          Temperature Range
+    Ecosystem Energy Flow
+      Energy Source
+      Energy Movement
+    Habitat and Niche
+      Definition
+      Importance
+    Key Terms
+      Species
+      Population
+      Community
+      Niche
+      Habitat
+      Biotic Factor
+      Abiotic Factor

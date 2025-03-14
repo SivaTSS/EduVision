@@ -1,0 +1,37 @@
+mindmap
+  Atmospheric Pressure
+    Force Creating Atmospheric Pressure
+      Gravity
+    Atmospheric Pressure Location
+      Greater at Sea Level
+    Pressure Definition
+      Force per Unit Area
+    Pressure Units
+      Pascals (Pa)
+    Human Body Compensation
+      Molecules Pushing Outward
+    Air Pressure Direction
+      All Directions, Not Just Above
+    Air Density Decrease
+      With Increasing Altitude
+    Air Density Factors
+      Gravity Pull
+        Stronger at Sea Level
+      Compression by Atmospheric Weight
+        Atmospheric Pressure
+    Air Density Effects
+      Ear Popping
+        Equalization of Air Pressure Inside and Outside Ear
+    Air Density Changes at Higher Altitudes
+      Lower Atmospheric Pressure
+      Less Dense Air
+    Ear Equalization Process
+      Sudden Rush of Air Through Ear Tube
+    Air Density and Temperature
+      Decrease with Altitude
+    Air Density and Gravitational Pull
+      Stronger Closer to Earth's Center
+    Air Density and Weight
+      More Molecules at Sea Level
+    Air Density and Compression
+      Less Compression at Higher Altitudes

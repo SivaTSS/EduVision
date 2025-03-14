@@ -1,0 +1,45 @@
+mindmap
+  Competition
+    Intraspecific Competition
+      Definition
+        Organisms of the same species
+        Strive for limited resources
+      Examples
+        Trees competing for light
+        Two trees growing close together
+        One tree growing taller to get more light
+        Better adapted organism survives
+    Interspecific Competition
+      Definition
+        Organisms of different species
+        Strive for limited resources
+      Examples
+        Cheetahs and lions feeding on similar prey
+        Lions catching more prey than cheetahs
+        Cheetahs leaving the area or decreasing population
+    Competitive Exclusion Principle
+      Definition
+        Species less suited to compete for resources
+        Adapt, move from the area, or die out
+    Character Displacement
+      Definition
+        Two species within the same area
+        Develop different specializations
+      Examples
+        Different birds adapting to eat different types of food
+        Different types of bills for eating different types of food
+    Evolution through Natural Selection
+      Definition
+        Competition for resources
+        Role in evolution
+      Examples
+        Better adapted organism survives
+        Less adapted organism dies out
+        Adaptation, movement, or death
+    Resources
+      Definition
+        Limited resources
+        Importance in competition
+      Examples
+        Food, water, light, space
+        In

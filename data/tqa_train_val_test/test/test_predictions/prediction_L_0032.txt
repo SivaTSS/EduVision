@@ -1,0 +1,52 @@
+mindmap
+  Ecosystems
+    Definition
+      Group of living things and their environment
+      Ecological system
+    Examples
+      Forest
+      Dead tree stump
+    Abiotic Factors
+      Air
+      Sunlight
+      Soil
+      Water
+      Minerals
+    Biotic Factors
+      Species
+        Unique type of organism
+        Members of a species can interbreed
+      Population
+        Members of a species living in the same area
+      Community
+        All populations in an ecosystem
+    Producers
+      Photosynthesis
+        Most common producers
+        Plants and algae
+      Chemosynthesis
+        Few producers
+        Microbes
+    Consumers
+      Grazers
+        Feed on living organisms
+      Predators
+        Capture and kill animals
+      Scavengers
+        Eat dead animals
+      Decomposers
+        Break down dead organisms
+    Energy Flow
+      Producers make food
+      Consumers eat producers
+      Energy lost at each level
+    Food Chains
+      Simple diagram of energy flow
+      Producers at base
+      Consumers at higher levels
+    Food Webs
+      More complex diagram
+      Overlapping food chains
+    Matter Recycling
+      Nutrients
+        Carbon and nitrogen

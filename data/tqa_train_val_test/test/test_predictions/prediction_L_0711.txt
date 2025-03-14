@@ -1,0 +1,33 @@
+mindmap
+  Biomes
+    Definition
+      Area with similar climate
+      Includes similar communities of plants and animals
+    Causes of Differences
+      Climate influences types of plants and animals
+    Examples of Terrestrial Biomes
+      Tropical Rainforests
+        Locations: Tropics
+        Precipitation: High
+      Deserts
+        Locations: Dry regions
+        Precipitation: Low
+      Taiga
+        Locations: Cold regions
+        Temperature: -40°C to 10°C
+      Grasslands
+        Adaptations: Burrowing, camouflage
+        Examples: Prairie dogs, gophers
+    Characteristics of Biomes
+      Rainforests
+        Rainfall: 2000-6000mm/year
+        Temperature: 20-30°C
+        Diversity: High
+      Deserts
+        Rainfall: 100-200mm/year
+        Temperature: 30-40°C
+        Adaptations: Drought resistance, salt tolerance
+      Tundra
+        Rainfall: 200-300mm/year
+        Temperature: -40°C to 10°C
+        Vegetation: Mosses, lichens,

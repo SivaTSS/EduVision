@@ -1,0 +1,45 @@
+mindmap
+  Chordates
+    Definition
+      Four main traits
+        Post-anal tail
+        Dorsal hollow nerve cord
+        Notochord
+        Pharyngeal slits
+    Examples
+      Vertebrates
+        Fish
+        Amphibians
+        Reptiles
+        Birds
+        Mammals
+      Invertebrates
+        Amphioxus
+        Tunicates
+    Characteristics
+      Notochord
+        Rigid structure
+        Muscle attachment
+      Dorsal hollow nerve cord
+        Brain and spinal cord development
+      Pharyngeal slits
+        Food filtering in some species
+        Embryonic stage only in many species
+    Subphyla
+      Urochordata
+        Tunicates
+        Notochord and nerve cord only in larval stage
+      Cephalochordata
+        Lancelets
+        No backbone
+      Vertebrata
+        Vertebrates
+        Notochord surrounded by backbone
+    Relationships
+      All chordates
+        Share notochord, tail, nerve cord, and slits
+      Vertebrates
+        Fish, amphibians, reptiles, birds, mammals
+      Invertebrates
+        Amphioxus, tunicates
+    Misconceptions

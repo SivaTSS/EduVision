@@ -1,0 +1,54 @@
+mindmap
+  Weather Fronts
+    Fronts
+      Definition
+        Air masses meet
+        Different densities
+        Low pressure zone
+        Condensation & precipitation
+        Winds
+    Types of Fronts
+      Warm Front
+        Warm air mass slides over cold
+        Stable atmosphere
+        Cloud sequence
+      Cold Front
+        Cold air mass slides under warm
+        Low pressure zone
+        Weather production
+      Stationary Front
+        Air masses do not move
+        Weather patterns
+      Occluded Front
+        Three air masses
+        Cold, warm, cold
+        Coriolis effect
+        Weather patterns
+    Characteristics
+      Warm Front
+        Warm air mass
+        Cold air mass
+        Cloud sequence
+      Cold Front
+        Cold air mass
+        Warm air mass
+        Weather production
+    Weather Patterns
+      Spring & Summer
+        Thunderstorms or tornadoes
+      Autumn
+        Strong rains
+      Winter
+        Frigid temperatures & heavy snows
+    Cloud Sequence
+      Warm Front
+        Cirrus clouds
+        Altocumulus & altostratus clouds
+        Nimbostratus clouds
+      Cold Front
+        Cirrostratus & cirrus clouds
+        Rain showers
+        Squall lines
+    Front Movement
+      Warm Front
+        Warm

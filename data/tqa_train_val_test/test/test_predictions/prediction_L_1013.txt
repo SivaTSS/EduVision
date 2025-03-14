@@ -1,0 +1,36 @@
+mindmap
+  Scientific Induction
+    Inductive Reasoning
+      Definition
+        Process of drawing general conclusions based on many pieces of evidence
+      Use in Science
+        Basis of the scientific method
+        Draw general conclusions from evidence
+        Change conclusions based on new evidence
+      Characteristics
+        Cannot prove conclusively that an idea is true
+        May lead to conclusions that are very likely to be true
+    Example
+      Planet Quim
+        No gravity
+        Objects never fall to the ground
+        Observations on Earth
+          Objects fall to the ground
+          Round objects rise into the sky
+        Inductive Reasoning
+          Conclusion: All objects fall to the ground on Earth
+          Additional Evidence: Objects lighter than air do not fall to the ground
+          Revised Conclusion: Objects heavier than air fall to the ground but objects lighter than air do not
+    Crime Solving
+      Detective's Role
+        Gather clues
+        Identify suspects
+        Find enough evidence to conclude the identity of the most likely suspect
+    Scientific Method
+      Role of Inductive Reasoning
+        Draw general conclusions from evidence
+        Change conclusions based on new evidence
+        Support scientific theories with evidence
+    Conclusion
+      Inductive reasoning is a powerful tool for solving crimes and understanding the natural world
+      It cannot prove conclus

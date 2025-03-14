@@ -1,0 +1,45 @@
+mindmap
+  Science Skills
+    Measuring
+      SI System
+        Length: meter (m)
+        Volume: cubic meter (m3)
+        Mass: gram (g)
+      Temperature Scales
+        Kelvin
+        Celsius
+        Fahrenheit
+    Record Keeping
+      Importance
+      Tips
+    Calculations
+      Derived Quantities
+        Area
+        Volume
+      Significant Figures
+        Definition
+        Rounding
+    Scientific Notation
+      Definition
+      Conversion
+    Descriptive Statistics
+      Mean
+      Range
+    Data Graphs
+      Bar Graphs
+      Circle Graphs
+      Line Graphs
+    Models
+      Definition
+      Importance
+      Criteria
+    Safety in Science
+      Hazards
+        Symbols
+      Safety Rules
+        General Rules
+        Lab Rules
+        Field Rules
+    Technology
+      Definition
+      Differences from Science

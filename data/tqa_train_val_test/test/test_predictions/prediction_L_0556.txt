@@ -1,0 +1,48 @@
+mindmap
+  Human and Primate Relationship
+    Great Apes
+      Biological Family Hominidae
+        Chimpanzees
+        Gorillas
+        Humans
+        Orangutans
+    DNA Similarity
+      DNA Sequence
+        Over 97% in common
+        Similar protein functions
+    Communication
+      Language Development
+        Gorillas, chimps, humans
+      Culture
+        Knowledge and behavior transmission
+        Beyond family or group
+    Specialized Human Features
+      Small front teeth
+      Upright posture
+      Bipedalism
+      Shortened arms
+      Increased hand dexterity
+      Increased brain size
+      Decreased skull and face bone mass
+    Chimpanzee Behavior
+      Geographic location
+      Tool use
+    Gorilla Behavior
+      Approach behavior
+      Leader identification
+    Orangutan Behavior
+      Learned or innate behavior
+    Questions
+      Organisms in Hominidae
+      Chimpanzee geography
+      Tool use by chimps
+      Gorilla approach behavior
+      Gorilla leadership
+      Orangutan behavior type
+      Similar proteins in chimps and humans
+      Importance of primate culture
+      Human specialized features
+
+Input: Lesson: humans and primates
+
+Use the resources below to answer the questions that follow.

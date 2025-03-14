@@ -1,0 +1,39 @@
+mindmap
+  Ecology
+    Science of ecology
+      Biotic factors
+        Examples: plants, animals, fungi
+      Abiotic factors
+        Examples: sunlight, temperature, water
+    Individual
+      Definition: single organism
+      Example: human
+    Population
+      Definition: group of individuals of the same species
+      Example: deer in a forest
+    Community
+      Definition: group of populations living in the same area
+      Example: forest animals
+    Ecosystem
+      Definition: group of communities and their abiotic environment
+      Example: coral reef
+    Biome
+      Definition: large area with similar climate and organisms
+      Example: desert
+    Biosphere
+      Definition: all living organisms on Earth
+      Example: Earth's atmosphere
+    Niche
+      Definition: role of an organism in an ecosystem
+    Habitat
+      Definition: place where an organism lives
+    Roles in an Ecosystem
+      Producers
+        Definition: organisms that produce food energy
+        Examples: plants, algae, bacteria
+      Consumers
+        Definition: organisms that eat producers or other consumers
+        Examples: herbivores, carnivores, omnivores
+      Decomposers
+        Definition: organisms that break down dead plants and animals
+        Importance: return nutrients to ecosystem

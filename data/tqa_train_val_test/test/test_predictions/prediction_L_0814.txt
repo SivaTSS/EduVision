@@ -1,0 +1,16 @@
+mindmap
+  Boyle's Law
+    Definition
+      - States that if temperature is constant, pressure increases as volume decreases
+    Explanation
+      - Pressure increases due to increased collisions between gas molecules
+    Experiment
+      - Squeezing a balloon to decrease its volume increases its pressure
+    History
+      - Discovered by Robert Boyle in the 1660s
+      - Known as the father of modern chemistry
+    Graph
+      - Inverse relationship between gas volume and pressure
+    Implications
+      - Used in various scientific applications
+      - Understanding gas behavior is essential in many fields

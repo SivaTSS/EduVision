@@ -1,0 +1,57 @@
+mindmap
+  Mammal Classification
+    Traditional Classification
+      Anatomy
+        Body Structure
+      Habitats
+        Terrestrial
+        Aquatic
+      Feeding Habits
+        Herbivores
+        Carnivores
+        Omnivores
+    Subclasses
+      Monotremes
+        Platypus
+      Marsupials
+        Kangaroo
+      Placental Mammals
+        Rodents
+          Rats
+          Mice
+        Carnivores
+          Cats
+          Dogs
+        Insectivores
+          Moles
+          Shrews
+        Bats
+          Vampire Bat
+        Primates
+          Monkeys
+          Apes
+          Humans
+        Ungulates
+          Deer
+          Sheep
+          Goats
+          Pigs
+          Elephants
+          Giraffes
+    Modern Classification
+      Genetic Analysis
+        DNA Sequencing
+      Ecological Factors
+        Habitat Adaptations
+        Feeding Adaptations
+    Island Ecosystems
+      Mammal Conservation
+        Philippines
+        Diversity of Species
+    Resources
+      Mammal Conservation in Island Ecosystems
+      Platypus Parts
+      Ungulates: Animal Planet
+      Rabbits and Hares
+      Rodents
+      Prim

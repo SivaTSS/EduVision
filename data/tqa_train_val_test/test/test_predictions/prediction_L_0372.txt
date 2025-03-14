@@ -1,0 +1,56 @@
+mindmap
+  Arthropods
+    Phylum Arthropoda
+      Invertebrates
+        Insects
+          Characteristics
+            Three body segments
+              Head
+              Thorax
+              Abdomen
+            Hard exoskeleton
+            Jointed appendages
+              Legs
+              Head appendages
+                Antennae
+                Simple eyes
+                Compound eyes
+                Lower jaws
+                Upper jaws
+            Life cycle
+              Larva
+              Pupa
+              Metamorphosis
+            Incomplete metamorphosis
+              Grasshopper
+    Insects
+      Class Insecta
+        Dominant animals
+          Numbers
+          Diversity
+        Characteristics
+          Six legs
+          Head appendages
+            Antennae
+            Simple eyes
+            Compound eyes
+            Lower jaws
+            Upper jaws
+        Ability to fly
+          Wings
+          Flight adaptations
+            Escape from predators
+            Food and mates
+        Interactions with humans
+          Harmless interactions
+          Disease vectors
+            Mosquito
+          Crop feeders
+            Pesticides
+          Pollinators
+            Flowering plants
+            Food crops
+    Significance
+      Success of arthropods
+      Insects
+        Flight adaptations

@@ -1,0 +1,41 @@
+mindmap
+  Gas Behavior
+    Pressure
+      Definition
+        Force per unit area
+      Explanation
+        Particles bumping into things
+        Atmosphere pressure
+          Sea level pressure
+           10.14 N/cm^2 (14.7 psi)
+    Gas Laws
+      Boyles Law
+        Inverse relationship
+          Volume and Pressure
+          Increasing volume decreases pressure
+          Graph: Figure 4.12
+      Charles Law
+        Direct relationship
+          Temperature and Volume
+          Increasing temperature increases volume
+          Graph: Figure 4.14
+      Amontons Law
+        Direct relationship
+          Volume and Temperature
+          Increasing temperature increases pressure
+          Graph: Figure 4.15
+    Changes of State
+      Cooling a Gas
+        Possible change to liquid
+        Energy role
+      Weather Balloon
+        Rising and Expanding
+          Less pressure, more volume
+        Bursting
+          Volume increase stretches container
+    Applications
+      Scuba Diving
+        Air bubbles increasing in volume
+      Tire Pressure
+        Increasing pressure with temperature
+        Amontons Law explanation

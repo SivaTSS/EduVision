@@ -1,0 +1,53 @@
+mindmap
+  Hypothesis in Science
+    Role of Hypothesis
+      Testable Guess
+        Testable Criteria
+          Observations
+          Falsifiable
+        Testing Hypotheses
+          Testable Statements
+          Falsifiable Statements
+          Evidence Collection
+          Exceptions
+    Scientific Hypothesis
+      Testable Statements
+        Testable Criteria
+          Observations
+          Falsifiable
+        Testing Hypotheses
+          Testable Statements
+          Falsifiable Statements
+          Evidence Collection
+          Exceptions
+      Falsifiable Statements
+        Testable Criteria
+          Observations
+          Falsifiable
+        Testing Hypotheses
+          Testable Statements
+          Falsifiable Statements
+          Evidence Collection
+          Exceptions
+    Examples
+      Falling Objects
+        Testable Statements
+          Testable Criteria
+            Observations
+            Falsifiable
+          Testing Hypotheses
+            Testable Statements
+            Falsifiable Statements
+            Evidence Collection
+            Exceptions
+      Invisible Creatures
+        Testable Statements
+          Testable Criteria
+            Observations
+            Falsifiable
+          Testing Hypotheses
+            Testable Statements
+            Falsifiable Statements
+            Evidence Collection
+            Exceptions
+      Other Planets with Life

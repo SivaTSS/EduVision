@@ -1,0 +1,55 @@
+mindmap
+  Energy Flow
+    Energy Sources
+      Sunlight
+        Producers
+          Plants
+          Algae
+          Some Bacteria
+      Chemical Compounds
+        Chemoautotrophs
+          Bacteria
+          Archaea
+    Consumers
+      Herbivores
+        Rabbits
+        Snails
+      Carnivores
+        Lions
+        Frogs
+      Omnivores
+        Crows
+        Humans
+    Decomposers
+      Scavengers
+        Hyenas
+        Cockroaches
+      Detritivores
+        Earthworms
+        Catfish
+      Saprotrophs
+        Fungi
+        Protozoa
+    Food Chains
+      Single Pathway
+        Terrestrial
+        Aquatic
+    Food Webs
+      Multiple Pathways
+        Intersecting Food Chains
+    Trophic Levels
+      1. Producers
+      2. Primary Consumers
+      3. Secondary Consumers
+      4. Tertiary Consumers
+    Energy Transfer
+      Energy Loss
+        Metabolic Processes
+        Heat
+    Biomass
+      Organism Numbers
+      Organism Size
+      Biomass Reduction
+    Ecological Pyramid
+      Energy Flow
+      Biomass Distribution

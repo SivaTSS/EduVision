@@ -1,0 +1,36 @@
+mindmap
+  Ecological Organization
+    Levels of Organization
+      Population
+        Definition
+        Characteristics
+        Differences from Community
+      Community
+        Definition
+        Interactions
+        Differences from Ecosystem
+      Ecosystem
+        Definition
+        Abiotic Factors
+        Levels of Study
+      Biosphere
+        Definition
+        Relationship to Ecosystem
+    Species
+      Definition
+      Importance
+    Population Questions
+      What is a population?
+      How is it different from a community?
+    Community Questions
+      What is a community?
+      How does it differ from an ecosystem?
+    Ecosystem Questions
+      What is an ecosystem?
+      How is it studied?
+    Biosphere
+      Definition
+      Relationship to Ecosystem
+    Ecologist Questions
+      What questions can ecologists ask at each level?
+      How do they study ecosystems?

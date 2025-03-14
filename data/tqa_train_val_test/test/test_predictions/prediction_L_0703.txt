@@ -1,0 +1,71 @@
+mindmap
+  Mollusks
+    Types
+      Gastropods
+        Habitats
+          Marine
+          Freshwater
+          Land
+        Examples
+          Snails
+          Slugs
+          Sea snails
+          Sea slugs
+          Freshwater snails
+          Freshwater limpets
+          Land snails
+          Land slugs
+        Characteristics
+          Foot
+          Head
+          Shell
+          Senses
+            Sight
+            Smell
+      Bivalves
+        Habitats
+          Marine
+          Freshwater
+        Characteristics
+          Shell
+          Gills
+          Foot
+          Heart
+          Intestine
+          Stomach
+      Cephalopods
+        Habitats
+          Ocean
+        Characteristics
+          Head
+          Brain
+          Foot
+          Arms
+          Tentacles
+          Colors
+          Textures
+          Shapes
+          Ink
+          Intelligence
+          Senses
+            Eyes
+            Other senses
+            Predation
+    Anatomy
+      Abalone
+        Foot
+        Shell
+      Nautilus
+        Foot
+        Shell
+      Squid
+        Foot
+        Mantle
+        Hearts
+    Classification
+      Major classes
+        Gastropods
+        Bivalves
+        Cephalopods
+      Extinct classes
+        Numbers
