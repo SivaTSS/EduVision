@@ -2,6 +2,9 @@ results
 *.ipynb_checkpoints
 keys.json
 models
+notebooks/outputs
+notebooks/media
+
 
 data/*
 !data/tqa_train_val_test/

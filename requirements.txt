@@ -4,4 +4,4 @@ langchain_openai
 numpy
 matplotlib
 pandas
-
+manim
