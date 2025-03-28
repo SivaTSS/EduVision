@@ -2,7 +2,7 @@ results
 *.ipynb_checkpoints
 keys.json
 models
-notebooks/outputs
+notebooks/outputs*
 notebooks/media
 
 
@@ -24,3 +24,6 @@ data/tqa_train_val_test/test/*
 !data/tqa_train_val_test/test/test_predictions
 
 *Zone.Identifier
+
+*__pycache__
+*.gradio
