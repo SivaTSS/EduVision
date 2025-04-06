@@ -1,0 +1,23 @@
+mindmap
+  Segmented Worms
+    Types
+      Earthworm
+      Leeches
+      Marine Worms
+    Characteristics
+      Segmentation
+      Body Cavity
+      Organ Systems
+        Digestive System
+        Circulatory System
+        Nervous System
+    Ecosystem Role
+      Soil Aeration
+      Organic Matter Breakdown
+      Prey for Other Animals
+    Medical Uses
+      Blood Sucking
+      Therapeutic Applications
+    Comparison with Other Worms
+      Phylum Platyhelminthes
+      Phylum Nematoda

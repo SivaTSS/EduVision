@@ -1,0 +1,48 @@
+mindmap
+  Plant Classification
+    Nonvascular Plants
+      Characteristics
+        First to evolve
+        No vascular tissue
+        Keep embryo inside reproductive structure
+      Examples
+        Mosses
+        Liverworts
+        Hornworts
+    Seedless Vascular Plants
+      Characteristics
+        Have vascular tissue
+        No seeds
+      Examples
+        Ferns
+        Whisk ferns
+        Club mosses
+        Horsetails
+    Gymnosperms
+      Characteristics
+        Have seeds
+        No flowers
+      Examples
+        Redwood
+        Fir
+        Cypress
+    Angiosperms
+      Characteristics
+        Have vascular tissue
+        Have seeds
+        Have flowers
+      Examples
+        Magnolia trees
+        Roses
+        Tulips
+        Tomatoes
+    Plant Evolution
+      Order of Features
+        Nonvascular plants
+        Seedless vascular plants
+        Gymnosperms
+        Angiosperms
+      Major Features
+        Seeds
+        Vascular tissue
+        Flowers

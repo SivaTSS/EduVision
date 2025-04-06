@@ -1,0 +1,30 @@
+mindmap
+  Dalton's Atomic Theory
+    John Dalton
+      Background
+        Working-class family
+        Teaching and research
+    Evidence for Atoms
+      Experiments with gases
+        Pressure and properties
+        Inference of tiny particles
+      Research on compounds
+        Same elements in whole-number ratios
+        Different compounds consist of different elements
+    Dalton's Atomic Theory
+      Basic Ideas
+        All substances made of atoms
+        Atoms are smallest particles of matter
+        Atoms of the same element are alike
+        Atoms join to form compounds
+      Acceptance
+        Accepted by scientists
+        Still mostly accepted today
+        Atoms are not the smallest particles
+    Atomic Models
+      Dalton's Model
+        Solid, hard spheres
+        Wooden balls representation
+      Modern Models
+        Subatomic particles
+        Electrons, protons, neutrons

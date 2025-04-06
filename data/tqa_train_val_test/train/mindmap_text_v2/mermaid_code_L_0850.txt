@@ -1,0 +1,35 @@
+mindmap
+  crystalline carbon
+    definitions
+      crystals
+      allotropes
+        diamond
+        graphite
+        fullerenes
+    properties
+      diamond
+        hard
+        clear
+        uses
+          cutting tools
+          jewelry
+      graphite
+        soft
+        slippery
+        uses
+          lubricant
+          pencil leads
+      fullerenes
+        soccer ball structure
+        weak bonds
+        commercial uses
+    atomic structure
+      diamond
+        covalent bonds
+        three-dimensional structure
+      graphite
+        covalent bonds
+        layered structure
+      fullerene
+        hollow sphere
+        60 carbon atoms

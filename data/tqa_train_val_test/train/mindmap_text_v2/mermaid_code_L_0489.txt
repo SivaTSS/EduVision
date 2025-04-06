@@ -1,0 +1,34 @@
+mindmap
+  Circulation and the Lymphatic System
+    Lymphatic System
+      Definition
+        Network of vessels and tissues
+        Carries clear fluid called lymph
+      Functions
+        Returns body fluids to blood
+        Filters and cleans lymph
+        Works with cardiovascular system
+      Components
+        Lymph vessels
+        Lymph nodes
+        Organs
+          Tonsils
+          Thymus gland
+          Spleen
+      Lymph
+        Origin
+          Fluid leaks from blood vessels
+        Movement
+          Squeezing action of muscles
+        Collection
+          Lymph capillaries
+      Immune System Role
+        Produces white blood cells
+          T cells
+          B cells
+        Lymph nodes as filters
+      Spleen
+        Functions
+          Filters blood
+          Detects pathogens
+          Triggers immune response

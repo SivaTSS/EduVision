@@ -1,0 +1,70 @@
+mindmap
+  Human Body Organization
+    Symmetry
+      Type: Bilateral
+      Explanation: Body plan symmetry
+      Extension: Senses
+    Muscle
+      Composition: Percentage of body
+      Function: Movement
+    Oxygen and Nutrients
+      Delivery: Mechanism to cells
+    Control
+      System: Nervous system
+      Energy Usage: Organ energy consumption
+    Levels of Organization
+      Cells
+      Tissues
+      Organs
+      Organ Systems
+    Tissue Types
+      Epithelial Tissue
+        Description: Layers of packed cells
+        Examples: Skin, digestive lining
+      Connective Tissue
+        Description: Supports and binds tissues
+        Examples: Tendon, cartilage, blood
+      Muscle Tissue
+        Description: Bands of cells for movement
+      Nervous Tissue
+        Description: Nerve cells for signaling
+    Organs
+      Definition: Structures of multiple tissues
+      Example: Heart
+    Organ Systems
+      Cardiovascular
+        Major Components: Heart, blood vessels
+        Function: Transports oxygen and nutrients
+      Lymphatic
+        Major Components: Lymph nodes, vessels
+        Function: Defends against infection
+      Digestive
+        Major Components: Esophagus, stomach
+        Function: Digests and absorbs nutrients
+      Endocrine
+        Major Components: Glands
+        Function: Hormone production
+      Integumentary
+        Major Components: Skin, hair
+        Function: Protection and temperature control
+      Muscular
+        Major Components: Muscle types
+        Function: Movement and heat production
+      Nervous
+        Major Components: Brain, spinal cord
+        Function: Information processing
+      Reproductive
+        Major Components: Male and female organs
+        Function: Gamete production
+      Respiratory
+        Major Components: Lungs, trachea
+        Function: Gas exchange
+      Skeletal
+        Major Components: Bones, cartilage
+        Function: Support and protection
+      Urinary
+        Major Components: Kidneys, bladder
+        Function: Waste removal
+      Immune
+        Major Components: Bone marrow, white blood cells
+        Function: Disease defense

@@ -1,0 +1,23 @@
+mindmap
+  Revolutions of Earth
+    Heliocentric Model
+      Sun at center
+      Planets orbit Sun
+      Proposed by Copernicus
+      Kepler's elliptical orbits
+    Geocentric Model
+      Earth at center
+      Proposed by ancient Greeks
+      Ptolemy's epicycles and deferents
+      Complicated and inaccurate
+    Historical Context
+      Galileo's discoveries
+        Moons of Jupiter
+        Phases of Venus
+      Copernican Revolution
+    Earth's Motion
+      Revolution around the Sun
+        365.24 days for one complete revolution
+        Perihelion and aphelion distances
+      Rotation on axis
+        29.5 days for one lunar orbit

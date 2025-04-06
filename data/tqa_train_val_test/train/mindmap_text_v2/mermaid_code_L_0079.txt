@@ -1,0 +1,56 @@
+mindmap
+  Stress in Earth's Crust
+    Types of Stress
+      Confining Stress
+        Definition: Weight of overlying rock compresses deeply buried rock
+        Deformation: No movement, rock does not deform
+      Compression Stress
+        Definition: Squeezes rocks together
+        Deformation: Folds or fractures rocks
+        Common at: Convergent boundaries
+      Tension Stress
+        Definition: Pulls rocks apart
+        Deformation: Lengthens or breaks rocks
+        Common at: Divergent boundaries
+      Shear Stress
+        Definition: Forces slide past each other
+        Deformation: Common at transform boundaries
+    Rock Deformation
+      Plastic Deformation
+        Definition: Rock bends without breaking
+      Elastic Deformation
+        Definition: Rock returns to original shape when stress stops
+      Fractures and Faults
+        Definition: Fracture is a joint if no movement, fault if movement occurs
+        Types of Faults
+          Dip-Slip Faults
+            Definition: Fault plane at an angle
+          Strike-Slip Faults
+            Definition: Fault plane is vertical
+            Types: Right-lateral and left-lateral
+    Earthquakes
+      Causes
+        Result of plate tectonic motions
+        Types of stress at plate boundaries
+      Effects
+        Damage caused by sudden movement of rocks
+    Mountain Formation
+      Types of Mountains
+        Formed at plate boundaries
+        Volcanic mountains at hotspots
+      Processes
+        Convergent boundaries: Crumpling and folding
+        Divergent boundaries: Basin-and-range formation
+    Folds
+      Types of Folds
+        Monoclines
+          Definition: Simple one-step bend
+        Anticlines
+          Definition: Upward arching fold
+        Synclines
+          Definition: Downward bending fold
+    Geological Features
+      Rock Layers
+        Oldest rocks at the bottom, youngest at the top
+      Fault Zones
+        Clusters of faults creating zones of weakness

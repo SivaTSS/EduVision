@@ -1,0 +1,24 @@
+mindmap
+  Exoplanets
+    Greek Understanding
+      Structure of Solar System
+      Meaning of "Atomos"
+    Kepler Telescope
+      Mission
+      Identification Method
+    Exoplanet Discovery
+      Definition
+      Location
+      Discovery Methods
+        Gravitational Pull
+        Brightness Decrease
+    Exoplanet Statistics
+      Possible Exoplanets
+      Confirmed Exoplanets
+    Earth-like Planets
+      Definition
+      Habitable Zone
+        Life Possibility
+    Scientific Interest
+      Reasons for Interest
+      Key Questions

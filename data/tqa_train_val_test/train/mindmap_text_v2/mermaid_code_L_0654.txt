@@ -1,0 +1,40 @@
+mindmap
+  recombinant dna
+    definition
+      combination of DNA from two different sources
+      useful in gene cloning
+      identifies gene function
+      produces useful proteins
+        insulin production
+    gene cloning
+      exact copy of a gene
+      steps
+        vector creation
+          gene or DNA piece in vector
+        host cell insertion
+          vector placed in bacterium
+        gene copying
+          cloned inside bacterium
+          bacterial and vector DNA copied
+        protein production
+          millions of copies in 12-24 hours
+    plasmids
+      small rings of DNA in bacteria
+      not part of bacterial chromosome
+      used as vectors
+      manipulation and insertion
+        invaluable tool in research
+    antibiotic resistance
+      segments in plasmid
+        antibiotic resistance segments
+        origin of replication
+    historical context
+      Cohen and Boyer
+        first recombinant DNA
+        bacteria used
+        plasmid pSC101
+          SC meaning
+          gene carried
+        DNA ligase function
+        bacteria uptake of recombinant plasmid
+        isolation of bacteria with both genes

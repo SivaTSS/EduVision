@@ -1,0 +1,14 @@
+mindmap
+  Projectile Motion
+    Definition
+      Description: Movement in a curved path due to horizontal force and gravity
+      Examples: Arrows, cannon balls
+    Forces Involved
+      Horizontal Force
+      Gravity
+    Application
+      Basketball: Aim above the target to hit the bulls eye
+    Visual Representations
+      Figure 1.1: Curved path of an arrow
+      Figure 1.2: Aiming above the bulls eye
+      Figure 1.3: Graph of projectile motion vs gravity

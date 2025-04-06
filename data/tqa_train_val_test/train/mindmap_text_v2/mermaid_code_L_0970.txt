@@ -1,0 +1,35 @@
+mindmap
+  Nuclear Fission
+    Discovery
+      How it was discovered
+    Process
+      Definition
+        Splitting of nucleus
+        Release of energy
+      Mechanism
+        Neutron strikes uranium-235
+        Nucleus becomes unstable
+        Splitting into smaller nuclei
+          Krypton-92
+          Barium-141
+        Release of neutrons and energy
+    Chain Reaction
+      Definition
+        One fission leads to others
+      Uncontrolled
+        Atomic bomb
+      Controlled
+        Nuclear power plant
+        Control rods
+    Energy Production
+      Comparison with fossil fuels
+        Air pollution
+        Nonrenewable resources
+      Advantages
+        No air pollution
+        Less environmental impact
+      Concerns
+        Risk of radiation
+        Accidents
+        Radioactive waste
+        Long decay time

@@ -1,0 +1,21 @@
+mindmap
+  Cellular Respiration
+    Definition
+      Energy conversion in cells
+      Glucose and oxygen to carbon dioxide and water
+    Purpose
+      Provide energy for cellular functions
+    ATP
+      Adenosine triphosphate
+      Energy storage and transfer
+      Used for muscle movement
+      Energy release when broken down to ADP
+    Molecules Used
+      Glucose
+      Oxygen
+      Other polysaccharides like starch
+    Plant Respiration
+      Yes, plant cells respire
+      Produce glucose during photosynthesis
+    Energy Extraction
+      36 to 38 ATP molecules from one glucose molecule

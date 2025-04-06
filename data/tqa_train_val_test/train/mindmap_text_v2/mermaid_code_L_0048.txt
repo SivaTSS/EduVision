@@ -1,0 +1,41 @@
+mindmap
+  Air Pollution Effects
+    Health Impacts
+      Asthma
+      Lung Diseases
+      Heart Disease
+      Children Vulnerability
+    Environmental Damage
+      Ecosystem Disruption
+      Ozone Damage to Plants
+      Acid Rain Effects
+        Soil Nutrient Loss
+        Damage to Buildings
+    Pollutants
+      Particulates
+        Lung Diseases
+        Photosynthesis Reduction
+      Ozone
+        Smog Effects
+        Long-Lived Plants
+      Heavy Metals
+        Bioaccumulation
+        Mercury in Tuna
+      VOCs
+        Health Risks
+        Indoor Sources
+    Acid Rain
+      Formation
+        Nitrogen and Sulfur Oxides
+      pH Levels
+      Effects on Ecosystems
+    Ozone Layer
+      CFCs Impact
+        Ozone Depletion
+        UV Radiation Increase
+      Ozone Hole
+        Seasonal Changes
+        Effects on Health and Ecosystems
+    Solutions
+      Steps Taken
+      Remaining Challenges

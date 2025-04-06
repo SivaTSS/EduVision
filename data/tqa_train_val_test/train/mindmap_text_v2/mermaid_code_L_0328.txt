@@ -1,0 +1,43 @@
+mindmap
+  Astronomy History
+    Telescope
+      Penzias and Wilson
+        Type: Radio Telescope
+        Discovery: 3K Background Radiation
+        Award: Nobel Prize
+    Ancient Greeks
+      Pythagoras
+        Round Earth Theory
+        Mathematical Models
+      Aristotle
+        Earth-Centered Model
+        Spherical Earth Evidence
+    Ptolemy
+      Geocentric Model
+        Almagest
+        Epicycles
+        Retrograde Motion
+    Copernicus
+      Heliocentric Model
+        De Revolutionibus Orbium Coelestium
+        Earth as a Planet
+    Tycho Brahe
+      Observations
+        Supernova Discovery
+        Astronomical Observatory
+    Johannes Kepler
+      Laws of Planetary Motion
+        Elliptical Orbits
+        Kepler's Three Laws
+    Galileo Galilei
+      Telescope Observations
+        Moons of Jupiter
+        Phases of Venus
+    Isaac Newton
+      Laws of Motion
+        Gravity
+        Corrections to Kepler's Laws
+    Big Bang Theory
+      Origin of Universe
+        Expansion
+        Cosmic Microwave Background Radiation

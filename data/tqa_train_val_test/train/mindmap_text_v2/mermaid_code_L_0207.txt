@@ -1,0 +1,41 @@
+mindmap
+  Inner vs. Outer Planets
+    Inner Planets
+      Mercury
+      Venus
+      Earth
+      Mars
+      Composition
+        Rock and Metal
+        Density
+      Atmosphere
+        No Moons
+        Geologically Active
+        No Rings
+      Rotation and Orbit
+        Slower Orbits
+        Slower Spin
+    Outer Planets
+      Jupiter
+      Saturn
+      Uranus
+      Neptune
+      Composition
+        Gases and Liquids
+        Hydrogen and Helium
+      Atmosphere
+        Numerous Moons
+        Rings
+      Rotation and Orbit
+        Faster Orbits
+        Faster Spin
+    Comparison
+      Size
+        Inner Planets Smaller
+        Outer Planets Larger
+      Moons
+        Inner Planets Fewer
+        Outer Planets More
+      Rings
+        Inner Planets No Rings
+        Outer Planets Have Rings

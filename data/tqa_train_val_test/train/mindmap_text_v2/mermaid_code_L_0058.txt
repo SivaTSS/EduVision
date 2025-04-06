@@ -1,0 +1,49 @@
+mindmap
+  inner planets
+    planets
+      Mercury
+        features
+          smallest planet
+          closest to the Sun
+          thin atmosphere
+          extreme temperature range
+          covered with craters
+          no moons
+      Venus
+        features
+          second from the Sun
+          thick corrosive atmosphere
+          extremely high surface temperature
+          mountains, canyons, volcanoes
+          rotates backwards
+          no moons
+      Earth
+        features
+          third from the Sun
+          supports life
+          large round moon
+          diverse environments
+          plate tectonics
+          liquid water
+      Mars
+        features
+          fourth from the Sun
+          two small moons
+          red due to iron
+          largest volcano and canyon
+          evidence of water ice
+          thin atmosphere
+    comparisons
+      similarities to Earth
+        solid, dense, rocky
+        no rings
+        geologically active at one time
+      differences from Earth
+        temperature ranges
+        atmospheric conditions
+        presence of moons
+    exploration
+      future missions to Mars
+      reasons for choosing Mars
+        potential for past life
+        geological features

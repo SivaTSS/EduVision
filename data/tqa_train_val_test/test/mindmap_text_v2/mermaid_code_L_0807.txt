@@ -1,0 +1,21 @@
+mindmap
+  Bernoullis Law
+    Definition
+      Pressure of moving fluid
+      Faster fluid = lower pressure
+    Historical Context
+      Named after Daniel Bernoulli
+      Swiss mathematician
+      Discovered in the 1700s
+    Application in Aviation
+      Wings of airplanes
+        Shape of wings
+        Airflow differences
+        Lift creation
+      Wings of birds
+        Similar principles
+    Practical Example
+      Racecar spoiler
+        Upside-down wing effect
+        Airflow dynamics
+        Downward pressure on car

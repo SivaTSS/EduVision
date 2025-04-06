@@ -1,0 +1,49 @@
+mindmap
+  simple machines
+    types of simple machines
+      wedge
+        definition
+        examples
+          knife
+          chisel
+        ideal mechanical advantage
+      inclined plane
+        definition
+        examples
+          ramp
+          highway
+        ideal mechanical advantage
+      screw
+        definition
+        examples
+          wood screw
+          jar lid
+        ideal mechanical advantage
+      lever
+        definition
+        classes
+          first-class
+          second-class
+          third-class
+        ideal mechanical advantage
+      wheel and axle
+        definition
+        examples
+          Ferris wheel
+          car steering wheel
+        ideal mechanical advantage
+      pulley
+        definition
+        types
+          fixed pulley
+          moveable pulley
+          compound pulley
+        ideal mechanical advantage
+    mechanical advantage
+      definition
+      factors affecting
+        input distance
+        output distance
+    applications
+      combining simple machines
+      efficiency

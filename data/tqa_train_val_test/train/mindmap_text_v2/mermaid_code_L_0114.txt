@@ -1,0 +1,28 @@
+mindmap
+  Coastal Pollution
+    US Coast Guard
+      Vehicle Patrols
+      Storm Drains Jurisdiction
+      Pollution Fines
+    Beach Safety
+      Unfit for Swimming
+      Public Health Standards Violations
+      Dangers of Contaminated Water
+      Dangers of Digging in Sand
+    Consequences
+      Health Hazards
+      Impact on Wildlife
+      Beach Closures
+    Sources
+      Agricultural Runoff
+      Industrial Waste
+      Municipal Waste
+      Oil Spills
+      Direct Dumping
+    Dead Zones
+      Causes
+        Algae Blooms
+        Oxygen Depletion
+      Locations
+        Gulf of Mexico
+        Global Dead Zones

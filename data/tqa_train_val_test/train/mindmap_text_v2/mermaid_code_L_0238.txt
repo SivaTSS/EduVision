@@ -1,0 +1,24 @@
+mindmap
+  meteors
+    Perseid meteor shower
+      appearance
+      regularity
+    types
+      meteors
+      meteoroids
+      meteorites
+    shooting stars
+      definition
+      burning in atmosphere
+    meteoroids
+      size
+      comparison to asteroids
+      interplanetary dust
+    meteor showers
+      clusters
+      comet tails
+    meteorites
+      value to scientists
+      origins
+        asteroids
+        Mars

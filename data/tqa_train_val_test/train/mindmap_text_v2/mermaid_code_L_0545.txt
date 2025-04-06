@@ -1,0 +1,39 @@
+mindmap
+  Homeostasis
+    Definition
+      Ability to maintain stable internal environment
+      Response to changing external environment
+    Key Variables
+      Temperature
+        Normal range: 98.6°F
+        Affects enzyme function
+      Fluid balance
+        Regulated through urine concentration
+      Blood glucose levels
+        Insulin and glucagon roles
+    Feedback Mechanisms
+      Negative Feedback
+        Response keeps variable close to set value
+        Examples
+          Body temperature regulation
+          Blood glucose regulation
+      Positive Feedback
+        Response increases likelihood of event
+        Examples
+          Milk production
+          Childbirth contractions
+    Internal Conditions in Humans
+      Temperature regulation
+      Blood flow changes
+        Increases with temperature rise
+        Decreases with temperature drop
+      Hormones
+        ADH function
+        Insulin and glucagon roles
+    Ectotherms vs Endotherms
+      Ectotherms
+        Body temperature related to environment
+      Endotherms
+        Maintain stable internal temperature
+    Rapid Temperature Change in Fish
+      Mechanism of response

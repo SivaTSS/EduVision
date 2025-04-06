@@ -1,0 +1,31 @@
+mindmap
+  Obtaining Energy Resources
+    Energy Concepts
+      Net Energy
+        Definition
+        Calculation
+      Net-Energy Ratio
+        Definition
+        Importance
+      Energy Efficiency
+        Definition
+        Impact on Usage
+    Energy Sources
+      Solar Energy
+        High Net-Energy Ratio
+        Abundance
+      Natural Gas
+        Net-Energy Ratio
+      Petroleum
+        Extraction Costs
+      Coal-fired Electricity
+        Transportation Costs
+    Energy Conservation
+      Benefits of CFLs
+      Power Strips
+      Programmable Thermostats
+      Insulation
+      Old Appliances
+    Economic Impact
+      Savings Over a Decade
+      Factors Affecting Costs

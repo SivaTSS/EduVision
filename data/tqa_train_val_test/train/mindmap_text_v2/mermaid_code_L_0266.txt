@@ -1,0 +1,31 @@
+mindmap
+  planets of the solar system
+    solar system age
+    planet formation
+    main regions
+      inner planets
+        Mercury
+        Venus
+        Earth
+        Mars
+      outer planets
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+    planet requirements
+    Pluto demotion
+    Kuiper Belt
+    scattered disk
+    heliosphere
+    dwarf planets
+      Ceres
+      Pluto
+      Makemake
+      Haumea
+      Eris
+    astronomical unit
+      definition
+      distance measurement
+    planet order
+      by distance from Sun

@@ -1,0 +1,29 @@
+mindmap
+  Scientific Modeling
+    What is a model
+      Definition
+      Examples
+        Road map
+        Water molecule
+        Electric circuit
+    Why are models useful in science
+      Investigate difficult subjects
+        Extremely small (atoms)
+        Distant objects (stars)
+        Complex systems (electric grid)
+    Characteristics of a good model
+      Closely represents reality
+      Simpler and easier to understand
+    Simple models in physical science
+      Two-dimensional diagrams
+      Three-dimensional structures
+      Mathematical formulas
+      Computer simulations
+      Water molecule model
+        Structure of water molecule
+        Atomic particles
+        Electron sharing
+      Electric circuit model
+        Main parts of the circuit
+        Symbols used
+        Representation of electric wires

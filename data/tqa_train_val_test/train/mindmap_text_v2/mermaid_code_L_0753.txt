@@ -1,0 +1,53 @@
+mindmap
+  Electromagnetic Spectrum
+    Definition
+      Full range of wavelengths and frequencies
+    Radio Waves
+      Longest wavelengths
+      Lowest frequencies
+      Uses
+        Radio broadcasts
+        Television broadcasts
+        Microwave ovens
+        Cell phone transmissions
+        Radar
+    Light
+      Mid-wavelength electromagnetic waves
+      Forms
+        Visible Light
+          Narrow range of wavelengths
+          Different colors
+        Infrared Light
+          Below red
+          Felt as heat
+          Sources
+            Sun
+            Fires
+            Living things
+        Ultraviolet Light
+          Above violet
+          Higher energy
+          Uses
+            Kill bacteria
+            Sterilize equipment
+            Vitamin D production
+          Dangers
+            Sunburn
+            Skin cancer
+            Protection tips
+              Wear protective clothing
+              Use sunscreen
+    X Rays
+      Shortest wavelengths
+      Highest frequencies
+      Uses
+        Medical imaging
+        Dental imaging
+        Luggage screening
+      Dangers
+        Potential cancer risk
+    Gamma Rays
+      Most energetic
+      Uses
+        Cancer treatment
+        Research applications

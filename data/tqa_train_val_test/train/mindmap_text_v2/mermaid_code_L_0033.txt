@@ -1,0 +1,26 @@
+mindmap
+  Matter Cycles
+    Carbon
+      Importance
+        Basis of life
+        Controls life processes
+      Biotic Cycle
+        Movement between living things and air
+        Producers use carbon dioxide
+        Consumers obtain carbon from producers
+      Abiotic Cycle
+        Movement between air, ground, and oceans
+        Carbon sinks in oceans
+      Human Impact
+        Burning fossil fuels increases CO2
+        Deforestation reduces carbon absorption
+        Greenhouse effect
+    Nitrogen
+      Importance
+        Key element in proteins
+      Cycle
+        Air, soil, and living things
+        Nitrogen fixation by bacteria
+      Human Impact
+        Fertilizers increase nitrogen in water
+        Algal blooms and dead zones

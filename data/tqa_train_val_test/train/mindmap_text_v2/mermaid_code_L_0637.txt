@@ -1,0 +1,26 @@
+mindmap
+  polygenic traits
+    definition
+      controlled by more than one gene
+    examples
+      height
+      skin color
+      hair color
+      eye color
+    Mendel's rules
+      polygenic inheritance as an exception
+      dominant alleles add to expression
+    phenotypic distribution
+      bell-shaped curve
+      most individuals in the middle
+      extremes with recessive or dominant alleles
+    specific traits
+      eye color
+        not controlled by a single gene
+      skin color
+        wide variation
+      albino
+        lack of melanin
+        specific eye color not present
+      blue eyes
+        low melanin levels

@@ -1,0 +1,31 @@
+mindmap
+  Valence Electrons
+    Definition
+      Electrons in outer energy level
+      Participate in interactions
+    Importance
+      Determine reactivity
+      Influence conductivity
+    Electron Dot Diagrams
+      Representation of valence electrons
+      Chemical symbol surrounded by dots
+    Octet Rule
+      Atoms seek to have eight valence electrons
+      Stability achieved with full outer energy level
+    Reactivity
+      Metals give up electrons
+      Nonmetals gain electrons
+      Metalloids conduct electricity but less than metals
+    Periodic Table
+      Valence electrons increase across periods
+      Same group elements have similar valence electrons
+      Group 1 has one valence electron
+      Group 18 has eight valence electrons
+    Examples
+      Sodium (Na) gives up an electron
+      Chlorine (Cl) accepts an electron
+      Calcium (Ca) reacts with oxygen (O)
+    Conductivity
+      Metals like copper conduct electricity
+      Nonmetals like carbon do not conduct electricity
+      Semiconductors like silicon and germanium

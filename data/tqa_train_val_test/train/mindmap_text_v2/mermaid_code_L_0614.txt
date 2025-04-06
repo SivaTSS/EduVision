@@ -1,0 +1,35 @@
+mindmap
+  Non Infectious Reproductive System Disorders
+    Male Reproductive Disorders
+      Testicular Cancer
+        Common Age Group: 15 to 35
+        Common Sign: Lump (tumor)
+        Mistaken For: Other conditions
+        Treatability: Highly treatable if found early
+        Treatment: Surgery
+        Causes: Unknown, but risk factors identified
+        Highest Risk Factor: Family history
+      Testicular Injuries
+        Common Cause: Sports-related injuries
+        Symptoms: Pain, bruising, swelling
+        Duration: Usually short-lived
+    Female Reproductive Disorders
+      Vaginitis
+        Symptoms: Redness, itching
+        Causes: Irritation, yeast infection
+        Treatment: Medication
+      Ovarian Cysts
+        Definition: Sac filled with fluid
+        Cancerous: Not all are cancerous
+        Common Type: Functional cysts
+        Symptoms: Pain (usually harmless)
+        Treatment: Surgery for large or painful cysts
+      Breast Cancer
+        Common Age Group: Older women
+        Symptoms: Tumor formation
+        Treatability: Highly treatable if found early
+    General Information
+      Non-STI Disorders
+        Cause: Not caused by pathogens
+        Spread: Do not spread from person to person
+      Impact: Varies from discomfort to severe consequences

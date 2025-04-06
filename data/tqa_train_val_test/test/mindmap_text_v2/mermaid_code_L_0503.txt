@@ -1,0 +1,35 @@
+mindmap
+  Birds Diversity
+    Evolution
+      Birds and Dinosaurs
+        Velociraptor Size
+        Skeleton Comparison
+        Herbivorous vs Carnivorous Dinosaurs
+        Fossil "Dave" Significance
+        Velociraptor Teeth
+    Penguin Adaptations
+      Feeding Habits
+      Oxygen Storage
+      Diving Oxygen Control
+    Fastest Birds
+      Peregrine Falcon
+      Goshawk
+      G-force in Diving
+    Bird Types
+      Generalists
+        Example: American Crow
+      Carnivorous Birds
+        Examples: Hawks, Falcons, Eagles
+      Herbivorous Birds
+        Examples: Goose, Cockatoo, Parrot
+      Flightless Birds
+        Examples: Ostrich, Kiwi, Penguins
+    Beak Adaptations
+      Food Source Relation
+        Carnivorous Beaks
+        Herbivorous Beaks
+    Foot Adaptations
+      Habitat Relation
+        Webbed Feet
+        Long Toes for Wetlands
+        Clawed Feet for Raptors

@@ -1,0 +1,16 @@
+mindmap
+  Wedge
+    What is a wedge
+      Definition: Simple machine with two inclined planes
+      Structure: Thin end and thick end
+    How does a wedge change the force
+      Force applied to thick end
+      Sloping sides apply force to object
+      Makes work easier
+    Machines that include a wedge
+      Examples: axe, hammer, bolt, file
+    Mechanical advantage of a wedge
+      Greater than 1
+      Ratio of output force to input force
+      Longer, thinner wedges have greater advantage
+      Trade-off: output force over shorter distance

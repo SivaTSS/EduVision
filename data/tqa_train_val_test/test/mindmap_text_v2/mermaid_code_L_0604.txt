@@ -1,0 +1,31 @@
+mindmap
+  Modern Genetics
+    Link Between Genotype and Phenotype
+      Genotype Study
+      Turning Genes Off
+    iPlant Genotype to Phenotype
+      Complex Phenotypes
+      Rapid DNA Analysis
+      Investigated Plant Traits
+    Alleles
+      Definition
+      Homozygous Condition
+      Genotype vs Phenotype
+      Example: Tall Green Plant
+    Mendel's Hereditary Factors
+      Dominant and Recessive Factors
+      DNA and Chromosomes
+      Connection to Modern Genetics
+    Genotype
+      Definition
+      Types
+        Homozygous
+          Dominant
+          Recessive
+        Heterozygous
+      Representation
+    Phenotype
+      Definition
+      Relationship to Genotype
+      Example: Pea Plant Traits
+      Same Phenotype, Different Genotypes

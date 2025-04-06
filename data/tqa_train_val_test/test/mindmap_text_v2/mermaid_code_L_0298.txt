@@ -1,0 +1,35 @@
+mindmap
+  Scientific Method
+    Definition
+      Series of steps to investigate questions
+    Importance
+      Answers questions about the natural world
+    Characteristics of Scientific Questions
+      Must be testable
+      Example of good question
+        Age of Earth
+      Example of non-scientific question
+        How many angels can dance on a pin
+    Steps of the Scientific Method
+      Ask a question
+      Background research
+      Create a hypothesis
+      Conduct experiments or observations
+      Gather data
+      Formulate a conclusion
+    Variables
+      Independent variable
+      Dependent variable
+      Example with tomato plants
+        Question: How does the amount of sunlight affect tomato growth?
+    Observations
+      Definition
+        Information gathered through senses
+      Types
+        Qualitative observations
+        Quantitative observations
+    Inferences
+      Definition
+        Conclusions drawn from observations
+    Example Question
+      Is the amount of carbon dioxide in Earth's atmosphere changing?

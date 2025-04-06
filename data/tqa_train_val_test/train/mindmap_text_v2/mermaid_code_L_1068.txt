@@ -1,0 +1,20 @@
+mindmap
+  Wave Interference
+    What is wave interference
+      Interaction of waves
+      Types of interference
+        Constructive interference
+          Overlapping crests
+          Increase in amplitude
+        Destructive interference
+          Overlapping crests and troughs
+          Decrease in amplitude
+    Standing waves
+      Definition
+      Formation
+        Reflection from obstacles
+        Combination of constructive and destructive interference
+    Comparison of interference types
+      Constructive vs Destructive
+        Amplitude effects
+        Visual representation

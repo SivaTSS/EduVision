@@ -1,0 +1,19 @@
+mindmap
+  Technology Careers
+    Engineers
+      Definition: Creative problem solvers
+      Skills
+        Math
+        Science
+        Logical thinking
+        Creativity
+        Spatial visualization
+      Types
+        Electrical Engineers
+        Mechanical Engineers
+    Careers in Technology
+      Roller Coaster Design
+        Collaboration of Engineers
+        Application of Science
+      Video Game Development
+        Similar Skills Required

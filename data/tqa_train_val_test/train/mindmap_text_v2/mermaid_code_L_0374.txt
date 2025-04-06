@@ -1,0 +1,25 @@
+mindmap
+  Vertebrates
+    Traits
+      Vertebral column
+      Endoskeleton
+      Organ systems
+      Four defining traits
+    Reproductive Strategies
+      Ovipary
+      Ovovivipary
+      Vivipary
+    Classification
+      Nine classes
+        Fish
+        Amphibians
+        Reptiles
+        Birds
+        Mammals
+    Evolution
+      First vertebrates
+      Evolution of fish
+      Evolution of amphibians
+      Evolution of reptiles
+      Evolution of mammals
+      Ectothermy vs Endothermy

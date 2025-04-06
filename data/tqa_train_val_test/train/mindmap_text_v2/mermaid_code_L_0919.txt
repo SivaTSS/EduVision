@@ -1,0 +1,46 @@
+mindmap
+  Hydrocarbons
+    Definition
+      Compounds of carbon and hydrogen
+      Simplest carbon-based compounds
+      Vary in size
+    Properties
+      Influence of size on melting and boiling points
+      States at room temperature
+        Gases
+        Liquids
+        Solids
+      Nonpolar nature
+      Do not dissolve in water
+    Classification
+      Saturated Hydrocarbons
+        Only single bonds
+        Saturated with hydrogen
+      Unsaturated Hydrocarbons
+        At least one double or triple bond
+        Not saturated with hydrogen
+    Uses
+      Fuels
+        Gasoline
+        Natural gas
+        Diesel fuel
+        Jet fuel
+        Coal
+        Kerosene
+        Propane
+      Other products
+        Plastics
+        Synthetic fabrics
+        Motor oil
+        Asphalt
+        Candles
+        Lighters
+        Rain boots
+    Sources
+      Fossil Fuels
+        Coal
+        Petroleum
+        Natural gas
+      Formation process
+        Dead organisms covered with sediments
+        Pressure over millions of years

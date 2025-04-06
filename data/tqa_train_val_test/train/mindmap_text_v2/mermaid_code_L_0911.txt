@@ -1,0 +1,46 @@
+mindmap
+  Metalloids in Groups 13-16
+    Groups Overview
+      Group 13
+        Boron Group
+          Boron (B)
+          Other Elements: Aluminum, Gallium, Indium, Thallium
+          Valence Electrons: 3
+          State: Solid
+      Group 14
+        Carbon Group
+          Carbon (C)
+          Metalloids: Silicon (Si), Germanium (Ge)
+          Other Elements: Tin, Lead
+          Valence Electrons: 4
+          State: Solid
+      Group 15
+        Nitrogen Group
+          Nonmetals: Nitrogen (N), Phosphorus (P)
+          Metalloids: Arsenic (As), Antimony (Sb)
+          Other Element: Bismuth
+          Valence Electrons: 5
+          State: Solids (except Nitrogen)
+      Group 16
+        Oxygen Group
+          Nonmetals: Oxygen (O), Sulfur (S), Selenium (Se)
+          Metalloid: Tellurium (Te)
+          Other Element: Polonium
+          Valence Electrons: 6
+          State: Solids (except Oxygen)
+    Properties of Metalloids
+      Conductivity
+        Conduct electricity, but less than metals
+      Appearance
+        Shiny like metals, brittle like nonmetals
+      Chemical Behavior
+        Depends on valence electrons
+    Applications
+      Silicon
+        Used in computer chips
+      Germanium
+        Used in fiber optics
+      Arsenic
+        Toxic, used in rat poison
+      Tellurium
+        Used in solar panels

@@ -1,0 +1,32 @@
+mindmap
+  Barriers to Pathogens
+    First Line of Defense
+      Physical Barriers
+        Skin
+          Largest organ
+          Physical barrier
+          Multiple layers
+        Mucous Membranes
+          Lined in mouth, nose, lungs, stomach
+          Release mucus
+          Contain cilia
+      Chemical Barriers
+        Body Fluids
+          Mucus
+            Contains lysozymes
+            Traps pathogens
+          Sweat
+            Contains lysozymes
+          Tears
+            Contains lysozymes
+          Saliva
+            Contains lysozymes
+          Stomach Acid
+            Hydrochloric acid
+            Kills pathogens
+          Urine
+            Acidic environment
+            Prevents pathogen growth
+    Helpful Bacteria
+      Compete with harmful bacteria
+      Prevent multiplication of pathogens

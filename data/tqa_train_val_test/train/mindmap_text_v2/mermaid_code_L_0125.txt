@@ -1,0 +1,31 @@
+mindmap
+  Hypothesis Development
+    Purpose of Hypothesis
+      Reasonable Explanation
+      Testable and Falsifiable
+    Variables
+      Independent Variable
+        Definition
+        Number in Experiment
+      Dependent Variable
+        Definition
+        Causes of Change
+    Example Question
+      Temperature and Bear Speed
+        Independent Variable
+        Dependent Variable
+        Answer
+    Creating a Hypothesis
+      Process
+      Example Hypothesis
+    Importance of Hypotheses
+      Multiple Working Hypotheses
+      Not Bad Questions
+    Background Research
+      Sources of CO2
+        Volcanoes
+        Fossil Fuels
+    Testing Hypotheses
+      Observations
+      Experiments
+      Scientific Literature

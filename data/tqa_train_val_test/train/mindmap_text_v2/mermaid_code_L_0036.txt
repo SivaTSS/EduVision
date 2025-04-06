@@ -1,0 +1,33 @@
+mindmap
+  Pollution of the Land
+    Love Canal Disaster
+      Description
+        Toxic chemical waste dumped
+        Contaminated soil
+        Health impacts on residents
+      Lessons Learned
+        Importance of safe waste disposal
+        Awareness of hazardous waste
+    Hazardous Waste
+      Definition
+        Dangerous to health and environment
+        Types: toxic, corrosive, flammable, explosive
+      Sources
+        Industrial waste
+        Agricultural waste
+        Household waste
+      Examples
+        Batteries
+        Paints
+        Cleaning products
+        Electronics
+    Controlling Household Hazardous Waste
+      Importance
+        Reduces community hazardous waste
+        Protects health and environment
+      Strategies
+        Reduce hazardous product purchases
+        Use less hazardous alternatives
+        Reuse products safely
+        Recycle whenever possible
+        Proper disposal methods

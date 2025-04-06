@@ -1,0 +1,33 @@
+mindmap
+  Air Masses
+    Definition
+      Batch of air with similar temperature and humidity
+      Acquires characteristics from source region
+    Formation
+      High pressure areas
+      Stable regions for extended periods
+      Size can be 1,600 km across and several kilometers thick
+    Types
+      Continental
+        Forms over land
+        Characteristics vary by region
+      Maritime
+        Forms over water
+        Characteristics vary by region
+      Polar
+        Forms in polar regions
+        Generally cold
+      Tropical
+        Forms in tropical regions
+        Generally warm
+    Movement
+      Pushed by high-level winds
+      Shares temperature and humidity with new regions
+    Weather Impact
+      Interaction with different air masses can cause storms
+      Cold air over warm ground can create clouds and thunderstorms
+      Warm air over cold ground can create inversions
+    Temperature Moderation
+      Cold air moves toward the Equator
+      Warm air moves toward the poles
+      Balances planetary temperatures

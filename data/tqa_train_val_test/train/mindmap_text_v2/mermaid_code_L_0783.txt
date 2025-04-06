@@ -1,0 +1,28 @@
+mindmap
+  Chemical Equations
+    Definition
+      Symbolic representation of chemical reactions
+      Example: C + O2 -> CO2
+    Writing Chemical Equations
+      Use of chemical symbols and formulas
+      General form: Reactants -> Products
+    Balancing Chemical Equations
+      Importance of balancing
+      Coefficients
+        Definition: Number in front of chemical symbols
+        Example: 2H2 + O2 -> 2H2O
+      Steps to balance
+        Count atoms in reactants and products
+        Add coefficients
+        Repeat until balanced
+    Law of Conservation of Mass
+      Matter cannot be created or destroyed
+      Experiments by Antoine Lavoisier
+        Measured mass of reactants and products
+        Sealed jar experiments
+    Types of Chemical Reactions
+      Synthesis reactions
+      Other types of reactions
+    Practice Problems
+      Balance equations: N2 + H2 -> NH3
+      Balance equations: CH4 + O2 -> CO2 + H2O

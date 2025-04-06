@@ -1,0 +1,39 @@
+mindmap
+  Food Webs
+    Definition
+      Food Chain
+        Single Pathway
+        Feeding Interactions
+      Food Web
+        Multiple Pathways
+        Complex Interactions
+    Energy Flow
+      Constant Flow
+      Organisms Eating Organisms
+      Arrows Indicating Relationships
+    Components
+      Producers
+        Create Energy
+        Start of Food Chain
+      Consumers
+        Herbivores
+        Carnivores
+      Decomposers
+    Examples
+      Ocean Ecosystem
+        Phytoplankton
+        Krill
+        Fish
+        Shark
+      Arctic Food Web
+        Loons
+        Arctic Tern
+        Beluga
+        Sea Duck
+    Healthy Food Web
+      Essential Components
+      Number of Possible Webs
+    Questions
+      Differences Between Food Chain and Food Web
+      Starting Organism in Food Chain
+      Herbivore Identification

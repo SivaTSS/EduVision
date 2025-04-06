@@ -1,0 +1,45 @@
+mindmap
+  Solar System
+    Role of Gravity
+      Keeps planets in orbit
+      Prevents planets from flying off
+      Prevents collisions with the Sun
+    Nebular Hypothesis
+      Origin of the solar system
+      Formed from gas and dust
+      Explains planetary motion
+    Early Ideas
+      Earth-centered model (Ptolemy)
+      Sun-centered model (Copernicus)
+      Greek mythology influences
+    Planets
+      Eight planets
+        Mercury
+        Venus
+        Earth
+        Mars
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+      Dwarf planets
+        Pluto
+        Eris
+        Ceres
+        Makemake
+        Haumea
+    Planetary Groups
+      Inner planets
+      Outer planets
+    Planetary Characteristics
+      Mass and diameter comparisons
+      Distance from the Sun (AU)
+      Length of day and year
+    Discovery of Exoplanets
+      Definition of exoplanets
+      Methods of discovery
+    Formation of the Solar System
+      Solar nebula hypothesis
+      Formation of the Sun
+      Formation of planets and moons
+      Differences between inner and outer planets

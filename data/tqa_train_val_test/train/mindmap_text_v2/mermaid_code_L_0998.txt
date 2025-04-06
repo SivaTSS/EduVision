@@ -1,0 +1,25 @@
+mindmap
+  Radioactive Decay
+    What is Radioactive Decay
+      Definition: Unstable nuclei emit charged particles and energy
+      Purpose: Become stable
+    Types of Radioactive Decay
+      Alpha Decay
+        Emission: Alpha particle (2 protons and 2 neutrons) + energy
+        Effect: Changes element, least damaging
+        Travel: Few centimeters in air, can burn skin
+      Beta Decay
+        Emission: Beta particle (1 electron or 1 positron) + energy
+        Effect: Changes element, penetrates and damages skin
+        Travel: Up to a meter in air
+      Gamma Decay
+        Emission: Energy (gamma ray)
+        Effect: Does not change element, most damaging
+        Travel: Thousands of meters in air, penetrates deep into body
+    Comparison of Decay Types
+      Alpha vs Beta vs Gamma
+        Alpha and Beta: Change element
+        Gamma: No change in element
+        Damage Level: Alpha < Beta < Gamma
+    Impact on Living Things
+      Harmful Effects: Charged particles and energy can damage living organisms

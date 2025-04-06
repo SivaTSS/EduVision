@@ -1,0 +1,22 @@
+mindmap
+  Nitrogen Cycle
+    Largest Source of Nitrogen
+      Nitrogen gas (N2) in the atmosphere
+    Nitrogen Fixation
+      Conversion of nitrogen gas to ammonium (NH4+)
+      Nitrogen-fixing bacteria
+        Live in roots of plants (e.g., pea family)
+    Assimilation
+      Plants absorb nitrogen in the form of nitrates
+      Passed to animals through food web
+    Decomposition
+      Decomposers transform nitrogen in dead organisms to ammonium
+    Nitrification
+      Ammonium converted to nitrates by nitrifying bacteria
+    Denitrification
+      Nitrates converted back to gaseous nitrogen by denitrifying bacteria
+    Human Impact
+      Burning fossil fuels releases nitrogen oxides
+      Leads to acid rain
+    Importance of Nitrogen
+      Essential for proteins and nucleic acids (DNA)

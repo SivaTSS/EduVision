@@ -1,0 +1,29 @@
+mindmap
+  Water States
+    Polar Molecule
+      Definition
+      Characteristics
+        Positive Charge Side
+        Negative Charge Side
+    States of Matter
+      Solid
+        Ice
+      Liquid
+        Water
+      Gas
+        Water Vapor
+    Water in the Solar System
+      Unique Presence
+      Other Locations
+    Properties of Water
+      High Surface Tension
+      Expansion When Freezing
+      Solvent Capabilities
+    Hydrogen Bonds
+      Definition
+      Importance
+    Adhesion and Cohesion
+      Adhesion with Glass
+      Cohesion in Water Droplets
+    Capillary Action
+      Water Rising in Straw

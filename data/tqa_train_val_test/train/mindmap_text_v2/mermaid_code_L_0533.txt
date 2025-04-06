@@ -1,0 +1,40 @@
+mindmap
+  Genetic Disorders
+    Multifactorial Disorders
+      Definition
+      Example
+    Single-Gene Disorders
+      Definition
+      Example
+      Galactosemia
+        Causes
+        Diagnosis
+        Treatment
+    Autosomal Recessive Disorders
+      Definition
+      Examples
+        Cystic Fibrosis
+          Symptoms
+          Inheritance
+          Punnett Square
+        Tay-Sachs Disease
+          Symptoms
+          Inheritance
+    Autosomal Dominant Disorders
+      Definition
+      Example
+        Huntington's Disease
+          Symptoms
+          Inheritance
+    Genetic Screening
+      Newborn Genetic Screening
+      Process
+    Genetic Mutations
+      Types
+        Chromosomal Mutations
+        X-linked Disorders
+        Y-linked Disorders
+        Autosomal Disorders
+    Carrier Status
+      Autosomal Recessive
+      Autosomal Dominant

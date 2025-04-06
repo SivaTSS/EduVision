@@ -1,0 +1,35 @@
+mindmap
+  Seawater Chemistry
+    Water Properties
+      Density
+        Increases with salinity
+        Increases with pressure
+        Increases with decreasing temperature
+    Ocean Composition
+      Salinity
+        Average 3.5%
+        Varies by location
+        Lower in estuaries
+        Higher with evaporation
+      Dissolved Substances
+        Salts
+        Sugars
+        Acids
+        Bases
+        Organic molecules
+    Ocean Movement
+      Role of Density
+        Deep ocean currents
+    Nutrient Requirements
+      Algae
+      Diatoms
+      Calcium
+      Phosphate
+      Nitrogen
+    Carbon Cycle
+      Entry into oceans
+    Dead Zones
+      Definition
+    Iron in Oceans
+      Sources
+      Seeding plans

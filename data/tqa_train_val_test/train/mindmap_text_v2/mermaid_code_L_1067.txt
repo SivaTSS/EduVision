@@ -1,0 +1,28 @@
+mindmap
+  Wave Interactions
+    Atoms
+      Definition: Building blocks of matter
+      Properties: Smallest particles of an element
+      Types: Protons, Neutrons, Electrons
+    Characteristics
+      Size: Extremely small, under 1 nanometer
+      Identical Atoms: All atoms of a given element are identical
+      Pure Substances: Elements are not mixed with anything else
+    Atomic Structure
+      Nucleus
+        Definition: Center of an atom
+        Mass: Contains most of the atom's mass
+        Composition: Protons and Neutrons
+      Protons
+        Charge: Positive
+        Role: Determines unique properties of elements
+      Neutrons
+        Charge: Neutral
+        Role: Often equal in number to protons
+      Electrons
+        Charge: Negative
+        Role: Balance charge of protons
+        Location: Outside the nucleus
+    Models of Atoms
+      Purpose: Help scientists understand complex structures
+      Example: Simple model representation

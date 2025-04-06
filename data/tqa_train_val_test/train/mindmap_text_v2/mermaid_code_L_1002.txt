@@ -1,0 +1,24 @@
+mindmap
+  Chemical Reactions
+    Reactants
+      Definition: Substances that start a chemical reaction
+      Example: Fuel (candlewick and wax) + Oxygen
+    Products
+      Definition: Substances produced in a chemical reaction
+      Example: Carbon dioxide gas + Water vapor
+    Chemical Equation
+      General Form: Reactants → Products
+      Direction: Arrow indicates reaction direction
+      Combustion Reaction: Fuel + O2 → CO2 + H2O
+    Process of Reaction
+      Bonds break in reactants
+      New bonds form in products
+      Atoms rearranged into different combinations
+    Example Reaction
+      Reactants: Hydrogen (H2) + Oxygen (O2)
+      Product: Water (H2O)
+      Animation: Identify reactants and products
+    Image Explanation
+      Components: Water (H2O), Oxygen (O2), Hydrogen Peroxide (H2O2)
+      Flow: Arrows indicate reactants and products
+      Complexity: Smaller molecules present in the reaction

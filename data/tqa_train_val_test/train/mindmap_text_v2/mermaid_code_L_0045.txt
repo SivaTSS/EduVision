@@ -1,0 +1,37 @@
+mindmap
+  Protecting the Water Supply
+    Water Pollution
+      Causes
+        Industrial Waste
+        Agricultural Runoff
+        Municipal Sources
+      Reduction Methods
+        Proper Disposal of Chemicals
+        Use Natural Products
+        Repair Oil Leaks
+        Clean Up Pet Waste
+    Water Treatment
+      Processes
+        Coagulation
+        Sedimentation
+        Filtration
+        Disinfection
+      Importance
+        Safe for Drinking
+        Environmental Return
+    Water Conservation
+      Methods
+        Drip Irrigation
+        Water-Saving Toilets
+        Low-Flow Shower Heads
+        Shorter Showers
+        Fixing Leaks
+        Landscaping with Low-Water Plants
+    Community Actions
+      Rationing
+        Restrictions During Drought
+        Fines for Excessive Use
+      Laws and Regulations
+        Environmental Protection Agency
+        Clean Water Act
+        Pollution Tracking

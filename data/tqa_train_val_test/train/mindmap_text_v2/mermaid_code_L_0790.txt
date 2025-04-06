@@ -1,0 +1,27 @@
+mindmap
+  acceleration
+    definition
+      measure of change in velocity
+      rate of change
+      vector quantity
+    examples
+      carousel
+        changing direction
+        changing speed
+      skydiver
+        free fall
+        increasing speed
+        parachute effect
+    types
+      positive acceleration
+        increase in speed
+      negative acceleration
+        decrease in speed (deceleration)
+      constant speed with changing direction
+        example: driving around a bend
+    effects
+      feeling acceleration
+        pressed against seat when speeding up
+        pushed forward when slowing down
+        pushed to the left when turning right
+        pushed to the right when turning left

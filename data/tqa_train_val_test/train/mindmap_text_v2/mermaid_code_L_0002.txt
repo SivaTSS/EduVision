@@ -1,0 +1,42 @@
+mindmap
+  Earth Science
+    Definition
+      Study of all aspects of Earth
+      Includes atmosphere and oceans
+      Explores solar system and universe
+    Branches
+      Geology
+        Study of rocks and minerals
+        Processes of Earth
+        Specializations
+          Mineralogy
+          Volcanology
+          Seismology
+          Paleontology
+          Planetary geology
+      Oceanography
+        Study of oceans
+        Water movement and chemistry
+        Specializations
+          Physical oceanography
+          Marine geology
+          Chemical oceanography
+          Marine biology
+      Meteorology
+        Study of atmosphere
+        Weather patterns and climate
+        Importance of forecasting
+      Environmental Science
+        Human impact on environment
+        Ecological studies
+      Astronomy
+        Study of solar system and universe
+        Tools for exploration
+        Questions about existence and resources
+    Importance
+      Understanding Earth's systems
+      Addressing global challenges
+      Collaboration among scientists
+    Experiment Design
+      Identify variables
+      Conduct research in any branch

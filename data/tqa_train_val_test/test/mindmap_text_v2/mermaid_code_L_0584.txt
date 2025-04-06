@@ -1,0 +1,25 @@
+mindmap
+  Animal Learned Behavior
+    Learned Behavior
+      Definition: Behavior after experience or practice
+      Advantages: Flexibility and adaptability
+    Methods of Learning
+      Habituation
+        Definition: Getting used to something after exposure
+        Example: Crows habituating to scarecrows
+      Observational Learning
+        Definition: Learning by watching and copying
+        Example: Children learning to tie shoes
+      Conditioning
+        Definition: Learning through rewards or punishments
+        Example: Training a dog with treats
+      Play
+        Definition: Learning skills through play
+        Example: Kittens practicing hunting
+      Insight Learning
+        Definition: Learning from past experiences and reasoning
+        Example: Chimpanzees making tools
+    Importance of Learning
+      Human Behavior: Most human behaviors are learned
+      Intelligence: Higher intelligence leads to more learned behaviors
+      Examples: Koko the gorilla learning sign language

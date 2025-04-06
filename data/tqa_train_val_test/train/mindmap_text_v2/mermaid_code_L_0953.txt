@@ -1,0 +1,38 @@
+mindmap
+  Microwaves
+    What are microwaves
+      Electromagnetic waves
+      Long wavelengths
+      Low frequencies
+    Uses of microwaves
+      Microwave ovens
+      Cell phones
+      Radar
+    Cell phone usage
+      Encoding sounds
+      Frequency modulation
+      Transmission process
+        Cell tower
+        Switching center
+        Receiver
+    Radar
+      Stands for radio detection and ranging
+      Functionality
+        Sends bursts of microwaves
+        Reflects from vehicles
+        Computes speed
+      Applications
+        Tracking storms
+        Detecting air traffic
+        Police radar
+    Electromagnetic spectrum
+      Range of wavelengths and frequencies
+      Visual representation
+      Classification of waves
+        Radio waves
+        Microwaves
+        Infrared
+        Visible light
+        Ultraviolet
+        X-rays
+        Gamma rays

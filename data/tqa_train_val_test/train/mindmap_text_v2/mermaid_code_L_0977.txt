@@ -1,0 +1,16 @@
+mindmap
+  Orbital Motion
+    Definition
+      Orbit
+      Orbital Motion
+      Cause of Orbital Motion
+    Earth and Moon
+      Earth orbits Sun
+      Moon orbits Earth
+      Gravity effects
+    Factors for Satellites
+      Forward velocity
+      Gravity considerations
+    Planetary Relationships
+      Proximity to other planets
+      Gravity interactions

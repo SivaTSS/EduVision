@@ -1,0 +1,37 @@
+mindmap
+  Ecosystems
+    Ecosystem Components
+      Biotic Factors
+        Bacteria
+        Algae
+        Fungi
+        Plants
+        Animals
+          Invertebrates
+          Vertebrates
+      Abiotic Factors
+        Light
+        Oxygen
+        Water
+        Carbon Dioxide
+        Soil
+        Nutrients
+        Temperature
+    Key Definitions
+      Species
+      Population
+      Community
+      Habitat
+      Niche
+      Biotic Factor
+      Abiotic Factor
+    Energy Flow
+      Direction of Energy Movement
+    Habitat Characteristics
+      Climate
+      Food Availability
+      Water Resources
+      Weather
+    Niche Examples
+      Top Carnivore
+      Specific Roles in Ecosystem

@@ -1,0 +1,31 @@
+mindmap
+  Mammal Classification
+    Mammal Conservation
+      Average Size
+      Abundant Groups
+      New Species Discovery
+      Bat Diversity
+    Platypus
+      Habitat
+      Diet
+      Foraging Method
+      Male Spur Purpose
+    Ungulates
+      Distinguishing Features
+      Examples
+    Mammal Groups
+      Rodents
+        Characteristics
+        Examples
+      Carnivores
+        Examples
+      Insectivores
+        Examples
+      Bats
+        Flight Adaptation
+      Primates
+        Characteristics
+        Examples
+      Lagomorphs
+        Characteristics
+        Examples

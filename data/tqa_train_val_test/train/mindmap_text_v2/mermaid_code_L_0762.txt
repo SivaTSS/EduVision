@@ -1,0 +1,24 @@
+mindmap
+  Earth as a Magnet
+    Demonstration
+      Use of props
+      Compass example
+    Earth’s Magnetism
+      Giant magnet
+      North and south poles
+      Magnetosphere
+    Benefits of Magnetism
+      Protection from solar particles
+      Navigation for humans and animals
+    Magnetic Poles
+      Geographic vs magnetic poles
+      Compass behavior
+    Magnetic Reversals
+      Evidence from rocks
+      Historical significance
+    Inner Structure
+      Inner and outer core
+      Movement of charged particles
+    Navigation in Nature
+      Animal navigation
+      Birds and magnetic field

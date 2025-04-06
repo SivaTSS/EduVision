@@ -1,0 +1,19 @@
+mindmap
+  Oceanic Pressure
+    Water Pressure Changes
+      Increases with Depth
+      10 kPa per Meter
+      Double at 30 Meters
+      Too Great at 500 Meters
+      Tremendous at 11,000 Meters
+    Exploration Challenges
+      Difficult for Divers
+      Need Pressure-Resistant Vehicles
+    Scuba Diving
+      Limited Depth
+      Safe Ascent Required
+        Stops Needed Above 40 Meters
+        Adjusts Body Pressure
+      Risks of Rapid Ascent
+        Gas Bubbles Formation
+        Health Problems

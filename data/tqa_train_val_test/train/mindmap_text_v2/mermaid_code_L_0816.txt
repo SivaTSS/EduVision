@@ -1,0 +1,27 @@
+mindmap
+  Calculating Acceleration from Force and Mass
+    Equation
+      a = F / m
+      F = m * a
+    Concepts
+      Acceleration
+        Change in motion
+        Caused by unbalanced force
+      Mass
+        Affects acceleration
+        Measured with a balance
+      Net Force
+        Combination of unseen forces
+        Calculated from mass and acceleration
+    Examples
+      Corey's Jump
+        Mass = 60 kg
+        Net Force = 30 N
+        Acceleration = 0.5 m/s²
+      Xander's Scooter
+        Mass = 50 kg
+        Net Force = 25 N
+        Acceleration = 0.5 m/s²
+      Force Calculation
+        F = m * a
+        Example: 40 kg at 0.8 m/s² requires 32 N

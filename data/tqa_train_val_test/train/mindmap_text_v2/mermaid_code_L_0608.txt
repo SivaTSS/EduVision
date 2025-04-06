@@ -1,0 +1,42 @@
+mindmap
+  Muscles Bones and Movement
+    Muscles
+      Types
+        Skeletal
+        Smooth
+        Cardiac
+      Functions
+        Movement
+        Contractility
+        Regulation
+    Movement
+      Mechanism
+        Contraction
+        Relaxation
+      Joint Movement
+        Flexor
+        Extensor
+      Muscle Pairs
+        Biceps and Triceps
+        Quadriceps and Hamstrings
+        Pectorals and Trapezius
+    Skeletal Muscles
+      Attachment
+        Tendons
+      Opposing Pairs
+        Functionality
+        Example Movements
+    Smooth Muscles
+      Characteristics
+        Involuntary Control
+      Functions
+        Uterine Contraction
+        Urine Expulsion
+        Digestive Movement
+        Blood Vessel Regulation
+        Airflow Regulation
+    Cardiac Muscles
+      Characteristics
+        Heart Muscle
+        Rhythmic Contraction
+        Lifelong Function

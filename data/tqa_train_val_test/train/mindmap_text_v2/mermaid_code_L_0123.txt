@@ -1,0 +1,31 @@
+mindmap
+  Deep Ocean Currents
+    Ice Formation
+      Composition of Ice
+      Changes in Seawater Composition
+    Seawater Characteristics
+      Characteristics of Leftover Seawater
+      Effects of Characteristics
+    Deep Water Composition
+      Antarctic Bottom Water
+      North Atlantic Deep Water
+      Gas Trapping in Cold Water
+    Polar Regions
+      Richness in Life
+    Upwelling
+      Importance of Upwelling
+      Nutrient Supply
+    Downwelling
+      Role in Thermohaline Circulation
+      Effects of Water Density
+    Thermohaline Circulation
+      Definition
+      Factors Affecting Density
+      Temperature and Salinity
+      Sinking Process
+    Ocean Conveyor Belt
+      Warm Water Movement
+      Cold Water Movement
+    Upwelling Process
+      Mechanism
+      Nutrient Distribution

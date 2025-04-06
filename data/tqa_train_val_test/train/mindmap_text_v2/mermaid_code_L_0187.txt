@@ -1,0 +1,30 @@
+mindmap
+  Groundwater Pollution
+    Chemicals in Drinking Water
+      Sources
+        Underground Storage Tanks
+        Agricultural Fields
+    Groundwater Movement
+      Into Aquifer
+      Through Aquifer
+    Rock Dissolution
+      Process
+      Contaminants
+    Karst Aquifers
+      Contamination
+      Effects of Rain
+    Types of Contaminants
+      Municipal
+      Agricultural
+      Industrial
+    Pollution Sources
+      Irrigation Water
+      Landfills
+      Leaking Tanks
+    Groundwater vs Surface Water
+      Cleanliness Comparison
+      Spring Water Contamination
+    Pollution Impact
+      Filtering by Rock and Soil
+      Percentage of Polluted Groundwater
+      Contaminated Wells

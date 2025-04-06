@@ -1,0 +1,25 @@
+mindmap
+  Energy in Chemical Reactions
+    Role of Energy
+      Break bonds in reactants
+      Release energy in products
+    Law of Conservation of Energy
+      Matter cannot be created or destroyed
+      No overall change in energy
+    Endothermic Reactions
+      Absorb energy
+      More stored chemical energy in products
+      Energy stored in bonds of products
+    Exothermic Reactions
+      Release energy
+      Less stored chemical energy in products
+      Excess energy released to surroundings
+    Visual Representation
+      Chemical reaction diagram
+        Reactants on left
+        Products on right
+        Energy absorbed
+      Exothermic reaction diagram
+        Reactants on left
+        Products on right
+        Energy released

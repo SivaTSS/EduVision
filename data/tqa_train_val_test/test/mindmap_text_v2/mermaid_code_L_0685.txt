@@ -1,0 +1,38 @@
+mindmap
+  Ecological Succession
+    Climax Communities
+      Definition
+      Relation to Biomes
+      Characteristics
+      Stability
+      Examples
+        Tropical Rainforest
+        Coniferous Forest
+    Types of Succession
+      Primary Succession
+        Definition
+        Pioneer Species
+          Lichens
+        Soil Formation
+        Stages
+          Grasses
+          Shrubs
+          Trees
+      Secondary Succession
+        Definition
+        Causes
+          Natural Disasters
+          Abandonment
+        Stages
+          Grasses
+          Shrubs
+          Trees
+    Factors Affecting Succession
+      Abiotic Factors
+        Soil Quality
+        Water
+        Climate
+    Human Impact
+      Cattle Grazing
+      Fire Management
+        Role in Prairie Spread

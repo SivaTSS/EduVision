@@ -1,0 +1,24 @@
+mindmap
+  Organic Compounds
+    Macromolecules
+      Proteins
+        Monomers: Amino acids
+        Functions: Enzymes, antibodies, muscle fibers
+        Structure: Sequence and number of amino acids
+      Carbohydrates
+        Monomers: Monosaccharides
+        Functions: Energy storage
+        Types: Starch, glycogen, cellulose
+      Lipids
+        Types: Fats, oils, waxes, phospholipids
+        Functions: Long-term energy storage, cell membranes
+      Nucleic Acids
+        Types: DNA, RNA, ATP
+        Structure: Chains of nucleotides
+        Functions: Genetic information storage, protein synthesis
+    Importance of Carbon
+      Versatility: Forms stable bonds
+      Building blocks of life
+    Functional Groups
+      Role: Determine properties of organic compounds
+      Importance: Influence reactivity and solubility

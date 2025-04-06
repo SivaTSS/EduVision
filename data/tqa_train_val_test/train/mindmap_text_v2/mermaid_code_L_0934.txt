@@ -1,0 +1,29 @@
+mindmap
+  Kinetic Theory of Matter
+    Motion of Particles
+      Ice
+      Liquid Water
+      Water Vapor
+    Kinetic Theory Explanation
+      Constant Motion of Particles
+      Kinetic Energy Definition
+    Relationship Between Kinetic Energy and State of Matter
+      Solids
+        Least Kinetic Energy
+        Fixed Volume and Shape
+      Liquids
+        Moderate Kinetic Energy
+        Fixed Volume, Changing Shape
+      Gases
+        Most Kinetic Energy
+        No Fixed Volume or Shape
+    Energy and Matter
+      Energy as Ability to Cause Changes
+      Kinetic Energy in Moving Matter
+    Demonstration with Cola
+      Shaking Bottle
+      Opening Bottle
+      Pouring Cola
+    Visual Representation
+      Distance Between Particles
+      Kinetic Energy Relation

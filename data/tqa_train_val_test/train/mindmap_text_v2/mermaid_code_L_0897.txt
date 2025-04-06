@@ -1,0 +1,18 @@
+mindmap
+  Exothermic Reactions
+    What is an exothermic reaction
+      Definition: Chemical reaction releasing more energy than needed to break bonds
+      Energy release: Often in the form of heat
+    Why products are warmer
+      Energy released as heat causes temperature rise
+      Products are warmer than reactants
+    Example of an exothermic reaction
+      Combustion reactions
+        Definition: Substance burns with oxygen
+        Energy released: Heat and light
+        Example: Burning wood in a bonfire
+    Energy in chemical reactions
+      Energy used to break bonds in reactants
+      Energy released when new bonds form in products
+    General equation
+      Reactants → Products + Energy

@@ -1,0 +1,21 @@
+mindmap
+  Chemical Reaction Rate
+    Collision Theory
+      Definition
+      Relation to Reaction Rate
+    Reaction Rate
+      Definition
+      Influencing Factors
+        Temperature
+          Effect on Reaction Rate
+          Example: Food Spoilage
+        Concentration
+          Definition
+          Effect on Reaction Rate
+          Example: Oxygen and Combustion
+        Surface Area
+          Effect on Reaction Rate
+          Example: Rusting of Nails
+        Catalyst
+          Definition
+          Role in Reactions

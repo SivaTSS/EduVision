@@ -1,0 +1,36 @@
+mindmap
+  Human Genome Project
+    Definition
+      Genome
+        Genetic information of an individual
+        Unique unless identical twin
+    Human Genome Project Overview
+      International effort
+      Sequenced 3 billion DNA bases
+      Identified over 20,000 human genes
+      Completed in 2003
+      Ongoing data analysis
+    Benefits
+      Determining genetic basis for diseases
+      Tests for over 1,000 genetic disorders
+      Reduced cost of genome sequencing
+      Preventive lifestyle changes
+      Medical screenings
+    Personal Genome Project
+      Goal
+        Understanding personal genomes
+      Information sought
+        Beyond just the genome
+      Participation reasons
+    PCR Virtual Lab
+      DNA copies in hours
+      Starting DNA amount
+      Primer usage
+      PCR ingredients
+      Temperature effects
+        95 C process
+        72 C process
+    Applications
+      Karyotype representation
+      Video resources
+      Smithsonian exhibit

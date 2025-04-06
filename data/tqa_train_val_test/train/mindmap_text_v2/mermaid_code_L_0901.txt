@@ -1,0 +1,30 @@
+mindmap
+  Force
+    Definition
+      Push or pull acting on an object
+      Causes changes in speed or direction (acceleration)
+    Types of Forces
+      Gravity
+      Friction
+      Applied Force
+      Fundamental Forces
+        Electromagnetic Force
+        Weak Nuclear Force
+        Strong Nuclear Force
+    Motion
+      Forces control motion of everyday objects
+      Changes in motion due to applied forces
+      Example: Carson's scooter
+        Gravity pulls down
+        Friction slows down
+        Applied forces control speed and direction
+    SI Unit
+      Newton (N)
+        1 N = 1 kg m/s²
+        Named after Sir Isaac Newton
+    Representation
+      Force as a vector
+        Size and direction
+        Represented by arrows
+        Length indicates strength
+        Direction indicates movement

@@ -1,0 +1,41 @@
+mindmap
+  Taxonomy and Classification of Living Things
+    Taxonomy
+      Definition
+      Importance
+        Helps scientists
+    Historical Background
+      Aristotle
+        Classification system
+        Groups: mammals, insects, reptiles
+      Carolus Linnaeus
+        Modern classification system
+        Binomial nomenclature
+          Genus and species
+          Example: Canis latrans
+    Classification Categories
+      Domains
+        Bacteria
+        Archaea
+        Eukarya
+      Kingdoms
+        Bacteria
+        Archaea
+        Protista
+        Plantae
+        Fungi
+        Animalia
+      Hierarchy
+        Domain
+        Kingdom
+        Phylum
+        Class
+        Order
+        Family
+        Genus
+        Species
+    Species Definition
+      Characteristics
+        Similar individuals
+        Interbreeding
+        Fertile offspring

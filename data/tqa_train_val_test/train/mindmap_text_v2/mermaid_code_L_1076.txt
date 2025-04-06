@@ -1,0 +1,14 @@
+mindmap
+  Work in Physics
+    Definition
+      Use of force to move an object
+      Direction of force and movement must align
+    Equation
+      Work = Force * Distance
+    Comparison of Work
+      Heavy book scenario
+        Man holding box does no work
+        More work done when lifting box
+      Weight lifters
+        Same weight, different distance
+        Same distance, different weight

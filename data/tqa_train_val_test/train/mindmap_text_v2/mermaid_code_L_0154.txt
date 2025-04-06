@@ -1,0 +1,39 @@
+mindmap
+  electromagnetic energy in the atmosphere
+    electromagnetic spectrum
+      definition
+      visible spectrum
+        importance
+        wavelengths
+          red
+          violet
+      unique patterns
+        hydrogen
+        star emissions
+    albedo
+      definition
+      expression
+      snow albedo
+      Earth's albedo
+      MODIS function
+      average temperature
+      effects of deforestation
+      snow melting effects
+    energy properties
+      electromagnetic radiation
+      wave travel
+        through space
+        through materials
+      radiation
+      conservation of energy
+        definition
+        examples
+          photosynthesis
+          heat transfer
+    light sources
+      Sun
+      Moon
+      planets
+    reflection
+      definition
+      high vs low albedo

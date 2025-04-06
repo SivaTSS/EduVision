@@ -1,0 +1,19 @@
+mindmap
+  Protein Classification
+    What are proteins?
+      Biochemical compounds
+      Contain carbon, hydrogen, oxygen, nitrogen, sulfur
+      Made of amino acids
+    Building blocks of proteins
+      Amino acids
+        20 different types
+        Linked by covalent bonds
+    Protein shape
+      Determined by amino acid sequence
+      Weaker bonds hold chains together
+    Protein function
+      Tissue components (muscle)
+      Enzymes (speed up reactions)
+      Hormones (regulate processes)
+      Antibodies (defend against infections)
+      Transport proteins (e.g., hemoglobin)

@@ -1,0 +1,23 @@
+mindmap
+  Archimedes Law
+    Definition
+      Buoyant force
+      Weight of displaced fluid
+    Key Concepts
+      Displacement
+        Volume of fluid displaced
+        Volume of submerged object
+      Shape of object
+        Affects buoyancy
+        Example: aluminum foil shapes
+    Historical Context
+      Archimedes
+        Greek mathematician
+        Observations in a bathtub
+    Practical Applications
+      Floating objects
+        Ships
+        Comparison with steel ball
+      Body displacement
+        Swimming pool example
+        Effect of body position

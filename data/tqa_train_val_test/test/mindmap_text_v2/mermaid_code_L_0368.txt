@@ -1,0 +1,53 @@
+mindmap
+  Animals Evolution
+    Major Events
+      Earliest Fossils
+        630 million years ago
+        Aquatic invertebrates
+      First Vertebrates
+        550 million years ago
+      Modern Phyla
+        500 million years ago
+      Terrestrial Animals
+        450 million years ago
+        Invertebrates
+        365 million years ago
+        Vertebrates
+    Key Traits
+      Multicellularity
+        Evolution from protists
+        Modern example: Sponges
+      Tissues
+        Two embryonic layers
+        Modern example: Jellyfish
+      Symmetry
+        Radial
+          Example: Coral
+        Bilateral
+          Example: Beetle
+      Mesoderm
+        Third embryonic layer
+        Modern example: Flatworms
+      Digestive System
+        Incomplete system
+          Example: Jellyfish
+        Complete system
+          Example: Roundworms
+      Body Cavity
+        Pseudocoelom
+          Example: Roundworms
+        True Coelom
+          Examples: Mollusks, Annelids
+      Segmentation
+        Increased flexibility
+        Examples: Earthworm, Ant
+      Notochord
+        Support and shape
+        Modern example: Tunicates
+    Adaptations for Land
+      Invertebrates
+        Exoskeleton
+      Vertebrates
+        True lungs and limbs
+        Amniotes
+          Waterproof eggs

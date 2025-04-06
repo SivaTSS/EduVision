@@ -1,0 +1,25 @@
+mindmap
+  Convection
+    What is convection
+    How convection occurs
+      Thermal energy transfer
+      Formation of convection currents
+    Convection currents
+      Examples
+        Molten rock
+        Water in oceans
+        Air in atmosphere
+      Role in weather
+        Creation of winds
+    Thermal energy movement
+      Daytime transfer
+        From land to water
+      Nighttime transfer
+        From water to land
+    Visual representations
+      Figure 1.1
+        Hot water in a pot
+        Process of heating and cooling
+      Figure 1.2
+        Cool air over water
+        Warm air over land

@@ -1,0 +1,44 @@
+mindmap
+  simple machines
+    definition
+      machine
+        makes work easier
+        changes a force
+    ways machines change force
+      increase strength
+      increase distance
+      change direction
+    input and output forces
+      input force
+      output force
+      input distance
+      output distance
+    work equation
+      Work = Force x Distance
+    misconceptions
+      machines do not increase work
+      machines change how work is done
+    examples of machines
+      increase force
+        steering wheel
+        pliers
+      increase distance
+        leaf rake
+        hammer
+      change direction
+        claw end of hammer
+        flagpole pulley
+    types of simple machines
+      inclined plane
+      lever
+      wedge
+      screw
+      pulley
+      wheel and axle
+    compound machines
+      definition
+        combination of simple machines
+      examples
+        wheelbarrow
+        washing machines
+        cars

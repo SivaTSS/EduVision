@@ -1,0 +1,31 @@
+mindmap
+  digestive_system_organs
+    mouth
+      function: starts digestion
+      saliva: releases enzymes
+      mechanical_digestion: chewing
+    esophagus
+      function: carries food to stomach
+      peristalsis: muscle contractions
+    stomach
+      function: mixes food, digests proteins
+      absorbs: water, salt, simple sugars
+      stores: food until small intestine is ready
+    small_intestine
+      function: chemical digestion, nutrient absorption
+      length: about 23 feet
+      villi: increase surface area for absorption
+    large_intestine
+      function: absorbs excess water, forms feces
+      length: about 5 feet
+      bowel_movement: releasing stool
+    liver
+      function: secretes chemicals for digestion
+    gallbladder
+      function: stores bile for digestion
+      works_with: liver
+    pancreas
+      function: secretes enzymes for digestion
+    peristalsis
+      definition: involuntary muscle contractions
+      importance: moves food through digestive system

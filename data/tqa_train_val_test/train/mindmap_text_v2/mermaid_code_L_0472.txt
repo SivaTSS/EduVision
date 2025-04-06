@@ -1,0 +1,27 @@
+mindmap
+  cardiovascular system
+    components
+      heart
+      blood vessels
+      blood
+    functions
+      deliver oxygen
+      move nutrients
+      remove wastes
+      maintain body temperature
+      transport hormones
+    blood flow
+      enters heart
+        right side
+        left side
+      exits heart
+    importance of valves
+      one-way valves
+      effects of leaky valves
+    coronary arteries
+      function
+      involvement in heart disease
+    cellular respiration
+      oxygen necessity
+      ATP production
+      lactic acid fermentation

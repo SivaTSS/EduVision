@@ -1,0 +1,16 @@
+mindmap
+  Earth as a Magnet
+    How Earth Acts as a Bar Magnet
+      Giant magnet with magnetic poles
+      Magnetic field exerts force
+      North and south magnetic poles
+      Magnetic poles differ from geographic poles
+    Compass Functionality
+      Compass points north
+      Does not point to geographic north pole
+      North end points to north magnetic pole
+      Naming convention of magnetic poles
+    Magnetosphere
+      Earth's magnetic field
+      Extends outward in all directions
+      Strongest force at the poles

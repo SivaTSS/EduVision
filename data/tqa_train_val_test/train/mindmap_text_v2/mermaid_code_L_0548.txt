@@ -1,0 +1,41 @@
+mindmap
+  Human Digestive System
+    Digestion Process
+      Definition
+        Breaking down food into nutrients
+      Absorption
+        Nutrients taken up by blood
+        Mostly occurs in small intestine
+      Elimination
+        Solid waste removal
+    Digestive System Functions
+      Breaks down food
+      Absorbs nutrients
+      Gets rid of solid waste
+    Digestive System Structure
+      Gastrointestinal Tract
+        Mouth
+        Esophagus
+        Stomach
+        Small Intestine
+          Segments
+            Duodenum
+            Jejunum
+            Ileum
+        Large Intestine
+        Anus
+      Accessory Organs
+        Liver
+        Pancreas
+        Gallbladder
+    Types of Digestion
+      Mechanical Digestion
+        Physical breakdown of food
+        Begins in mouth
+        Continues in stomach
+      Chemical Digestion
+        Breakdown of food molecules
+        Begins in mouth with saliva
+        Continues in stomach with enzymes
+    Nutrient Transport
+      Bloodstream delivery to cells

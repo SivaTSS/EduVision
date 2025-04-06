@@ -1,0 +1,24 @@
+mindmap
+  Mendel's Discoveries
+    Gregor Mendel
+      Austrian monk
+      Studied heredity in pea plants
+      Traits passed from parents to offspring
+    Pea Plants
+      Easy to grow
+      Quick growth
+      Observable traits
+        Flower color
+        Stem length
+    Mendel's Experiments
+      One trait at a time
+        Law of Segregation
+          Factors separate into gametes
+          Dominant and recessive traits
+      Two traits at a time
+        Law of Independent Assortment
+          Factors for different traits assort independently
+    Scientific Legacy
+      Father of Genetics
+      Work ignored until 1900
+      Basis of modern genetics

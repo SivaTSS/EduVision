@@ -1,0 +1,35 @@
+mindmap
+  Collecting Weather Data
+    Contemporary Weather Forecasting
+      Based on Atmospheric Conditions
+      Use of Various Instruments
+    Instruments
+      Thermometers
+        Measure Air Temperature
+        Types
+          Mercury Thermometers
+          Modern Thermometers
+      Barometers
+        Measure Air Pressure
+        Indicate Weather Changes
+      Weather Stations
+        Contain Thermometers and Barometers
+        Measure Wind Speed, Direction, Humidity, Precipitation
+    Data Collection Methods
+      Satellites
+        Monitor Large-Scale Systems
+        Record Long-Term Changes
+        Types of Data
+          Visible Light Images
+          Infrared Images
+      Radar
+        Monitor Precipitation
+        Characteristics Detected
+          Location, Motion, Intensity
+      Radiosondes
+        Measure Atmospheric Characteristics
+        Track Wind Speed and Direction
+        Launched Globally
+    Importance of Weather Data
+      Improved Weather Prediction
+      Understanding Climate Changes

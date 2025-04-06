@@ -1,0 +1,29 @@
+mindmap
+  Seasonal Changes in Plants
+    Leaf Color Change
+      Origin of Leaf Color
+      Mechanism of Color Change
+      Weather Influence
+      Temperature Effects
+      Leaf Drop
+    Seasonal Detection
+      Mechanism of Detection
+      Signals for Leaf Drop
+    Photoperiodism
+      Definition
+      Long-Day Plants
+        Examples
+          Carnations
+          Clover
+          Lettuce
+          Wheat
+          Turnips
+      Short-Day Plants
+        Examples
+          Cotton
+          Rice
+          Sugar Cane
+    Plant Responses
+      Leaf Loss
+      Flowering
+      Breaking Dormancy

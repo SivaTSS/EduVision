@@ -1,0 +1,40 @@
+mindmap
+  Plant Hormones
+    Hormones that Stimulate Growth
+      Gibberellins
+      Auxins
+      Cytokinins
+    Hormones that Inhibit Growth
+      Abscisic Acid
+    Importance of Hormones
+      Balance between stimulation and inhibition
+      Adaptation to environmental changes
+    Plant Responses to Stimuli
+      Gravity
+      Light
+      Touch
+      Seasonal Changes
+    Types of Plant Hormones
+      Ethylene
+        Functions
+          Fruit ripening
+          Abscission
+      Gibberellins
+        Functions
+          Promote growth
+          Break dormancy
+      Cytokinins
+        Functions
+          Promote cell division
+          Prevent senescence
+      Abscisic Acid
+        Functions
+          Close stomata
+          Maintain dormancy
+      Auxins
+        Functions
+          Apical dominance
+          Involved in tropisms
+    Interaction with Environment
+      Hormones as chemical messengers
+      Response to stimuli

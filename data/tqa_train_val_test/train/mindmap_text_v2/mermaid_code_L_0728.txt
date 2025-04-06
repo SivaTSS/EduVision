@@ -1,0 +1,32 @@
+mindmap
+  Newtons Second Law of Motion
+    Definition
+      Acceleration equals net force divided by mass
+    Key Concepts
+      Acceleration
+        Change in velocity
+        Caused by unbalanced force
+      Weight
+        Force of gravity on mass
+        Weight = mass * acceleration due to gravity
+    Examples
+      Tori's Bookcase
+        Force = 20 N
+        Mass = 40 kg
+        Calculate acceleration
+      Ollie's Weight
+        Mass = 45 kg
+        Calculate weight in newtons
+    Relationships
+      Force and Acceleration
+        Direct relationship
+        Doubling force doubles acceleration
+      Mass and Acceleration
+        Inverse relationship
+        Doubling mass halves acceleration
+    Problem Solving
+      Calculate weight from mass
+        F = m * 9.8 m/s2
+      Example: Daisy's Weight
+        Mass = 35 kg
+        Weight = 343 N

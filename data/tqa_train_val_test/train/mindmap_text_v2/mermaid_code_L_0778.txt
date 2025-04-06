@@ -1,0 +1,34 @@
+mindmap
+  Introduction to Chemical Bonds
+    Chemical Bond
+      Definition
+      Force of attraction between atoms
+      Involves sharing or transferring electrons
+    Chemical Compound
+      Definition
+      Formed by atoms of different elements
+      Fixed ratio of elements
+    Properties of Compounds
+      General properties
+      Relation of element ratio to properties
+    Water Molecule
+      Composition
+        2 Hydrogen atoms
+        1 Oxygen atom
+      Type of bond
+        Covalent bond
+      Stability
+        More stable arrangement of electrons
+    Chemical Formulas
+      Representation of compounds
+      Example: Water (H2O)
+      Subscripts indicate number of atoms
+    Types of Compounds
+      Ionic bonds
+      Covalent bonds
+      Metallic bonds
+    Examples of Compounds
+      Water (H2O)
+      Hydrogen Peroxide (H2O2)
+      Carbon Dioxide (CO2)
+      Carbon Monoxide (CO)

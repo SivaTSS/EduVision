@@ -1,0 +1,25 @@
+mindmap
+  Seasons
+    Earth's Axis
+      Tilt: 23.5 degrees
+      Points toward Polaris
+    Earth's Orbit
+      Completes once a year
+      Spins on axis once a day
+    Solar Radiation
+      Most at Equator
+      Variability in different locations
+    Seasons
+      Northern Hemisphere
+        Summer Solstice: June 21 or 22
+        Winter Solstice: December 21 or 22
+        Autumnal Equinox: September 22 or 23
+        Vernal Equinox: March 21 or 22
+      Southern Hemisphere
+        Opposite seasons to Northern Hemisphere
+    Effects of Axial Tilt
+      Longer days in summer
+      Shorter days in winter
+      Equal daylight at equinoxes
+    Misconceptions
+      Sun's distance does not cause seasons

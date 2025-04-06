@@ -1,0 +1,26 @@
+mindmap
+  Availability of Natural Resources
+    E-Waste
+      Definition
+      Reasons for Melting Circuit Boards
+      Metals Extracted
+      Risks to Workers
+    CRTs and Batteries
+      Contents of CRTs
+      Contents of Computer Batteries
+      Chemical Hazards
+    Political Factors
+      Resource Availability
+      Impact of Politics on Resources
+      Economic and Political Tensions
+    Resource Consumption
+      Developed vs Developing Nations
+      Overconsumption in Developed Countries
+      Waste Generation
+    Non-Renewable Resources
+      Abundance vs Rarity
+      Extraction Challenges
+      Examples of Valuable Resources
+    Environmental Impact
+      Pollution from Waste
+      Degradation of Land, Air, and Water

@@ -1,0 +1,35 @@
+mindmap
+  Potential Energy
+    Definition
+      Stored energy in a person or object
+    Types
+      Gravitational Potential Energy
+        Depends on weight and height
+        Example: Diver on diving board
+        Calculation: GPE = weight x height
+      Elastic Potential Energy
+        Due to shape of an object
+        Results from stretching or compressing
+        Example: Pogo stick and slingshot
+    Examples
+      Diver's Gravitational Potential Energy
+        Weight: 500 N
+        Height: 5 m
+        GPE = 500 N x 5 m
+      Girl on Sled
+        Weight: 140 N
+        Height: 4 m
+        GPE = 140 N x 4 m = 560 N m
+      Gymnast on Balance Beam
+        Weight: 360 N
+        Height: 1.2 m
+        GPE = 360 N x 1.2 m = 432 N m
+    Other Forms
+      Chemical Energy
+        Stored in bonds of compounds
+        Example: Food and batteries
+      Nuclear Energy
+        Stored in atomic nuclei
+        Example: Uranium
+    Mechanical Energy
+      Involves movement or potential to move

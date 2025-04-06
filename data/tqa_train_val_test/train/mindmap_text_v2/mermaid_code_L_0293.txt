@@ -1,0 +1,37 @@
+mindmap
+  Satellites Shuttles and Space Stations
+    Satellites
+      Uses
+        Imaging
+        Communications
+        Navigation
+        Human habitation
+      Types
+        Geostationary
+          Characteristics
+          Orbit height
+        Polar
+          Characteristics
+    Rockets
+      Function
+        Propulsion
+        Thrust
+      Importance
+        Launching satellites
+    International Space Station
+      Purpose
+        Scientific research
+      Construction
+        Modular system
+      Human presence
+    Space Shuttles
+      Design
+        Reusable
+        Cargo capacity
+      Components
+        Orbiter
+        Fuel tank
+        Booster rockets
+      Missions
+        Number of missions
+        Service to ISS

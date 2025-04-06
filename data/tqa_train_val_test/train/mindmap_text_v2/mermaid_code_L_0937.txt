@@ -1,0 +1,23 @@
+mindmap
+  Lens
+    Definition
+      Transparent object
+      Curved surfaces
+      Refracts light
+      Forms images
+    Types
+      Concave lens
+        Thicker at edges
+        Diverges light
+        Forms virtual image
+          Right-side up
+          Smaller than object
+      Convex lens
+        Thicker in middle
+        Converges light
+        Forms real or virtual image
+          Depends on object distance
+    Hand lens
+      Example of convex lens
+      Enlarged image
+        Right-side up

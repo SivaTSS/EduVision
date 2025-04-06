@@ -1,0 +1,37 @@
+mindmap
+  Groundwater
+    Definition
+      Groundwater is freshwater below Earth's surface
+    Aquifer
+      Definition
+        Underground layer of rock saturated with groundwater
+      Example
+        Ogallala aquifer in the American Midwest
+      Recharge
+        Water infiltrates from the surface
+      Water Table
+        Top of the saturated rock layer
+        Rises and falls based on rainfall
+    Springs
+      Definition
+        Water flows out where aquifer meets surface
+      Characteristics
+        May contain dissolved minerals
+        Can be heated by magma
+    Geysers
+      Definition
+        Heated groundwater erupts under pressure
+      Example
+        Old Faithful geyser
+    Wells
+      Purpose
+        To access groundwater from aquifers
+      Function
+        Hole dug or drilled to reach aquifer
+    Water Usage
+      Importance of freshwater
+      Need for wise water use
+      Consequences of over-extraction
+        Lowering water table
+        Potential aquifer depletion
+        Ground subsidence

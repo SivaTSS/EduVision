@@ -1,0 +1,30 @@
+mindmap
+  Planet Orbits in the Solar System
+    Planets
+      Eight Planets
+      Elliptical Orbits
+      Distance from Sun
+    Kepler's Discoveries
+      Orbital Period
+      Determining Distance
+    Age on Different Planets
+      Age Comparison
+      Days Until Birthday
+    Celestial Bodies
+      Inner Solar System
+        Mercury
+        Venus
+        Earth
+        Mars
+      Outer Solar System
+        Jupiter
+        Saturn
+        Uranus
+        Neptune
+      Kuiper Belt
+      Oort Cloud
+    Diagrams
+      Relative Sizes of Orbits
+      Inner Solar System Diagram
+      Outer Solar System Diagram
+      Kuiper Belt and Oort Cloud Diagrams

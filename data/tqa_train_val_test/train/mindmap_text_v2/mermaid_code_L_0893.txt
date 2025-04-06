@@ -1,0 +1,29 @@
+mindmap
+  Energy Levels
+    Definition
+      Fixed distances from nucleus
+      Electrons found in these levels
+    Energy and Electrons
+      Higher levels = more energy
+      Electrons added to lowest levels first
+    Maximum Electrons
+      Depends on orbitals
+      Energy Level I: 2 electrons
+      Energy Level II: 8 electrons
+      Energy Level III: 18 electrons
+      Energy Level IV: 32 electrons
+    Orbitals
+      Volume of space for electrons
+      Types: S orbitals (spherical), P orbitals (dumbbell)
+      Maximum of 2 electrons per orbital
+    Valence Electrons
+      Outermost energy level
+      Determine reactivity and properties
+      Stability with full outer level
+    Electron Transitions
+      Absorb energy to jump levels
+      Release energy as light when falling back
+    Examples
+      Sodium atom with 11 electrons
+      Fluorine and lithium reactivity
+      Neon atom stability

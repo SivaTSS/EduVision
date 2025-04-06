@@ -1,0 +1,32 @@
+mindmap
+  Insect Reproduction and Life Cycle
+    Growing Up Butterfly
+      Female monarch butterfly lays eggs
+      Caterpillar weight increase after two weeks
+      Changes from caterpillar to butterfly
+    Insect Reproductive Systems
+      Male insects' mating strategies
+      Internal vs external fertilization
+      Accessory glands functions
+    Insect Reproduction
+      Rapid reproduction
+      Sexual reproduction
+        Female produces eggs
+        Male fertilizes eggs
+      Asexual reproduction
+        Offspring from a single parent
+        Examples: aphids, scale insects
+    Metamorphosis
+      Definition of metamorphosis
+      Types of metamorphosis
+        Complete metamorphosis
+          Four stages: egg, larva, pupa, adult
+          Differences between immature and adult forms
+          Examples: butterflies, moths, flies, ants, bees, beetles
+        Incomplete metamorphosis
+          Three stages: egg, nymph, adult
+          Nymphs similar to adults
+          Growth during nymph stage
+          Examples: dragonflies, grasshoppers, mantids, cockroaches, termites
+        No true metamorphosis
+          Examples: silverfish, firebrats, springtails

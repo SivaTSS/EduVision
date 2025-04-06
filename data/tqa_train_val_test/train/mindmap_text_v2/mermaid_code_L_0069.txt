@@ -1,0 +1,42 @@
+mindmap
+  Igneous Rocks
+    Formation
+      Cooling Processes
+        Slow Cooling
+        Rapid Cooling
+    Types
+      Intrusive
+        Characteristics
+          Large Crystals
+          Common Examples
+            Granite
+            Diorite
+            Gabbro
+            Peridotite
+      Extrusive
+        Characteristics
+          Small Crystals
+          Common Examples
+            Basalt
+            Rhyolite
+            Pumice
+            Obsidian
+    Classification
+      Based on Crystal Size
+      Based on Mineral Composition
+        Light Colored
+        Dark Colored
+        Combination
+    Uses
+      Construction
+        Countertops
+        Buildings
+        Monuments
+      Art
+        Statues
+        Decorative Items
+    Questions
+      Difference between Intrusive and Extrusive
+      Common Uses
+      Crystal Formation
+      Ocean Floor Composition

@@ -1,0 +1,30 @@
+mindmap
+  Beta Decay
+    Types of Beta Decay
+      Beta-minus Decay
+        Neutron to Proton Conversion
+        Electron Emission
+        Increases Proton Count
+      Beta-plus Decay
+        Proton to Neutron Conversion
+        Positron Emission
+        Decreases Proton Count
+    Nuclear Equations
+      Balancing Equations
+        Example: 14 C ? ?7 N + 01 e + energy
+        Example: 234 Th 90 0 234 91 Pa + 1 e + energy
+      Nuclear Symbols
+        Beta-minus Particle: 01 e
+        Thorium-234: 234 90 Th
+    Radioactive Decay
+      Types of Decay
+        Alpha Decay
+        Beta Decay
+        Gamma Decay
+      Emission of Energy and Particles
+    Effects of Beta Radiation
+      Harmful to Living Things
+      Penetration Ability
+        Travels 1 Meter in Air
+        Passes through Paper and Cloth
+        Stopped by Aluminum and Wood

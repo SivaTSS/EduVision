@@ -1,0 +1,24 @@
+mindmap
+  Inertia
+    What is inertia
+      Definition: Tendency to resist change in motion
+      Newton's first law: Object at rest stays at rest, object in motion stays in motion
+    How inertia affects motion
+      Resting objects remain at rest
+      Moving objects keep moving unless acted on by unbalanced force
+      Example: Body moves forward in a car when it stops
+    Relationship between inertia and mass
+      Greater mass = greater inertia
+      Example: Easier to push one cousin on skateboard than two
+    Real-life example: Skateboarding
+      Josh at Newton's Skate Park
+      Gravity's downward force
+      Why skateboard doesn't tip over
+      Image description: Young man balancing on skateboard
+    Overcoming inertia
+      Unbalanced force needed to change motion
+      Example: Lauren pushes skateboard to start motion
+      Inertia keeps object moving once in motion
+      Friction eventually stops motion
+      Example: Skateboard rolling on smooth surface
+      Gravity's effect when skateboard is in the air

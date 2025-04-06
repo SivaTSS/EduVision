@@ -1,0 +1,23 @@
+mindmap
+  Producers
+    Function without sunlight
+      Yes: Some can use other energy sources
+      No: Most depend on sunlight
+    Examples of producers
+      Plants
+      Algae
+      Diatoms
+    Autotrophs
+      Definition: Organisms that make their own food
+    Photosynthesis
+      Process: Converts sunlight, CO2, and H2O into glucose
+      Ingredients: Sunlight, carbon dioxide, water
+      Energy produced: Glucose and oxygen
+    Importance to ecosystem
+      Food source for consumers
+      Energy flow: From producers to consumers
+      Essential for ecosystem survival
+    Chemosynthesis
+      Definition: Process used by some bacteria to produce food
+      Energy source: Non-sunlight sources
+      Ecosystems: Common in dark environments

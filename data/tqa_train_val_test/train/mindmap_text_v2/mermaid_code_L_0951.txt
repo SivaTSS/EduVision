@@ -1,0 +1,29 @@
+mindmap
+  Metalloids
+    Definition
+      Smallest class of elements
+      Fall between metals and nonmetals
+    Elements
+      Boron
+      Silicon
+      Germanium
+      Arsenic
+      Antimony
+      Tellurium
+    Physical Properties
+      Shiny like metals
+      Brittle like nonmetals
+      Conduct heat and electricity
+      Exist as solids at room temperature
+    Chemical Behavior
+      Depends on outer electrons
+      Three to six electrons in outer level
+      Boron acts like metals
+      Arsenic, Antimony, Tellurium act like nonmetals
+      Silicon and Germanium can act as either
+    Semiconductors
+      Conduct electricity at higher temperatures
+      Used in computer chips
+      Example: Silicon
+    Variability
+      Boiling and melting points vary

@@ -1,0 +1,26 @@
+mindmap
+  Urinary System
+    Components
+      Kidneys
+      Ureters
+      Bladder
+      Urethra
+    Functions
+      Filters blood
+      Forms urine
+      Stores urine
+    Main Organ
+      Kidneys
+    Difference
+      Urinary System vs Excretory System
+    Urine
+      Composition
+        Water
+        Salts
+        Nitrogen-containing molecules
+      Color
+        Colorless to dark yellow
+        Pale yellow is typical
+    Urinary Bladder
+      Purpose
+        Collects urine

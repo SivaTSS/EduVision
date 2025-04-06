@@ -1,0 +1,23 @@
+mindmap
+  Thermal Energy
+    Comparison
+      Thermal Energy vs Temperature
+      Higher Temperature vs Lower Thermal Energy
+    Definition
+      Total Kinetic Energy
+      Dependence on Particle Motion
+      Dependence on Mass
+    Examples
+      Death Valley
+        Rapid Particle Movement
+        Kinetic Energy
+      Pot of Soup vs Tub of Water
+        Soup Temperature
+        Water Temperature
+        Mass Comparison
+        Total Kinetic Energy
+    Conceptual Understanding
+      Relationship between Thermal Energy and Temperature
+      Role of Mass in Thermal Energy
+      Ice vs Boiling Water
+        Mass Consideration

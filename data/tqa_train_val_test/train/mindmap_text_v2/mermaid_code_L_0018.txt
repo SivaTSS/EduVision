@@ -1,0 +1,40 @@
+mindmap
+  Ocean Movements
+    Waves
+      Causes
+        Winds
+        Earthquakes
+      Characteristics
+        Crest
+        Trough
+        Amplitude
+        Wavelength
+      Behavior
+        Energy Transfer
+        Breaking Waves
+    Tides
+      Causes
+        Moon's Gravity
+        Sun's Gravity
+      Types
+        Spring Tides
+        Neap Tides
+      Cycle
+        High Tides
+        Low Tides
+    Surface Currents
+      Causes
+        Winds
+        Coriolis Effect
+      Impact
+        Climate Influence
+    Deep Currents
+      Causes
+        Density Differences
+      Characteristics
+        Downwelling
+    Upwelling
+      Process
+        Nutrient Transport
+      Importance
+        Supports Marine Life

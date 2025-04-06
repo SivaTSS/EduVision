@@ -1,0 +1,30 @@
+mindmap
+  Behavior of Gases
+    Properties of Gases
+      Pressure
+        Definition
+        Causes of Pressure
+      Gas Laws
+        Boyle's Law
+          Constant Temperature
+          Inverse Relationship
+        Charles's Law
+          Constant Pressure
+          Direct Relationship
+        Amontons's Law
+          Constant Volume
+          Direct Relationship
+    Effects of Temperature
+      Heating a Gas
+        Increases Kinetic Energy
+        Increases Volume or Pressure
+      Cooling a Gas
+        Decreases Kinetic Energy
+        Potential State Change
+    Real-World Applications
+      Weather Balloon
+        Expansion and Bursting
+      Scuba Diver
+        Air Bubbles and Pressure Change
+      Tire Pressure
+        Effect of Temperature on Pressure

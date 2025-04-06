@@ -1,0 +1,37 @@
+mindmap
+  Plant-like Protists
+    Similarities to Plants
+      Autotrophs
+      Photosynthesis
+    Differences from Plants
+      Lack of true stems, roots, leaves
+    Examples
+      Unicellular
+        Chlamydomonas
+        Volvox
+      Multicellular
+        Seaweed
+        Kelp
+          Macrocystis pyrifera
+    Ecosystem Importance
+      Base of marine food chain
+      Oxygen production
+    Classification
+      Chlorophyta
+        Green algae
+        Approx. 7,500 species
+      Rhodophyta
+        Red algae
+        Approx. 5,000 species
+      Phaeophyta
+        Brown algae
+        Approx. 1,500 species
+      Chrysophyta
+        Diatoms, golden-brown algae
+        Approx. 12,000 species
+      Pyrrophyta
+        Dinoflagellates
+        Approx. 4,000 species
+      Euglenophyta
+        Euglenoids
+        Approx. 1,000 species

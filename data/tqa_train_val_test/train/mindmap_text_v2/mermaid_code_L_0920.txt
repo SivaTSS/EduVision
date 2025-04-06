@@ -1,0 +1,40 @@
+mindmap
+  Hydrogen and Alkali Metals
+    Alkali Metals
+      Definition
+      Properties
+        Solids at room temperature
+        Low density
+        Softness
+      Reactivity
+        Very reactive
+        Increases down the group
+        Combines with group 17 elements
+    Hydrogen
+      Properties
+        Nonmetal
+        Diatomic molecules (H2)
+        Colorless, odorless, tasteless gas
+        Highly flammable
+      Comparison with Alkali Metals
+        Reactive gas
+        Similar group placement
+    Group 1 Elements
+      Valence Electrons
+        One valence electron
+        Eager to lose electron
+      Similar Properties
+        High reactivity
+        Chemical behavior
+    Comparison of Specific Elements
+      Sodium (Na)
+        Soft, silvery metal
+        Forms K+ ions
+        Important for living cells
+      Potassium (K)
+        Explosive in water
+        Found in fertilizers
+      Francium (Fr)
+        Radioactive
+        Rare in nature
+        Large, heavy atom

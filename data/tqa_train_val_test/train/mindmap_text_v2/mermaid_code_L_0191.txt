@@ -1,0 +1,22 @@
+mindmap
+  Heat Transfer in the Atmosphere
+    What Powers Our Weather
+      Solar Radiation
+        Equator receives most
+        Poles receive less
+    Heat Transfer Mechanisms
+      Conduction
+        Direct contact
+        Heat moves from hot to cold
+        More effective at lower altitudes
+      Convection
+        Movement of heated materials
+        Initiates convection cells
+    Effects of Heat
+      Causes wind
+      Affects weather patterns
+    Earth's Tilt
+      Influences heating distribution
+      Affects solar radiation received
+    Atmospheric Circulation
+      Driven by solar energy differences

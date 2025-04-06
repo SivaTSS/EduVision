@@ -1,0 +1,34 @@
+mindmap
+  Glaciers
+    Locations
+      Yosemite National Park
+      Glacier National Park
+    Types
+      Continental Glaciers
+        Large ice sheets
+        Flow outward
+      Alpine Glaciers
+        Form in high mountains
+        Travel through valleys
+      Ice Caps
+        Cover larger areas
+        Feed into valleys
+    Characteristics
+      Movement
+        Plastic flow
+        Sliding on lubricated base
+      Features
+        Crevasses
+        Bergshrund
+    Zones
+      Zone of Accumulation
+        More snow falls
+      Zone of Ablation
+        More melting occurs
+      Equilibrium Line
+    Environmental Impact
+      Water resource in summer
+      Challenges in protection
+    Melting Trends
+      Shrinking glaciers
+      Impact of rising temperatures

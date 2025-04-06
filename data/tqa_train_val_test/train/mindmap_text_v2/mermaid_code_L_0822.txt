@@ -1,0 +1,34 @@
+mindmap
+  Carbon Monomers and Polymers
+    Polymer Definition
+      Parts of the word
+        Mono means one
+        Poly means many
+      Literal definition
+        Large molecule of repeating monomers
+    Monomer Definition
+      Smaller, repeating molecules
+    Properties of Polymers
+      Long-chain structure
+        Flexibility
+        Strength
+    Natural Polymers
+      Examples
+        Rubber
+          Monomer: Isoprene
+          Source: Rubber trees
+        Cellulose
+          Monomer: Glucose
+          Function: Cell walls of plants
+          Arrangement: Alternating glucose molecules
+    Synthetic Polymers
+      Production
+        Labs or factories
+      Examples
+        Plastics
+          Polyethylene
+            Monomer: Ethylene
+            Uses: Packaging, disposable items
+          Polypropylene
+            Monomer: Propylene
+            Uses: Textiles, automotive parts

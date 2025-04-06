@@ -1,0 +1,36 @@
+mindmap
+  Temperature and Heat
+    Temperature
+      Definition
+        Average kinetic energy of particles
+      Measurement
+        Thermometer
+          Celsius scale
+          Freezing and boiling points
+    Thermal Energy
+      Definition
+        Kinetic energy of moving particles
+      Relationship with Temperature
+        Cold objects can have more thermal energy
+    Heat
+      Definition
+        Transfer of thermal energy
+      Transfer Methods
+        Conduction
+        Convection
+        Radiation
+      Relationship with Temperature
+        Moves from hot to cold
+    Specific Heat
+      Definition
+        Energy needed to raise temperature of 1 gram by 1C
+      Examples
+        Glass: 0.84 J/gC
+        Copper: 0.39 J/kgC
+        Water: 4.18 J/gC
+        Sand: 0.67 J/gC
+    Real-World Examples
+      Beach
+        Sand vs. Water temperature
+      Golden Gate Bridge
+        Expansion and contraction due to temperature changes

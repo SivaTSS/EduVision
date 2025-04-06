@@ -1,0 +1,34 @@
+mindmap
+  Fungi and Their Human Uses
+    Penicillin
+      Discovery
+        Alexander Fleming's Observation
+      Function
+        Kills Bacteria
+      Source
+        Isolated from Penicillium notatum
+      Cultivation
+        Deep fermentation vats
+    Decomposition
+      Process
+        Not all fungi handle decomposition
+      Resource Seeking
+        Different species seek different resources
+      Importance of Biodiversity
+    Human Uses
+      Food and Beverages
+        Yeast in fermentation
+          Beer
+          Wine
+          Bread
+        Edible Mushrooms
+          Agaricus bisporus
+      Safety Concerns
+        Wild Mushrooms
+          Potentially poisonous
+          Cooking effects
+    Other Uses
+      Antibiotics
+        First identified cure
+      Cheese Production
+        Fungal spores in milk curds

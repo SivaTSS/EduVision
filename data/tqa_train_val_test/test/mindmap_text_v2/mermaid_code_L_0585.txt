@@ -1,0 +1,22 @@
+mindmap
+  Ecology Levels of Organization
+    Population
+      Definition: Group of organisms of the same species in an area
+      Characteristics: Interact with one another
+    Community
+      Definition: All populations of different species in an area
+      Characteristics: Composed of biotic factors
+    Ecosystem
+      Definition: Living organisms and non-living aspects in an area
+      Components: Biotic and abiotic factors
+    Biosphere
+      Definition: Part of the planet with living organisms
+      Includes: Most of Earth, oceans, atmosphere
+    Species
+      Definition: Group of genetically related individuals that can breed
+      Example: Homo sapiens (sapiens is the species name)
+    Ecological Questions
+      Individual Level: How do zebras keep water in their bodies?
+      Population Level: What causes the growth of a zebra population?
+      Community Level: How does a disturbance affect mammal species?
+      Ecosystem Level: How does fire affect food availability in ecosystems?

@@ -1,0 +1,37 @@
+mindmap
+  Origin of Species
+    Allopatric Speciation
+      Definition
+      Causes of Physical Separation
+        Mountain Range Emergence
+        Canyon Formation
+      Examples
+        Darwin's Finches
+        Grand Canyon Squirrels
+    Sympatric Speciation
+      Definition
+      Causes of Non-Physical Separation
+        Different Mating Seasons
+      Examples
+        Orcas
+        Galapagos Island Finches
+    Natural Selection
+      Definition
+      Process
+        Adaptation
+        Survival of the Fittest
+      Example
+        Giraffe Neck Length
+    Artificial Selection
+      Definition
+      Process
+        Selective Breeding
+      Examples
+        Cows for Milk Production
+        Dog Breeds
+    Reproductive Isolation
+      Definition
+      Importance in Speciation
+    Comparison of Speciation Types
+      Allopatric vs Sympatric
+      Natural vs Artificial Selection

@@ -1,0 +1,30 @@
+mindmap
+  Carbon Properties
+    Carbon Compounds
+      Carbon and Hydrogen
+      Hydrocarbons
+    Bonding
+      Covalent Bonds
+        Single Bonds
+        Double Bonds
+        Triple Bonds
+      Carbon's Valence Electrons
+    Polymers and Monomers
+      Definition of Polymers
+      Definition of Monomers
+      Examples of Polymers
+        Natural Polymers
+        Synthetic Polymers
+    Forms of Carbon
+      Diamond
+        Structure
+        Properties
+      Graphite
+        Structure
+        Properties
+      Fullerenes
+        Structure
+        Properties
+    Importance of Carbon
+      Versatility in Compounds
+      Role in Living Organisms

@@ -1,0 +1,39 @@
+mindmap
+  Classes of Elements
+    Metals
+      Properties
+        Good conductors of electricity
+        Shiny, ductile, malleable
+        High melting points
+        Solid at room temperature (except mercury)
+      Examples
+        Sodium (Na)
+        Silver (Ag)
+        Zinc (Zn)
+    Nonmetals
+      Properties
+        Poor conductors of electricity
+        Dull and brittle
+        Gases at room temperature (most)
+        Low boiling points
+      Examples
+        Helium (He)
+        Carbon (C)
+        Oxygen (O)
+    Metalloids
+      Properties
+        Properties of both metals and nonmetals
+        Can conduct electricity at certain temperatures
+        Shiny but brittle
+        Solid at room temperature
+      Examples
+        Boron (B)
+        Silicon (Si)
+        Germanium (Ge)
+    Valence Electrons
+      Definition
+        Electrons in the outer energy level
+      Relation to Reactivity
+        Metals: few valence electrons, very reactive
+        Metalloids: half-full outer level, less reactive
+        Nonmetals: nearly full outer level, very reactive

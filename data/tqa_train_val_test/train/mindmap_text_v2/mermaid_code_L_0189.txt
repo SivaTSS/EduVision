@@ -1,0 +1,38 @@
+mindmap
+  Hazardous Waste
+    Definition
+      Toxic
+      Chemically Active
+      Corrosive
+      Flammable
+    Sources
+      Industry
+        Automobile Chemicals
+          Gasoline
+          Used Motor Oil
+          Battery Acid
+          Brake Fluid
+        Medical Wastes
+          Dry Cleaning Chemicals
+          Surgical Gloves
+          Contaminated Wastes
+          X-ray Equipment
+        Household
+          Cleaning Chemicals
+          Gardening Chemicals
+      Agriculture
+        Pesticides
+        Herbicides
+        Fertilizers
+      Paints
+        Paint Thinners
+        Paint Strippers
+        Wood Stains
+    Risks
+      Human Health
+        Serious Harm
+        Poisonous
+        Cancer Risk
+      Environment
+        Pollution
+        Soil and Water Contamination

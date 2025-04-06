@@ -1,0 +1,26 @@
+mindmap
+  Vision
+    Structure and Function of the Eye
+      Cornea
+      Pupil
+      Iris
+      Lens
+      Retina
+      Optic Nerve
+    Eyes and Brain Collaboration
+      Image Processing
+      Right-side Up Interpretation
+    Common Vision Problems
+      Nearsightedness (Myopia)
+        Correction with Concave Lenses
+      Farsightedness (Hyperopia)
+        Correction with Convex Lenses
+    Rods and Cones
+      Rods
+        Sensing Dim Light
+      Cones
+        Sensing Colors
+        Types of Cones
+    Light and Energy
+      Visible Light
+      Electrical Energy

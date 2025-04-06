@@ -1,0 +1,36 @@
+mindmap
+  Cleaning Up Groundwater
+    Goal of Project 6
+    Oxidation
+      Definition
+      In Situ
+      In Situ Chemical Oxidation (ISCO)
+        How ISCO Works
+        Oxidant Used
+        Preparation of Chemical
+    Challenges
+      Difficulty of Cleaning
+      Cost and Time
+    Groundwater and Soil Relationship
+    Bioremediation
+      Mechanism
+      Advantages
+    Monitoring Contaminant Plume
+      Testing Wells
+      Modeling Techniques
+    Stages of Groundwater Cleaning
+      Remove Pollutant Source
+      Monitor Pollutant
+      Model Contaminant Plume
+      Perform Remediation
+    Prevention of Contamination
+      Importance
+      Cost-effectiveness
+    Remediation Techniques
+      Underground Barrier
+      In Situ Treatment
+        Bioremediation Process
+        Chemical Remediation
+      Reclamation
+        Pumping and Cleansing
+        Soil Processing

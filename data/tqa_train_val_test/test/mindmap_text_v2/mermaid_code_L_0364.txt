@@ -1,0 +1,46 @@
+mindmap
+  Plants
+    Description
+      Multicellular eukaryotes
+      Cell walls of cellulose
+      Chloroplasts for photosynthesis
+    Importance
+      Food source for organisms
+      Oxygen production
+      Carbon dioxide absorption
+      Recycling matter in ecosystems
+      Products for human use
+    Plant Tissues
+      Dermal Tissue
+        Covers outside of plant
+        Secretes cuticle
+      Ground Tissue
+        Makes up inside of plant
+        Stores food and water
+      Vascular Tissue
+        Transports fluids
+        Xylem and Phloem
+    Plant Organs
+      Roots
+        Absorb water and minerals
+        Anchor and support plant
+        Store food
+      Stems
+        Hold plants upright
+        Transport water and nutrients
+        Bear leaves and flowers
+      Leaves
+        Collect sunlight
+        Photosynthesis
+        Varied structure for environment
+    Growth
+      Cell growth and division
+      Meristem tissue
+        Primary growth
+        Secondary growth
+    Life Cycle
+      Alternation of generations
+        Haploid (gametophyte)
+        Diploid (sporophyte)
+      Dominant generation
+        Most modern plants are sporophytes

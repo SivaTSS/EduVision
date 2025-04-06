@@ -1,0 +1,28 @@
+mindmap
+  Introduction to Chemical Reactions
+    Chemical Change
+      Definition: Matter changes into a different substance
+      Evidence of Chemical Change
+        Change in color
+        Change in temperature
+        Production of gas
+        Formation of precipitate
+    Chemical Reaction
+      Definition: Process where substances change into different substances
+      Reactants and Products
+        Reactants: Substances that start a reaction
+        Products: Substances produced in a reaction
+      Bond Changes
+        Bonds break in reactants
+        New bonds form in products
+    Equilibrium
+      Definition: Balance between opposing changes
+      Indicators of Equilibrium
+        No overall change in reactants and products
+    Examples of Chemical Reactions
+      Vinegar and baking soda reaction
+      Hydrogen and oxygen forming water
+      Reverse reaction of water to hydrogen and oxygen
+    Non-Chemical Changes
+      Changes of state (e.g., freezing, evaporating)
+      No bonds broken, no new products formed

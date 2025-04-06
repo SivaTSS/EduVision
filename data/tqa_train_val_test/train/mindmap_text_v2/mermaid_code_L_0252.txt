@@ -1,0 +1,39 @@
+mindmap
+  Nonrenewable Energy Resources
+    Natural Resources
+      Definition
+      Importance of Energy Resources
+    Nonrenewable Resources
+      Definition
+      Types
+        Fossil Fuels
+          Oil
+          Natural Gas
+          Coal
+        Uranium
+    Fossil Fuels
+      Formation
+        Photosynthesis
+        Decomposition
+      Pollution
+        Thermal Energy
+        Carbon Dioxide
+        Other Pollutants
+          Sulfur Dioxide
+          Nitrogen Oxides
+          Particulates
+      Comparison of Fossil Fuels
+        Pollution Levels
+          Natural Gas
+          Petroleum
+          Coal
+    Nuclear Energy
+      Definition
+      Process
+        Nuclear Fission
+      Pros
+        No Air Pollution
+        No Carbon Dioxide
+      Cons
+        Radioactive Waste
+        Potential Accidents

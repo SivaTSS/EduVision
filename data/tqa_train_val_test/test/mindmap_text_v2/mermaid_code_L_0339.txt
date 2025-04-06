@@ -1,0 +1,74 @@
+mindmap
+  Marine Organisms
+    Kelp
+      Definition
+      Habitat
+      Ecosystem Importance
+      Adaptations
+        Wave Resistance
+        Photosynthesis Zone
+        Canopy Benefits
+    Plankton
+      Definition
+      Types
+        Phytoplankton
+          Photosynthesis
+          Oxygen Production
+          Diatoms
+        Zooplankton
+          Food Source
+          Life Stages
+    Marine Invertebrates
+      Examples
+        Sea Slugs
+        Sea Anemones
+        Starfish
+        Octopuses
+        Clams
+        Sponges
+        Sea Worms
+        Crabs
+        Lobsters
+        Jellies
+    Fish
+      Characteristics
+        Fins
+        Scales
+        Gills
+        Swim Bladder
+        Ectothermy
+        Bioluminescence
+      Examples
+        Sardines
+        Salmon
+        Eels
+        Sharks
+        Rays
+    Marine Reptiles
+      Types
+        Sea Turtles
+        Sea Snakes
+        Saltwater Crocodiles
+        Marine Iguanas
+      Reproduction
+    Marine Birds
+      Adaptations
+        Shorebirds
+        Seabirds
+        Albatross
+    Marine Mammals
+      Common Traits
+        Endothermic
+        Live Birth
+        Milk Feeding
+        Hair
+      Adaptations
+        Swimming
+        Warmth
+        Salinity
+      Types
+        Cetaceans
+        Sirenians
+        Mustelids
+        Pinnipeds
+        Polar Bears

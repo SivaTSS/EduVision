@@ -1,0 +1,36 @@
+mindmap
+  history_of_life_on_earth
+    Earth_formation
+      age: 4.6_billion_years
+      first_life: 4_billion_years
+      first_life_forms: microscopic_single-celled_organisms
+    geologic_time
+      geologic_time_scale
+      major_events
+    Precambrian
+      first_cells: single-celled_prokaryotes
+      mass_extinction: first_of_six
+      evolution
+        prokaryotes
+        eukaryotes
+        multicellular_organisms
+    Paleozoic_Era
+      time_frame: 544_to_245_million_years_ago
+      major_events
+        Cambrian_Period: explosion_of_life
+        Ordovician_Period: first_fish_and_land_plants
+        Silurian_Period: corals_and_vascular_plants
+        Devonian_Period: first_seed_plants
+        Carboniferous_Period: first_amphibians_and_reptiles
+        Permian_Period: supercontinent_Pangaea_and_mass_extinction
+    Mesozoic_Era
+      time_frame: 245_to_65_million_years_ago
+      major_events
+        Triassic_Period: first_dinosaurs
+        Jurassic_Period: golden_age_of_dinosaurs
+        Cretaceous_Period: maximum_size_of_dinosaurs_and_mass_extinction
+    Cenozoic_Era
+      time_frame: 65_million_years_ago_to_present
+      major_events
+        Tertiary_Period: evolution_of_mammals_and_primates
+        Quaternary_Period: ice_ages_and_human_evolution

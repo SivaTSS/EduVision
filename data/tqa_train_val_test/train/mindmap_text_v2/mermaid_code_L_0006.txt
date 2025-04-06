@@ -1,0 +1,47 @@
+mindmap
+  Glaciers and Their Impact
+    Glaciers
+      Definition
+        Masses of flowing ice
+        Cover 10% of Earth's surface
+      Types
+        Continental Glaciers
+          Huge, cover large areas
+          Examples: Greenland, Antarctica
+        Valley Glaciers
+          Long and narrow, form in mountains
+    Formation
+      Snow accumulation
+      Compaction into ice
+    Erosion
+      Methods
+        Plucking
+          Rocks picked up and carried
+        Abrasion
+          Scraping of underlying rock
+      Unique Features
+        Cirques
+          Rounded hollows on mountains
+        Arêtes
+          Jagged ridges between cirques
+        Horns
+          Sharp peaks formed by multiple cirques
+    Deposition
+      Glacial Till
+        Mixture of particles and rocks
+      Landforms
+        Moraines
+          Ground moraine and end moraine
+        Drumlins
+          Long, low hills in groups
+        Eskers
+          Winding ridges from meltwater streams
+        Kettle Lakes
+          Formed from melting ice chunks
+    Historical Context
+      Past glacier coverage
+        Extent 12,000 years ago
+        Areas like Chicago and New York
+    Local Clues
+      Identifying glacial landforms
+      Understanding local geography

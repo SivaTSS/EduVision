@@ -1,0 +1,38 @@
+mindmap
+  Plant Responses and Special Adaptations
+    Modern Medicines
+      Disease-fighting Compounds
+    Plant Responses
+      Growth Changes
+        Roots toward Gravity
+        Stems and Leaves toward Sunlight
+      Daily and Seasonal Changes
+        Dormancy
+        Leaf Behavior
+      Disease Response
+        Cell Death
+        Hormones and Toxins
+        Chemical Warnings
+    Special Adaptations
+      Aquatic Plants
+        Advantages
+          Abundant Water
+          Less Need for Roots
+        Challenges
+          Pollination Issues
+          Sunlight Penetration
+        Examples
+          Water Lily
+          Cattails
+      Xerophytes
+        Water Intake
+        Water Loss Reduction
+        Water Storage
+        Example: Saguaro Cactus
+      Epiphytes
+        Growth on Other Plants
+        Moisture from Air
+        Examples: Ferns, Orchids
+      Carnivorous Plants
+        Nutrient Acquisition
+        Examples: Venus Flytrap

@@ -1,0 +1,34 @@
+mindmap
+  fossils
+    definition
+      preserved remains or traces of organisms
+    formation
+      sedimentary rock
+      fossilization process
+        burial in sediment
+        layers build up
+        remains replaced by minerals
+      other preservation methods
+        complete preservation
+        molds and casts
+        compression
+    significance
+      evidence of history of life
+      clues about geological events
+      clues about past climates
+    types of fossils
+      preserved remains
+        teeth
+        bones
+        shells
+      trace fossils
+        footprints
+        burrows
+        wastes
+    index fossils
+      characteristics
+        lived over wide area
+        short time period
+      examples
+        trilobites
+        age determination

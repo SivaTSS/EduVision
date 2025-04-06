@@ -1,0 +1,33 @@
+mindmap
+  Climate and its Causes
+    Definition
+      Average weather over many years
+      Includes temperature and precipitation
+    Latitude
+      Distance from equator
+      Temperature changes with latitude
+        Highest at equator
+        Lowest at poles
+    Oceans
+      Influence on coastal climate
+        Mild temperatures
+        High precipitation
+      Ocean currents
+        Warm and cold water effects
+        Impact on atmosphere and climate
+    Mountains
+      Effect on temperature
+        Cooler at higher altitudes
+      Influence on precipitation
+        Rain shadow effect
+    Global Air Currents
+      Affect precipitation
+      Create global winds
+        Prevailing winds impact climate
+    Coastal vs Inland Climates
+      Coastal
+        Mild temperatures
+        High precipitation
+      Inland
+        Greater temperature extremes
+        Lower precipitation

@@ -1,0 +1,40 @@
+mindmap
+  Direction
+    Short Route
+      Description
+        Directions
+        Distances
+    Vector
+      Definition
+      Representation
+        Arrow
+        Size and Direction
+    Cardinal Directions
+      Relative Terms
+        Up
+        Down
+        In
+        Out
+        Left
+        Right
+        Forward
+        Backward
+        Sideways
+      Compass Rose
+        Usage
+        Example
+          Jordan's Route
+            East to West
+            South to North
+    Distance and Direction
+      Importance
+      Example
+        Jordan's Directions
+          West for 2 km
+          North for 1 km
+    Motion Representation
+      Vectors
+        Measurement
+        Arrow Representation
+          Length for Distance
+          Direction for Motion

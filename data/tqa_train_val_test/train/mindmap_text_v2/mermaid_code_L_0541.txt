@@ -1,0 +1,36 @@
+mindmap
+  Hearing and Balance
+    Semicircular Canals
+      Function
+        Sense body position
+        Maintain balance
+      Structure
+        Liquid movement
+        Tiny hair cells
+        Nerve impulses to cerebellum
+    Hearing Process
+      Sound Waves
+        Travel through air
+        Enter ear canal
+      Eardrum
+        Vibrates from sound waves
+      Tiny Bones
+        Malleus
+        Incus
+        Stapes
+      Cochlea
+        Liquid movement
+        Hair cells release neurotransmitters
+        Nerve impulses to brain
+    Balance
+      Kinocilium
+        Role in balance
+      Importance of ears
+        More than sound detection
+        Affects body position
+    Hearing Loss
+      Causes
+        Loud sounds damage hair cells
+      Prevention
+        Avoid loud sounds
+        Use ear protection

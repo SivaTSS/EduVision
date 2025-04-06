@@ -1,0 +1,22 @@
+mindmap
+  Bacteria Nutrition
+    Nutritional Types
+      Heterotrophs
+      Autotrophs
+      Chemotrophs
+    Energy Sources
+      Photosynthesis
+      Decomposition
+      Chemical Compounds
+    Photosynthetic Bacteria
+      Example: Cyanobacteria
+    Decomposers
+      Role in Ecosystem
+    Chemosynthetic Bacteria
+      Importance in Nitrogen Cycle
+    Relationships
+      Mutualism
+        Example: Legume Roots
+        Example: Gut Microbes
+      Parasitism
+        Harmful Effects

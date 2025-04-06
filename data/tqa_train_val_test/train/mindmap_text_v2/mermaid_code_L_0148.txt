@@ -1,0 +1,32 @@
+mindmap
+  Eclipses
+    Lunar Eclipse
+      Occurrence
+        Full Moon moves through Earth's shadow
+        Requires Earth between Moon and Sun
+        Not every month due to 5-degree inclination
+      Parts of Earth's Shadow
+        Umbra
+          Complete light blockage
+          Total lunar eclipse occurs here
+        Penumbra
+          Partial light blockage
+          Light is dimmed
+      Duration
+        Lasts for hours
+        Visible from any part of Earth with Moon view
+    Solar Eclipse
+      Occurrence
+        New Moon passes between Earth and Sun
+        Blocks Earth's view of the Sun
+      Types
+        Total Solar Eclipse
+          Moon's shadow completely blocks Sun
+        Partial Solar Eclipse
+          Only a portion of the Sun is obscured
+      Effects
+        Temperature drop
+        Birds may sing
+        Stars become visible
+      Duration
+        Rare and lasts a few minutes

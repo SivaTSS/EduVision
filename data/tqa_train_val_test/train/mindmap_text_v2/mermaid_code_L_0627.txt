@@ -1,0 +1,26 @@
+mindmap
+  Whirling Disorder and Pedigree Analysis
+    Whirling Disorder
+      Definition
+      Inheritance
+        Dominant
+        Recessive
+      Gene Identification
+        Puzzle Piece
+        Inheritance Source
+    Pedigree
+      Definition
+      Purpose
+        Inheritance Patterns
+        Predicting Genetic Disorders
+      Analysis
+        Sex-linked vs Autosomal
+        Dominant vs Recessive
+        Heterozygous vs Homozygous
+      Visual Representation
+        Symbols
+          Squares for Males
+          Circles for Females
+        Relationships
+          Horizontal Lines for Couples
+          Vertical Lines for Offspring

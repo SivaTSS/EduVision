@@ -1,0 +1,49 @@
+mindmap
+  Local Winds
+    Monsoon Winds
+      Cause
+        Differential heating of land and sea
+        Seasonal shifts
+      Effects
+        Thunderstorms
+        Importance for agriculture
+    Sea and Land Breezes
+      Cause
+        High specific heat of water
+        Temperature differences
+      Effects
+        Moderate coastal climates
+        Seasonal patterns
+    Santa Ana Winds
+      Formation
+        High pressure from Great Basin
+        Downhill winds
+      Effects
+        Drying landscape
+        Wildfire risks
+    Mountain and Valley Breezes
+      Daytime
+        Warm air rises from slopes
+        Valley breeze formation
+      Nighttime
+        Cool air sinks from mountains
+        Mountain breeze formation
+    Katabatic Winds
+      Formation
+        Cold air sinks from high plateaus
+      Characteristics
+        Stronger than mountain and valley breezes
+        Occurrence in polar regions
+    Chinook Winds
+      Formation
+        Air forced over mountains
+      Effects
+        Rapid temperature increase
+        Rainshadow effect
+    Desert Winds
+      Characteristics
+        High winds during summer
+        Dust pickup due to low vegetation
+      Types
+        Haboobs
+        Dust devils

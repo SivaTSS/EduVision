@@ -1,0 +1,40 @@
+mindmap
+  Infectious Diseases
+    Definition
+      Infectious disease caused by pathogens
+      Pathogens commonly called germs
+    Types of Pathogens
+      Bacteria
+        Example: Strep throat
+      Viruses
+        Example: Influenza
+      Fungi
+        Example: Athlete's foot
+      Protozoa
+        Example: Giardiasis
+    Spread of Pathogens
+      Contaminated food or water
+      Sexual contact
+      Airborne droplets
+      Contaminated objects or surfaces
+      Vectors
+        Definition: Organisms that carry pathogens
+        Examples: Ticks, mosquitoes
+    Prevention
+      Healthy habits
+        Eat well
+        Get plenty of sleep
+      Vaccinations
+        Recommended for infants and children
+      Hygiene practices
+        Frequent hand washing
+        Avoid touching face
+        Cover coughs and sneezes
+        Disinfect surfaces
+        Stay home when sick
+      Avoiding vectors
+        Wear long sleeves and pants
+        Use insect repellent
+    Noninfectious Diseases
+      Not caused by pathogens
+      Examples and causes

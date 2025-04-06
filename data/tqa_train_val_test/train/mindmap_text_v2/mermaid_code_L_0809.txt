@@ -1,0 +1,32 @@
+mindmap
+  Biochemical Compound Classification
+    What is a biochemical compound?
+      Definition: Carbon-based compounds in living things
+      Importance: Evidence for evolution from common ancestors
+    General description of a biochemical molecule
+      Composition: Contains carbon, hydrogen, oxygen, nitrogen, phosphorus, sulfur
+      Structure: Mostly polymers and macromolecules
+    Four classes of biochemical compounds
+      Carbohydrates
+        Elements: Carbon, hydrogen, oxygen
+        Examples: Sugars, starches, cellulose
+        Functions: Provide energy to cells, store energy in plants
+      Proteins
+        Elements: Carbon, hydrogen, oxygen, nitrogen, sulfur
+        Examples: Enzymes, hormones
+        Functions: Speed up biochemical reactions, regulate life processes
+      Lipids
+        Elements: Carbon, hydrogen, oxygen
+        Functions: Store energy in animals and plants, make up cell walls
+      Nucleic acids
+        Elements: Carbon, hydrogen, oxygen, nitrogen, phosphorus
+        Examples: DNA, RNA
+        Functions: Store genetic information, help cells make proteins
+    Energy storage in living things
+      Carbohydrates: Store energy in plants
+      Lipids: Store energy in animals
+    Classes containing oxygen
+      Carbohydrates: Contains oxygen
+      Proteins: Contains oxygen
+      Lipids: Contains oxygen
+      Nucleic acids: Contains oxygen

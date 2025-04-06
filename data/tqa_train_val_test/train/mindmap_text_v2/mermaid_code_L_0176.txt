@@ -1,0 +1,48 @@
+mindmap
+  Galaxies
+    Definition
+      Composed of millions to billions of stars
+      Types
+        Spiral
+        Elliptical
+        Irregular
+    Characteristics
+      Size range from millions to billions of stars
+      Locations of star formation
+    Spiral Galaxies
+      Appearance
+        Rotating disk of stars and dust
+        Bulge in the middle
+        Spiral arms
+      Examples
+        Andromeda Galaxy
+        Sombrero Galaxy
+        Pinwheel Galaxy
+    Elliptical Galaxies
+      Appearance
+        Egg-shaped
+        Color ranges from reddish to yellowish
+      Size
+        Smallest as small as globular clusters
+        Giants can contain over a trillion stars
+      Gas and Dust
+        Contains very little gas and dust
+        Some may contain dust due to galaxy collisions
+    Irregular Galaxies
+      Definition
+        Not clearly spiral or elliptical
+      Formation
+        Deformed by gravitational attraction or collisions
+      Example
+        NGC 1427A
+    Dwarf Galaxies
+      Definition
+        Small galaxies with a few million to a few billion stars
+      Commonality
+        Most common type in the universe
+      Shapes
+        Mostly irregular
+        Also dwarf elliptical and dwarf spiral galaxies
+      Interaction
+        Often found near larger galaxies
+        Can collide and merge with larger neighbors

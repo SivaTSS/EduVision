@@ -1,0 +1,19 @@
+mindmap
+  Nervous System
+    Major Organs
+      Brain
+      Spinal Cord
+    Functions
+      Control Body Systems
+      Sense Surroundings
+      Maintain Balance
+    Types of Signals
+      Electrical Messages
+      Carried by Nerves
+    Nervous System Divisions
+      Somatic Nervous System
+        Controls Muscles
+        Useful for Movement
+      Autonomic Nervous System
+        Regulates Internal Functions
+        Involuntary Actions

@@ -1,0 +1,30 @@
+mindmap
+  Global Wind Belts
+    Atmospheric Circulation Cells
+      Hadley Cell
+        Trade Winds
+      Ferrel Cell
+        Westerlies
+      Polar Cell
+        Polar Easterlies
+    Wind Behavior
+      High to Low Pressure
+      Coriolis Effect
+        Northern Hemisphere
+          Northeast to Southwest
+        Southern Hemisphere
+          Southeast to Northwest
+    Pressure Zones
+      Low Pressure
+        High Precipitation
+      High Pressure
+        Low Precipitation
+    Polar Front
+      Junction of Ferrel and Polar Cells
+      Variable Weather
+    Jet Streams
+      Definition
+        Fast-flowing Air
+      Polar Jet Stream
+        Location
+        Seasonal Movement

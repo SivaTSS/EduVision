@@ -1,0 +1,26 @@
+mindmap
+  Velocity
+    Definition
+      Measure of speed and direction
+      Vector quantity
+    Difference from Speed
+      Speed only measures how fast
+      Velocity includes direction
+    Representation
+      Arrows represent velocity
+        Length indicates speed
+        Direction indicates motion
+    Examples
+      Car traveling north at 50 mi/h
+      Car traveling east at 25 mi/h
+      Average velocity of a car traveling northwest for 90 miles in 2 hours
+    Calculation
+      Average velocity formula
+        velocity = distance time
+      SI unit for velocity
+        m/s plus direction
+    Case Study
+      Jerod's bike ride
+        Constant speed but changing direction
+      Dog racing example
+        Velocity calculation with direction

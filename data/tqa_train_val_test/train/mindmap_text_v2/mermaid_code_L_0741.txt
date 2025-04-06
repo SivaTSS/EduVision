@@ -1,0 +1,30 @@
+mindmap
+  Using Thermal Energy
+    Home Heating Systems
+      Hot-Water Heating System
+        Heats water
+        Pumps hot water through pipes
+        Uses radiators to transfer thermal energy
+        Cycle of heating and cooling
+      Warm-Air Heating System
+        Heats air
+        Forces warm air through ducts
+        Uses fans for circulation
+    Cooling Systems
+      Refrigerators
+        Transfers thermal energy from cool air to warm air
+        Uses refrigerant to absorb and release thermal energy
+      Air Conditioners
+        Reverses normal heat flow
+        Maintains cool temperatures
+    Combustion Engines
+      External Combustion Engine
+        Burns fuel outside the engine
+        Uses steam pressure to move pistons
+      Internal Combustion Engine
+        Burns fuel inside the engine
+        Series of steps involving fuel-air mixture and piston movement
+    Thermal Energy Transfer
+      Conduction
+      Convection
+      Radiation

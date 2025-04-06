@@ -1,0 +1,29 @@
+mindmap
+  Skeletal System Joints
+    Joints Definition
+      Point where two or more bones meet
+      Types of joints
+        Fixed Joints
+          No movement
+          Example: Skull
+        Partly Movable Joints
+          Limited movement
+          Example: Backbone
+        Movable Joints
+          Most common type
+          Examples: Fingers, Toes, Hips, Elbows, Knees
+    Types of Movable Joints
+      Ball-and-Socket Joint
+        Example: Hip, Shoulder
+      Hinge Joint
+        Example: Knee, Elbow
+      Pivot Joint
+        Example: Radius and Ulna
+      Gliding Joint
+        Example: Wrist, Ankles
+    Synovial Fluid
+      Function: Reduces friction
+      Location: Covers surfaces of movable joints
+    Knee Cap Function
+      Protects knee joint
+      Provides stability

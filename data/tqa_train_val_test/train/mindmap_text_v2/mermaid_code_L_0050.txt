@@ -1,0 +1,28 @@
+mindmap
+  Telescopes
+    Light and the Universe
+      Speed of Light
+      Light-Year Definition
+      Light as Energy
+      Electromagnetic Spectrum
+        Visible Light
+        Ultraviolet Wavelengths
+        Infrared Wavelengths
+    Types of Telescopes
+      Optical Telescopes
+        Reflecting Telescopes
+        Refracting Telescopes
+      Radio Telescopes
+      Space Telescopes
+        Hubble Space Telescope
+        James Webb Space Telescope
+    Astronomical Observations
+      Studying Starlight
+      Spectrometers
+      Historical Discoveries
+        Galileo's Observations
+        Importance of Constellations
+    Challenges in Astronomy
+      Distance and Time
+      Atmospheric Interference
+      Communication with Spacecraft

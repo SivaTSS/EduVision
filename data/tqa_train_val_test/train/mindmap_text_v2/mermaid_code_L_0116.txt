@@ -1,0 +1,36 @@
+mindmap
+  Comets
+    Comet Tails
+      Formation
+        Ice vaporizes
+        Glows in sunlight
+      Direction
+        Points away from the Sun
+    Orbits
+      Elliptical paths
+      Short-period comets
+        Origin
+          Kuiper belt
+      Long-period comets
+        Origin
+          Oort cloud
+    Kuiper Belt
+      Location
+        Beyond Neptune
+      Contents
+        Comets
+        Asteroids
+        Dwarf planets
+    Halley's Comet
+      Period
+        75 years
+      Next appearance
+        2061
+      Historical significance
+        Mentioned for two millennia
+    Comet Hale-Bopp
+      Appearance
+        Bright for several months in 1997
+      Tails
+        Dust tail
+        Ion tail

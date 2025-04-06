@@ -1,0 +1,20 @@
+mindmap
+  Evolution Acts on the Phenotype
+    Harmful Genes
+      Dominant Harmful Gene
+        Consequences of Dominance
+      Recessive Harmful Gene
+        Example of Advantageous Carrier
+      Gene Hiding Mechanism
+    Phenotype vs Genotype
+      Definition of Phenotype
+      Definition of Genotype
+      Natural Selection Focus
+        Acts on Phenotype
+        Does Not Act on Genotype
+    Lethal Recessive Genes
+      Persistence in Gene Pool
+        Heterozygous Carriers
+        Example: Tay-Sachs Disease
+          Inheritance Pattern
+          Carrier Parents

@@ -1,0 +1,18 @@
+mindmap
+  Light
+    Electromagnetic Spectrum
+      Definition: Complete range of wavelengths of electromagnetic waves
+      Components: Infrared light, Visible light, Ultraviolet light
+    Infrared Light
+      Definition: Longest wavelengths, lowest frequencies
+      Detection: Felt as heat, detected by infrared cameras and night vision goggles
+      Sources: Sun, flames, living things
+    Visible Light
+      Definition: Narrow range of wavelengths visible to humans
+      Color Determination: Different wavelengths appear as different colors
+      Composition: Combination of all wavelengths appears white
+    Ultraviolet Light
+      Definition: Shorter wavelengths, higher frequencies than visible light
+      Uses: Kills bacteria, sterilizes instruments, helps produce vitamin D
+      Protection: Wear clothing, apply sunscreen, wear hats
+      Risks: Can cause sunburn and skin cancer

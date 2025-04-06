@@ -1,0 +1,31 @@
+mindmap
+  Oceans
+    Formation
+      Early Earth
+      Cooling Process
+      Water Vapor Sources
+    Influence on Earth
+      Atmosphere
+      Climate
+      Living Organisms
+    Ocean Water Composition
+      Salinity
+      Mineral Content
+      Nutrient Variation
+    Ocean Zones
+      Based on Distance
+        Intertidal Zone
+        Neritic Zone
+        Oceanic Zone
+      Based on Depth
+        Photic Zone
+        Aphotic Zone
+      Benthic Zone
+    Ocean Currents
+      Definition
+      Causes
+      Major Currents
+    Temperature Regulation
+      Coastal vs Inland
+      Water Properties
+      Mixing of Waters

@@ -1,0 +1,23 @@
+mindmap
+  Life Sciences
+    Biology
+      Cell Biology
+      Genetics
+      Molecular Biology
+    Organism Studies
+      Botany
+      Zoology
+      Microbiology
+        Bacteriology
+        Virology
+      Entomology
+    Ecology
+      Ecosystems
+      Biogeography
+      Population Biology
+    Anatomy
+    Morphology
+    Physiology
+    Immunology
+    Neuroscience
+    Developmental Biology

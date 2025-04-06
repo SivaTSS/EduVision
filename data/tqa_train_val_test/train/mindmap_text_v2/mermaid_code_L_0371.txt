@@ -1,0 +1,59 @@
+mindmap
+  Mollusks and Annelids
+    Mollusks
+      Traits
+        Invertebrates
+        Coelom
+        Organ systems
+        Shell
+        Head
+        Foot
+        Radula
+      Reproduction
+        Sexual
+        Male and female sexes
+        Internal or external fertilization
+        Larval stages
+      Ecology
+        Aquatic habitats
+        Free-living heterotrophs
+        Parasites
+        Predators
+        Eaten by other organisms
+      Examples
+        Snails
+        Squids
+        Clams
+        Slugs
+    Annelids
+      Traits
+        Segmented bodies
+        Coelom
+        Organ systems
+        Specialized segments
+      Reproduction
+        Asexual
+        Sexual
+        Larval stages
+      Feeding Strategies
+        Predators
+        Parasites
+        Filter feeders
+        Decomposers
+      Examples
+        Earthworms
+        Polychaete worms
+        Leeches
+    Comparison
+      Similarities
+        Invertebrates
+        Coelom
+        Organ systems
+      Differences
+        Body structure
+        Feeding strategies
+        Reproductive methods
+    Adaptations
+      Annelid segmentation
+        Efficient movement
+        Specialized functions

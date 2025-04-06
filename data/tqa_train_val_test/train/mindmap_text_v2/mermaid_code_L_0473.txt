@@ -1,0 +1,33 @@
+mindmap
+  Cardiovascular System Health
+    Healthy Heart
+      Daily Fruits and Vegetables
+      Daily Physical Activity
+      Daily Sleep
+      Preventable Heart Disease
+    Risk Factors
+      Definition
+      Uncontrollable Factors
+        Age
+        Gender
+        Genetics
+      Controllable Factors
+        Tobacco Smoking
+        Diabetes
+        High Cholesterol
+        Obesity
+        High Blood Pressure
+        Lack of Physical Activity
+        Poor Eating Habits
+    Cholesterol
+      Definition
+      Types
+        LDL - Bad Cholesterol
+        HDL - Good Cholesterol
+      Effects of High LDL
+        Plaque Formation
+        Atherosclerosis
+        Heart Attack or Stroke
+      Management
+        Diet Low in Saturated Fat
+        Regular Aerobic Exercise

@@ -1,0 +1,26 @@
+mindmap
+  Modern Atomic Theory
+    Energy Levels
+      Definition
+      Fixed Distances from Nucleus
+      Smallest Energy Level
+      Electron Jumping
+    Electron Cloud
+      Definition
+      Orbitals
+        Maximum Electrons per Orbital
+        Relationship to Energy Levels
+    Bohr's Model
+      Fixed Orbits
+      Importance in Atomic Theory
+      Energy Absorption and Emission
+    Electron Behavior
+      Wave-Particle Duality
+      Probability Distribution
+      Stability of Electrons
+    Historical Context
+      Rutherford's Model
+      Advances in Atomic Theory
+    Applications
+      Chemical Reactions
+      Fireworks and Light Emission

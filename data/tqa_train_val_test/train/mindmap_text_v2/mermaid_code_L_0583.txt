@@ -1,0 +1,36 @@
+mindmap
+  kidneys
+    pituitary gland
+      location: below brain
+      function: releases hormones
+      controls urine production
+    nephron
+      definition: tiny tube-shaped structures
+      function: filtering waste from blood
+      components
+        coiled tubules
+        cortex
+        medulla
+    kidney functions
+      maintain homeostasis
+      regulate body fluid volume
+      balance salt ions
+      excrete nitrogen-containing wastes
+    urine formation process
+      blood flow: renal artery to capillaries
+      filtration: water, salts, sugars, urea
+      urine collection: ureters to bladder
+    antidiuretic hormone (ADH)
+      source: pituitary gland
+      function: controls water reabsorption
+      effect of hydration levels
+        low hydration: more ADH, darker urine
+        high hydration: less ADH, lighter urine
+    urinary system
+      components
+        ureters
+        bladder
+        urethra
+      urination process
+        nerve signals from bladder
+        release of urine

@@ -1,0 +1,32 @@
+mindmap
+  Law of Reflection
+    What is an image
+    Object and Image
+      Figure 1.4
+      Type of Reflection
+        Regular Reflection
+        Diffuse Reflection
+    Law of Reflection
+      Definition
+      Angle of Incidence
+      Angle of Reflection
+      Normal Line
+    Reflection Types
+      Regular Reflection
+        Characteristics
+        Clear Image
+      Diffuse Reflection
+        Characteristics
+        Blurry Image
+    Diagrams
+      Figure 1.1
+        Boats Reflection
+          Regular Reflection Example
+          Diffuse Reflection Example
+      Figure 1.2
+        Reflected Rays
+        Incident Rays
+      Figure 1.3
+        Incident Ray
+        Reflected Ray
+        Angles Representation

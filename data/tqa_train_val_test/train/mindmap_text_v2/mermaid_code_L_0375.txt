@@ -1,0 +1,28 @@
+mindmap
+  Fish
+    Traits
+      Aquatic adaptations
+        Scales
+        Gills
+        Fins
+        Swim bladder
+      Ectothermic
+      Vertebrates
+    Reproduction
+      Sexual reproduction
+      Oviparous
+      Spawning
+      Larvae and metamorphosis
+    Classification
+      Classes
+        Hagfish
+        Lampreys
+        Cartilaginous fish
+        Ray-finned fish
+        Lobe-finned fish
+    Habitat and Diet
+      Saltwater
+      Freshwater
+      Predatory behavior
+        Feeding methods
+        Examples of prey

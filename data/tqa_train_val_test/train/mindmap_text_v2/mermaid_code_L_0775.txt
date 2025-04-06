@@ -1,0 +1,40 @@
+mindmap
+  Organizing Elements
+    History
+      1700s
+        Early attempts to organize elements
+      1860s
+        Dmitri Mendeleev
+          Developed first periodic table
+          Organized by atomic mass
+          Predicted unknown elements
+    Mendeleev's Periodic Table
+      Structure
+        Rows
+          Eight elements per row
+        Columns
+          Groups with similar properties
+      Characteristics
+        Periodic nature
+        Useful for predicting elements
+    Modern Periodic Table
+      Structure
+        Organized by atomic number
+        Rows called periods
+        Columns called groups
+      Features
+        Chemical symbols
+        Classes of elements
+          Metals
+          Metalloids
+          Nonmetals
+      Differences from Mendeleev's Table
+        Based on atomic number
+        More elements (over 110)
+    Classification of Elements
+      Types
+        Metals
+        Metalloids
+        Nonmetals
+      Properties
+        Similar properties within groups

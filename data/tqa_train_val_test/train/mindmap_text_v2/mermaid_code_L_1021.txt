@@ -1,0 +1,28 @@
+mindmap
+  Physics Scope
+    Definition
+      Study of energy
+      Study of matter
+      Interactions of energy and matter
+    Importance
+      Understanding the world
+      Fundamental particles to universe
+    Key Concepts
+      Motion
+      Forces
+        Magnetism
+        Gravity
+      Forms of energy
+        Light
+        Sound
+        Electrical energy
+    Examples of Interaction
+      Funhouse mirror
+        Curved surface
+        Distorted images
+      Vibrating strings
+        Waves of energy
+      Incandescent light bulb
+        Matter producing light energy
+      Moving objects
+        Energy in motion

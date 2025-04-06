@@ -1,0 +1,32 @@
+mindmap
+  Sound Waves
+    Definition of Sound
+      Scientific Definition
+        Transfer of energy from vibrating object
+        Waves travel through matter
+      Common Meaning
+        Sound as perceived by ears
+        Example: Tree falling in forest
+    Generation of Sound Waves
+      Hitting a Drum
+        Vibrating matter creates sound waves
+        Longitudinal waves travel in all directions
+      Guitar String
+        Plucking string causes vibrations
+        Air particles vibrate and spread sound
+    Sound Transmission
+      Through Different Mediums
+        Air
+        Liquids
+        Solids
+      Examples
+        Sounds underwater
+        Sounds through walls
+    Earplugs
+      Functionality
+        Block sound waves
+        Reduce sound energy reaching ears
+    Historical Experiment
+      Robert Boyle's Experiment
+        Ticking clock in sealed jar
+        Sound cannot travel without air

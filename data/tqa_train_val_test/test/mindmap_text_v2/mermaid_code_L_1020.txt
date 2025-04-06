@@ -1,0 +1,15 @@
+mindmap
+  Physical Science
+    Matter and Energy
+      Definition
+      Importance
+    Branches
+      Chemistry
+        Study of atoms and molecules
+        Applications
+      Physics
+        Study of matter and energy at all scales
+        Concepts: motion, forces
+    Influence on Life
+      Everyday applications
+      Modern technology

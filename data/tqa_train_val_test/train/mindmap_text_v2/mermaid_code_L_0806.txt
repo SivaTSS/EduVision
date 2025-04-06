@@ -1,0 +1,29 @@
+mindmap
+  Balancing Chemical Equations
+    Balanced Chemical Equations
+      Examples
+        Zn + HCl  ZnCl2 + H2
+        2 Zn + 2 HCl  ZnCl2 + H2
+        2 Zn + HCl  ZnCl2 + H2
+        Zn + 2 HCl  ZnCl2 + H2
+    Importance of Balancing
+      Conservation of Mass
+      Same Number of Atoms
+    Coefficients
+      Definition
+        Number in front of chemical symbol
+        Indicates number of atoms/molecules
+      Examples
+        2 H2
+        2 H2 O
+    Steps to Balance
+      Count Atoms
+        Reactants vs Products
+      Place Coefficients
+        Use smallest coefficients
+        Never change subscripts
+      Repeat Until Balanced
+    Common Mistakes
+      Incorrect Balancing
+        Example: H2 O  H2 + O2
+        Correct: 2 H2 O  H2 + O2

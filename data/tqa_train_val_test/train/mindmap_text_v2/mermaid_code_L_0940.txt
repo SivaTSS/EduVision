@@ -1,0 +1,28 @@
+mindmap
+  Lipid Classification
+    Lipids
+      Definition: Biochemical compounds for energy storage
+      Types
+        Fats
+          Characteristics: Solid, used by animals
+          Examples: Butter, fats in meats
+        Oils
+          Characteristics: Liquid, used by plants
+          Examples: Olive oil, vegetable oil
+    Fatty Acids
+      Types
+        Saturated
+          Structure: Only single bonds between carbon atoms
+          Characteristics: Saturated with hydrogen, found in fats
+          Example: 12 hydrogen atoms in saturated fatty acid
+        Unsaturated
+          Structure: At least one double bond between carbon atoms
+          Characteristics: Unsaturated with hydrogen, found in oils
+          Example: 10 hydrogen atoms in unsaturated fatty acid
+    Phospholipids
+      Definition: Lipids containing phosphorus
+      Structure
+        Hydrophilic end: Attracts water, polar
+        Hydrophobic end: Repels water, nonpolar
+      Function: Make up cell membranes
+        Arrangement: Hydrophilic ends outside, hydrophobic ends inside

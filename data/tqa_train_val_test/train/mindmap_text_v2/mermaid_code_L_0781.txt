@@ -1,0 +1,26 @@
+mindmap
+  Metallic Bonds
+    Definition
+      Metallic bond
+      Alloy
+    Formation
+      Attraction between metal ions and valence electrons
+      Lattice structure
+      Sea of electrons
+    Properties of Metals
+      Good conductors of electricity
+      Ductile
+      Malleable
+      Flexibility compared to ionic crystals
+    Alloys
+      Definition
+      Examples
+        Steel
+        Bronze
+        Brass
+      Uses
+        Bridges
+        Skyscrapers
+        Cargo ships
+        Cars
+        Trains

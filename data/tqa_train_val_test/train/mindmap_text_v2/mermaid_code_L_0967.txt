@@ -1,0 +1,23 @@
+mindmap
+  Newtons Third Law of Motion
+    Definition
+      Every action has an equal and opposite reaction
+      Forces act in pairs
+    Action and Reaction
+      Example: Jerod on skateboard
+        Action: Jerod pushes ground
+        Reaction: Jerod moves forward
+      Example: Astronauts in video
+        Action: Wearing battery pack affects motion
+    Forces Representation
+      Arrows indicate direction and strength
+      Action forces vs Reaction forces
+        Equal in strength
+        Opposite in direction
+    Balanced vs Unbalanced Forces
+      Action-reaction forces are not balanced
+      Balanced forces act on the same object
+      Action-reaction forces act on different objects
+    Real-life Examples
+      Leaning on a wall
+      Skateboarders pushing against each other

@@ -1,0 +1,23 @@
+mindmap
+  Wave Speed
+    Definition
+      Distance a wave travels in a given time
+      Measured in meters per second
+    Equation
+      Speed = Wavelength x Frequency
+      Can be rearranged to solve for wavelength or frequency
+    Wavelength
+      Distance between corresponding points on adjacent waves
+    Wave Frequency
+      Number of waves passing a fixed point in a given time
+      Measured in hertz (Hz)
+    Relationship
+      Increasing wavelength decreases frequency
+      Speed remains constant
+    Medium
+      Speed depends on the medium
+      Fastest in solids, slowest in gases
+    Examples
+      Ocean wave: Wavelength = 3m, Frequency = 1Hz, Speed = 3m/s
+      Spring wave: Wavelength = 0.1m, Frequency = 2Hz, Speed = 0.2m/s
+      Calculations for missing values

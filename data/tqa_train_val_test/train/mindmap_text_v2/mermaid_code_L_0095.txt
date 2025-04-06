@@ -1,0 +1,28 @@
+mindmap
+  Asteroids
+    Definition
+      Small rocky bodies
+      Orbit the Sun
+      Irregularly shaped
+    Location
+      Asteroid belt
+        Between Mars and Jupiter
+        Total mass is 4% of Earth's Moon
+      Near-Earth asteroids
+        Over 4,500 cross Earth's orbit
+        500 to 1,000 over 1 km in diameter
+    Importance
+      Potential impact on Earth
+      Linked to mass extinctions
+      Early solar system representatives
+    Scientific Exploration
+      Missions to asteroids
+        NASA's DAWN mission
+        NEAR Shoemaker probe
+      Goals of exploration
+        Learn about solar system formation
+        Potential mining for minerals
+    Risks
+      Asteroid impacts
+        Average of 5-10 m diameter rocks hit Earth yearly
+        Monitoring for potential collisions

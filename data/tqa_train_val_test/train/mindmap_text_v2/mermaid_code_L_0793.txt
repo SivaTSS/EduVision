@@ -1,0 +1,24 @@
+mindmap
+  Neutralization Reaction
+    Description
+      Definition of neutralization
+      Products: water and salt
+    Acid
+      Definition
+      Example: Hydrochloric acid (HCl)
+      Chemical equation: H2O + HCl → H+ + Cl-
+    Base
+      Definition
+      Example: Sodium hydroxide (NaOH)
+      Chemical equation: H2O + NaOH → OH- + Na+
+    Reaction Process
+      Combining acid and base
+      Formation of water
+        Equation: H+ + OH- → H2O
+      Formation of salt
+        Example: Sodium chloride (NaCl)
+        Equation: Na+ + Cl- → NaCl
+    Example Reaction
+      Antacid tablets and hydrochloric acid
+      Products: water, calcium chloride (CaCl2), carbon dioxide (CO2)
+      Chemical equation: CaCO3 + 2HCl → H2O + CaCl2 + CO2

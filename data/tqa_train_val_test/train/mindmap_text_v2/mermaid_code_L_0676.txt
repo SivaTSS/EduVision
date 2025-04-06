@@ -1,0 +1,28 @@
+mindmap
+  Sex Linked Inheritance
+    Sex Chromosomes
+      Male: XY
+      Female: XX
+      Determination of Sex
+        Father determines sex
+        50% chance for male or female
+    Sex-Linked Traits
+      Located on sex chromosomes
+      Common traits
+        Colorblindness
+          Types of colorblindness
+          More common in males
+          Recessive trait
+        Other traits exclusive to X chromosome
+    Thomas Hunt Morgan
+      Research on sex-linked traits
+      Eye color gene location
+      F2 generation observations
+    Inheritance Patterns
+      Law of Dominance
+      Female carriers
+      Punnett square analysis
+        50% chance of colorblind son
+    Colorblindness in Females
+      Requires two colorblind genes
+      Sister's vision comparison

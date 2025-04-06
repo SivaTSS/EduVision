@@ -1,0 +1,34 @@
+mindmap
+  The Sun and the Earth-Moon System
+    Lunar Eclipses
+      Definition
+      Types
+        Total Lunar Eclipse
+        Partial Lunar Eclipse
+        Penumbral Eclipse
+      Duration
+      Visibility
+    Solar Eclipses
+      Definition
+      Types
+        Total Solar Eclipse
+        Partial Solar Eclipse
+      Duration
+      Experience
+    Phases of the Moon
+      New Moon
+      Full Moon
+      Quarter Moon
+      Gibbous Moon
+      Crescent Moon
+      Cycle Duration
+    Earth-Moon-Sun Relationship
+      Ecliptic Plane
+      Tides
+    Seasonal Changes
+      Northern Hemisphere
+      Southern Hemisphere
+      Misconceptions
+    Time Zones
+      Differences in Locations
+      Uniform Time Concept

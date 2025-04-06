@@ -1,0 +1,25 @@
+mindmap
+  Isomers
+    Definition
+      Hydrocarbons with same atoms, different shapes
+      Different properties due to different arrangements
+    Hydrocarbons
+      Compounds of carbon and hydrogen
+      Smallest: Methane (CH4)
+      Larger hydrocarbons have more isomers
+    Butane
+      Chemical formula: C4H10
+      Isomers: n-butane, iso-butane
+    Pentane
+      Chemical formula: C5H12
+      Isomers: n-pentane, iso-pentane, neo-pentane
+    Heptane
+      Chemical formula: C7H16
+      Isomers: 9
+    Dodecane
+      Chemical formula: C12H26
+      Isomers: 355
+    Properties of Isomers
+      Branched-chain vs straight-chain
+      Boiling and melting points
+      Example: iso-butane vs n-butane

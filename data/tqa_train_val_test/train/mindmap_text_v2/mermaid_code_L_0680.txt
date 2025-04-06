@@ -1,0 +1,28 @@
+mindmap
+  Muscles
+    Types of Muscles
+      Skeletal Muscle
+        Voluntary Control
+        Attached to Skeleton
+        Can Contract Involuntarily (Reflexes)
+      Smooth Muscle
+        Involuntary Control
+        Found in Organs (Esophagus, Stomach, Intestines, Blood Vessels)
+        Pushes Materials (Food, Blood)
+      Cardiac Muscle
+        Involuntary Control
+        Found in Heart
+        Contracts Together to Push Blood
+    Muscle Fibers
+      Long, Thin Cells
+      Capable of Contraction
+      Made of Proteins (Actin, Myosin)
+    Muscle Tissue
+      One of Four Tissue Types in Animals
+    Muscle Functions
+      Movement
+      Heart Function (Pumping Blood)
+      Reflex Actions
+    Control of Muscles
+      Voluntary Muscles (Conscious Control)
+      Involuntary Muscles (Unconscious Control)

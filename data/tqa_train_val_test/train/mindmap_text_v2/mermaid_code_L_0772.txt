@@ -1,0 +1,43 @@
+mindmap
+  Atom Structure
+    Atoms
+      Definition: Smallest particles of an element
+      Properties: Building blocks of matter
+      Size: Trillions fit in a period
+    Nucleus
+      Location: Center of the atom
+      Composition: Protons and neutrons
+      Mass: Contains most of the atom's mass
+    Atomic Particles
+      Protons
+        Charge: Positive
+        Location: Nucleus
+        Role: Defines element properties
+      Neutrons
+        Charge: Neutral
+        Location: Nucleus
+        Role: Stabilizes nucleus
+      Electrons
+        Charge: Negative
+        Location: Outside nucleus
+        Role: Balances charge with protons
+    Atomic Number and Mass Number
+      Atomic Number: Number of protons
+      Mass Number: Protons + Neutrons
+    Ions and Isotopes
+      Ions
+        Definition: Atoms that gain or lose electrons
+        Types: Cations (positive), Anions (negative)
+      Isotopes
+        Definition: Atoms of the same element with different neutrons
+        Example: Carbon-12, Carbon-13
+    Quarks
+      Definition: Particles that make up protons and neutrons
+      Types: Six different types identified
+      Interaction: Held together by gluons
+    Forces in Atoms
+      Electric Force: Attraction between protons and electrons
+      Strong Force: Holds nucleus together
+    Models of Atoms
+      Purpose: Represent very small structures
+      Historical Context: Evolved over 200 years

@@ -1,0 +1,43 @@
+mindmap
+  Stars
+    Characteristics
+      Definition
+      Composition
+        Hydrogen
+        Helium
+      Energy Generation
+        Nuclear Fusion
+    Classification
+      Color and Temperature
+        O (Blue)
+        B (Blue-White)
+        A (White)
+        F (Yellow-White)
+        G (Yellow)
+        K (Orange)
+        M (Red)
+    Life Cycle
+      Formation
+        Nebulas
+      Main Sequence
+        Hydrogen Fusion
+      Evolution
+        Red Giants
+        White Dwarfs
+        Red Supergiants
+        Supernova
+        Neutron Stars
+        Black Holes
+    Constellations
+      Definition
+      Appearance vs Reality
+      Historical Significance
+      Movement in the Sky
+    Measurement
+      Light-Years
+      Parallax
+      Brightness Comparison
+    Tools for Study
+      Particle Accelerators
+        SLAC
+        CERN

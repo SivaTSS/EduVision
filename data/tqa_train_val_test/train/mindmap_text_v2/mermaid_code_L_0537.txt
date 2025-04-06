@@ -1,0 +1,18 @@
+mindmap
+  Hardy-Weinberg Theorem
+    Change in Allele Frequencies
+      Implications of Change
+      Stability of Frequencies
+    Conditions for No Evolution
+      No Change in DNA Sequence
+      No Migration
+      Very Large Population Size
+      Random Mating
+      No Natural Selection
+    Genetic Equilibrium
+      Definition
+      Importance
+      Application of Hardy-Weinberg Model
+    Hardy-Weinberg Equation
+      Representation of p
+      Predicting Allele Frequencies

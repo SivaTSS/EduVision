@@ -1,0 +1,24 @@
+mindmap
+  Chemical Bond
+    Definition
+      Force of attraction between atoms or ions
+      Formed by sharing or transferring valence electrons
+    Types of Chemical Bonds
+      Covalent Bonds
+        Formed between nonmetal atoms
+        Atoms share a pair of electrons
+        Example: Water molecule (H2O)
+      Ionic Bonds
+        Formed between oppositely charged ions
+        Creates crystals
+        Example: Table salt
+      Metallic Bonds
+        Attraction between positive metal ions and valence electrons
+        Forms a lattice structure
+        Example: Copper wire
+    Importance of Chemical Bonds
+      Achieve full outer energy level
+      Stability of atoms
+    Valence Electrons
+      Electrons in the outer energy level
+      Involved in chemical interactions

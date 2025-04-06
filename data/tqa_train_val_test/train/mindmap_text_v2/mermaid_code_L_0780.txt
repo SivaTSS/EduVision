@@ -1,0 +1,32 @@
+mindmap
+  Covalent Bonds
+    Definition
+      Covalent bonds share electrons
+      Form between nonmetals
+    Formation
+      Atoms share pairs of electrons
+      Atoms may be same or different
+    Types of Covalent Bonds
+      Polar Covalent Bonds
+        Unequal sharing of electrons
+        Slightly negative and positive charges
+      Nonpolar Covalent Bonds
+        Equal sharing of electrons
+        Atoms remain neutral
+    Properties of Covalent Compounds
+      Low melting and boiling points
+      Poor conductors of electricity
+      Exist as individual molecules
+      May not dissolve in water
+    Polar vs Nonpolar Compounds
+      Polar compounds have polar bonds
+      Arrangement affects polarity
+      Hydrogen bonds in polar compounds
+    Examples
+      Diatomic molecules (H2, O2)
+      Water (H2O) as polar compound
+      Carbon dioxide (CO2) as nonpolar compound
+    Naming Covalent Compounds
+      First element named first
+      Second element gets suffix -ide
+      Use of prefixes (di-, tri-)

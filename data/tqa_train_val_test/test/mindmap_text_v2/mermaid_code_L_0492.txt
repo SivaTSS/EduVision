@@ -1,0 +1,20 @@
+mindmap
+  Competition
+    Types of Competition
+      Intraspecific Competition
+        Same species compete for resources
+        Example: Trees competing for light
+      Interspecific Competition
+        Different species compete for resources
+        Example: Cheetahs and lions competing for prey
+    Competitive Exclusion Principle
+      Less suited species adapt, move, or die out
+    Character Displacement
+      Species develop different specializations
+      Example: Darwin's Finches with different bill types
+    Role in Evolution
+      Competition influences natural selection
+      Better adapted organisms survive and reproduce
+    Resource Availability
+      Limited resources necessary for competition
+      Types of resources: food, water, light, space

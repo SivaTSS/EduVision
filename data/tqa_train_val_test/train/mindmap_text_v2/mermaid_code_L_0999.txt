@@ -1,0 +1,24 @@
+mindmap
+  Radioactivity
+    Definition
+      Ability to emit charged particles and energy
+      General term: radiation
+    Discovery
+      Antoine Henri Becquerel
+        Year: 1896
+        Experiment with uranium
+        Photographic plate results
+      Marie Curie
+        Discovered polonium and radium
+        Two Nobel Prizes
+    Radioactive Elements
+      Uranium
+      Radium
+      Polonium
+    Unstable Nuclei
+      Too much energy
+      Too many protons
+      Unstable proton-neutron ratio
+    Transformation
+      Change in number of protons
+      Example: lead (82 protons), gold (79 protons)

@@ -1,0 +1,20 @@
+mindmap
+  Replacement Reactions
+    What is a replacement reaction
+      Elements switch places in compounds
+      Involves ions
+      More reactive elements replace less reactive elements
+    Types of Replacement Reactions
+      Single Replacement
+        One element replaces another in a compound
+        General equation: A + BC → B + AC
+        Example: 2K + 2H2O → 2KOH + H2
+      Double Replacement
+        Two ionic compounds exchange ions
+        General equation: AB + CD → AD + CB
+        Example: NaCl + AgF → NaF + AgCl
+    Comparison of Single and Double Replacement
+      Single involves one reactant compound
+      Double involves two reactant compounds
+    Non-Replacement Reactions
+      Identify reactions that are not replacement reactions

@@ -1,0 +1,46 @@
+mindmap
+  Advances in Genetics
+    Pedigrees
+      Genetic disorder inheritance
+        From mothers to sons
+        From fathers to daughters
+        Affects only males
+    Human Genome Project
+      Launched in 1990
+      Completed in 2003
+      Sequenced 3 billion bases
+      Identified 20,000 genes
+      Significance
+        Understanding evolution
+        Identifying genetic disorders
+    Genetic Disorders
+      Definition
+        Diseases caused by mutations
+      Types
+        Single gene mutations
+        Chromosomal abnormalities
+      Examples
+        Autosomal recessive disorders
+          Cystic fibrosis
+          Sickle Cell Anemia
+        X-linked disorders
+          Hemophilia A
+        Dominant disorders
+          Marfan syndrome
+    Biotechnology
+      Definition
+        Technology to change genetic makeup
+      Methods
+        Gene cloning
+        Polymerase chain reaction
+      Applications
+        Gene therapy
+        Genetically modified organisms
+        Production of human proteins
+    Pros and Cons of Biotechnology
+      Benefits
+        Solving human problems
+        Improved agriculture
+      Concerns
+        Health risks of GMOs
+        Environmental impact

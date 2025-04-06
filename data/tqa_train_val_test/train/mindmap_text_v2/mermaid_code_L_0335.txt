@@ -1,0 +1,21 @@
+mindmap
+  Troposphere
+    Earth's Surface
+    Thickness
+      Thickest
+      Thinnest
+    Atmospheric Matter
+      Most Matter
+    Temperature
+      Warmest Part
+      Temperature Inversion
+    Environmental Lapse Rate
+      True Rate
+    Inversion Formation
+      Coastal Areas
+      Over Land
+    Heat Source
+      Earth's Surface
+    Temperature Gradient
+      Warm Air Below
+      Mixing of Air

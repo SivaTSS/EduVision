@@ -1,0 +1,39 @@
+mindmap
+  Population Size
+    Exponential Growth
+      Circumstances
+    Carrying Capacity
+      Definition
+      Effects on Growth
+      Dependence
+      Exceeding Capacity
+      Constancy
+      Changes
+    Pest Elimination
+      Methods
+    Density Dependent Factors
+      Definition
+      Examples
+        Food Availability
+        Competition
+        Predation
+        Disease
+    Natural Disasters
+      Effects on Population Size
+    Population Dynamics
+      Growth Conditions
+        Ample Resources
+        No Major Problems
+      Shrinkage Conditions
+        Biotic Limits
+        Abiotic Limits
+        Predators
+        Diseases
+        Habitat Loss
+    Limiting Factors
+      Definition
+      Types
+        Biotic Factors
+        Abiotic Factors
+      Impact on Population Size
+      Changes in Limiting Factors

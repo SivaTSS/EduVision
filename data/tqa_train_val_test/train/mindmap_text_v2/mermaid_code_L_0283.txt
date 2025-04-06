@@ -1,0 +1,29 @@
+mindmap
+  Radioactive Decay as a Measure of Age
+    Radiation
+      Definition
+      Detection
+    Types of Radioactive Decay
+      Alpha Decay
+        Charge
+        Mass
+        Effect on Nucleus
+      Beta Decay
+        Charge
+        Mass
+        Effect on Nucleus
+      Gamma Radiation
+        Charge
+        Mass
+    Isotopes
+      Radioactive Isotopes
+        Stability
+        Parent Isotope
+        Daughter Isotope
+    Half-Life
+      Definition
+      Calculation
+      Exponential Decay
+    Applications
+      Dating Earth Materials
+      Absolute Age of Rocks

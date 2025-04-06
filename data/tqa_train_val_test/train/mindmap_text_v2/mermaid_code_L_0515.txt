@@ -1,0 +1,27 @@
+mindmap
+  Population Features
+    Population Definition
+      Group of same species
+      Living in same area
+      Interacting with each other
+    Population Dispersion
+      Definition
+      Possible Patterns
+        Clumped
+        Uniform
+        Random
+    Population Size
+      Number of individuals
+      Measurement
+    Population Density
+      Number per area
+      Example: 20 mice/acre
+    Birth and Death Rates
+      Birth Rate
+      Death Rate
+      Growth Rate
+        Birth rate minus death rate
+    Factors Affecting Distribution
+      Environmental interactions
+      Reproductive strategies
+      Chemical influences

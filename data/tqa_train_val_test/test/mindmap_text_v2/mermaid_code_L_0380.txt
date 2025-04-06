@@ -1,0 +1,46 @@
+mindmap
+  Primates
+    Definition
+      Primate Order
+      Types of Primates
+        Lemurs
+        Lorises
+        Tarsiers
+        Monkeys
+        Apes
+        Humans
+    Traits
+      Five Digits
+      Stereoscopic Vision
+      Grasping Ability
+      Opposable Thumbs
+      Larger Brain Size
+      Color Vision
+    Habitats
+      Tropical Rainforests
+      Central and South America
+      Africa
+      South Asia
+    Diet
+      Omnivorous
+      Preference for Fruit
+      Other Foods
+        Leaves
+        Seeds
+        Insects
+        Small Animals
+    Learning
+      Ability to Learn
+      Importance of Learning
+      Development Rate
+      Maturation Period
+    Comparison
+      Prosimian Primates
+        Smaller Size
+        Fewer Species
+      Non-Prosimian Primates
+        Tarsiers
+        New World Monkeys
+        Old World Monkeys
+        Apes
+        Humans

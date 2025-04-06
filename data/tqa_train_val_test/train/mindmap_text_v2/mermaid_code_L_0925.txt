@@ -1,0 +1,22 @@
+mindmap
+  Sound Intensity and Loudness
+    Loudness
+      Definition
+      Determined by Intensity
+    Intensity
+      Definition
+      Unit: Decibel (dB)
+      Factors
+        Amplitude
+        Distance
+    Relationship
+      Loudness vs Intensity
+      10 dB Increase = 10x Loudness
+    Harmful Levels
+      High-decibel Sounds
+      Hearing Damage
+    Examples
+      20 dB Whisper
+      30 dB Quiet Room
+      40 dB Light Rainfall
+      60 dB Vacuum Cleaner

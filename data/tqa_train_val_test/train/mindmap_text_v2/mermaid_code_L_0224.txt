@@ -1,0 +1,29 @@
+mindmap
+  Magnetic Evidence for Seafloor Spreading
+    Magnetic Stripes Pattern
+      Normal and Reversed Polarity
+      Symmetrical Stripes
+      Ends at Continental Edges
+    Magnetic Polarity and Age
+      Age Increases from Ridge Crest
+      Youngest Rocks at Ridge
+      Oldest Rocks Near Continents
+    Historical Context
+      WWII Magnetometer Use
+      Discovery of Magnetic Patterns
+    Research Methods
+      Towing Magnetometers
+      Data Combination with Radiometric Dating
+    Magnetic Reversal Time Scale
+      Brunhes Normal
+      Matuyama Reverse
+      Gauss Normal
+      Gilbert Reverse
+    Changes with Distance from Ridge
+      Rock Age
+      Sediment Thickness
+      Crust Thickness
+      Heat Flow
+    Geological Implications
+      Creation of Seafloor at Ridge
+      Destruction of Older Seafloor

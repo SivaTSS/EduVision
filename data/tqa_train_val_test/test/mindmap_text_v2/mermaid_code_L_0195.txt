@@ -1,0 +1,27 @@
+mindmap
+  history_of_paleozoic_life
+    Cambrian_explosion
+      rapid_evolution
+      diversification_of_life
+      marine_organisms
+      Burgess_shale
+    Paleozoic_periods
+      major_extinction_events
+      evolution_of_life
+      marine_and_land_diversity
+    Permian_mass_extinction
+      causes
+        environmental_change
+        asteroid_impact
+        volcanism
+        atmospheric_changes
+      impact_on_species
+        marine_species_extinction
+        terrestrial_vertebrates_extinction
+        insect_extinction
+    Carboniferous_period
+      plant_diversification
+      fossil_fuels_origin
+    Ordovician_period
+      early_land_plants
+      emergence_of_tetrapods

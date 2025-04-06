@@ -1,0 +1,31 @@
+mindmap
+  DNA the genetic material
+    What is DNA
+      Location of nuclear DNA
+      Structure of DNA
+      Genetic "sentences"
+      Function of genes
+    Building a DNA molecule
+      Time for DNA replication
+      New cells produced daily
+      Hydrogen bonds
+      Steps to speed replication
+    Structure of DNA
+      Components of nucleotides
+        Phosphate group
+        5-carbon sugar
+        Nitrogen base
+      Base-pairing rules
+      Complementary strand example
+    Genetic information
+      Sequence of nucleotide bases
+      Role of DNA as blueprint
+      Nucleic acids as macromolecules
+    Discovery of DNA structure
+      Watson and Crick
+      Rosalind Franklin and Maurice Wilkins
+      Double helix model
+    Base pairing
+      Chargaff's rules
+      Complementary bases
+      Hydrogen bonds between bases

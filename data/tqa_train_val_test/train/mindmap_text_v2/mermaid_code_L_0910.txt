@@ -1,0 +1,23 @@
+mindmap
+  Gravity
+    Definition
+      Force of attraction between masses
+    Factors Influencing Gravity
+      Mass of objects
+      Distance between objects
+    Weight
+      Definition
+        Measure of gravitational force on an object
+      SI Unit
+        Newton (N)
+      Weight on Moon vs Earth
+        Less gravity on Moon
+    Effects of Gravity
+      Pulls matter toward Earth's center
+      Keeps moons and satellites in orbit
+      Keeps planets orbiting the sun
+    Gravity and Tides
+      Causes of tides
+      Influence of moon vs sun
+      Tidal bulge explanation
+      Highest and lowest tides

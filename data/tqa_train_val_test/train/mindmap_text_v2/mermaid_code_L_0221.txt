@@ -1,0 +1,36 @@
+mindmap
+  Location and Direction
+    Lines of Latitude
+      Definition
+      Distance in Degrees
+      Key Latitudes
+        Equator
+        Tropic of Cancer
+        Tropic of Capricorn
+      Characteristics of Regions
+        Between Tropics
+    Arctic and Antarctic Circles
+      Location
+      Characteristics of Regions
+    Lines of Longitude
+      Definition
+      Meridians Meeting Point
+      Prime Meridian
+        Location
+      Measurement
+    Latitude and Longitude
+      Definition
+      Measurement in Degrees
+      Minutes and Seconds
+    Finding Locations
+      Example: Old Faithful
+        Latitude
+        Longitude
+      Elevation
+    GPS Technology
+      Functionality
+      Triangulation
+    Direction
+      Expression
+      Compass Usage
+      Correction for Magnetic North

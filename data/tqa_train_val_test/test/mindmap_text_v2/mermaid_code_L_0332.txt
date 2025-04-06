@@ -1,0 +1,35 @@
+mindmap
+  Tornadoes
+    Formation
+      Supercells
+      Thunderstorm elements
+        Rising air
+        Surrounding air
+    Characteristics
+      Funnel-shaped column
+      Duration
+      Average wind speed
+      Ground travel speed
+      Distance before dissipating
+    Impact
+      Area affected
+      Injuries and deaths
+      Flying debris
+      Annual fatalities
+    Conditions for Formation
+      Air mass meeting
+        Maritime tropical (mT)
+        Continental polar (cP)
+      Spring thunderstorms
+      Factors increasing tornadoes
+    Tornado Alley
+      Geographic region
+      Frequency of violent tornadoes
+    Prediction
+      Meteorological challenges
+      Radar sightings
+      Warning systems
+    Intensity Measurement
+      Fujita Scale
+        F0 to F6
+        Wind speed and damage categories

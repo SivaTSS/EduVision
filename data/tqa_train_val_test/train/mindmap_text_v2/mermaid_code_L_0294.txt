@@ -1,0 +1,49 @@
+mindmap
+  Saturn
+    Features
+      Composition
+        Hydrogen
+        Helium
+      Rings
+        Water
+        Ice
+        Dust
+        Rock
+        Formation
+          Breakup of moons
+          Unaccreted material
+    Moons
+      Titan
+        Atmosphere
+          Nitrogen
+          Methane
+        Surface
+          Liquid methane
+          Liquid water layer
+        Life potential
+          Similar to early Earth
+          Unlikely due to extreme cold
+    Historical Observations
+      Galileo
+        First observation
+        Misinterpretation as moons
+      Huygens
+        Realization of rings
+    Scientific Exploration
+      Voyager 1 and 2
+        Detailed pictures
+      Cassini orbiter
+        Close-up images
+    Characteristics
+      Size
+        95 times Earth's mass
+        755 times Earth's volume
+      Density
+        Least dense planet
+        Would float in water
+      Orbit
+        30 Earth years
+      Atmosphere
+        Bands of clouds
+        Less turbulence than Jupiter
+        Thunder and lightning

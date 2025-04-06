@@ -1,0 +1,30 @@
+mindmap
+  Star Power
+    Stars Composition
+      Hydrogen
+      Helium
+    Nuclear Fusion
+      Process
+        Nuclei combine
+        Energy release
+      Importance
+        Prevents collapse
+        Energy source for stars
+    Hydrogen Fusion
+      Occurs in core
+      Produces helium
+      Releases energy
+    Star Lifecycle
+      Hydrogen depletion
+      Formation of heavier elements
+      Last element created
+      Star death
+        Supernova
+    Particle Accelerators
+      Simulate fusion reactions
+      Learn about star conditions
+      Energy levels achieved
+    Sun
+      Major energy source for Earth
+      Ordinary star
+      Emits electromagnetic radiation

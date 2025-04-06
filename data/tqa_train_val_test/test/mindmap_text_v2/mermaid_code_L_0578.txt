@@ -1,0 +1,41 @@
+mindmap
+  Invertebrates
+    Characteristics
+      No backbone
+      Diverse shapes and sizes
+      Found in various environments
+    Habitat
+      Atmosphere
+      Deserts
+      Rainforests
+      Antarctic
+      Ocean floor
+    Importance
+      Vital for ecosystem survival
+      Provide essential services
+    Classification
+      Phylum
+        Porifera
+          Meaning: Pore bearer
+          Examples: Sponges
+        Cnidaria
+          Meaning: Stinging nettle
+          Examples: Jellyfish, corals
+        Platyhelminthes
+          Meaning: Flat worms
+          Examples: Flatworms, tapeworms
+        Nematoda
+          Meaning: Thread like
+          Examples: Nematodes, heartworm
+        Mollusca
+          Meaning: Soft
+          Examples: Snails, clams
+        Annelida
+          Meaning: Little ring
+          Examples: Earthworms, leeches
+        Arthropoda
+          Meaning: Jointed foot
+          Examples: Insects, crabs
+        Echinodermata
+          Meaning: Spiny skin
+          Examples: Sea stars, sea urchins

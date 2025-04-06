@@ -1,0 +1,33 @@
+mindmap
+  Waves Characteristics
+    Mechanical Waves
+      Definition
+      Types
+        Transverse Waves
+          Description
+          Characteristics
+            Crests
+            Troughs
+          Examples
+            Rope Waves
+            Earthquake S Waves
+        Longitudinal Waves
+          Description
+          Characteristics
+            Compressions
+            Rarefactions
+          Examples
+            Spring Waves
+            Earthquake P Waves
+        Surface Waves
+          Description
+          Characteristics
+          Examples
+            Ocean Waves
+    Energy Transfer
+      Through Matter
+      Electromagnetic Waves
+    Wave Behavior
+      Tsunamis
+      Wave Measurement
+      Factors Affecting Wave Size

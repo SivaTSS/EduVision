@@ -1,0 +1,38 @@
+mindmap
+  geological_stresses
+    stress_definition
+      definition Stress is the force applied to an object
+      types
+        confining
+        compression
+        tension
+        shear
+    body_forces
+      definition Proportional to mass
+    surface_forces
+      definition Forces acting on the surface
+    vector_components
+      importance Studying stress in vector components
+    normal_stress
+      direction Forces act perpendicular to the surface
+    shear_stress
+      direction Forces act parallel to the surface
+    strain
+      definition Change in shape due to stress
+      types
+        elastic_deformation
+        plastic_deformation
+        fracture
+    stress_types
+      transform_fault
+        type shear
+      subduction_zone
+        type compression
+      continental_rift_zone
+        type tension
+    deformation_comparison
+      fracture
+      plastic_deformation
+      elastic_deformation
+    earthquake_zone
+      effects Stressed rocks may fracture

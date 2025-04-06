@@ -1,0 +1,52 @@
+mindmap
+  Health of the Digestive System
+    Food Allergies
+      Definition
+      Immune Response
+      Common Symptoms
+        Vomiting
+        Diarrhea
+        Skin Rashes
+      Common Allergens
+        Nuts
+        Eggs
+        Grains
+        Milk
+        Shellfish
+      Anaphylaxis
+        Symptoms
+          Tightening of Airway
+          Swollen Throat
+          Shock
+          Dizziness
+    Food Intolerance
+      Definition
+      Symptoms
+        Stomach Cramping
+        Diarrhea
+        Tiredness
+        Weight Loss
+      Lactose Intolerance
+        Enzyme Deficiency
+        Prevalence
+    Foodborne Illness
+      Causes
+        Bacteria
+        Viruses
+        Parasites
+      Prevention
+        Hand Washing
+        Cooking Food Thoroughly
+        Keeping Foods at Safe Temperatures
+      Common Bacteria
+        Salmonella
+        Campylobacter jejuni
+        E. coli
+        Vibrio
+        Listeria
+      Common Viruses
+        Norovirus
+        Hepatitis A
+      Common Parasites
+        Giardia
+        Trichinella

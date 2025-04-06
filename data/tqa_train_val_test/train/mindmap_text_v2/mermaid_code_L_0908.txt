@@ -1,0 +1,22 @@
+mindmap
+  gamma rays
+    definition
+      shortest wavelengths
+      highest frequencies
+      highest energy
+    properties
+      electromagnetic waves
+      energy transfer
+      wavelengths and frequencies
+    sources
+      radioactive atoms
+      nuclear explosions
+      stars
+      gamma ray bursts
+    effects on living things
+      destroy living cells
+      produce mutations
+      cause cancer
+    medical applications
+      cancer treatment
+      focused gamma rays

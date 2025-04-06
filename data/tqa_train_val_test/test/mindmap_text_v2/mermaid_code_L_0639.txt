@@ -1,0 +1,25 @@
+mindmap
+  Predation
+    Definition
+      Predator feeds on prey
+      Lowers prey's fitness
+    Types of Predation
+      True Predation
+        Predator kills and eats prey
+        Examples: jaguars, dolphins, baleen whales
+      Grazing
+        Eats part of prey without killing
+        Examples: cows on grass, fish on kelp
+      Parasitism
+        Symbiotic relationship
+    Predator-Prey Relationships
+      Essential for ecosystem balance
+      Examples: lion-zebra, bear-fish, fox-rabbit
+    Keystone Species
+      Large effect on ecosystem balance
+      Example: wolves control deer population
+    Prey Adaptations
+      Camouflage
+      Mimicry
+        Non-poisonous mimics poisonous
+      Heightened senses

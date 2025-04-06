@@ -1,0 +1,21 @@
+mindmap
+  Covalent Bonding
+    Definition
+      Covalent bond is the force of attraction
+      Atoms share a pair of valence electrons
+    Characteristics
+      Forms between nonmetals
+      Can be same or different elements
+      Results in covalent compounds
+    Examples
+      Water as a covalent compound
+      Oxygen molecule as diatomic
+    Valence Electrons
+      Nitrogen has five valence electrons
+      Oxygen shares two pairs with hydrogen
+    Bonding Strength
+      Covalent bonds stronger than ionic bonds
+    Conductivity
+      Covalent compounds do not conduct electricity
+    Diatomic Molecules
+      Hydrogen, nitrogen, oxygen, halogens

@@ -1,0 +1,53 @@
+mindmap
+  Blood Pressure
+    Causes
+      Circulating blood pressure on vessel walls
+      Heartbeat rhythm
+    Types
+      Systolic Pressure
+        Highest pressure during heartbeats
+        Healthy range: less than 120
+      Diastolic Pressure
+        Lowest pressure between beats
+        Healthy range: less than 80
+    Measurement
+      Sphygmomanometer
+        Digital sphygmomanometer
+        Reading format: systolic/diastolic
+    Hypertension
+      Definition
+        High blood pressure
+        Systolic: 140 or higher
+        Diastolic: 90 or higher
+      Risks
+        Heart disease
+        Stroke
+        Other cardiovascular diseases
+      Silent Killer
+        Often asymptomatic
+    Healthy Lifestyle
+      Diet changes
+        Foods to lower blood pressure
+          Skim milk
+          Spinach
+          Beans
+          Bananas
+          Dark chocolate
+      Exercise
+      Lifestyle modifications
+        Limit sodium intake
+        Maintain healthy weight
+        Avoid excessive alcohol
+        Quit smoking
+    Low Blood Pressure
+      Generally not a concern
+      Symptoms
+        Dizziness
+        Lightheadedness
+        Fainting
+        Dehydration
+        Unusual thirst
+        Lack of concentration
+        Blurred vision
+        Nausea
+        Fatigue

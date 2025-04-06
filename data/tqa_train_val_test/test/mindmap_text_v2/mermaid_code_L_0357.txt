@@ -1,0 +1,29 @@
+mindmap
+  Wind Power
+    Local Winds
+      Desert near Mountains
+      Wind Turbines
+    Energy Capture
+      Wind Turbine Function
+      Kinetic Energy
+    Wind Turbine Height
+    Wind Farms
+      Land vs. Offshore
+    Wind Energy Generation
+      Causes of Wind
+      Harnessing Wind Energy
+    Advantages of Wind Power
+      Clean Energy
+      Abundant Resource
+    Downsides of Wind Power
+      Intermittency
+      Visual Impact
+      Cost of Windmills
+    Historical Use
+      Windmills for Grain and Water
+      Sailing Ships
+    Current Trends
+      Fastest Growing Renewable Source
+      Notable Projects
+        Cape Wind
+        California Wind Farms

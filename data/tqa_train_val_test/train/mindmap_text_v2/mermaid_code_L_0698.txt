@@ -1,0 +1,26 @@
+mindmap
+  Translation of RNA to Protein
+    Cell Translation
+      mRNA sequence reading
+      Codons
+        Three nucleotides coding for amino acids
+      tRNA
+        Brings amino acids to translation site
+        Anticodon function
+      Ribosomes
+        Read mRNA
+        Benefit of multiple ribosomes
+    Transcribe and Translate a Gene
+      Start codon
+      Stop codons
+        Number and types
+      Amino acids
+        Different types used in proteins
+    Translation Process
+      Definition
+      Codon
+      Stop codon
+      Mutation effects on stop codon
+      Example DNA sequence
+        Corresponding mRNA sequence
+        Corresponding amino acid sequence

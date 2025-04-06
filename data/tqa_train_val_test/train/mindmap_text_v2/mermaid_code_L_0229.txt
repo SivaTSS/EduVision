@@ -1,0 +1,27 @@
+mindmap
+  Measuring Earthquake Magnitude
+    Mercalli Scale
+      Definition
+      Level IX Effects
+    Richter Scale
+      Measurement
+      Most Damaging Quake
+      Energy Increase per Step
+    Moment Magnitude Scale
+      Measurement
+    Epicenter
+      Definition
+      Calculation Method
+    Seismograph
+      Definition
+      Seismogram
+      Seismometer
+    Seismogram Analysis
+      P-waves and S-waves
+      Main Earthquake vs Foreshocks and Aftershocks
+    Historical Energy Release
+      Earthquakes
+      Volcanic Eruptions
+      Atomic Bombs
+    Frequency of Major Earthquakes
+      Magnitude 8 and Above

@@ -1,0 +1,20 @@
+mindmap
+  Calculating Acceleration
+    Equation for Acceleration
+      Formula: acceleration = v t
+    SI Unit
+      Unit: m/s2
+    Average Acceleration
+      Definition: Change in velocity divided by change in time
+      Example 1
+        Scenario: Cyclist increases velocity from 4 m/s to 7 m/s
+        Time: 5 seconds
+        Calculation: (7 m/s - 4 m/s) / 5 s = 0.6 m/s2
+      Example 2
+        Scenario: Cyclist speeds up from 1 m/s to 6 m/s
+        Time: 5 seconds
+        Calculation: (6 m/s - 1 m/s) / 5 s = 1 m/s2
+      Example 3
+        Scenario: Cyclist slows down from 6 m/s to 2 m/s
+        Time: 4 seconds
+        Calculation: (2 m/s - 6 m/s) / 4 s = -1 m/s2

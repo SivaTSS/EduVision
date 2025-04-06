@@ -1,0 +1,43 @@
+mindmap
+  Nuclear Energy
+    Nuclear Reactions
+      Nuclear Fission
+        Definition
+        Process
+          Splitting of nucleus
+          Energy release
+        Applications
+          Electricity generation
+          Nuclear power plants
+        Chain Reaction
+          Definition
+          Example
+          Controlled vs Uncontrolled
+      Nuclear Fusion
+        Definition
+        Process
+          Combining of nuclei
+          Energy release
+        Challenges
+          High temperature requirement
+          Plasma containment
+        Advantages
+          More energy than fission
+          Harmless elements
+          Abundant hydrogen source
+    Einstein's Equation
+      E = mc2
+        Relation to nuclear reactions
+        Energy from mass
+        Conservation of mass and energy
+    Energy Production
+      Current U.S. Energy Sources
+        Fossil fuels
+        Nuclear energy
+      Environmental Impact
+        Pollution from fossil fuels
+        Radioactive waste concerns
+    Future of Nuclear Energy
+      Research on fusion
+      Potential benefits
+      Technological challenges

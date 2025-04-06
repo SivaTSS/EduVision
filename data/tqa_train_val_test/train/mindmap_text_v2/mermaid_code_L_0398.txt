@@ -1,0 +1,56 @@
+mindmap
+  Nervous System
+    Definition
+      Complex network of nervous tissue
+      Carries electrical messages
+    Functions
+      Controls muscles
+      Maintains balance
+      Senses environments
+      Maintains homeostasis
+      Prepares for emergencies
+      Higher mental functions
+    Neurons
+      Structure
+        Cell body
+        Dendrites
+        Axon
+      Types
+        Sensory neurons
+        Motor neurons
+        Interneurons
+    Central Nervous System
+      Components
+        Brain
+          Major parts
+            Cerebrum
+            Cerebellum
+            Brain stem
+        Spinal cord
+    Peripheral Nervous System
+      Divisions
+        Sensory division
+        Motor division
+          Autonomic
+            Sympathetic
+            Parasympathetic
+          Somatic
+    Diseases and Injuries
+      Diseases
+        Infections
+          Encephalitis
+          Meningitis
+        Epilepsy
+        Stroke
+        Alzheimer's disease
+      Injuries
+        Concussions
+        Spinal cord damage
+    Effects of Drugs
+      Psychoactive drugs
+        Stimulants
+        Depressants
+        Hallucinogens
+      Drug abuse
+        Addiction
+        Overdose

@@ -1,0 +1,46 @@
+mindmap
+  Light We See
+    Visible Light
+      Definition
+      Importance
+        Allows vision
+        Essential for life
+    Sources of Visible Light
+      Natural
+        Sun
+        Stars
+      Artificial
+        Incandescent bulbs
+        Fluorescent bulbs
+        Neon lights
+        LED lights
+    Interaction with Matter
+      Reflection
+      Refraction
+      Transmission
+      Absorption
+    Classification of Matter
+      Transparent
+      Translucent
+      Opaque
+    Colors of Visible Light
+      Wavelengths
+        Red (longest)
+        Violet (shortest)
+      Primary Colors
+        Red
+        Green
+        Blue
+      Secondary Colors
+        Yellow
+        Magenta
+        Cyan
+    Light Production
+      Incandescence
+      Luminescence
+        Fluorescence
+        Electroluminescence
+        Bioluminescence
+    Color Perception
+      Role of pigments
+      Example: Chlorophyll

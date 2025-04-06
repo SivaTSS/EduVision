@@ -1,0 +1,22 @@
+mindmap
+  Vision Problems and Corrective Lenses
+    Vision Problems
+      Myopia
+        Definition: Nearsightedness
+        Characteristics: Nearby objects clear, distant objects blurry
+        Cause: Eyeball longer than normal
+        Correction: Concave lenses
+        Additional Info: Squinting may improve focus
+      Hyperopia
+        Definition: Farsightedness
+        Characteristics: Distant objects clear, nearby objects blurry
+        Cause: Eyeball shorter than normal
+        Correction: Convex lenses
+        Additional Info: More likely to need glasses for reading
+    Corrective Lenses
+      Types
+        Contact Lenses
+        Eyeglasses
+        Laser Surgery
+      Function
+        Reshape outer layer of the eye

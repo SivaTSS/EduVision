@@ -1,0 +1,28 @@
+mindmap
+  Amontons Law
+    Demonstration
+      Pressure inside can
+      Volume constant after heating
+      Pressure lower after cooling
+    Definition
+      Increasing temperature increases pressure
+      Constant volume
+    Experiment
+      Sealed jug with air
+      Heating air increases temperature
+      Pressure change
+    Explanation
+      Gas particles gain energy
+      Increased collisions
+      Greater pressure
+    Real-world example
+      Tire pressure change
+      Friction generates heat
+      Constant volume in tire
+      Increased pressure due to heat
+    Historical context
+      Proposed by Guillaume Amontons
+      Late 1600s
+      Part of gas laws
+        Boyle's Law
+        Charles's Law

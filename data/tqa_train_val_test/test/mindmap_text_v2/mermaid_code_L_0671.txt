@@ -1,0 +1,21 @@
+mindmap
+  Scientific Theories
+    Evidence
+      Direct observation
+      Measurable data
+      Experimental results
+    Scientific Theory
+      Explanation of natural world
+      Based on repeated observations
+      Developed from hypotheses
+      Supported by evidence
+      Examples: atomic theory, germ theory, cell theory, theory of evolution
+    Scientific Law
+      Statement of consistent natural phenomena
+      Developed from extensive evidence
+      Example: law of gravity
+    Hypothesis
+      Proposed explanation for an observation
+      Tested through experiments
+    Differences in Usage
+      Scientific vs. everyday meanings

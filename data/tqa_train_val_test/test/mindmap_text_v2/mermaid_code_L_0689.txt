@@ -1,0 +1,53 @@
+mindmap
+  Terrestrial Biomes
+    Tropical Rainforest
+      Locations
+        Amazon Basin
+        Congo Basin
+      Characteristics
+        High biodiversity
+        Warm temperatures
+        High precipitation
+    Savannas
+      Precipitation
+        Annual amount
+        Seasonal distribution
+      Dominance
+        Grasses
+        Adaptations of animals
+    Desert
+      Definition
+        Low rainfall (less than 50 cm)
+      Common adaptations
+        Water conservation
+        Drought resistance
+    Grasslands
+      Characteristics
+        Dominated by grasses
+        Includes savanna and temperate grasslands
+    Forests
+      Types
+        Tropical
+        Temperate
+        Boreal (Taiga)
+      Characteristics
+        Dominated by trees
+        Classified by latitude
+    Tundra
+      Types
+        Arctic tundra
+        Alpine tundra
+      Characteristics
+        Cold temperatures
+        Low precipitation
+        Short growing seasons
+    Factors Affecting Biomes
+      Latitude
+        Distance from equator
+      Humidity
+        Water content in air
+      Elevation
+        Height above sea level
+    Biodiversity
+      Highest near equator
+      Variation in plant and animal life

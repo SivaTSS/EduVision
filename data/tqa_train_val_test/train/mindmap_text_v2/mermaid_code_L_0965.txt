@@ -1,0 +1,24 @@
+mindmap
+  Newtons Law of Gravity
+    Equation
+      Force of Gravity
+      Variables
+        G = gravitational constant
+        m1 = mass of first object
+        m2 = mass of second object
+        r = distance between objects
+    Universal Gravitation
+      Definition
+        Force affects all objects with mass
+      Importance
+        First scientific law for the universe
+        Explains motion on Earth and in space
+    Factors Affecting Gravity
+      Mass
+        Greater mass = stronger gravity
+      Distance
+        Closer objects = stronger gravity
+    Examples
+      Apple falling from a tree
+      Moon orbiting Earth
+      Gravity between everyday objects

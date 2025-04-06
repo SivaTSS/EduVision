@@ -1,0 +1,25 @@
+mindmap
+  Matter Types
+    Elements
+      Definition: Pure substances with unique properties
+      Examples: Hydrogen, Oxygen, Iron, Nickel
+      Atoms: Smallest particles of elements
+    Compounds
+      Definition: Unique substances formed from two or more elements
+      Examples: Water, Table Salt
+      Molecules: Smallest particles of compounds
+      Crystals: Rigid structures formed by some compounds
+    Mixtures
+      Definition: Combination of two or more substances
+      Types
+        Homogeneous: Same composition throughout (e.g., salt water)
+        Heterogeneous: Varying composition (e.g., trail mix)
+      Particle Size
+        Solutions: Homogeneous with tiny particles
+        Suspensions: Heterogeneous with large particles
+        Colloids: Homogeneous with medium-sized particles
+    Properties of Matter
+      Physical: Observable characteristics
+      Chemical: How substances react
+    Changes in Matter
+      Examples: Physical changes, Chemical changes

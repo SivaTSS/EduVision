@@ -1,0 +1,20 @@
+mindmap
+  rocks
+    rock_types
+      made_of_minerals
+      not_made_of_minerals
+        example_coal
+    mineral_grains
+      size
+      shape
+      arrangement
+    texture
+      importance
+      classification
+    rock_formation
+      cooling_process
+        slow_cooling
+        rapid_cooling
+    identification
+      distinctive_minerals
+      texture_variation

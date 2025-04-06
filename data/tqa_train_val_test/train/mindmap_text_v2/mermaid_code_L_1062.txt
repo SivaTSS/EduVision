@@ -1,0 +1,20 @@
+mindmap
+  Visible Light and Matter
+    Light Interaction with Matter
+      Reflection
+        Regular Reflection
+        Diffuse Reflection
+      Transmission
+        Straight Transmission
+        Refraction
+        Scattering
+      Absorption
+    Temperature Increase
+      Energy Transfer
+    Matter Classification
+      Transparent
+        Examples: Air, Pure Water, Clear Glass
+      Translucent
+        Examples: Frosted Glass
+      Opaque
+        Examples: Wood, Glass Mirror

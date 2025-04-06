@@ -1,0 +1,46 @@
+mindmap
+  Nature of Science
+    Importance of Questions
+      Curiosity about the natural world
+      Leads to exploration and discovery
+    Scientific Method
+      Steps to answer questions
+        Asking a question
+        Conducting research
+        Forming a hypothesis
+        Designing experiments
+        Collecting data
+        Analyzing results
+        Drawing conclusions
+    Experiment Example
+      Scientist studying oil contamination
+        Question: Effects of oil on seaweed growth
+        Hypothesis: Oil runoff affects growth
+        Independent variable: Presence of oil
+        Dependent variable: Seaweed growth rate
+        Experimental controls: Tank conditions
+        Data results: Growth comparison
+    Types of Scientific Models
+      Physical models
+        Representations using objects
+      Conceptual models
+        Ideas explaining phenomena
+      Mathematical models
+        Use of equations to describe systems
+    Safety in Science
+      Lab safety guidelines
+        Follow directions
+        Use protective gear
+        Handle materials carefully
+      Fieldwork precautions
+        Appropriate clothing
+        Sufficient supplies
+        Communication and mapping
+    Publishing Results
+      Writing scientific papers
+      Peer review process
+      Importance of sharing findings
+    Theories vs. Hypotheses
+      Hypothesis: Testable explanation
+      Theory: Well-supported hypothesis
+      Importance of evidence and observations

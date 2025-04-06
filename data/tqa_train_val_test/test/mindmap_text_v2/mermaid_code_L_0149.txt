@@ -1,0 +1,35 @@
+mindmap
+  Climate Influence
+    Maritime Climate
+      Definition
+        Influenced by nearby ocean
+        Less extreme temperatures
+      Characteristics
+        Small seasonal and daily temperature variation
+        Winds predominantly from the sea
+      Examples
+        San Francisco
+          Influenced by California Current
+          Affected by coastal upwelling
+    Continental Climate
+      Definition
+        Influenced by nearby land
+        More extreme temperatures
+      Characteristics
+        Greater temperature differences
+        Winds predominantly from the continent
+      Examples
+        Wichita
+          More extreme continental climate
+        Virginia Beach
+          Near Atlantic Ocean
+          Less ocean influence than San Francisco
+    Ocean Influence
+      Temperature Moderation
+        Offshore currents affect coastal temperatures
+        Cool California Current
+        Upwelling effects
+      Weather Patterns
+        San Francisco weather from Pacific Ocean
+        Virginia Beach weather from continent
+        Southern Alaska upwelling effects

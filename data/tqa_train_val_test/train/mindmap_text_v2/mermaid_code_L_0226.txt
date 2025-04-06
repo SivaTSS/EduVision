@@ -1,0 +1,41 @@
+mindmap
+  Topographic and Geologic Maps
+    Topographic Maps
+      Definition
+        Shape of landscape
+        Use of contour lines
+      Key Terms
+        Contour line
+        Contour interval
+        Index contour
+      Features
+        Hills and valleys
+        Elevation above sea level
+        Rules of contour lines
+          Never cross
+          Bolded every fifth line
+          Constant difference in elevation
+    Bathymetric Maps
+      Definition
+        Depth below sea level
+        Similar to topographic maps
+      Features
+        Depth representation
+        Low numbers near sea level
+    Geologic Maps
+      Definition
+        Show rock units and features
+      Features
+        Color-coded rock units
+        Faults and folds
+        Superimposed on topographic maps
+    Walking Along Contour Lines
+      Elevation remains constant
+    Walking Perpendicular to Contour Lines
+      Change in elevation
+    Close Contour Lines
+      Indicate steep slopes
+    Visual Examples
+      Topographic map of Old Faithful
+      Bathymetric map of Loihi
+      Geologic map of mountainous region

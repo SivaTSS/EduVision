@@ -1,0 +1,31 @@
+mindmap
+  Thermal Conductors and Insulators
+    Thermal Conductors
+      Definition
+        Materials that conduct thermal energy well
+      Examples
+        Metals
+        Metal radiator
+    Thermal Insulators
+      Definition
+        Materials that conduct thermal energy poorly
+      Examples
+        Air
+        Plastic
+        Wood
+        Down-filled snowsuits
+        Insulation
+    Conduction
+      Definition
+        Transfer of thermal energy between touching particles
+      Process
+        Warmer particles bump into cooler particles
+      Speed
+        Faster in solids and liquids than in gases
+    Practical Uses
+      Thermal Conductors
+        Heating elements
+        Radiators
+      Thermal Insulators
+        Clothing to retain heat
+        Food and drink containers

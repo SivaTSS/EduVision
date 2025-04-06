@@ -1,0 +1,32 @@
+mindmap
+  Force
+    Definition
+      Push or pull acting on an object
+      Examples
+        Friction
+        Gravity
+        Applied force
+    Properties
+      Vector
+        Size
+        Direction
+      SI Unit
+        Newton (N)
+        1 N = 1 kg * m/s²
+    Net Force
+      Combined forces acting on an object
+      Calculation
+        Opposite directions
+          Subtract forces
+        Same direction
+          Add forces
+      Examples
+        Balanced forces
+          Net force = 0
+        Unbalanced forces
+          Net force > 0
+    Relation to Motion
+      Changes in motion
+        Stationary to moving
+        Acceleration
+        Change in speed or direction

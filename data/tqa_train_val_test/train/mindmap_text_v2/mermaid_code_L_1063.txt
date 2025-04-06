@@ -1,0 +1,43 @@
+mindmap
+  Vision and the Eye
+    Eye Structure
+      Sclera
+        Function: Protects the eye
+      Cornea
+        Function: Transparent covering, convex lens
+      Pupil
+        Function: Controls light entry
+      Iris
+        Function: Colored part, controls pupil size
+      Lens
+        Function: Convex lens, fine-tunes focus
+      Retina
+        Function: Converts images to electrical signals
+        Rods
+          Function: Senses dim light
+        Cones
+          Function: Senses colors
+          Types
+            Red
+            Green
+            Blue
+      Optic Nerve
+        Function: Carries signals to the brain
+    Vision Process
+      Light Entry
+        Through transparent structures
+      Image Formation
+        Focused on retina
+        Upside-down and reduced
+      Signal Transmission
+        Electrical signals to brain
+      Brain Interpretation
+        Shape, color, brightness
+        Corrects image orientation
+    Importance of Brain
+      Role in vision
+      Visual Cortex
+        Location: Back of the brain
+        Injury effects: Abnormal vision or blindness
+    Key Concept
+      Eyes sense light, brain sees

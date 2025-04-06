@@ -1,0 +1,26 @@
+mindmap
+  Inductive Reasoning
+    What is inductive reasoning?
+      Definition: Drawing general conclusions from evidence
+      Basis of scientific method
+    Use in Science
+      Drawing conclusions from evidence
+      Conclusions may change with new evidence
+      Cannot prove ideas conclusively
+    Example: Rayna's Rat Study
+      Observed preference for brand A over brand B
+      Conclusion: Not all rats can be generalized
+      Reason: Sample size and variability
+    Crime Solving
+      Use of clues to identify suspects
+      Gathering evidence to draw conclusions
+    Example: Planet Quim
+      Observations of falling objects on Earth
+      Initial conclusion: All objects fall
+      Additional evidence: Balloons rising
+      Revised conclusion: Heavier objects fall, lighter objects rise
+    Limitations of Inductive Reasoning
+      No 100% certainty in conclusions
+      Possibility of undiscovered evidence
+      Jurors' decision: Beyond reasonable doubt
+      Scientific theories: Supported by evidence, not conclusively proven

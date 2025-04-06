@@ -1,0 +1,48 @@
+mindmap
+  Science Skills
+    Calculations
+      Scientific Notation
+        Example: 0.0000087
+      Temperature Conversion
+        Celsius to Fahrenheit
+        Example: 50C to F
+      Volume Calculation
+        Cube Volume: 5 cm
+    Measurement
+      Importance of Measuring
+      SI System of Units
+        Basic Units
+          Length: meter (m)
+          Volume: cubic meter (m3)
+          Mass: gram (g)
+        Temperature Scales
+          Kelvin
+          Celsius
+          Fahrenheit
+    Record Keeping
+      Importance
+      Tips for Good Records
+        Use a bound notebook
+        Write in ink
+        Date entries
+    Calculations in Science
+      Derived Quantities
+        Area and Volume
+      Significant Figures
+    Data Organization
+      Descriptive Statistics
+        Mean
+        Range
+      Graphs
+        Bar Graphs
+        Circle Graphs
+        Line Graphs
+    Models in Science
+      Definition
+      Importance
+    Safety in Science
+      Safety Symbols
+      Lab Safety Rules
+        Wear safety gear
+        Do not eat or drink
+        Report accidents

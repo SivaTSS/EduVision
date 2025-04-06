@@ -1,0 +1,29 @@
+mindmap
+  Photosynthesis
+    Energy Source
+      Solar Energy
+    Process
+      Carbon Dioxide
+      Water
+      Glucose
+      Oxygen
+    Importance
+      Sustains Life on Earth
+      Food Source for Organisms
+    Organisms
+      Autotrophs
+        Plants
+        Algae
+      Heterotrophs
+        Animals
+        Fungi
+    Chloroplasts
+      Eukaryotic Cells
+      Photosynthetic Organisms
+    Electron Transport Chain
+      Movement of Electrons
+      Hydrogen Ions
+      Comparison to Cellular Respiration
+    Mobile Electron Carriers
+      Function
+      Relationship to Protein Complexes

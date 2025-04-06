@@ -1,0 +1,33 @@
+mindmap
+  Color
+    What determines the color of visible light
+      Wavelength of visible light
+        Longest wavelength - red
+        Shortest wavelength - violet
+    Prism
+      Separates visible light
+        Slows and bends light
+        Different wavelengths bend at different angles
+        Creates a rainbow of colors
+    Human Eye
+      Detects three colors of light
+        Primary colors - red, green, blue
+        Perception of other colors
+          Combination of primary colors
+          Secondary colors - cyan, yellow, magenta
+    Pigments
+      Definition
+        Substances that color materials
+      Primary colors of pigments
+        Cyan, magenta, yellow
+        Combination produces other colors
+    Opaque and Transparent Objects
+      Opaque objects
+        Reflect or absorb light
+      Transparent objects
+        Transmit light
+        Color determined by transmitted light
+    Color Perception
+      Effect of light on color appearance
+        Absorption of light
+        Black as absence of light

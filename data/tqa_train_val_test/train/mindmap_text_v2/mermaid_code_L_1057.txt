@@ -1,0 +1,31 @@
+mindmap
+  Unsaturated Hydrocarbons
+    Definition
+      Unsaturated hydrocarbons have at least one double or triple bond
+    Types
+      Alkenes
+        Contain one or more double bonds
+        Name ends in -ene
+        Can form straight chains, branched chains, or rings
+        Isomers exist with the same atoms but different shapes
+        Smaller alkenes are gases at room temperature
+        Larger alkenes are liquids or waxy solids
+      Aromatic Hydrocarbons
+        Cyclic hydrocarbons with alternating single and double bonds
+        Smallest is benzene with one ring
+        Larger consist of two or more rings
+        Known for strong aroma
+      Alkynes
+        Contain one or more triple bonds
+        Name ends in -yne
+        Rarely occur in ring shapes
+        Smallest is ethyne (C2H2), also called acetylene
+    Chemical Formulas
+      Examples
+        CH4
+        C2H6
+        C3H8
+        C2H2
+    Properties
+      Carbon atoms form four covalent bonds
+      Unsaturated hydrocarbons cannot bond with as many hydrogen atoms

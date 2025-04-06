@@ -1,0 +1,37 @@
+mindmap
+  Climate and Latitude
+    Solar Radiation
+      Equator
+        Most solar radiation
+        Days equally long
+        Sun directly overhead
+      Poles
+        Least solar radiation
+        Six months of night
+        Sun low in the sky
+        Thick atmosphere
+        High albedo
+    Temperature
+      Importance of Latitude
+        Determines temperature
+        Exceptions exist
+      Regional Variations
+        Andes Mountains
+          Lower temperatures
+        Rocky Mountains
+          Lower temperatures
+        Gulf Stream
+          Warmer Western Europe
+    Precipitation
+      Latitude Effects
+        Regions of rising air
+        Regions of sinking air
+    Deserts
+      Sahara and American Southwest
+        Similar latitude
+      Polar Deserts
+        North and South Poles
+        Snow presence
+    Stormy Regions
+      60-degrees latitude
+        Forests and storms

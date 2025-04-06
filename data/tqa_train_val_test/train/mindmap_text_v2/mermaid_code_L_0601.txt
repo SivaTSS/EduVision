@@ -1,0 +1,42 @@
+mindmap
+  Microscopes
+    Purpose
+      Tool for magnifying small objects
+      Important in biology
+    Types
+      Light Microscopes
+        Uses lenses to focus light
+        Magnification up to 2000x
+      Transmission Electron Microscopes (TEM)
+        Uses electron beams
+        Magnification up to 2 million times
+      Scanning Electron Microscopes (SEM)
+        Scans surface with electron beams
+        Magnification from 10 to 500,000 times
+      Scanning Acoustic Microscopes
+        Uses sound waves for scanning
+    Historical Discoveries
+      Robert Hooke
+        Discovered cells in cork
+        Established cell theory
+      Antoine van Leeuwenhoek
+        Discovered bacteria and protists
+        Developed early microscopes
+    Usage
+      Employed by various scientists
+        Cell biologists
+        Microbiologists
+        Forensic scientists
+        Entomologists
+        Taxonomists
+    Microscope Handling
+      Compound Optical Microscope
+        Carrying procedure
+        Using powerful lenses
+      Dissecting Microscope
+        Light sources
+        Fixed vs adjustable ocular lens
+        Field of view and magnification
+      Electron Microscope
+        Differences from light microscope
+        Carrying procedure

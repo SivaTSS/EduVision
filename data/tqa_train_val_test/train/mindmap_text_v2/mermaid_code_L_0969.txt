@@ -1,0 +1,31 @@
+mindmap
+  Nonmetals
+    Definition
+      Elements that do not conduct electricity
+      Second largest class of elements
+    Properties
+      Low boiling points
+      Poor conductors of heat
+      Dull and brittle solids
+      Gases at room temperature
+    Examples
+      Hydrogen
+      Carbon
+      Chlorine
+      Helium
+    Reactivity
+      Varies among nonmetals
+      Depends on number of valence electrons
+      Reactive nonmetals gain electrons
+    Periodic Table Position
+      Located on the right side
+      More electrons in outer energy level
+    Comparison with Metals
+      Different properties from metals
+      Nonmetals are less reactive than metals
+    Valence Electrons
+      Electrons in outer energy level
+      Determine chemical reactivity
+      Example: Fluorine vs Neon
+        Fluorine is more reactive
+        Neon is stable and nonreactive

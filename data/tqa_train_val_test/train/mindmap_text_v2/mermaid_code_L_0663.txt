@@ -1,0 +1,32 @@
+mindmap
+  Respiratory System Health
+    Genetics of Lung Health
+      Research on lung disease
+      Areas of genome linked to COPD
+      Basic vs applied research
+    Smog and Health Effects
+      Unhealthy air days in Los Angeles
+      Health effects of smog
+      At-risk populations
+      Recommendations for unhealthy air days
+    Lifestyle Diseases
+      Definition of lifestyle diseases
+      Smoking and lifestyle diseases
+      Healthy choices for respiratory health
+    Preventing Respiratory Illness
+      Avoid smoking
+      Importance of exercise
+      Hand washing techniques
+      Vaccinations for prevention
+    Healthy Habits
+      Eating healthy foods
+      Importance of sleep
+      Daily activity benefits
+    Hygiene Practices
+      Hand washing frequency
+      Avoiding public places when sick
+      Covering mouth when coughing/sneezing
+    Vaccination Importance
+      Recommended vaccinations
+      Flu vaccine for high-risk groups
+      Seeking medical help for asthma

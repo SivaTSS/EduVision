@@ -1,0 +1,16 @@
+mindmap
+  Eye Function
+    Structure
+      Iris
+      Ciliary Muscle
+      Choroid
+      Vitreous Humor
+      Retina
+      Optic Nerve
+    Process
+      Light Reception
+      Signal Transmission
+    Importance
+      Vision
+      Depth Perception
+      Color Detection

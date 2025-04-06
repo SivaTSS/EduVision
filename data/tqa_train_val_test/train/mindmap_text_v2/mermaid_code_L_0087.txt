@@ -1,0 +1,34 @@
+mindmap
+  Weathering
+    Types of Weathering
+      Mechanical Weathering
+        Definition
+        Processes
+          Ice Wedging
+          Abrasion
+          Biological Elements
+      Chemical Weathering
+        Definition
+        Agents
+          Water
+          Carbon Dioxide
+          Oxygen
+    Effects of Weathering
+      Changes in Rock
+        Formation of Sediments
+        New Minerals
+      Impact on Environment
+        Soil Formation
+        Acid Rain
+    Factors Influencing Weathering
+      Rock Type
+        Igneous
+        Sedimentary
+      Climate
+        Arid Regions
+        Tropical Regions
+    Agents of Weathering
+      Water
+      Ice
+      Wind
+      Human Activity

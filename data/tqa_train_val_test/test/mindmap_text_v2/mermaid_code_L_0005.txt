@@ -1,0 +1,30 @@
+mindmap
+  Erosion and Deposition by Wind
+    Wind Erosion
+      Causes
+        Air movement
+        Abrasion
+      Effects
+        Dust storms
+        Erosion of soil
+    Sediments Deposited by Wind
+      Sand Dunes
+        Formation
+        Migration
+      Loess
+        Characteristics
+        Agricultural use
+    Prevention of Wind Erosion
+      Ground Cover
+        Plants
+        Trees
+      Barriers
+        Fences
+        Obstacles
+    Particle Transport
+      Clay and Silt
+        Suspension
+      Sand
+        Saltation
+      Pebbles
+        Traction

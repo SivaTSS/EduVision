@@ -1,0 +1,33 @@
+mindmap
+  Air Movement
+    Air Movement Definition
+      Wind
+      Local Winds
+        Influences
+          Geography
+          Ocean Proximity
+        Types
+          Land Breezes
+          Sea Breezes
+          Monsoons
+    Causes of Air Movement
+      Differences in Heating
+      Convection Currents
+      Pressure Differences
+    Global Winds
+      Definition
+      Causes
+        Unequal Heating
+        Coriolis Effect
+      Types
+        Trade Winds
+        Prevailing Westerlies
+        Polar Easterlies
+    Jet Streams
+      Definition
+      Characteristics
+      Polar Jets
+    Weather Effects
+      Temperature Differences
+      Cloud Formation
+      Precipitation

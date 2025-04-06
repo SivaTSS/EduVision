@@ -1,0 +1,18 @@
+mindmap
+  Distance
+    Definition
+      Length of route between two points
+    SI Unit
+      Meter (m)
+      Examples
+        Short distances: centimeters (cm)
+        Long distances: kilometers (km)
+    Measurement
+      Using maps
+        Scale to find distances
+        Example: Distance from Jordan's house to school is 2 kilometers
+    Race Distance
+      Length of track between starting and finishing lines
+      Example: 100-meter sprint
+    Starting Marks
+      Runners in different lanes have different starting marks

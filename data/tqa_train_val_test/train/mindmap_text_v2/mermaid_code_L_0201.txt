@@ -1,0 +1,36 @@
+mindmap
+  igneous rocks
+    formation
+      magma
+        melting
+          temperature
+          pressure
+          water
+          rock composition
+      crystallization
+        partial melting
+        fractional crystallization
+    types
+      extrusive
+        formation
+        signs
+      intrusive
+        formation
+        signs
+      pyroclastic
+        formation
+    Bowens Reaction Series
+      mineral crystallization
+      mineral melting
+      mineral associations
+    elements in magma
+      main elements
+        oxygen
+        silicon
+        aluminum
+        iron
+        calcium
+        sodium
+        potassium
+        magnesium
+      trace elements

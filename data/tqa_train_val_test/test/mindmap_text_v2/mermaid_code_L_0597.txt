@@ -1,0 +1,20 @@
+mindmap
+  Mendel's Laws and Genetics
+    Mendel's Experiment
+      Dominant Trait Source
+      Yellow Peas Breeding
+      9:3:3:1 Ratio Conclusion
+    Dominant vs Recessive Traits
+      Definition of Dominant Trait
+      Definition of Recessive Trait
+    Law of Segregation
+      Hereditary Factors
+      Gamete Formation
+      Offspring Factor Combination
+    F1 Generation Observations
+      TT and tt Cross
+      Purple and White Flower Cross
+    Genetic Crosses
+      Representation of Factors
+      Possible Combinations in F2 Generation
+      Probability of Offspring Traits

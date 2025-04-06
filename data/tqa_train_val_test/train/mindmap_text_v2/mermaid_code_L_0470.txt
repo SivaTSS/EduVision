@@ -1,0 +1,52 @@
+mindmap
+  Cancer
+    How Cancer Cells Grow and Divide
+      Oncogene
+      Receptors vs Normal Cells
+      Cancer Spread through Bloodstream
+    How Cancer Grows and Spreads
+      Genetic Mutations
+      Mutation Rates
+      Angiogenesis
+    Carcinogens
+      Definition
+      Examples
+        Tobacco Chemicals
+        UV Radiation
+        Asbestos
+    Causes of Cancer
+      Mutations
+      Pathogens
+        HPV
+        Hepatitis B
+      Chemicals
+        Tobacco Smoke
+        Asbestos
+        Formaldehyde
+        Benzene
+        Cadmium
+        Nickel
+      Radiation
+        UV Radiation
+        Radon
+    Types of Cancer
+      Adult Cancers
+        Prostate Cancer
+        Breast Cancer
+        Lung Cancer
+      Childhood Cancer
+        Leukemia
+    Treatment of Cancer
+      Surgery
+      Chemotherapy
+      Radiation Therapy
+      Importance of Early Detection
+    Warning Signs of Cancer
+      Change in Bowel or Bladder Habits
+      Sores that Do Not Heal
+      Unusual Bleeding or Discharge
+      Lump in Breast or Elsewhere
+      Chronic Indigestion
+      Difficulty Swallowing
+      Changes in Wart or Mole
+      Persistent Cough or Hoarseness

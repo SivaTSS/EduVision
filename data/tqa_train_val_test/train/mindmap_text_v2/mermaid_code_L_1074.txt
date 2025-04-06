@@ -1,0 +1,19 @@
+mindmap
+  Earth as a Magnet
+    William Gilbert
+      Demonstration in 1600s
+      Spherical magnet model
+      Compass behavior
+    Earth's Inner Structure
+      Solid inner core
+      Molten outer core
+      Seismographic data
+    Magnetic Field
+      North and south magnetic poles
+      Location of North Pole
+      Strength of magnetic field
+      Lines of magnetic force
+    Generation of Magnetic Field
+      Charged particles movement
+      Role of molten metals
+      Earth's rotation

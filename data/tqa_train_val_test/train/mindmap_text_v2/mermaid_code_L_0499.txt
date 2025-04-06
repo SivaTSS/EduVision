@@ -1,0 +1,44 @@
+mindmap
+  Diabetes
+    Definition
+      Non-infectious disease
+      Inability to control blood sugar
+    Types
+      Type 1 Diabetes
+        Causes
+          Immune system attacks pancreas
+        Characteristics
+          Pancreas cannot produce enough insulin
+          Develops in childhood/adolescence
+          Requires lifelong insulin shots
+      Type 2 Diabetes
+        Causes
+          Body cells insensitive to insulin
+          Often linked to obesity and high blood pressure
+        Characteristics
+          Develops in adulthood, increasingly in youth
+          Can sometimes be cured with weight loss
+    Symptoms
+      Common Symptoms
+        Frequent urination
+        Excessive thirst
+        Extreme hunger
+        Fatigue
+        Blurry vision
+        Slow healing of cuts
+        Weight loss (type 1)
+        Tingling or numbness (type 2)
+    Complications
+      Eye complications
+      Foot complications
+      Skin complications
+      High blood pressure
+      Hearing issues
+      Nerve damage
+      Kidney disease
+      Artery disease
+      Stroke
+    Risk Factors
+      Family history
+      Obesity
+      Sedentary lifestyle

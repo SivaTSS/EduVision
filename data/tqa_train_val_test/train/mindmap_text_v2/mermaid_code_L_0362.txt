@@ -1,0 +1,29 @@
+mindmap
+  Microscope
+    Definition
+      Instrument for magnifying small objects
+    Importance in Life Science
+      Key discoveries enabled by microscopes
+      Cell theory development
+      Observation of bacteria
+    History of Invention
+      First microscope by Hans and Zacharias Jansen
+      Robert Hooke's contributions
+        First to observe living things
+        Published Micrographia
+        Discovered cells in cork
+      Anton van Leeuwenhoek's advancements
+        Stronger microscopes
+        First to observe bacteria and other microorganisms
+    Types of Microscopes
+      Light Microscope
+        Uses lenses to refract light
+        Magnification up to 2000 times
+        Common in classrooms
+      Electron Microscope
+        Uses beams of electrons
+        Magnification up to 2 million times
+        Necessary for viewing objects smaller than 550 nanometers
+    Lab Safety
+      Importance of following safety rules
+      Common dangers in science labs

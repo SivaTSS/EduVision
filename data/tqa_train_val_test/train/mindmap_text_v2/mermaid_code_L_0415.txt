@@ -1,0 +1,40 @@
+mindmap
+  Matter Cycles
+    Biogeochemical Cycle
+      Definition
+      Components
+        Biotic
+        Abiotic
+    Water Cycle
+      Processes
+        Evaporation
+        Transpiration
+        Condensation
+        Precipitation
+      States of Water
+        Gas
+        Liquid
+        Solid
+      Importance
+    Carbon Cycle
+      Processes
+        Photosynthesis
+        Cellular Respiration
+        Decomposition
+      Major Reservoirs
+        Sedimentary Rocks
+        Fossil Fuels
+        Ocean
+      Major Exchange Pools
+        Organisms
+        Atmosphere
+    Nitrogen Cycle
+      Role of Bacteria
+        Nitrogen-Fixing
+        Nitrifying
+        Denitrifying
+      Assimilation
+      Importance of Nitrogen
+    Ecosystem Dynamics
+      Changes Over Time
+      Energy Flow vs Matter Recycling

@@ -1,0 +1,29 @@
+mindmap
+  Igneous Rocks
+    Formation
+      Intrusive
+        Location: Beneath Surface
+        Cooling: Slow
+        Crystals: Large
+        Other Names: Plutonic
+        Example: Granite
+      Extrusive
+        Location: Above Surface
+        Cooling: Rapid
+        Crystals: Small
+        Other Names: Volcanic
+        Example: Basalt
+    Textures
+      Intrusive
+        Visible Crystals
+        Porphyritic Texture
+      Extrusive
+        Tiny Crystals
+        Vesicular Texture
+        Glassy Texture
+    Comparisons
+      Granite vs Gabbro
+      Rhyolite vs Basalt
+    Obsidian
+      Formation: Rapid Cooling
+      Other Name: Volcanic Glass

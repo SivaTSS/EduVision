@@ -1,0 +1,31 @@
+mindmap
+  Metabolism and Biochemical Reactions
+    Biochemical Reactions
+      Definition
+        Chemical reactions in living organisms
+        Sum of reactions is metabolism
+    Categories of Reactions
+      Catabolic Reactions
+        Break bonds
+        Release energy
+        Example: complex carbohydrates to simple sugars
+      Anabolic Reactions
+        Form bonds
+        Absorb energy
+        Example: simple sugars to complex carbohydrates
+    Role of Enzymes
+      Definition
+        Proteins that increase reaction rates
+      Function
+        Reduce activation energy
+        Not changed in reactions
+        Highly specific and efficient
+    Photosynthesis and Cellular Respiration
+      Photosynthesis
+        Converts light energy to chemical energy
+        Reactants: CO2 and H2O
+        Products: O2 and glucose
+      Cellular Respiration
+        Releases energy from glucose
+        Reactants: O2 and glucose
+        Products: CO2, H2O, and energy

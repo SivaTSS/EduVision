@@ -1,0 +1,41 @@
+mindmap
+  Digestive System
+    Major Organs
+      Mouth
+      Esophagus
+      Stomach
+      Small Intestine
+      Large Intestine
+    Functions
+      Digestion
+        Mechanical Digestion
+        Chemical Digestion
+      Absorption
+      Elimination
+    Digestive Processes
+      Digestion
+        Begins in Mouth
+        Continues in Stomach
+        Most in Small Intestine
+      Absorption
+        Nutrients into Blood
+        Role of Villi
+    Enzymes
+      Role in Digestion
+      Examples
+        Amylase
+        Pepsin
+        Lipase
+        Ribonuclease
+    Large Intestine Functions
+      Water Absorption
+      Role of Intestinal Bacteria
+        Produce Vitamins
+        Control Harmful Bacteria
+    Digestive Problems
+      Foodborne Illness
+        Prevention Methods
+      Food Allergies
+        Common Allergens
+        Symptoms
+        Prevention

@@ -1,0 +1,41 @@
+mindmap
+  saturated hydrocarbons
+    definition
+      single bonds between carbon atoms
+      simplest class of hydrocarbons
+      saturated with hydrogen
+    example
+      ethane
+        chemical formula C2H6
+        structural formula
+          dashes represent single covalent bonds
+    general name
+      alkanes
+        name ends in -ane
+        smallest alkane methane
+          one carbon atom
+        next largest ethane
+          two carbon atoms
+    properties
+      boiling and melting points
+        determined by number of carbon atoms
+        higher temperatures with more carbon atoms
+      states at 20 C
+        methane gas
+        ethane gas
+        propane gas
+        butane gas
+        pentane liquid
+        hexane liquid
+        heptane liquid
+        octane liquid
+    structural formulas
+      representation of hydrocarbon compounds
+      shapes of molecules
+        straight-chain
+          carbon atoms lined up
+        branched-chain
+          carbon atoms branch off
+        cyclic
+          carbon atoms form a ring
+          higher boiling and melting points

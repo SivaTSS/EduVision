@@ -1,0 +1,32 @@
+mindmap
+  Solar Energy on Earth
+    Infrared Light
+      Definition
+      Sensing Infrared
+      Tools to See Infrared
+      Interaction with Earth
+      Heating Lower Atmosphere
+      Earth's Radiation Budget
+      Effects of Imbalance
+      Near Infrared Measurement
+      Insights from Studying Infrared
+    Ultraviolet Waves
+      Definition
+      Regions of Ultraviolet Waves
+        UVC
+        UVB
+        UVA
+      Effects of UVB
+      UVC and Life
+      Discoveries with Ultraviolet Waves
+    Solar Radiation
+      Energy Sources
+      Wavelength Distribution
+        Visible Light
+        Ultraviolet
+        Infrared
+      Atmospheric Filtering
+        Ozone
+        O2
+        CO2
+        H2O

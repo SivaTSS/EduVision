@@ -1,0 +1,25 @@
+mindmap
+  Scientific Law
+    Definition
+      Statement describing what always happens under certain conditions
+    Examples
+      Newton's Laws of Motion
+        First Law
+        Second Law
+        Third Law
+      Other Laws
+        Law of Universal Gravitation
+        Law of Conservation of Mass
+        Law of Conservation of Energy
+        Law of Conservation of Momentum
+    Differences
+      Scientific Law vs Scientific Theory
+        Laws state what happens
+        Theories explain why it happens
+    Practical Applications
+      Predicting outcomes
+        Example: Hitting a softball
+    Limitations
+      Do not explain why things happen
+    Comparisons
+      Scientific Laws vs Traffic Laws

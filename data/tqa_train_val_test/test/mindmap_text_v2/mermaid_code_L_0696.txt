@@ -1,0 +1,25 @@
+mindmap
+  Evolution
+    Chimpanzees
+      Are we descended from chimpanzees?
+      Richard Dawkins
+    Evolutionary Tree
+      Purpose
+      Visualization of relationships
+      Common ancestors
+      Branches and twigs
+    Rate of Evolution
+      Gradual process
+      Generation time
+      Examples
+        Giraffe neck evolution
+        Galapagos finches
+        Whales from land mammals
+        Bacteria evolution speed
+    Great Apes
+      Five species
+    Historical Figures
+      Charles Darwin
+        Idea of evolutionary tree
+      Ernst Haeckel
+        Tree of Life version

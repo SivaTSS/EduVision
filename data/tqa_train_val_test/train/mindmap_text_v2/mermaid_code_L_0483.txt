@@ -1,0 +1,50 @@
+mindmap
+  Central Nervous System
+    Brain
+      Parts
+        Cerebrum
+          Functions
+            Problem-solving
+            Speech
+            Voluntary movements
+          Hemispheres
+            Right Hemisphere
+              Controls left side of body
+            Left Hemisphere
+              Controls right side of body
+          Lobes
+            Frontal
+              Functions
+                Speech
+                Thinking
+                Touch
+            Parietal
+              Functions
+                Speech
+                Taste
+                Reading
+            Temporal
+              Functions
+                Hearing
+                Smell
+            Occipital
+              Functions
+                Sight
+        Cerebellum
+          Functions
+            Body position
+            Coordination
+            Balance
+        Brain Stem
+          Functions
+            Breathing
+            Heartbeat
+            Digestion
+            Communication with spinal cord
+    Spinal Cord
+      Structure
+        Tube-shaped bundle of neurons
+        Protected by vertebrae
+      Functions
+        Carries nerve impulses
+        Two-way communication between body and brain

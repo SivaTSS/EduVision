@@ -1,0 +1,42 @@
+mindmap
+  Punnett Squares
+    Punnett Square Calculator
+      Cross Aa x Aa
+        Genotype Ratio
+        Phenotype Ratio
+      Cross AABb x Aabb
+        Genotype Ratio
+        Phenotype Ratio
+      Cross AAbb x aabb
+        Genotype Ratio
+        Phenotype Ratio
+    Pea Plant Genetics
+      Yellow Seeds Dominance
+        Cross yy x YY
+          Offspring Ratio
+        Cross Yy x Yy
+          Offspring Ratio
+    Guinea Pig Genetics
+      Smooth Coat Dominance
+        Cross SS x ss
+          Offspring Ratio
+        Cross Ss x ss
+          Offspring Ratio
+    Definition and Purpose
+      Tool for Predicting Offspring
+      Based on Probability
+    Steps to Create a Punnett Square
+      Factors from First Parent
+      Factors from Second Parent
+      Fill in the Boxes
+      Analyze Results
+    Example Cross
+      Cross Between Bb x Bb
+        Offspring Results
+          BB - Purple Flowers
+          Bb - Purple Flowers
+          bb - White Flowers
+        Dominant Trait
+    Practice Problem
+      Cross bb x Bb
+        Offspring Ratios

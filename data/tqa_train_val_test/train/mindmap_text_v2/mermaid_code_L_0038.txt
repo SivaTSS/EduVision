@@ -1,0 +1,48 @@
+mindmap
+  Modeling Earth's Surface
+    Maps
+      Types of Maps
+        Road Maps
+        Political Maps
+        Satellite View Maps
+        Relief Maps
+        Topographic Maps
+        Climate Maps
+        Weather Maps
+        Geologic Maps
+      Information Conveyed
+        Location
+        Features of Areas
+    Map Projections
+      Mercator Projection
+        Advantages
+          Good for Navigation
+          Straight Compass Directions
+        Disadvantages
+          Distortion Near Poles
+          Size Misrepresentation
+      Robinson Projection
+        Advantages
+          Accurate Shapes and Sizes
+          Better Representation Near Equator
+        Disadvantages
+          Scale Variability
+      Conic Projection
+        Best for Polar Regions
+      Gnomonic Projection
+        Best for Small Areas
+    Globes
+      Advantages
+        Accurate Representation
+        True Distances
+      Disadvantages
+        Difficult to Carry
+        Limited Detail
+    Geographic Coordinate System
+      Latitude
+        Equator
+      Longitude
+        Prime Meridian
+    Orienteering
+      Use of Maps and Compasses
+      Polar Coordinates

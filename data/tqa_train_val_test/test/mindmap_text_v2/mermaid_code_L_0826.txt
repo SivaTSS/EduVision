@@ -1,0 +1,17 @@
+mindmap
+  Charles's Law
+    Temperature and Volume
+      Increasing Temperature
+        Increases Volume
+      Decreasing Temperature
+        Decreases Volume
+    Historical Context
+      Jacques Charles
+      Joseph Gay-Lussac
+      Robert Boyle
+    Experiments
+      Constant Pressure
+      Heating Air
+      Measuring Volume Changes
+    Applications
+      Hot Air Balloons

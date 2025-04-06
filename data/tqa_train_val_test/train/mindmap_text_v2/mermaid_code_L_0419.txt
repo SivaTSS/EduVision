@@ -1,0 +1,55 @@
+mindmap
+  Natural Resources
+    Definition
+      Natural resource as a life support
+    Types
+      Renewable
+        Examples
+          Sunlight
+          Wind
+          Living things
+        Characteristics
+          Remade quickly
+          Sustainable use
+      Nonrenewable
+        Examples
+          Fossil fuels
+          Soil
+          Uranium
+        Characteristics
+          Cannot be remade quickly
+          Environmental impact
+    Energy Resources
+      Nonrenewable
+        Fossil fuels
+          Coal
+          Oil
+          Natural gas
+        Nuclear energy
+      Renewable
+        Solar energy
+        Wind energy
+        Biomass energy
+    Conservation Methods
+      Reduce
+        Tips
+          Use public transit
+          Buy only what you need
+          Use energy-efficient appliances
+      Reuse
+        Tips
+          Mend broken items
+          Use reusable bags
+          Reuse gift wrap
+      Recycle
+        Items to recycle
+          Glass
+          Paper
+          Plastic
+          Electronics
+        Composting
+    Biodiversity
+      Importance
+        Ecosystem support
+      Threats
+        Overuse of living resources

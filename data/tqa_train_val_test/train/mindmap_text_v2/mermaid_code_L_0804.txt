@@ -1,0 +1,24 @@
+mindmap
+  Atomic Number
+    Definition
+      Number of protons in an atom
+      Unique for each element
+    Importance
+      Distinguishes elements
+      Determines atomic properties
+      Indicates number of electrons
+    Atomic Mass Unit
+      Represents mass of an atom
+      Equals total number of protons and neutrons
+      1 amu approximately equal to mass of a proton
+    Isotopes
+      Atoms with same protons, different neutrons
+      Different mass numbers
+      Example: Helium with 2 or 3 neutrons
+    Mass Number
+      Total of protons and neutrons
+      Varies among isotopes
+      Example: Carbon isotope with 7 neutrons has mass number 13
+    Element Symbols
+      Unique one-, two-, or three-letter symbols
+      Example: H for hydrogen, C for carbon, He for helium

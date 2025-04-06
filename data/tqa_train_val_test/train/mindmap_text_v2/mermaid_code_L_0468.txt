@@ -1,0 +1,34 @@
+mindmap
+  Blood Vessels
+    Types of Blood Vessels
+      Arteries
+        Carry blood away from the heart
+        Largest artery: Aorta
+        Branch into smaller arteries and capillaries
+      Veins
+        Return blood to the heart
+        Superior vena cava
+        Inferior vena cava
+        Only veins that carry oxygen-rich blood: Pulmonary veins
+      Capillaries
+        Smallest blood vessels
+        Connect arteries and veins
+        Exchange gases and substances
+    Structure and Function
+      Arteries vs Veins
+        Arteries have thicker walls
+        Veins have valves
+      Endothelium
+        Tissue lining blood vessels
+        Present in arteries and veins
+    Circulation
+      Pulmonary Circulation
+        Carries oxygen-poor blood to lungs
+        Returns oxygen-rich blood to heart
+      Systemic Circulation
+        Carries oxygen-rich blood to body
+        Returns oxygen-poor blood to heart
+    Heart Function
+      Two separate pumps
+        Right side: pumps deoxygenated blood
+        Left side: pumps oxygenated blood

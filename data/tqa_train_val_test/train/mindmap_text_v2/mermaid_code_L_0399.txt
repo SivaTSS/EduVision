@@ -1,0 +1,42 @@
+mindmap
+  Senses
+    Vision
+      Definition
+      Eye Function
+        Cornea
+        Pupil
+        Lens
+        Retina
+          Rods
+          Cones
+        Optic Nerve
+      Vision Problems
+        Myopia
+        Hyperopia
+        Correction
+    Hearing
+      Ear Function
+        Sound Waves
+        Auditory Nerve
+        Balance
+          Semicircular Canals
+    Touch
+      Sensation Types
+        Pain
+        Pressure
+        Temperature
+      Neurons in Skin
+    Taste
+      Taste Buds
+      Taste Types
+        Sweet
+        Salty
+        Sour
+        Bitter
+        Umami
+    Smell
+      Olfactory Neurons
+      Role in Taste
+    Other Senses
+      Balance
+      Body Position

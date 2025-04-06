@@ -1,0 +1,22 @@
+mindmap
+  Field Study
+    Definition
+      Evidence gathered in real world
+      Investigates the environment
+    Importance
+      Learn about the environment
+      Measurements and observations in real world
+    Examples
+      Collecting river water samples
+      Testing for pollution
+    Types of Pollution
+      Point-source pollution
+        Single source (e.g., wastewater pipe)
+      Nonpoint-source pollution
+        Runoff rainwater
+        Pollutants enter everywhere
+    Comparison of Samples
+      Nonpoint-source
+        Similar pollutants across samples
+      Point-source
+        One sample may be polluted

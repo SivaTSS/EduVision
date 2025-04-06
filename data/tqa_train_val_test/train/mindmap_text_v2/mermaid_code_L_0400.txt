@@ -1,0 +1,45 @@
+mindmap
+  Endocrine System
+    Definition
+      System of glands
+      Releases hormones into bloodstream
+    Hormones
+      Chemical messengers
+      Travel slowly compared to nerve impulses
+      Affect target cells
+    Glands
+      Hypothalamus
+        Connects nervous and endocrine systems
+        Secretes hormones to pituitary
+      Pituitary Gland
+        Master gland
+        Controls other endocrine glands
+        Secretes various hormones
+      Thyroid Gland
+        Secretes thyroxin
+        Regulates metabolism
+      Adrenal Glands
+        Secrete adrenaline
+        Respond to emergencies
+      Pancreas
+        Secretes insulin
+        Regulates glucose levels
+      Gonads
+        Testes (male)
+          Secrete testosterone
+        Ovaries (female)
+          Secrete estrogen
+    Target Cells
+      Specific cells affected by hormones
+      Have proteins for hormone binding
+    Hormone Regulation
+      Negative feedback loops
+        Control hormone secretion
+        Example: Thyroid hormone regulation
+    Diseases
+      Hypothyroidism
+        Insufficient hormone secretion
+      Gigantism
+        Excess growth hormone
+      Type 1 Diabetes
+        Immune system attacks insulin-producing cells

@@ -1,0 +1,91 @@
+mindmap
+  Diseases of the Nervous System
+    Neurological Disorders
+      Examples
+        Encephalitis
+        Meningitis
+        Cerebral Palsy
+        Epilepsy
+        Migraines
+        Tumors
+      Deficits
+        Movement
+        Coordination
+        Sensation
+        Cognition
+      Strokes
+        Blood Supply Impact
+        Signs of TIA
+          Weakness
+          Speech Difficulty
+          Vision Problems
+      Meningitis
+        Symptoms
+          Fever
+          Headache
+          Stiff Neck
+        Treatment
+          Antibiotics for Bacterial
+          Vaccine Availability
+      Reyes Syndrome
+        Risk with Aspirin
+        Symptoms
+          Brain Swelling
+          Potential Fatality
+      Tumors
+        Types
+          Benign
+          Malignant
+        Symptoms
+          Headaches
+          Speech Issues
+      Cerebral Palsy
+        Causes
+          Brain Injury
+        Symptoms
+          Muscle Weakness
+          Movement Difficulties
+      Epilepsy
+        Causes
+          Infections
+          Injuries
+          Tumors
+        Symptoms
+          Seizures
+      Headaches
+        Types
+          Tension Headaches
+            Causes
+              Muscle Tension
+            Relief
+              Relaxation
+              Pain Relievers
+          Migraines
+            Triggers
+              Foods
+              Light
+              Weather
+            Symptoms
+              Nausea
+              Severe Pain
+      Other Diseases
+        Multiple Sclerosis
+          Cause
+            Immune System Attack
+          Symptoms
+            Muscle Weakness
+            Coordination Issues
+        Huntington's Disease
+          Cause
+            Genetic Mutation
+          Symptoms
+            Jerky Movements
+            Memory Loss
+        Parkinson's Disease
+          Symptoms
+            Shaking
+            Slowed Movements
+        Alzheimer's Disease
+          Symptoms
+            Memory Loss
+            Mood Swings

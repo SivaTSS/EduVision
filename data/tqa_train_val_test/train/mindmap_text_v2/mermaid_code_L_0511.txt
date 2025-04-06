@@ -1,0 +1,41 @@
+mindmap
+  Enzymes in the Digestive System
+    Digestive Enzymes
+      Amylase
+        Secreted in mouth
+        Breaks down starch into sugars
+      Pepsin
+        Produced in stomach
+        Breaks down proteins into amino acids
+      Trypsin
+        Produced in pancreas
+        Breaks down proteins
+      Pancreatic Lipase
+        Produced in pancreas
+        Breaks apart fats
+      Nucleases
+        Deoxyribonuclease
+        Ribonuclease
+        Break down nucleic acids
+      Bile Salts
+        Made in liver
+        Break down fats
+    Role of Enzymes
+      Speed up chemical digestion
+      Specific for reactions
+      Reusable like tools
+    Hormones in Digestion
+      Chemical messengers
+      Regulate digestive processes
+      Examples
+        Gastrin
+          Signals gastric acid secretion
+        Cholecystokinin
+          Signals pancreatic enzyme secretion
+        Secretin
+          Signals water and bicarbonate secretion
+        Ghrelin
+          Signals hunger
+        Gastric Inhibitory Polypeptide
+          Decreases gastric secretion
+          Releases insulin

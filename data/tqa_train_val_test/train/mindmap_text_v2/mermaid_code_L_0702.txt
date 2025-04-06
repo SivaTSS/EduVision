@@ -1,0 +1,35 @@
+mindmap
+  Echinoderms
+    Types
+      Eleutherozoa
+        Starfish
+        Brittle Stars
+        Sea Urchins
+        Sand Dollars
+        Sea Cucumbers
+      Pelmatozoa
+        Crinoids
+          Feather Stars
+          Sea Lilies
+    Characteristics
+      Movement
+        Tube Feet
+        Water Vascular System
+      Feeding
+        Capture Prey
+        Bottom Feeders
+    Habitat
+      Ocean Environments
+        Reefs
+        Deep Ocean
+        Shallow Waters
+      Distribution
+        Global Presence
+        No Freshwater
+        No Land Species
+    Examples
+      Four Main Classes
+        Asteroidea
+        Ophiuroidea
+        Echinoidea
+        Holothuroidea

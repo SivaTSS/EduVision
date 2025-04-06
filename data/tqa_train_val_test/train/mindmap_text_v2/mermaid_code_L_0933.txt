@@ -1,0 +1,18 @@
+mindmap
+  Kinetic Energy
+    Definition
+      Energy of moving matter
+      Anything moving has kinetic energy
+    Factors Affecting Kinetic Energy
+      Mass
+      Velocity
+    Calculation
+      KE = 1/2 mass velocity^2
+      Increase in velocity increases KE more than mass
+    Examples
+      Bowling ball at 4 m/s, 7 kg
+      Juan running at 1 m/s, 40 kg
+      Juan's dad at 1 m/s, 80 kg
+    Units
+      Joules (J)
+      1 Joule = 1 Newton meter

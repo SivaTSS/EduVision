@@ -1,0 +1,33 @@
+mindmap
+  Groundwater Aquifers
+    Water Infiltration
+      Surface water
+      Tiny spaces in rock
+    Recharge Zone
+      Water table
+      Groundwater rise and fall
+    Artesian Zone
+      Hydrologic pressure
+    Wells
+      Location
+      Extraction methods
+        Motorized pumps
+        Manual buckets
+    Confined Aquifer
+      Characteristics
+    Saline Water Zone
+    Pollution
+      Types of pollutants
+        Point source
+        Non-point source
+      Causes of pollution
+      Prevention methods
+    Water Table
+      Effects of wet years
+      Effects of dry years
+    Rock Characteristics
+      Porosity
+      Permeability
+    Springs
+      Constant flow
+      Seasonal flow

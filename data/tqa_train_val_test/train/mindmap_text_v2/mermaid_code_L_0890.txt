@@ -1,0 +1,17 @@
+mindmap
+  Endothermic Reactions
+    Definition
+      Description: Chemical reaction needing more energy to break bonds in reactants than released in products
+      Energy Input: Constant input of energy, often heat, required
+    Temperature
+      Product Temperature: Typically lower than reactants
+      Reason: More energy needed to break bonds than released
+    Examples
+      Photosynthesis
+        Equation: 6 CO2 + 6 H2 O -> C6 H12 O6 + 6 O2
+        Energy Source: Light energy required
+      Instant Cold Pack
+        Mechanism: Water mixes with chemical, causing endothermic reaction
+        Effect: Water gets colder as reaction proceeds
+    Comparison
+      Exothermic Reactions: More energy released in products than needed to break bonds in reactants

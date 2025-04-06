@@ -1,0 +1,23 @@
+mindmap
+  Transfer of Electric Charge
+    Charge Transfer Mechanisms
+      Conduction
+        Direct contact
+        Example: Van de Graaff generator
+        Example: Walking on wool carpet
+      Polarization
+        Movement of electrons within neutral objects
+        Example: Touching a metal doorknob
+      Friction
+        Electrons transferred between materials
+        Example: Rubbing balloon against hair
+    Ions
+      Cations
+        Positively charged ions
+        Formed by loss of electrons
+      Anions
+        Negatively charged ions
+        Formed by gain of electrons
+    Law of Conservation of Charge
+      Total charge remains constant
+      Electrons move but are not destroyed

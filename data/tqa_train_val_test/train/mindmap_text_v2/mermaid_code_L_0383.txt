@@ -1,0 +1,36 @@
+mindmap
+  Introduction to the Human Body
+    Organ Systems
+      Circulatory System
+      Respiratory System
+      Digestive System
+      Nervous System
+      Skeletal System
+      Muscular System
+    Levels of Organization
+      Cells
+      Tissues
+        Connective Tissue
+        Epithelial Tissue
+        Muscle Tissue
+        Nervous Tissue
+      Organs
+      Organ Systems
+    Homeostasis
+      Definition
+      Examples
+        Insulin Response
+        Water Regulation
+      Importance
+        Maintaining Balance
+        Consequences of Disruption
+    Specialized Cells
+      Bone Cells
+      Surface Skin Cells
+      Nerve Cells
+      Skeletal Muscle Cells
+    Tissue Functions
+      Connective Tissue Functions
+      Epithelial Tissue Functions
+      Muscle Tissue Functions
+      Nervous Tissue Functions

@@ -1,0 +1,28 @@
+mindmap
+  Echinoderms
+    Characteristics
+      Radial symmetry
+      Endoskeleton
+      Water vascular system
+      Regeneration
+    Examples
+      Sea stars
+      Sea urchins
+      Sea cucumbers
+    Feeding Strategies
+      Passive filter-feeders
+      Grazers
+      Deposit feeders
+      Active hunters
+    Organ Systems
+      Simple digestive system
+      Open circulatory system
+      Nerve net
+    Reproduction
+      External fertilization
+      Internal fertilization
+      Parental care
+    Unique Traits
+      Muscles of sea stars
+      Eyes on sea stars
+      Eversion of stomach in Pycnopodia

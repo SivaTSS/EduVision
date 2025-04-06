@@ -1,0 +1,33 @@
+mindmap
+  Earths Shape
+    Reasons for Spherical Earth
+      #1 Reason
+      #2 Reason
+      #3 Reason
+      #4 Reason
+      #5 Reason
+      #6 Reason
+      #7 Reason
+      #8 Reason
+      #9 Reason
+      #10 Reason
+    Evidence from Ancient Greeks
+      Lunar Eclipse Shadow
+      Boat Disappearing Horizon
+    Hemispheres
+      Northern Hemisphere
+      Southern Hemisphere
+      Eastern Hemisphere
+      Western Hemisphere
+    Earth's Shape
+      Sphere
+      Oblate Spheroid
+      Major Axis
+      Minor Axis
+    Observations
+      Ship Experiment
+      Sun and Planets
+      Spherical Satellites
+    Earth's Curvature
+      Objects Below Arc
+      Distance Effect

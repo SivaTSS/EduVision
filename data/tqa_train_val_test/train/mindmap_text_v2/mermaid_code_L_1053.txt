@@ -1,0 +1,28 @@
+mindmap
+  Transition Metals
+    What are transition metals
+      Groups 3-12 of periodic table
+      More than half of all elements
+    Properties of transition metals
+      Superior conductors of electricity and heat
+      Luster, malleability, ductility
+      High melting and boiling points
+      High density
+      Generally solid at room temperature (except mercury)
+      Colorful compounds
+    Differences from other metals
+      Less reactive than alkali metals (group 1)
+      Less reactive than alkaline Earth metals (group 2)
+      Resist corrosion
+    Unique characteristics
+      Use of electrons in next to highest and highest energy levels
+      Similar properties with different valence electrons
+      Produce magnetic fields (iron, cobalt, nickel)
+    Lanthanides and actinides
+      Lanthanides
+        Follow lanthanum (La)
+        Relatively reactive
+      Actinides
+        Follow actinium (Ac)
+        Radioactive
+        Often made in laboratories

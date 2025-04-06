@@ -1,0 +1,32 @@
+mindmap
+  protein synthesis
+    blueprints
+      DNA instructions
+      RNA copies
+    RNA structure and functions
+      types of RNA
+        messenger RNA
+        ribosomal RNA
+        transfer RNA
+    genetic code
+      codons
+      characteristics
+    protein synthesis process
+      transcription
+        occurs in nucleus
+        DNA to mRNA
+      translation
+        occurs at ribosome
+        mRNA to protein
+    mutations
+      causes
+        replication errors
+        environmental factors
+      effects
+        neutral
+        beneficial
+        harmful
+      types
+        chromosomal mutations
+        frameshift mutations
+        point mutations

@@ -1,0 +1,47 @@
+mindmap
+  Vitamins and Minerals
+    Importance
+      Calcium
+        Importance for teenagers
+        Sources
+      Iron
+        Importance in diet
+        Vitamin that helps utilize iron
+      Vitamin D
+        Importance for teenagers
+        Sources
+    Vitamins
+      Definition
+      Types
+        Vitamin A
+          Role: Good vision
+        Vitamin B9
+          Role: Red blood cell formation
+        Vitamin K
+          Role: Blood clotting
+    Minerals
+      Definition
+      Types
+        Calcium
+          Role: Strong bones and teeth
+        Phosphorus
+          Role: Strong bones and teeth
+        Potassium
+          Role: Muscle and nerve function
+    Sources
+      Vitamins
+        Whole grains
+        Vegetables
+        Fruits
+        Milk
+      Minerals
+        Milk
+        Leafy green vegetables
+        Whole grains
+    Health Issues
+      Vitamin Deficiency
+        Scurvy from low vitamin C
+      Mineral Deficiency
+        Osteoporosis from low calcium
+      Excess Minerals
+        High blood pressure from excess sodium

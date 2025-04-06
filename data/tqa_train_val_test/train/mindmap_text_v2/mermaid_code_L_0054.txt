@@ -1,0 +1,40 @@
+mindmap
+  Moon
+    Atmosphere
+      No atmosphere
+      Extreme temperatures
+    Formation
+      Collision with Mars-sized planet
+    Features
+      Crust
+        Thicker on near side
+        Composition
+          Igneous rock
+          Elements: oxygen, silicon, magnesium, aluminum
+      Mantle
+        Similar to Earth's mantle
+      Core
+        Small metallic core
+        Composition: iron, sulfur, nickel
+    Surface
+      Maria
+        Dark areas
+        Formed from lava
+        Covers 16% of surface
+      Terrae
+        Light highlands
+        Higher than maria
+      Craters
+        Caused by asteroid impacts
+        Remain unchanged
+    Gravity
+      Weaker than Earth
+      Effects on weight
+    Exploration
+      Apollo missions (1969-1972)
+      Samples returned
+      No visits since 1972
+    Comparisons with Earth
+      Similarities and differences
+      Effects of Moon's absence
+      Landscape changes over time

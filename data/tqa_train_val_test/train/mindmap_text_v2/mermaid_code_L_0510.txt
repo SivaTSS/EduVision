@@ -1,0 +1,19 @@
+mindmap
+  Energy Pyramids
+    Types of Ecological Pyramids
+      Numbers Pyramid
+      Biomass Pyramid
+      Energy Pyramid
+    Energy Transfer
+      Energy Loss as Heat
+      10% Rule
+    Trophic Levels
+      Definition of Trophic Level
+      Limitations on Number of Trophic Levels
+    Energy Flow in Food Chain
+      Producers
+      Herbivores
+      Carnivores
+    Example of Energy Pyramid
+      Four Trophic Levels
+      Role of Phytoplankton

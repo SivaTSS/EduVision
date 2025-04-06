@@ -1,0 +1,33 @@
+mindmap
+  Population Growth Limitations
+    Limiting Factors
+      Definition
+      Examples
+        Low Food Supply
+        Lack of Space
+        Light
+        Water
+        Nutrients
+        Oxygen
+        Disease
+        Temperature
+        Predation
+        Weather
+        Human Activities
+          Pesticides
+          Herbicides
+          Habitat Destruction
+    Population Growth Types
+      Exponential Growth
+        Characteristics
+        J-shaped Curve
+      Logistic Growth
+        Characteristics
+        S-shaped Curve
+        Carrying Capacity
+          Definition
+          Impact of Limiting Factors
+    Effects of Limiting Factors
+      Lower Birth Rates
+      Increased Death Rates
+      Emigration

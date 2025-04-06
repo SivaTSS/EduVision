@@ -1,0 +1,33 @@
+mindmap
+  Jupiter
+    Composition
+      Hydrogen
+      Helium
+      Rocky core
+    Atmosphere
+      Great Red Spot
+        Storm characteristics
+        Duration
+      Cloud bands
+        Ammonia clouds
+        Turbulent storms
+    Moons
+      Europa
+        Potential for life
+        Liquid ocean
+        Heat source
+      Galilean moons
+        Io
+        Ganymede
+        Callisto
+      Total moons
+        63 discovered
+    Size and Brightness
+      Largest planet
+      Volume and mass comparison
+      Distance from Earth
+      Brightness in night sky
+    Exploration
+      Voyager missions
+      Planned missions to Europa
+      Ring system

@@ -1,0 +1,41 @@
+mindmap
+  Carbohydrate Classification
+    Carbohydrates
+      Definition
+        Biochemical compounds
+        Include sugars, starches, cellulose
+        Contain carbon, hydrogen, oxygen
+        Main energy source for living things
+    Sugars
+      Simple carbohydrates
+      Examples
+        Glucose
+        Fructose
+        Sucrose
+      Characteristics
+        Few carbon atoms
+        Produced by photosynthesis
+        Isomers
+    Starches
+      Complex carbohydrates
+      Definition
+        Polymers of glucose
+      Function
+        Energy storage in plants
+        Broken down to sugar for energy
+      Sources
+        Potatoes
+        Cereal
+        Pasta
+        Bread
+        Oatmeal
+    Cellulose
+      Complex carbohydrate
+      Definition
+        Polymer of glucose
+      Structure
+        Bundles into long fibers
+      Function
+        Makes up cell walls of plants
+        Provides dietary fiber
+        Not digestible by humans

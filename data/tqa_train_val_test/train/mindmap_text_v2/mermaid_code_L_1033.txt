@@ -1,0 +1,32 @@
+mindmap
+  Visible Light
+    Definition
+      Wavelengths detectable by human eye
+      Importance for survival
+    Incandescence
+      Definition
+      Examples
+        Sun
+        Incandescent light bulbs
+        Flames
+    Luminescence
+      Definition
+      Types
+        Fluorescence
+          Process
+          Examples
+            Gemstones
+        Electroluminescence
+          Process
+          Examples
+            Neon lights
+        Bioluminescence
+          Process
+          Examples
+            Jellyfish
+            Fireflies
+    Illumination
+      Definition
+      Examples
+        Moon
+        Objects reflecting light

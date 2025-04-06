@@ -1,0 +1,22 @@
+mindmap
+  Ionic Compounds
+    Predicting Ions
+      Ion Charges
+      Element Types
+    Formula Representation
+      Ionic Formula
+      Example: Calcium Chloride
+    Properties of Ionic Compounds
+      Crystalline Structure
+      High Melting and Boiling Points
+      Conductivity in Water
+      Brittleness
+    Naming Ionic Compounds
+      Positive Ion First
+      Example: Sodium Chloride
+    Formation of Ionic Compounds
+      Electron Transfer
+      Metal and Nonmetal Interaction
+    Uses of Ionic Compounds
+      Industrial Applications
+      Biological Importance

@@ -1,0 +1,53 @@
+mindmap
+  Mammals
+    Traits
+      Fur or Hair
+      Mammary Glands
+      Complex Brain
+      Specialized Ears
+      Varied Teeth
+      Alveoli in Lungs
+      Sweat Glands
+    Body Temperature Regulation
+      Heat Generation
+        High Metabolism
+        Shivering
+      Heat Conservation
+        Insulating Fur
+        Layer of Fat
+      Heat Loss
+        Increased Blood Flow
+        Sweating
+        Panting
+    Diet Variation
+      Herbivores
+        Examples: Rabbits, Deer, Manatees
+      Carnivores
+        Examples: Wolves, Whales, Hyenas
+      Omnivores
+        Examples: Bears, Humans, Chimpanzees
+        Frugivores
+    Reproductive Methods
+      Monotremes
+        Egg-laying
+        Examples: Platypus, Echidna
+      Marsupials
+        Pouch Development
+        Examples: Kangaroos, Koalas
+      Placental Mammals
+        Live Birth
+        Examples: Humans, Deer
+    Classification
+      Subclasses
+        Monotremes
+        Marsupials
+        Placental Mammals
+      Orders
+        Insectivora
+        Chiroptera
+        Carnivora
+        Rodentia
+        Lagomorpha
+        Artiodactyla
+        Cetacea
+        Primates

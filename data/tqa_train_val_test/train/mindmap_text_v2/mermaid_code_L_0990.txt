@@ -1,0 +1,25 @@
+mindmap
+  Acids
+    Definition
+      Ionic compounds
+      Produce hydrogen ions
+    Properties
+      Sour taste
+      Conduct electricity
+      React with metals
+    Detection
+      Indicators
+        Litmus
+        Red cabbage juice
+      pH scale
+        Less than 7 indicates acid
+        Stronger acids have lower pH
+    Reactions
+      Hydrochloric acid with zinc
+        Produces hydrogen gas
+        Produces zinc chloride
+    Uses
+      Industrial applications
+        Sulfuric acid for products
+        Hydrochloric acid for cleaning
+        Nitric and phosphoric acids for fertilizers

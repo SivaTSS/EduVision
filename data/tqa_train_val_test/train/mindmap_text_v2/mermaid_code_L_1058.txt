@@ -1,0 +1,19 @@
+mindmap
+  Using Earth's Magnetic Field
+    Earth's Magnetic Poles
+      North Pole
+      South Pole
+    Magnetosphere
+      Protects from Solar Radiation
+      Deflects Solar Winds
+    Northern Lights
+      Caused by Energetic Particles
+      Collisions with Atmospheric Atoms
+      Light Patterns Follow Magnetic Lines
+    Navigation
+      Human Compasses
+      Loggerhead Turtle
+        Senses Magnetic Field
+        Uses for Migration
+      Migratory Birds
+        Possible Visual Detection of Magnetic Field

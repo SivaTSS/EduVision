@@ -1,0 +1,37 @@
+mindmap
+  Neptune
+    Discovery
+      Predicted existence
+      Discovered in 1846
+    Structure
+      Gas giant
+      Core
+        Rock and ice
+      Mantle
+        Water, ammonia, methane ice
+      Atmosphere
+        Hydrogen, helium, methane
+        Upper atmosphere
+        Lower atmosphere
+    Atmosphere Characteristics
+      Blue color
+        Frozen methane
+      Turbulent
+      Intense winds
+        Speeds up to 1100 km/h
+        Not caused by the Sun
+    Seasons
+      Length of a season
+        165 Earth years for one orbit
+    Moons
+      Total of 13
+      Triton
+        Largest moon
+        Captured by Neptune's gravity
+        Opposite orbit direction
+    Rings
+      Faint rings of ice and dust
+      Possible origin
+    Dark Spots
+      Great Dark Spot
+      Changing appearance

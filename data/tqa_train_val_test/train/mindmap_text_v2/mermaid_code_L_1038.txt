@@ -1,0 +1,23 @@
+mindmap
+  Static Electricity and Static Discharge
+    What is Static Electricity
+      Buildup of electric charges on objects
+      Transfer of electrons between objects
+    How Static Discharge Occurs
+      Sudden flow of electrons
+      Examples: lightning, electric shock
+    Process of Charge Buildup
+      Friction between materials
+      Example: rubber shoes on wool mat
+      Positive and negative charge formation
+    Conditions for Charge Retention
+      Charges remain until touching another object
+      Difficulty of charge travel through dry air
+    Static Discharge Example: Metal Doorknocker
+      Negatively charged hand repels electrons
+      Positive charge on knocker side
+      Sudden flow of electrons creates spark
+    Static Discharge Example: Lightning
+      Charge buildup in clouds during storms
+      Negative charges at cloud base, positive at top
+      Discharge as bolts of lightning

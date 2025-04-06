@@ -1,0 +1,18 @@
+mindmap
+  Heat Conduction
+    What is Conduction
+      Definition
+      Transfer of Thermal Energy
+      Touching Particles
+    How Conduction Occurs
+      Particle Motion
+      Energy Transfer
+      Collision of Particles
+      Domino Effect
+    Examples of Conduction
+      Cookie Sheet and Cookies
+      Hot Iron to Shirt
+      Hot Cup to Hand
+      Flame to Pot
+      Pot to Food
+      Feet to Snow

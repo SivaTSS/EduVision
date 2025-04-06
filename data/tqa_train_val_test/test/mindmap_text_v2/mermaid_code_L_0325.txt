@@ -1,0 +1,19 @@
+mindmap
+  Atmosphere Temperature
+    Convection
+      Warm air rises
+      Cool air sinks
+      Density differences
+    Temperature Gradient
+      Definition
+      Change with distance
+    Atmospheric Layers
+      Different temperature gradients
+      Heat sources
+      Four main layers
+        Troposphere
+        Stratosphere
+        Mesosphere
+        Thermosphere
+      Chemical composition
+        Ozone layer in stratosphere

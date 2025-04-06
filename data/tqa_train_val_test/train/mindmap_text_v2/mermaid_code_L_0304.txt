@@ -1,0 +1,27 @@
+mindmap
+  Sedimentary Rocks
+    Sediment Size
+      Indicates history of depositional environment
+    Types of Sediments
+      Fragments of other rocks
+      Organic materials
+      Chemical precipitates
+    Weathering Processes
+      Mechanical weathering
+      Chemical weathering
+    Erosion and Transport
+      By water
+      By wind
+      By ice
+      By gravity
+    Sediment Deposition
+      Beaches
+      Deserts
+      Oceans
+      Lakes
+      Rivers
+      Marshes
+      Swamps
+    Formation of Sedimentary Rocks
+      Determined by type of sediment
+      Color variations based on environment

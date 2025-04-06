@@ -1,0 +1,25 @@
+mindmap
+  Carbon Cycle
+    Types of Carbon
+      Carbon Dioxide
+      Organic Carbon
+    Biological Processes
+      Photosynthesis
+        Converts CO2 to Glucose
+      Cellular Respiration
+        Releases CO2
+    Human Impact
+      Burning Fossil Fuels
+        Increases CO2
+      Global Warming
+        Greenhouse Gas Effect
+    Carbon Sources
+      Fossil Fuels
+        Coal
+        Oil
+        Natural Gas
+      Organic Matter
+        Decomposition
+    Carbon Cycle Dynamics
+      Carbon Recycling
+      Imbalance in Cycle

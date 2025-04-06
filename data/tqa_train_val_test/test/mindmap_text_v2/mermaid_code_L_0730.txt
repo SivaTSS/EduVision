@@ -1,0 +1,25 @@
+mindmap
+  Pressure of Fluids
+    Definition
+      Pressure = Force / Area
+      SI Unit: Pascal (Pa)
+    Factors Affecting Pressure
+      Depth
+      Density
+    Pascal's Law
+      Change in pressure transmitted equally
+      Example: Toothpaste tube
+      Application: Hydraulic systems
+    Bernoulli's Law
+      Pressure in moving fluid is less when moving faster
+      Application: Lift in airplanes and birds
+    Pressure Calculation
+      Example: Box on ground
+      Example: Break dancer's pressure
+    Fluid Behavior
+      Particles moving randomly
+      Pressure exerted in all directions
+    Real-world Applications
+      Bicycle pump
+      Air pressure in tires
+      Effects of altitude on air pressure

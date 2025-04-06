@@ -1,0 +1,28 @@
+mindmap
+  Electromagnetic Spectrum
+    Relationship between Wavelength and Frequency
+      Shorter Wavelengths
+        Higher Frequencies
+        More Energy
+    Definition
+      Full range of electromagnetic radiation
+    Types of Waves
+      Radio Waves
+        Longest Wavelengths
+        Lowest Frequencies
+        Least Energy
+      Microwaves
+        Source: Various
+      Infrared Light
+        Longest Wavelengths among Light
+        Sources: People, Light Bulbs
+      Visible Light
+      Ultraviolet Light
+      X Rays
+        Shortest Wavelengths
+        Highest Frequencies
+        Most Energy
+      Gamma Rays
+        Most Dangerous
+    Sources of Electromagnetic Radiation
+      Primarily from the Sun

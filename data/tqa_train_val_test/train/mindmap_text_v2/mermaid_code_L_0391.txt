@@ -1,0 +1,44 @@
+mindmap
+  heart and blood vessels
+    cardiovascular system health
+      exercise
+      avoid smoking
+      regular physical activity
+      maintain healthy body fat
+      healthy diet
+      regular checkups
+    structure and function of the heart
+      muscular organ
+      four chambers
+        left atrium
+        right atrium
+        left ventricle
+        right ventricle
+      valves
+      pacemaker
+    types of blood vessels
+      arteries
+        carry oxygen-rich blood
+        thick walls
+        aorta
+      veins
+        carry oxygen-poor blood
+        thinner walls
+        inferior vena cava
+      capillaries
+        smallest blood vessels
+        exchange of substances
+    cardiovascular diseases
+      atherosclerosis
+      coronary heart disease
+      risk factors
+        uncontrollable
+          older age
+          male gender
+          family history
+        controllable
+          avoid smoking
+          regular physical activity
+          healthy body fat
+          healthy diet
+          regular checkups

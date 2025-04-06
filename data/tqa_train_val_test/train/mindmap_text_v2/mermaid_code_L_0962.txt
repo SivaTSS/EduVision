@@ -1,0 +1,43 @@
+mindmap
+  Saw-Stop Technology
+    Practical Problem
+      Solves safety issues
+      Importance of safety
+    Scientific Knowledge
+      Uses sensors and braking systems
+      Application of physics
+    Testing
+      Demonstrated in video
+      Outcome of effectiveness
+  Nature of Technology
+    Definition
+      Application of science
+      Solving practical problems
+    Evolution
+      New materials
+      New designs
+      New processes
+  3-D Printing
+    Advantages
+      Accessibility for remote locations
+      No material waste
+      Lower manufacturing costs
+    Impact
+      Revolutionizing manufacturing
+      Major societal changes
+  Solar-Powered Cars
+    Advantages
+      Free energy source
+      No pollution
+    Development Timeline
+      1954: First solar cell
+      1955: First solar car model
+      1983: First drivable solar car
+      1987: First World Solar Challenge
+      2008: First commercial solar car
+    Importance of Solar Cell
+      Essential for solar car technology
+      Enabled conversion of light to electricity
+    Influence of World Solar Challenge
+      Increased attention to solar car development
+      Stimulated performance improvements

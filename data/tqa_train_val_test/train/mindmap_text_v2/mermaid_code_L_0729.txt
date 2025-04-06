@@ -1,0 +1,27 @@
+mindmap
+  Newtons Third Law of Motion
+    Definition
+      Action-Reaction Principle
+      Equal and Opposite Forces
+    Momentum
+      Definition
+      Calculation
+        Formula: Momentum = Mass * Velocity
+      Properties
+        Mass and Velocity Relationship
+        Zero Momentum
+    Conservation of Momentum
+      Definition
+      Examples
+        Truck and Car Collision
+        Skateboarders
+    Applications
+      Forces in Solids
+      Forces in Fluids
+        Differences from Solids
+        Examples of Fluid Forces
+    Problems
+      Example Calculations
+        Rock Momentum Calculation
+        Child Momentum Calculation
+        Football Player Comparison

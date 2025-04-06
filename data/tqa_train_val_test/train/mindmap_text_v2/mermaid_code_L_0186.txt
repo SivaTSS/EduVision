@@ -1,0 +1,23 @@
+mindmap
+  Groundwater Depletion
+    Irrigation Changes
+      Increased Water Demand
+      Efficient Irrigation Methods
+        Central Pivot Irrigation
+    Consequences of Overuse
+      Ground Subsidence
+      Saltwater Intrusion
+    Aquifer Information
+      Ogallala Aquifer
+        Location and Size
+        Usage Statistics
+        Replenishment Issues
+      GRACE Satellite
+        Groundwater Monitoring
+        Aquifer Detection
+    Regional Impacts
+      Southern U.S. Drought
+      India Water Issues
+    Future Considerations
+      Water Table Decline
+      Potential Solutions

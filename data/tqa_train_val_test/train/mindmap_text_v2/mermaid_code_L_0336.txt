@@ -1,0 +1,29 @@
+mindmap
+  Tsunami
+    Definition
+      Japanese meaning
+    Causes
+      Undersea earthquakes
+      Meteorite impacts
+      Other shocks
+    Characteristics
+      Low wave heights
+      Long wavelengths
+      Speed of travel
+        800 km/h
+    Behavior
+      Unnoticeable at sea
+      Changes on continental shelf
+      Travel up shore
+        Crests and troughs
+    Historical Events
+      Deadliest tsunami
+        Location
+        Casualties
+      1755 Lisbon tsunami
+        Trough hit land first
+        Consequences
+    Warning Systems
+      Pacific Tsunami Warning Center
+      Global warning systems
+      Importance of early warning

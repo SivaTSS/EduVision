@@ -1,0 +1,56 @@
+mindmap
+  Energy Flow in Ecosystems
+    Energy Definition
+      Ability to change or move matter
+      Essential for all living things
+    Energy Sources
+      Sunlight
+      Chemical compounds
+    Classification of Living Things
+      Producers
+        Autotrophs
+          Photoautotrophs
+            Use sunlight
+            Examples: plants, algae, bacteria
+          Chemoautotrophs
+            Use chemical compounds
+            Examples: certain bacteria, archaea
+      Consumers
+        Heterotrophs
+          Herbivores
+            Examples: rabbits, snails
+          Carnivores
+            Examples: lions, frogs
+          Omnivores
+            Examples: crows, humans
+      Decomposers
+        Break down organic matter
+        Types
+          Scavengers
+            Examples: hyenas, cockroaches
+          Detritivores
+            Examples: earthworms, catfish
+          Saprotrophs
+            Examples: fungi, protozoa
+    Energy Flow Models
+      Food Chains
+        Single pathway
+        Simpler than actual relationships
+      Food Webs
+        Multiple pathways
+        More complex representation
+    Trophic Levels
+      Definition
+        Feeding position in food chain/web
+      Levels
+        Level 1: Producers
+        Level 2: Primary consumers
+        Level 3: Secondary consumers
+        Level 4: Tertiary consumers
+      Energy Transfer
+        10% energy transfer to next level
+        90% used for metabolic processes or lost as heat
+    Biomass
+      Total mass of organisms at a trophic level
+      Fewer organisms at higher levels
+      Larger size at higher trophic levels

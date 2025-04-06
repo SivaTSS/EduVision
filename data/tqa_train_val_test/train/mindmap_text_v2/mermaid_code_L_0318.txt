@@ -1,0 +1,20 @@
+mindmap
+  stratosphere
+    temperature
+      increases with altitude
+      heat source is the Sun
+    ozone layer
+      protects from UV light
+      higher concentration of ozone
+      created by solar energy
+      unstable and cycles
+    mixing
+      little mixing with troposphere
+      stable air due to temperature gradient
+    features
+      tops the stratosphere
+      important for life on Earth
+    natural cycle
+      creates and destroys ozone molecules
+      UV radiation splits oxygen molecules
+      ozone formation releases heat

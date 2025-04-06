@@ -1,0 +1,19 @@
+mindmap
+  RNA
+    mRNA
+      role: carries instructions from nucleus to cytoplasm
+      location: produced in the nucleus
+    tRNA
+      role: brings amino acids to ribosome
+      specificity: each tRNA is specific for an amino acid
+    rRNA
+      role: part of the ribosome
+      function: site of protein synthesis
+    comparison
+      DNA vs RNA
+        sugar: ribose in RNA, deoxyribose in DNA
+        base: uracil in RNA replaces thymine in DNA
+        structure: RNA is single-stranded, DNA is double-stranded
+    ribosome
+      structure: composed of rRNA and proteins
+      function: synthesizes proteins

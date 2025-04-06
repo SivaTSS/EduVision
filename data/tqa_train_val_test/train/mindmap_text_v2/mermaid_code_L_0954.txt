@@ -1,0 +1,24 @@
+mindmap
+  Mirrors
+    What is an image?
+      Definition: Copy of an object formed by reflection or refraction
+    Real vs Virtual Images
+      Real Image: True image that forms in front of a mirror
+      Virtual Image: Appears on the other side of the mirror, does not exist
+    Types of Mirrors
+      Plane Mirror
+        Characteristics: Flat reflective surface
+        Image: Virtual, right-side up, life-sized, left-right reversed
+      Concave Mirror
+        Characteristics: Shaped like the inside of a bowl
+        Image: Can be real or virtual, depends on object position relative to focal point
+      Convex Mirror
+        Characteristics: Shaped like the outside of a bowl
+        Image: Only virtual, right-side up, reduced in size
+    Focal Point
+      Definition: Point where reflected rays meet
+      Importance: Determines type of image formed by concave mirrors
+    Applications of Mirrors
+      Street Intersections: Convex mirrors for visibility around corners
+      Car Headlights: Concave mirrors to focus light
+      Telescopes: Use of concave mirrors for image formation

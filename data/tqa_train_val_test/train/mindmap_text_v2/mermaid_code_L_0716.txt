@@ -1,0 +1,52 @@
+mindmap
+  Acids and Bases
+    Acids
+      Definition
+        Ionic compound producing H+ ions in water
+      Properties
+        Sour taste
+        Turns blue litmus paper red
+        Conduct electricity
+        React with metals
+      Detection
+        Litmus paper
+          Blue turns red in acid
+        Indicators
+          Red cabbage juice
+      Uses
+        Manufacturing products
+          Sulfuric acid in paper, paint, detergent
+    Bases
+      Definition
+        Ionic compound producing OH- ions in water
+      Properties
+        Bitter taste
+        Turns red litmus paper blue
+        Feels slippery
+        Conduct electricity
+      Detection
+        Litmus paper
+          Red turns blue in base
+        Indicators
+          Red cabbage juice
+      Uses
+        Soaps containing potassium hydroxide
+    Strength of Acids and Bases
+      Determined by ion concentration
+        Strong acids produce more H+ ions
+        Strong bases produce more OH- ions
+      pH Scale
+        Neutral pH of 7
+        Acids < 7
+        Bases > 7
+    Neutralization Reactions
+      Reaction of acid and base
+        Produces salt and water
+      Example
+        H+ + OH- → H2O
+        Na+ + Cl- → NaCl
+    Environmental Impact
+      Acid rain and fog
+        Lowers pH of water bodies
+        Affects aquatic life
+      Soil pH importance for plants

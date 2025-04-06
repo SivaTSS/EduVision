@@ -1,0 +1,35 @@
+mindmap
+  Light and Its Properties
+    Light Travels in a Straight Line
+      Until it Strikes an Object
+      Until it Changes Medium
+    Light Behavior
+      Reflection
+      Refraction
+      Absorption
+    Speed of Light
+      Constant in Empty Space
+      Approximately 300 Million m/s
+      Slower in Matter
+    Refraction
+      Bending of Light
+      Depends on Type of Matter
+      Angle of Incidence
+        Perpendicular
+        Non-Perpendicular
+    Examples of Light Speed in Materials
+      Air: 299 million m/s
+      Water: 231 million m/s
+      Glass: 200 million m/s
+      Vegetable Oil: 150 million m/s
+      Alcohol: 140 million m/s
+      Diamond: 125 million m/s
+    Light Travel Time
+      Classroom Example
+      Sun to Earth Distance
+        93 Million Miles
+        8 Minutes Delay
+    Evidence of Light Slowing Down
+      Bending in Earth's Atmosphere
+      Rainbows from Water Droplets
+      Broken Straw Illusion

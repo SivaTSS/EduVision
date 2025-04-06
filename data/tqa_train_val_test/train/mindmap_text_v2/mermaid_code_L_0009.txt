@@ -1,0 +1,30 @@
+mindmap
+  Lesson: Relative Ages of Rocks
+    Stratigraphy
+      Definition
+      Laws of Stratigraphy
+        Law of Superposition
+        Law of Lateral Continuity
+        Law of Original Horizontality
+        Law of Cross-Cutting Relationships
+    Relative Age of Rocks
+      Importance
+      Determination
+    Unconformities
+      Definition
+      Formation
+    Key Beds and Index Fossils
+      Key Beds
+      Index Fossils
+    Geologic Time Scale
+      Divisions
+        Eons
+        Eras
+        Periods
+        Epochs
+      Historical Context
+      Major Events
+    Historical Geology
+      Study of Earth's Past
+      Clues from Rocks and Fossils
+      Extinction and Adaptation

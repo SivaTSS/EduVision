@@ -1,0 +1,33 @@
+mindmap
+  gamma decay
+    gamma rays
+      definition
+        electromagnetic waves
+        carry photons of energy
+        most energetic electromagnetic waves
+      production
+        during gamma decay of excited nucleus
+        emitted as gamma particles
+    gamma decay process
+      emission of energy
+        packet of energy called gamma particle
+      comparison with other decays
+        alpha decay
+          emits particles and energy
+        beta decay
+          emits particles and energy
+        only energy emitted in gamma decay
+    reasons for gamma decay
+      unstable nucleus
+        radioactive elements
+        excited state of nucleus
+        occurs after alpha or beta decay
+      stability
+        no change in number of protons
+        atom remains the same element
+    dangers of gamma rays
+      penetration ability
+        travel farther than alpha and beta particles
+        require lead or concrete for shielding
+      biological impact
+        can damage cells deep inside the body

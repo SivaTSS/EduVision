@@ -1,0 +1,36 @@
+mindmap
+  Sound
+    Importance of Sound
+      Senses the environment
+      Communication
+      Music
+    Musical Instruments
+      Sound production
+        Vibration
+        Sound waves
+        Resonance
+      Categories
+        Percussion
+        Wind
+        Stringed
+    Ultrasound
+      Definition
+      Uses
+        Echolocation
+        Sonar
+        Ultrasonography
+    Echolocation
+      Definition
+      Examples
+        Bats
+        Whales
+    Sonar
+      Definition
+      Uses
+        Locating underwater objects
+        Measuring water depth
+    Ultrasonography
+      Definition
+      Applications
+        Internal organ examination
+        Monitoring unborn babies

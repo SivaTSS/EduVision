@@ -1,0 +1,20 @@
+mindmap
+  Position Time Graphs
+    Making a Position-Time Graph
+    Slope of a Line Graph
+      Represents Velocity
+      Steeper Slope Indicates Faster Motion
+    Negative Slope
+      Can Slope Downward
+      Indicates Decreasing Position
+    Average Velocity
+      Calculated from Change in Position and Time
+      Example from Graph 1
+        Distance Traveled in 5 Seconds
+        50 Meters
+    Graph Interpretation
+      Graph 1
+        Position vs Time
+      Graph 2
+        Horizontal Line Indicates Zero Velocity
+        Steeper Line Indicates Faster Motion

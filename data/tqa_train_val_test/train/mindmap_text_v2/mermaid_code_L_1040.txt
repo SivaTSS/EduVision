@@ -1,0 +1,23 @@
+mindmap
+  Surface Wave
+    Definition
+      Description: Wave traveling along the surface of a medium
+      Examples: Ocean waves
+    Particle Movement
+      Motion: Up and down, back and forth
+      Overall Motion: Circular
+    Behavior in Shallow Water
+      Dragging: Waves slow down due to friction
+      Steepening: Causes waves to break
+      Result: Water carried onto shore as surf
+    Causes of Ocean Waves
+      Main Cause: Wind blowing across water
+      Energy Transfer: Air molecules to water molecules
+      Wave Size: Larger waves with stronger winds
+    Wave Types
+      Transverse Wave: Particles move up and down perpendicular to wave direction
+      Longitudinal Wave: Particles move parallel to wave direction
+      Surface Wave: Combination of transverse and longitudinal
+    Visual Representations
+      Figure 1.1: Movement of waves in a surface wave
+      Figure 1.2: Waves dragging on the bottom in shallow water

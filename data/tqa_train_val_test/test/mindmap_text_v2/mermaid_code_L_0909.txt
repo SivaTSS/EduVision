@@ -1,0 +1,23 @@
+mindmap
+  Gases
+    What is a gas?
+      State of matter
+      No fixed shape or volume
+    Behavior of gas particles
+      Constant movement
+      Bumping into each other
+      Creates pressure
+    Pressure
+      Definition
+      Factors affecting pressure
+        Number of particles
+        Speed of particles
+    Air pressure
+      Greatest at sea level
+      Decreases with altitude
+      Effects on baking
+        High altitude instructions
+    Example questions
+      Balloon behavior
+      Box A vs Box B
+      Air pressure comparison

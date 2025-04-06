@@ -1,0 +1,39 @@
+mindmap
+  Reproductive System Health
+    Importance
+      Overall Health
+      Reproduction
+    Health Problems
+      STIs
+        Bacterial STIs
+          Chlamydia
+          Gonorrhea
+          Syphilis
+        Viral STIs
+          Genital Warts
+          Genital Herpes
+          AIDS
+      Other Disorders
+        Male Disorders
+          Testicular Injuries
+          Testicular Cancer
+        Female Disorders
+          Vaginitis
+          Ovarian Cysts
+          Menstrual Cramps
+          Breast Cancer
+    Myths about STIs
+      Myth: One Partner = No STIs
+      Myth: No Symptoms = No STIs
+      Myth: STIs are Easily Cured
+    Prevention
+      Healthy Lifestyle
+        Nutrition
+        Exercise
+      Hygiene Practices
+        Clean Genitals
+        Avoid Irritating Products
+      Risk Avoidance
+        Safe Practices
+        Tampon Use
+        Protective Gear for Sports

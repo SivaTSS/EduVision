@@ -1,0 +1,20 @@
+mindmap
+  distance between stars
+    parallax
+      definition
+        apparent shift in position
+        observer's position change
+      limitations
+        effective up to a few hundred light years
+        too small for distant stars
+      measurement process
+        observe star from one position
+        note position relative to distant stars
+        wait six months for Earth to move
+        observe star again
+        calculate distance from shift
+    brightness
+      method for distant stars
+        indirect measurement
+        compare observed brightness to expected brightness
+        similar properties to the Sun

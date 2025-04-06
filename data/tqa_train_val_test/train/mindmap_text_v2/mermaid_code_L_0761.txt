@@ -1,0 +1,24 @@
+mindmap
+  Magnetism
+    Magnetic Field
+      Magnetic Field Lines
+      Interaction of Magnetic Fields
+    Properties of Magnets
+      Magnetic Poles
+      Magnetic Force
+      Ferromagnetic Materials
+    Magnetization
+      Temporary Magnets
+      Permanent Magnets
+      Process of Magnetization
+    Applications
+      Maglev Train
+      Natural Magnets
+        Magnetite
+    Non-Magnetic Materials
+      Examples
+        Wood
+        Glass
+        Plastic
+        Copper
+        Aluminum

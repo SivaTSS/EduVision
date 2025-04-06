@@ -1,0 +1,28 @@
+mindmap
+  Short Term Climate Change
+    El Nino
+      Characteristics
+        Trade winds reverse
+        Warm water pools off South America
+        Upwelling stops
+      Effects
+        Collapse of food chain
+        Increased rainfall in some regions
+        Drought in other regions
+    La Nina
+      Characteristics
+        Trade winds strengthen
+        Colder water along South America
+        Upwelling continues
+      Effects
+        More extreme than normal conditions
+    ENSO
+      Definition
+        El Nino Southern Oscillation
+      Cycle
+        Occurs every 2 to 7 years
+        Drives global climate changes
+    Normal Conditions
+      Trade winds blow east to west
+      Low pressure in western Pacific
+      Upwelling of nutrient-rich waters

@@ -1,0 +1,37 @@
+mindmap
+  Topographic Maps
+    Definition
+      Flat maps showing 3D surface features
+      Help visualize land elevation changes
+    Features
+      Contour lines
+        Connect points of equal elevation
+        Indicate slope steepness
+      Horizontal scale
+        Indicates horizontal distances
+      Contour intervals
+        Difference in elevation between lines
+    Reading and Interpretation
+      Identifying landforms
+        Hills, valleys, cliffs, stream channels
+      Understanding water flow
+        Direction of streams
+        Indicators of water presence
+    Applications
+      Earth scientists
+        Study surface features and geology
+        Determine slope and water flow
+      Engineers
+        Plan roads, bridges, tunnels
+      Tourists
+        Navigate and explore landscapes
+    Types of Maps
+      Bathymetric maps
+        Show underwater features and depths
+      Geologic maps
+        Display rock units and geological features
+    Practical Exercises
+      Drawing topographic maps
+        Steep slopes and cliffs
+      Calculating distances
+        Using contour lines and scales

@@ -1,0 +1,46 @@
+mindmap
+  Integumentary System
+    Organs
+      Skin
+      Hair
+      Nails
+    Skin Layers
+      Epidermis
+        Constant Renewal
+          Cell Division
+          Keratin Production
+          Dead Cell Shedding
+        Melanocytes
+          Melanin Production
+      Dermis
+        Structure
+          Connective Tissue
+          Blood Vessels
+          Nerve Endings
+          Hair Follicles
+          Glands
+            Sebaceous Glands
+              Sebum Production
+            Sweat Glands
+              Sweat Production
+    Functions of Skin
+      Protection
+        Prevents Water Loss
+        Blocks Microorganisms
+        UV Light Absorption
+      Temperature Regulation
+        Sweating
+        Blood Vessel Dilation and Constriction
+    Maintaining Skin Health
+      Sun Protection
+        Clothing
+        Sunscreen
+      Cleanliness
+        Acne Prevention
+    Hair Functions
+      Scalp Protection
+      Insulation
+      Dust and Germ Trapping
+    Nail Functions
+      Protection of Fingers and Toes
+      Enhanced Sensation

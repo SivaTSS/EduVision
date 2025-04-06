@@ -1,0 +1,43 @@
+mindmap
+  Populations
+    Definition
+      Group of individuals of the same species in the same area
+    Measures
+      Population size
+      Population growth
+      Population structure
+    Growth Patterns
+      Exponential growth
+      Logistic growth
+    Human Population
+      Historical growth
+        Slow growth for tens of thousands of years
+        Rapid growth in Stage 2 and 3 of demographic transition
+      Future predictions
+        Expected to exceed 9 billion by 2050
+    Population Characteristics
+      Size
+        Number of individuals
+      Density
+        Average number of individuals per area
+      Distribution
+        Clumped
+        Random
+        Uniform
+    Age-Sex Structure
+      Influence on growth rate
+      Represented by population pyramids
+    Community Interaction
+      Definition of community
+      Population interactions
+    Demographic Transition
+      Stages of transition
+        Stage 1: High birth and death rates
+        Stage 2: Falling death rates, high birth rates
+        Stage 3: Falling birth rates
+        Stage 4: Low birth and death rates
+    Environmental Impact
+      Effects of population growth on the environment
+      Potential solutions
+        Slowing population growth
+        Fair distribution of resources

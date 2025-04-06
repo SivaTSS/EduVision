@@ -1,0 +1,27 @@
+mindmap
+  Weather Forecasting
+    Meteorologists
+      Role
+      Prediction Methods
+    Weather Instruments
+      Barometer
+      Thermometer
+      Anemometer
+      Rain Gauge
+      Hygrometer
+      Wind Vane
+      Snow Gauge
+    Data Collection
+      Weather Stations
+      Weather Balloons
+      Satellites
+      Radar
+    Weather Maps
+      Actual Weather
+      Predicted Weather
+      Isobars
+      Isotherms
+    Challenges
+      Complexity of Weather
+      Factors Affecting Predictions
+      Rules of Thumb

@@ -1,0 +1,29 @@
+mindmap
+  Rotation of Earth
+    Tilt of Earth's Axis
+      Angle
+      Effect on Seasons
+        Northern Hemisphere Summer
+        Southern Hemisphere Summer
+    Earth's Rotation
+      Duration
+        24 hours
+        23 hours 59 minutes 4 seconds
+      Speed
+        Equator: 1700 km/h
+        Poles: negligible
+    Foucault's Pendulum
+      Demonstration of Rotation
+      Historical Context
+        Lon Foucault
+        Experiment Details
+    Seasonal Changes
+      Future Predictions
+        13,000 years
+    Wobble Effect
+      Definition
+      Cycle Duration
+    Celestial Movement
+      Sun, Moon, Stars
+        Rising and Setting
+        Perception of Movement

@@ -1,0 +1,33 @@
+mindmap
+  Scientific Process
+    Role of Investigation
+      Heart of Science
+      Produces Evidence
+      Advances Knowledge
+    Scientific Method
+      General Approach
+      Steps
+        Ask a Question
+        Do Background Research
+        Construct a Hypothesis
+        Test Hypothesis
+        Analyze Data
+        Draw Conclusion
+        Report Results
+      Flexibility
+        Different Orders
+        Skipping Steps
+        Repeating Steps
+    Example: Cody's Investigation
+      Observation
+        Cereal Contains Iron
+        Curiosity Raised
+      Question
+        Is there enough iron in a flake of cereal for it to be attracted by a strong magnet?
+      Hypothesis
+        The iron content of a flake of cereal is too low for it to be attracted by a strong magnet.
+      Conclusion
+        Hypothesis is Incorrect
+        Enough Iron for Attraction
+      Next Steps
+        Report Results

@@ -1,0 +1,15 @@
+mindmap
+  Replication in Science
+    What is Replication?
+      Definition: Getting the same result when an experiment is repeated
+    Importance of Replication
+      Validates Research: Ensures results are likely correct
+      Acceptance of Results: Investigations need to be repeated for credibility
+      Hypothesis to Theory: Repeated replication can elevate hypotheses to theories
+      Incorrect Results: Non-replicable results are likely incorrect
+    Case Study: Vaccine-Autism Study
+      Initial Claim: Link between vaccine and autism published in 1998
+      Consequences: Parents refused vaccination, leading to epidemics and deaths
+      Replication Attempts: Other researchers could not replicate the findings
+      Outcome: Original study deemed fraudulent; author had financial motives
+      Importance of Replication: Truth revealed through replication efforts

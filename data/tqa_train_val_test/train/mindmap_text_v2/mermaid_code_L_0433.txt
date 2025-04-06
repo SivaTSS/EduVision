@@ -1,0 +1,40 @@
+mindmap
+  Evolution Evidence
+    Molecular Clock
+      DNA Similarity
+        Chimpanzee 98.8%
+        Cow 85%
+        Chicken 65%
+        Honeybee 44%
+        Grape 24%
+      Recent Common Ancestor
+        African Gorilla 98.4%
+        Orangutan 97%
+        Rhesus Monkey 93%
+    Fossils
+      Definition
+        Preserved Remains or Traces
+      Formation
+        Minerals Turn Remains to Stone
+        Quick Sediment Covering
+        Rare Preservation
+      Dating Methods
+        Absolute Dating
+          Carbon-14
+        Relative Dating
+          Rock Layer Position
+      Importance
+        Reconstructing the Past
+        Paleontology
+    Living Organisms
+      Body Part Comparison
+        Homologous Structures
+      Vestigial Structures
+        Examples: Tail Bones, Appendix
+      Embryonic Similarities
+        Early Development Stages
+    Natural Selection
+      Darwin's Finches
+        Beak Size Variation
+        Drought Impact
+        Survival of the Fittest

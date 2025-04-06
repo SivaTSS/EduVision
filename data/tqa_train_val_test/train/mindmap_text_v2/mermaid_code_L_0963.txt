@@ -1,0 +1,20 @@
+mindmap
+  Neutrons
+    What is a neutron
+      Definition
+      Location in atom
+      Charge
+      Mass and diameter
+    Comparison with protons
+      Electric charge
+      Mass
+      Presence in atoms
+    Isotopes
+      Definition
+      Example with carbon
+      Naming convention
+    Fundamental particles
+      Quarks
+        Types of quarks
+      Gluons
+        Role in neutrons

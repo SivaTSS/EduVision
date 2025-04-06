@@ -1,0 +1,41 @@
+mindmap
+  Air Pollution Reduction
+    Clean Air Act of 1970
+      Regulated Pollutants
+        Carbon Monoxide
+        Lead
+        Nitrogen Oxides
+        Ozone
+        Sulfur Dioxide
+        Particulates
+      Decrease in Pollutants
+        Over 50 Percent Reduction
+    Strategies for Reducing Pollution
+      Use Less Fossil Fuel
+        Conserve Energy
+        Use Efficient Vehicles
+        Alternative Energy Sources
+      Prevent Pollution from Fossil Fuels
+        Scrubbers
+          Used in Factories and Power Plants
+          Remove Particulates and Waste Gases
+        Catalytic Converters
+          Used in Vehicles
+          Convert Pollutants to Non-Toxic Compounds
+    Worldwide Efforts
+      Montreal Protocol
+        Signed in 1987
+        Focus on CFCs
+        Aim to Protect Ozone Layer
+        Effective in Reducing CFCs
+      Kyoto Protocol
+        Passed in 1997
+        Focus on Greenhouse Gases
+        Aim to Control Global Warming
+        Cap-and-Trade System
+        Carbon Taxes
+        Carbon Sequestration
+    Challenges
+      Ozone Loss and Global Warming
+      Political Issues Affecting Agreements
+      Need for Stricter Regulations

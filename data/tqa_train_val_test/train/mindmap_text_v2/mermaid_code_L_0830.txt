@@ -1,0 +1,30 @@
+mindmap
+  Chemical Equations
+    Definition
+      Shorthand for chemical reactions
+      Summarizes reactants and products
+    Parts of a Chemical Equation
+      Reactants
+        Substances that begin the reaction
+        Placed on the left side
+      Products
+        Substances produced in the reaction
+        Placed on the right side
+      Arrow
+        Indicates direction of reaction
+      Plus Signs
+        Separate multiple reactants or products
+      Coefficients
+        Numbers showing amount of each substance
+    Writing Chemical Equations
+      Use of chemical symbols and formulas
+      Example: C + O2 → CO2
+    Balancing Chemical Equations
+      Same number of each type of atom on both sides
+      Law of conservation of mass
+      Example: 4Fe + 3O2 → 2Fe2O3
+    Chemical Reaction Example
+      Calcium Carbonate Reaction
+        CaCO3 → CaO + CO2
+      Iron Rusting Reaction
+        Iron + Oxygen → Iron Oxide

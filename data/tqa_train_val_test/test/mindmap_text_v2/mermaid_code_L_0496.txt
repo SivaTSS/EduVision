@@ -1,0 +1,36 @@
+mindmap
+  Control of Insects
+    Deadly Mating
+      Farmers control diamondback moths
+    Biological Control
+      Definition of entomologist
+      Risks of introducing new insects
+      Benefits for food crops
+      Examples of pest insects
+        Parasitic insects
+        Disease-transmitting insects
+        Structural damage insects
+        Crop-destroying insects
+    Harmful Effects of Insecticides
+      Environmental impact
+      Human and animal safety
+      Contamination of food products
+    Biological Control Methods
+      Use of natural predators
+        Ladybugs
+        Lacewings
+        Dragonflies
+      Parasitic insects
+        Wasp and fly larvae
+    Chemical Control Methods
+      Use of insecticides
+      Economic impact
+      Disadvantages
+        Poisoning risks
+        Environmental contamination
+        Resistance development
+      Considerations for use
+        Effectiveness against target pests
+        Impact on natural enemies
+        Crop susceptibility
+        Toxicity to environment and humans

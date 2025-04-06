@@ -1,0 +1,31 @@
+mindmap
+  Pascals Law
+    Definition
+      States that change in pressure in enclosed fluid is transmitted equally
+    Applications
+      Ketchup Packet
+        Tearing hole causes fluid to squirt out
+        Pressure transmitted equally throughout fluid
+      Toothpaste Tube
+        Squeezing tube forces toothpaste out
+        Pressure applied is transmitted equally
+      Hydraulic Brakes
+        Use fluid to transmit pressure
+        Increases force applied to brake shoes
+      Hydraulic Car Lifts
+        Raise heavy cars using fluid pressure
+      Airplane Controls
+        Use fluids to transmit pressure for landing gear
+    Pressure Concept
+      Definition
+        Amount of force acting on a given area
+      Equation
+        Pressure = Force / Area
+        Force = Pressure * Area
+      Effects
+        More force increases pressure
+        Same force over smaller area increases pressure
+    Historical Context
+      Blaise Pascal
+        French mathematician and physicist
+        SI unit of pressure named after him

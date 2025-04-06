@@ -1,0 +1,37 @@
+mindmap
+  Lever
+    Definition
+      Simple machine
+      Bar rotates around fulcrum
+    Fulcrum
+      Fixed point
+      Location in hammer use
+    Types of Levers
+      First-class
+        Input and output on opposite sides
+        Example: Seesaw
+        Changes direction of force
+        Ideal mechanical advantage > 1
+      Second-class
+        Input and output on same side
+        Example: Wheelbarrow
+        Ideal mechanical advantage > 1
+        Does not change direction
+      Third-class
+        Input and output on same side
+        Example: Hockey stick
+        Ideal mechanical advantage < 1
+        Does not change direction
+    Mechanical Advantage
+      Definition
+        Factor changing input force
+      Ideal vs Actual
+        Ideal: without friction
+        Actual: with friction
+    Examples
+      Hammer
+        First-class lever
+        Used to pry nails
+      Broom
+        Third-class lever
+        Sweeping faster

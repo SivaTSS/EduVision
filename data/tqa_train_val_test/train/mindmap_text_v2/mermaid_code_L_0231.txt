@@ -1,0 +1,36 @@
+mindmap
+  Mercury
+    Location and Size
+      Closest planet to the Sun
+      Smallest planet
+    Temperature Variations
+      Extremely hot in sunlight
+      Very cold in shadows
+      No atmosphere for insulation
+    Naming
+      Named after Roman messenger god
+      Represents speed of orbit
+    Density
+      Densest planet
+      Large liquid metal core
+    Core Features
+      Made mostly of melted iron
+      Takes up 42% of planet's volume
+    Surface Features
+      Covered with craters
+      Similar to Earth's Moon
+      Ancient impact craters
+    Geological History
+      Little change over billions of years
+      Minimal weathering and erosion
+    Ice Presence
+      Possible ice at poles
+      Areas never receive direct sunlight
+    Spacecraft Exploration
+      Mariner 10 flybys (1974-1975)
+      MESSENGER mission (2005-present)
+      Detailed mapping of surface
+    Orbital Characteristics
+      Year lasts 88 Earth days
+      Day lasts 57 Earth days
+      Slow rotation on axis

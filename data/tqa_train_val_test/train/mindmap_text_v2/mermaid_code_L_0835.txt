@@ -1,0 +1,32 @@
+mindmap
+  Chemistry of Compounds
+    Definition
+      Unique substance formed by chemical combination of elements
+      Consists of same elements in same ratio
+    Types of Compounds
+      Covalent Compounds
+        Formed by sharing valence electrons
+        Exist as individual molecules
+        Example: Water (H2O)
+      Ionic Compounds
+        Formed by transferring electrons
+        Exist as a matrix of ions (crystal)
+        Example: Sodium chloride (table salt)
+    Properties
+      Fixed ratio of elements
+      Different compounds have different properties
+    Comparison with Mixtures
+      Mixtures can have varying proportions
+      Example: Lemonade (water, lemon juice, sugar)
+    Chemical Bonds
+      Force of attraction between atoms or ions
+      Types: Covalent bonds and Ionic bonds
+    Examples
+      Water (H2O)
+        2 hydrogen atoms and 1 oxygen atom
+      Hydrogen Peroxide (H2O2)
+        Different ratio than water
+      Carbon Dioxide (CO2)
+        Odorless, colorless gas
+      Carbon Monoxide (CO)
+        Harmful gas, colorless and odorless

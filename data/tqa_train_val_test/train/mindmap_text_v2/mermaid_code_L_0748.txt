@@ -1,0 +1,29 @@
+mindmap
+  Sound Characteristics
+    Definition
+      Scientific Definition
+      Riddle of the Falling Tree
+    Sound Waves
+      Description
+      Mechanical Waves
+      Longitudinal Waves
+    Properties of Sound
+      Speed
+        Varies by Medium
+        Affected by Temperature
+      Loudness
+        Determined by Intensity
+        Measured in Decibels
+      Pitch
+        Determined by Frequency
+        Measured in Hertz
+    Sound Travel
+      Through Matter
+      Faster in Solids
+      Doppler Effect
+    Intensity Factors
+      Amplitude
+      Distance from Source
+    Effects of Loud Sounds
+      Hearing Loss
+      Protection for Ears

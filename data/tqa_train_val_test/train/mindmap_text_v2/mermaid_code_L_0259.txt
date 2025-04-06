@@ -1,0 +1,26 @@
+mindmap
+  Oil Spills
+    Causes
+      Exxon Valdez disaster
+      Deepwater drilling risks
+    Industry Response
+      Response plans
+      Actual response
+      Responsibility for spill
+    Cleanup Methods
+      Removal
+      Containment
+      Dispersal
+        Chemical dispersants
+        Concerns about dispersants
+    Long-term Effects
+      Environmental impact
+      Economic impact
+      Wildlife consequences
+    Safety Measures
+      Current safety protocols
+      Lessons learned
+    Historical Context
+      Exxon Valdez spill
+      Gulf of Mexico spill
+      Changes in shipping practices

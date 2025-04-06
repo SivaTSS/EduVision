@@ -1,0 +1,16 @@
+mindmap
+  Momentum Conservation
+    Law of Conservation of Momentum
+      Definition
+        Total momentum is conserved
+        Momentum transferred between objects
+    Vehicle Collision
+      Missing Velocity
+        Fill in the missing velocity in diagram
+    Skater Collision
+      Skater 1 and Skater 2
+        Skater 2 has more momentum before collision
+        Momentum transferred during collision
+        Skater 1 gains momentum, Skater 2 loses momentum
+      Head-on Collision
+        Momentum is conserved

@@ -1,0 +1,31 @@
+mindmap
+  Friction
+    Definition
+      Opposes motion between surfaces
+      Caused by roughness of surfaces
+    Types of Friction
+      Static Friction
+        Acts on resting objects
+        Example: Walking on a sidewalk
+      Sliding Friction
+        Acts on sliding objects
+        Weaker than static friction
+        Example: Sliding furniture
+      Rolling Friction
+        Acts on rolling objects
+        Much weaker than sliding friction
+        Example: Moving boxes on a dolly
+      Fluid Friction
+        Acts on objects moving through fluids
+        Includes air resistance
+        Example: Skydiver with parachute
+    Factors Affecting Friction
+      Surface roughness
+      Weight of objects
+    Effects of Friction
+      Produces heat
+        Useful for warming hands
+        Can cause overheating in engines
+      Can be beneficial or detrimental
+        Example: Sand on icy sidewalks
+        Example: Excessive friction in engines

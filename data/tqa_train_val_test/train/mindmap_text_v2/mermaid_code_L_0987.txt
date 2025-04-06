@@ -1,0 +1,27 @@
+mindmap
+  Power
+    What is power
+      Definition: Measure of work done in a given time
+      Equation: Power = Work / Time
+    SI unit for power
+      Watt: 1 joule per second (J/s)
+    Examples of power
+      Toaster: 21,000 joules in 30 seconds
+      Microwave: 1000 watts
+      Car engine: 182 horsepower
+    Horsepower
+      Definition: Work a horse can do in 1 minute
+      Conversion: 1 horsepower = 745 watts
+    Practical applications
+      Light bulbs: Labeled with watts
+      Comparison of bulbs: 25-watt vs 60-watt
+      High-power vs low-power devices
+    Calculating power
+      Example: Microwave doing 24,000 joules in 30 seconds
+      Example: Another microwave doing 5,000 joules in 5 seconds
+    Calculating work
+      Work = Power * Time
+      Example: 1000-watt microwave for 20 seconds
+    Comparison of power
+      Team of horses vs tractor
+      Tractor: 180 horsepower, faster work completion

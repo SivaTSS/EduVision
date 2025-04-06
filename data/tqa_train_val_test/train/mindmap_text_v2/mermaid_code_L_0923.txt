@@ -1,0 +1,25 @@
+mindmap
+  inclined plane
+    definition
+      simple machine
+      sloping surface
+      connects lower and higher elevation
+    function
+      makes work easier
+      reduces force needed
+      requires greater distance
+    mechanical advantage
+      always greater than 1
+      output force vs input force
+      more gradual slope increases advantage
+    examples
+      wedge
+      screw
+      ramp
+    images
+      figure 1.1
+        man with drawer
+        loading dresser onto truck
+      figure 1.2
+        right-angled triangle
+        clean background

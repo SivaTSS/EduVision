@@ -1,0 +1,56 @@
+mindmap
+  Vertebrate Characteristics
+    Chordates
+      Definition
+        Animals with backbones
+      Examples
+        Fish
+        Amphibians
+        Reptiles
+        Birds
+        Mammals
+    Primary Features
+      Vertebral Column
+        Protects spinal cord
+      Cranium
+        Protects brain
+      Internal Skeleton
+        Supports body
+        Protects organs
+        Allows movement
+      Defined Head Region
+        Accumulation of sense organs
+    Size Range
+      Smallest
+        Carp (0.3 inches)
+      Largest
+        Blue Whale (110 feet)
+    Vertebrate Classes
+      Class Agnatha
+        Jawless fishes
+        Examples: Lampreys, hagfish
+      Class Chondrichthyes
+        Cartilaginous fishes
+        Examples: Sharks, rays
+      Class Osteichthyes
+        Bony fishes
+        Examples: Tuna, bass, salmon, trout
+      Class Amphibia
+        Amphibians
+        Examples: Frogs, toads, salamanders
+      Class Reptilia
+        Reptiles
+        Examples: Turtles, snakes, lizards, alligators
+      Class Aves
+        Birds
+        Examples: Ostriches, penguins, flamingos, parrots
+      Class Mammalia
+        Mammals
+        Characteristics: Nourish young with milk
+        Examples: Dogs, cats, bears, monkeys, humans
+    Evolutionary Aspects
+      Phylogeny
+        Study of evolutionary relationships
+      Archosaurs
+        Evolution timeline
+        Living members

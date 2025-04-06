@@ -1,0 +1,37 @@
+mindmap
+  Recent Space Exploration
+    Purpose of Rovers
+    International Cooperation
+      Helpful Aspects
+      Harmful Aspects
+    History of Space Stations and Shuttles
+      Salyut Space Stations
+        Soviet Union
+        Temporary Stations
+        Military and Scientific Use
+      Skylab
+        First U.S. Space Station
+        Long-term Studies
+      Mir Space Station
+        Modular Design
+        U.S.-Russia Cooperation
+      International Space Station
+        Joint Project
+        Scientific Research
+    Recent Developments
+      Space Shuttle Program
+        Reusable Vehicles
+        Major Achievements
+        Disasters
+          Challenger Disaster
+          Columbia Disaster
+      Unmanned Missions
+        Cost-effective
+        Valuable Information
+      Rovers on Mars
+        Mars Pathfinder
+        Spirit and Opportunity
+    Future of Space Exploration
+      Budget Concerns
+      Role of Private Companies
+      Goals for Moon and Mars

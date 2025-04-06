@@ -1,0 +1,47 @@
+mindmap
+  Nutrients Your Body Needs
+    Iodine
+      Uses
+      Sources
+      Deficiency Problems
+    Magnesium
+      Uses
+      Sources
+      Deficiency Problems
+    Riboflavin
+      Uses
+      Sources
+      Deficiency Problems
+    Energy Nutrients
+      Carbohydrates
+        Types
+          Simple
+          Complex
+        Sources
+          Fruits
+          Vegetables
+          Grains
+        Functions
+          Energy Release
+          Fiber Role
+      Proteins
+        Amino Acids
+        Functions
+          Antibodies
+          Muscle Fibers
+          Enzymes
+        Sources
+          Seafood
+          Eggs
+      Lipids
+        Types
+          Saturated
+          Unsaturated
+          Trans Fats
+        Functions
+          Energy Storage
+          Nerve Protection
+          Cell Membranes
+        Sources
+          Plant Foods
+          Animal Foods

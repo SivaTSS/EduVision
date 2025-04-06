@@ -1,0 +1,23 @@
+mindmap
+  Milky Way Galaxy
+    Spiral Galaxy
+      Evidence
+        Shape
+        Velocities
+        Gases and Dust
+    Structure
+      Disk
+        Size
+        Composition
+      Central Bulge
+        Size
+        Composition
+        Possible Bar Shape
+      Halo
+    Features
+      Supermassive Black Hole
+      Smaller Black Holes
+    Earth's Location
+      Spiral Arm
+      Distance from Center
+      Orbiting the Center

@@ -1,0 +1,22 @@
+mindmap
+  J. J. Thomson's Atomic Model
+    Discovery of the Electron
+      Year: 1897
+      Method: Cathode Ray Tube
+        Components: Cathode, Anode
+        Hypotheses: Energy ray vs. stream of particles
+        Findings: Cathode ray repelled by negative plate, attracted by positive plate
+    Thomson's Inference
+      Particles: Corpuscles (later named electrons)
+      Mass: 2000 times smaller than hydrogen atom
+      Neutrality of Atoms: Positively charged particles cancel negative charge
+    Plum Pudding Model
+      Description: Positive charge sphere with negative electrons scattered
+      Analogy: Original analogy for plum pudding model
+    Rejection of Model
+      Reason: Discovery of nucleus concentrated positive charge
+      Modern Understanding: Electrons swirl around nucleus in empty space
+    Thomson's Background
+      Birthplace: England
+      Education: Cambridge University
+      Nobel Prize: 1906 for research on gas conductivity

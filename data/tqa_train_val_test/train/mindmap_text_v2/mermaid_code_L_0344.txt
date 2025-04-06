@@ -1,0 +1,44 @@
+mindmap
+  uses of water
+    water availability
+      population growth impact
+      safe water access
+      water-related diseases
+    water consumption
+      developed countries
+        increased usage
+        reasons for high consumption
+      developing countries
+        lower daily usage
+        comparison to developed countries
+    water use categories
+      consumptive use
+        agriculture
+        industry
+        household
+        recreation
+      non-consumptive use
+        recycling and reuse
+        environmental uses
+    irrigation methods
+      traditional methods
+        overhead sprinklers
+        trench irrigation
+        flood irrigation
+      efficient methods
+        drip irrigation
+        benefits of efficiency
+    aquaculture
+      importance for food supply
+      environmental considerations
+      challenges in farming
+    industrial water use
+      percentage of global use
+      applications in industry
+    household water use
+      daily activities
+      ways to reduce consumption
+    recreational water use
+      activities
+      percentage of total use
+      impact on water resources

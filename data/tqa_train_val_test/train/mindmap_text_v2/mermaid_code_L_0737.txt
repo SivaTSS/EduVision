@@ -1,0 +1,22 @@
+mindmap
+  Energy Forms
+    Identify different forms of energy
+      Mechanical energy
+      Chemical energy
+      Electrical energy
+      Nuclear energy
+      Thermal energy
+      Electromagnetic energy
+      Sound energy
+    Describe how energy changes form
+      Energy conversions
+        Mechanical to sound
+        Chemical to thermal and light
+        Electrical to thermal and sound
+      Conservation of energy
+    Electrical devices
+      Light bulb
+      Alarm clock
+      Hair dryer
+    Natural resources for electricity
+    Thermal energy and atoms

@@ -1,0 +1,39 @@
+mindmap
+  Photosynthesis Light Reactions
+    Autotrophs vs Heterotrophs
+      Differences
+      Similarities
+    Sugar Production
+      Usage of Sugar
+    CO2 Levels
+      Decreasing Effects
+      Increasing Effects
+    Raw Materials
+      Sources for Photosynthesis
+      Substances Taken Up
+    Chloroplast Structure
+      Thylakoids
+        Chlorophyll
+        Thylakoid Space
+      Stroma
+    Stomata
+      Function
+      Effects of Closure
+    Reactants and Products
+      Reactants
+        Carbon Dioxide
+        Water
+        Sunlight
+      Products
+        Glucose
+        Oxygen
+    Photosynthesis Process
+      Two Stages
+        Light Reactions
+          Sunlight Absorption
+          ATP and NADPH Production
+          Water Usage
+          Oxygen Production
+        Calvin Cycle
+          Glucose Production
+          CO2 Utilization

@@ -1,0 +1,32 @@
+mindmap
+  Ozone Depletion
+    Ozone in the Stratosphere
+      Function
+      Absorption of UV Radiation
+    Ozone Molecule
+      Formation
+      Properties
+      Reactions
+    Chlorine and Ozone Interaction
+      Chlorine Atom Intersects Ozone
+      Chlorine Monoxide and Oxygen Collision
+      Chlorine's Role in Ozone Destruction
+    CFCs
+      Sources
+      Mechanism of Ozone Destruction
+      Impact in Stratosphere
+    Ozone Hole
+      Definition
+      Location
+      Size and Changes Over Time
+    Consequences of Ozone Loss
+      Health Effects
+        Skin Cancer
+        Cataracts
+        Immune System Impact
+      Environmental Effects
+        Crop Yields
+        Phytoplankton Productivity
+    Global Response
+      CFC Ban
+      International Actions

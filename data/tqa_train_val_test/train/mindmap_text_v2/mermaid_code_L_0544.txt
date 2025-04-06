@@ -1,0 +1,24 @@
+mindmap
+  HIV and AIDS
+    HIV Replication
+      Steps of HIV infection and replication
+      Understanding infection for treatment development
+      HIV injection into cells
+      Enzymes supplied by HIV
+    HIV Immunity
+      Variability in vulnerability to HIV
+      Research on natural resistance to HIV
+    Development of AIDS
+      Progression from HIV to AIDS
+      AIDS does not directly cause death
+      Body fluids containing HIV
+      Body fluids not containing HIV
+    HIV Transmission
+      Spread through body fluids
+      Modes of transmission
+      Misconceptions about transmission
+    Impact of HIV and AIDS
+      Destruction of helper T cells
+      Immune system failure
+      AIDS as a set of symptoms
+      Historical context and statistics

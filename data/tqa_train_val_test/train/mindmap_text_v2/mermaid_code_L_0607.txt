@@ -1,0 +1,47 @@
+mindmap
+  Muscles and Exercise
+    Aerobic Exercise
+      Definition
+      Benefits
+        Cardiovascular Health
+        Muscular Endurance
+      Mechanism
+        Oxygen Utilization
+        Heart Rate Increase
+    Anaerobic Exercise
+      Definition
+      Benefits
+        Muscle Strength
+        Skeletal System Impact
+      Mechanism
+        High-Intensity Exertion
+        Resistance Training
+    Types of Exercises
+      Aerobic
+        Examples
+          Cycling
+          Walking
+          Running
+      Anaerobic
+        Examples
+          Weight Training
+          Sprinting
+      Flexibility
+        Importance
+        Stretching
+    Muscle Health
+      Muscular Strength
+        Definition
+      Muscular Endurance
+        Definition
+      Injury Prevention
+        Warm-Up Importance
+        Types of Injuries
+          Muscle Strain
+          Tendinitis
+    Lifestyle Diseases
+      Definition
+      Examples
+        Cardiovascular Disease
+        Type 2 Diabetes
+        Obesity

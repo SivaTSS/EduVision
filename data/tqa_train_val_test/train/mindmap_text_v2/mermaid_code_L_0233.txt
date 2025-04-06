@@ -1,0 +1,19 @@
+mindmap
+  mesosphere
+    location
+      above stratosphere
+    temperature
+      gradient decreases with altitude
+      extremely cold at top
+      about -90°C
+    characteristics
+      low density of gas molecules
+      low air pressure
+      99.9% of atmosphere mass below
+    human effects
+      severe burns from UV light
+      blood boiling at normal temperature
+      lack of oxygen for breathing
+    meteors
+      burn due to low air density
+      air density insufficient for protection

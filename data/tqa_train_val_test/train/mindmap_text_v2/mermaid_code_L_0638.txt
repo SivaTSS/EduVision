@@ -1,0 +1,35 @@
+mindmap
+  Population Growth Patterns
+    Population Growth Rate
+      Definition
+      Factors Affecting Growth
+        Birth Rates
+        Death Rates
+        Immigration
+        Emigration
+        Age at First Reproduction
+        Frequency of Reproduction
+        Number of Offspring
+        Parental Care
+        Reproductive Lifespan
+        Offspring Survival Rate
+    Growth Models
+      Exponential Growth
+        Characteristics
+        J-shaped Curve
+      Logistic Growth
+        Characteristics
+        S-shaped Curve
+        Carrying Capacity
+    Altricial vs Precocial Organisms
+      Altricial Organisms
+        Characteristics
+        Parental Care
+      Precocial Organisms
+        Characteristics
+        Independence at Birth
+    Migration
+      Immigration
+        Effect on Population Size
+      Emigration
+        Effect on Population Size

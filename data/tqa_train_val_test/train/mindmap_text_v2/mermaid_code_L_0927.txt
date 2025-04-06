@@ -1,0 +1,34 @@
+mindmap
+  International System of Units
+    Importance
+      Common measurement system for scientists and engineers
+      Example: Mars Climate Orbiter
+    Basic SI Units
+      Total of seven units
+      Units for length
+        Meter (m)
+        Kilogram (kg)
+    Unit Conversions
+      SI to English units
+        1 meter = 39.37 inches
+        1 kilogram = 2.20 pounds
+      Example conversions
+        3 meters = 118.11 inches
+    SI Unit Prefixes
+      kilo- (k)
+        1000 m = kilometer (km)
+      deci- (d)
+        0.1 m = decimeter (dm)
+      centi- (c)
+        0.01 m = centimeter (cm)
+      milli- (m)
+        0.001 m = millimeter (mm)
+      micro- (µ)
+        0.000001 m = micrometer (µm)
+      nano- (n)
+        0.000000001 m = nanometer (nm)
+    Common Questions
+      What is SI?
+      How many grams in a kilogram?
+      What fraction of a meter is a millimeter?
+      How many pounds in 5 kilograms?

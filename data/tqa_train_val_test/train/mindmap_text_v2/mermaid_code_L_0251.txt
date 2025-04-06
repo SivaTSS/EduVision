@@ -1,0 +1,29 @@
+mindmap
+  Nitrogen Cycle in Ecosystems
+    Nitrogen Importance
+      Essential for organic molecules
+      Components: amino acids, chlorophyll, nucleic acids
+    Nitrogen Fixation
+      Process of converting nitrogen to usable form
+      Organisms involved
+        Nitrogen-fixing bacteria
+        Blue-green algae
+        Lightning
+      Locations
+        Soil
+        Symbiotic relationships with legumes
+    Role of Bacteria
+      Soil bacteria
+        Convert organic nitrogen to ammonia
+        Nitrifying bacteria
+          Oxidize ammonia to nitrites
+          Oxidize nitrites to nitrates
+        Denitrifying bacteria
+          Reduce nitrates to molecular nitrogen
+    Plant and Animal Interaction
+      Plants absorb nitrates
+      Animals consume plants
+      Decomposition returns nitrogen to soil
+    Importance of Legumes
+      Act as nitrogen fixers
+      Provide ammonia to soil

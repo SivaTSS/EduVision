@@ -1,0 +1,30 @@
+mindmap
+  Consumers and Decomposers
+    Decomposers
+      Role in Ecosystem
+        Break down dead organisms
+        Release nutrients
+        Recycle nutrients
+      Examples
+        Bacteria
+        Fungi
+        Mushrooms
+      Importance
+        Stability of ecosystem
+        Nutrient cycling
+        Without them, waste accumulates
+    Consumers
+      Definition
+        Obtain energy from other organisms
+      Types
+        Herbivores
+          Eat producers
+          Examples: rabbits, deer, caterpillars
+        Carnivores
+          Eat other animals
+          Examples: snakes, hawks
+        Omnivores
+          Eat both producers and consumers
+          Examples: humans, dogs, bears, raccoons
+      Importance
+        Essential for energy flow in ecosystems

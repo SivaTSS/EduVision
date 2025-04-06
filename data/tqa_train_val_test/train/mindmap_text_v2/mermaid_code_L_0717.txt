@@ -1,0 +1,36 @@
+mindmap
+  Radioactivity
+    Definition
+      Ability to emit radiation
+      Charged particles and energy
+    Discovery
+      Antoine Henri Becquerel
+        Experiment with uranium
+        Photographic plate results
+      Marie Curie
+        Coined term "radioactivity"
+        Discovered polonium and radium
+    Isotopes
+      Same element, different neutrons
+      Radioisotopes
+        Example: carbon-14
+    Sources of Radiation
+      Background radiation
+        From rocks and cosmic rays
+      Harmful sources
+        Radon gas
+    Dangers of Radiation
+      Effects on living things
+        Damages DNA
+        Causes cancer
+      Effects on nonliving things
+        Weakens metals
+    Uses of Radiation
+      Medical applications
+        Diagnosing and treating cancer
+      Power generation
+        Electricity from nuclear energy
+      Dating ancient rocks and fossils
+    Unstable Nuclei
+      Elements with more than 83 protons
+      All isotopes are radioactive

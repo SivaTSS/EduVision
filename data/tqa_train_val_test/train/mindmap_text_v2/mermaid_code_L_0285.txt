@@ -1,0 +1,29 @@
+mindmap
+  Air Pollution Reduction
+    Fuel Cells
+      Function
+      Advantages
+      Limitations
+    Gasification Technology
+      Process
+      Benefits
+      Challenges
+    Personal Actions
+      Reduce Fossil Fuel Use
+        Biking or Walking
+        Carpooling
+        Energy Efficiency
+      Develop Alternative Energy
+        Solar Energy
+        Wind Energy
+        Nuclear Power
+    Clean Air Act
+      Impact on Pollution
+      Major Pollutants
+      Ongoing Challenges
+    Vehicle Pollution Reduction
+      Catalytic Converters
+      Hybrid Vehicles
+        Fuel Efficiency
+        Plug-in Hybrids
+      New Technologies

@@ -1,0 +1,32 @@
+mindmap
+  Planet Earth
+    Characteristics of Earth
+      Round shape evidence
+      Supports life
+        Water
+        Oxygen
+    Gravity
+      Affects solar system
+      Earth-Moon interaction
+    Magnetism
+      Magnetic field
+      Protection from radiation
+    Rotation
+      Spins on axis
+      Length of a day
+      Foucault Pendulum experiment
+    Revolution
+      Orbits around the Sun
+      Length of a year
+      Elliptical orbit
+    Seasons
+      Caused by axial tilt
+      Northern and Southern Hemisphere differences
+    Interaction of Earth's spheres
+      Atmosphere
+      Hydrosphere
+      Biosphere
+      Lithosphere
+    Effects of mass changes
+      Increased mass impact on orbit
+      Shrinking Earth impact on Moon

@@ -1,0 +1,30 @@
+mindmap
+  Venus
+    Location
+      Relative to Sun
+      Relative to Earth
+    Characteristics
+      Similar to Earth
+        Size
+        Density
+        Nearest Neighbor
+      Least like Earth
+        Atmosphere
+        Surface Conditions
+    Temperature
+      Greenhouse Effect
+      Atmospheric Composition
+      Surface Temperature
+    Surface Features
+      Impact Craters
+      Volcanoes
+        Active Volcanism
+        Large Volcanoes
+    Rotation
+      Retrograde Rotation
+      Length of Day
+      Comparison to Year
+    Study Challenges
+      Thick Atmosphere
+      Use of Radar
+      Geological History

@@ -1,0 +1,49 @@
+mindmap
+  Centipedes and Millipedes
+    Myriapoda
+      Classes
+        Chilopoda
+          Characteristics
+            Fast
+            Predatory
+            Venomous
+            3300 species
+        Diplopoda
+          Characteristics
+            Slower
+            Herbivorous
+            2 pairs of legs per segment
+        Symphyla
+          Characteristics
+            Smaller
+            Translucent
+            200 species
+        Pauropoda
+          Characteristics
+            0.5-2.0 mm long
+            Feed on fungi
+            11-12 body segments
+    Habitat
+      Moist forests
+      Grasslands
+      Semi-arid habitats
+      Deserts
+    Diet
+      Centipedes
+        Predators
+        Prey on insects, spiders, small invertebrates
+      Millipedes
+        Decomposers
+        Feed on leaf litter and organic material
+    Legs
+      Centipedes
+        1 pair per body segment
+        Modified fangs
+      Millipedes
+        2 pairs per body segment
+    Behavior
+      Centipedes
+        Nighttime predators
+        Guard eggs and young
+      Millipedes
+        Use nests for eggs

@@ -1,0 +1,25 @@
+mindmap
+  Ionic Bonds
+    Formation
+      Definition
+      Electron Transfer
+      Role of Energy
+    Properties
+      High Melting and Boiling Points
+      Brittleness
+      Electrical Conductivity
+        Solid State
+        Liquid State
+    Ionic Compounds
+      Structure
+        Crystals
+        Naming
+      Examples
+        Sodium Chloride
+        Lithium Iodide
+    Comparison
+      Ionic vs. Molecular Compounds
+      Ionic Compound Characteristics
+    Applications
+      Industrial Uses
+      Biological Importance

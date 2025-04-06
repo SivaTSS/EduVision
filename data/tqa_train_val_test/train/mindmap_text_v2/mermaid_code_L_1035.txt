@@ -1,0 +1,19 @@
+mindmap
+  Speed
+    Definition
+      How fast or slow something moves
+      SI unit: meters per second (m/s)
+    Average Speed
+      Formula: speed = distance time
+      Example: 120 miles in 3 hours = 40 mi/h
+      Calculation for distance: distance = speed time
+      Calculation for time: time = distance speed
+    Instantaneous Speed
+      Speed at any given instant
+      More difficult to calculate than average speed
+    Variability
+      Speed may be constant or vary
+      Factors affecting speed: speed limits, traffic lights, number of vehicles
+    Example Scenarios
+      Terri's bike trip: 6 km in 0.25 h = 24 km/h
+      Car trip: 65 mi/h on highway, 20 mi/h in city

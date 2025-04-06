@@ -1,0 +1,40 @@
+mindmap
+  Work Calculation
+    Equation
+      Work = Force x Distance
+    SI Unit
+      Joule (J)
+      Newton meter (N m)
+      Definition
+        1 J = 1 N moving 1 m
+    Example 1
+      Clarissa lifts mower
+        Force = 200 N
+        Distance = 1.1 m
+        Work = 220 J
+    Example 2
+      Clarissa raises herself
+        Work = 528 J
+        Weight = ?
+    Example 3
+      Clarissa mows grandmother's lawn
+        Force = 100 N
+        Distance = 200 m
+        Work = 20,000 J
+    Example 4
+      Clarissa mows neighbor's lawn
+        Distance = 234 m
+        Work = 23,400 J
+    Rearranging Equation
+      Force = Work / Distance
+      Distance = Work / Force
+    Example 5
+      Clarissa pushes mower home
+        Work = 2700 J
+        Distance = 30 m
+        Force = 90 N
+    Example 6
+      Lifting mower in garage
+        Work = 400 J
+        Force = 200 N
+        Distance = ?

@@ -1,0 +1,27 @@
+mindmap
+  Thermosphere and Beyond
+    Location
+      Where is the thermosphere
+    Temperature Gradient
+      What is the temperature gradient of the thermosphere
+    Sub-layers
+      What sub-layer is at the top of the thermosphere
+    Ionosphere
+      How did the ionosphere get its name
+      Sources of Ions
+        Two sources of ions in the ionosphere
+      Characteristics
+        Free electrons travel as electric currents
+        Radio waves bounce off at night
+    Aurora
+      What creates the aurora
+      Where does the aurora take place
+      Aurora Borealis
+      Aurora Australis
+    Van Allen Radiation Belts
+      Location in the atmosphere
+      Origin of particles
+      Interaction with Earth's magnetic field
+    Solar Wind
+      Composition of solar wind
+      Effect on the atmosphere

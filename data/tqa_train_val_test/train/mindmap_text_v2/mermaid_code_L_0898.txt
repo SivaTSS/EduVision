@@ -1,0 +1,23 @@
+mindmap
+  External Combustion Engines
+    Definition
+      Combustion Engine
+        Burns fuel to produce thermal energy
+        Uses thermal energy to do work
+    Types
+      External Combustion Engine
+        Burns fuel externally
+        Example: Steam Engine
+      Internal Combustion Engine
+    Functioning
+      Heating Water
+        Produces steam
+        Steam under pressure
+      Piston Movement
+        Moves back and forth inside cylinder
+        Kinetic energy of piston
+        Can do work (turn wheels, turbines)
+    Components
+      Cylinder
+      Piston
+      Crankshaft

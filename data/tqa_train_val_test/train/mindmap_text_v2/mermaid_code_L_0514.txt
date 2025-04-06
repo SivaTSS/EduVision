@@ -1,0 +1,22 @@
+mindmap
+  Excretory System Problems
+    Kidney Disease
+      Definition
+      Chronic Kidney Disease
+        Similarities
+        Differences
+      Kidney Failure
+        Causes
+        Management
+    Kidney Stones
+      Formation
+      Symptoms
+      Treatment
+    Urinary Tract Infections
+      Definition
+      Causes
+      Symptoms
+      Treatment
+    Kidney Dialysis
+      Process
+      Purpose

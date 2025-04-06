@@ -1,0 +1,31 @@
+mindmap
+  Rocks and Processes of the Rock Cycle
+    Types of Rocks
+      Igneous
+        Formation from cooling magma
+        Types based on cooling rate
+      Sedimentary
+        Formation from compaction and cementation
+        Includes chemical precipitates
+      Metamorphic
+        Formation from heat and pressure
+    Rock Cycle
+      Definition
+        Continuous transformation of rocks
+      Processes
+        Crystallization
+        Erosion and Sedimentation
+        Metamorphism
+    Rock Transformation
+      Igneous to Metamorphic
+        Processes involved
+      Sedimentary to Metamorphic
+        Processes involved
+      Types of rocks that can become Sedimentary
+    Environmental Factors
+      Weathering
+        Breakdown of rocks into sediments
+      Transportation
+        Movement by water, wind, ice
+      Deposition
+        Laying down of sediments

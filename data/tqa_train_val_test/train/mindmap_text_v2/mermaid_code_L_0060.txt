@@ -1,0 +1,33 @@
+mindmap
+  Solar System Objects
+    Asteroid Belt
+      Location
+      Composition
+      Formation
+      Mass
+    Asteroids
+      Characteristics
+      Types
+      Near-Earth Asteroids
+      Impact on Earth
+    Comets
+      Characteristics
+      Origin
+      Coma and Tail
+      Short-period vs Long-period
+    Meteoroids
+      Definition
+      Meteor Formation
+      Meteorites
+    Dwarf Planets
+      Definition
+      Examples
+        Ceres
+        Pluto
+        Haumea
+        Makemake
+        Eris
+    Categories of Celestial Objects
+      Definitions
+      Overlap and Changes
+      Exploration Potential

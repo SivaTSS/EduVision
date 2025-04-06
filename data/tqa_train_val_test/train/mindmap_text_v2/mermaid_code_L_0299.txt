@@ -1,0 +1,32 @@
+mindmap
+  Scientific Models
+    Definition
+      Representation of complex systems
+      Easier manipulation than real systems
+      Used for predictions
+      Types: physical, conceptual, mathematical
+    Importance
+      Useful tools in science
+      Help understand complex systems
+      Allow analysis and predictions
+    Climate Models
+      Represent Earth's complex climate
+      Factors are interdependent
+      Example: CO2 levels and plant growth
+    Validation
+      Testing ideas through manipulation
+      Historical data for accuracy
+      Predicting present to assess future predictions
+    Limitations
+      Simpler than real systems
+      May not predict behavior accurately
+      Accuracy depends on computing power and construction
+    Types of Models
+      Physical Models
+        Smaller, simpler representations
+        Examples: globe, map
+      Conceptual Models
+        Tie together ideas to explain phenomena
+      Mathematical Models
+        Sets of equations for representation
+        Typically done on computers

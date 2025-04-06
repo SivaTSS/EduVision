@@ -1,0 +1,33 @@
+mindmap
+  Wind Waves
+    Causes of Wave Breaking
+      Wave height
+      Support from base
+      Occurs at sea and shore
+    Hurricane Impact
+      Damage to coastal development
+      Influence of tide height
+    Wave Formation and Travel
+      Origin from wind
+      Factors for large waves
+        Strong wind
+        Long duration
+        Long distance
+      Energy transfer
+        Tiny ripples to larger waves
+        Molecules not the same at shore
+    Wave Motion
+      Circular motion in deep water
+      Elliptical motion in shallow water
+      Energy transfer between molecules
+    Wave Breaking
+      Mechanism of breaking
+      Friction with ground
+      Crest falling and crashing
+    Storm Surge
+      Water piling at shoreline
+      Potential sea level rise
+      Impact of storm conditions
+    Maverick Waves
+      Characteristics
+      Importance in wave generation study

@@ -1,0 +1,22 @@
+mindmap
+  Properties of Bases
+    What is a base?
+      Ionic compounds
+      Produce negative hydroxide ions (OH-)
+    Properties of bases
+      Bitter taste
+      Slippery feel
+      Conduct electricity
+    Detection of bases
+      Litmus paper
+        Red litmus turns blue
+      Other indicators
+        Red cabbage juice
+    pH scale
+      Ranges from 0 to 14
+      pH > 7 indicates a base
+      Strongest bases near pH 14
+    Uses of bases
+      Cleaning products
+      Concrete
+      Soaps

@@ -1,0 +1,41 @@
+mindmap
+  Ocean Life
+    Marine Organisms
+      Definition
+      Adaptations
+    Major Groups
+      Plankton
+        Phytoplankton
+          Primary Producers
+          Photosynthesis
+          Live in Photic Zone
+        Zooplankton
+          Animal-like
+          Feed on Phytoplankton
+      Nekton
+        Definition
+        Swim in Water
+        Examples
+          Fish
+          Mammals
+      Benthos
+        Definition
+        Live on Ocean Floor
+        Examples
+          Clams
+          Worms
+          Tubeworms
+    Marine Food Chain
+      Base
+        Phytoplankton
+      Consumers
+        Small Zooplankton
+        Larger Organisms
+        Predators
+          Sharks
+      Decomposers
+        Bacteria
+        Worms
+    Ocean Zones
+      Influence on Atmosphere
+      Comparison with Atmosphere

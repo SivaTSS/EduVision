@@ -1,0 +1,43 @@
+mindmap
+  World Climates
+    Climate Types
+      Tropical
+        Tropical Wet
+          Rainforests
+        Tropical Wet and Dry
+          Grasslands
+      Dry
+        Deserts
+          Less than 25 cm rain
+        Steppes
+          Short grasses and low bushes
+      Temperate
+        Mediterranean
+          Mild temperatures, moderate rainfall
+        Marine West Coast
+          Mild temperatures, year-round rainfall
+        Humid Subtropical
+          Hot summers, chilly winters
+      Continental
+        Humid Continental
+          Warm summers, cold winters
+        Subarctic
+          Cool summers, long cold winters
+      Polar
+        Polar Tundra
+          Permafrost, small plants
+        Alpine Tundra
+          High altitudes, cold temperatures
+    Microclimates
+      Definition
+        Local climate differing from major climate
+      Example
+        South-facing hill warmer than north-facing
+    Climate Change
+      Effects on Earth
+        Overall warming
+      Impact on Living Things
+        Changes in habitats and ecosystems
+    Biomes
+      Definition
+        Major climate type and its living organisms

@@ -1,0 +1,39 @@
+mindmap
+  Energy Resources
+    Nonrenewable Energy Resources
+      Definition: Limited supply, cannot be replaced quickly
+      Types
+        Fossil Fuels
+          Examples: Petroleum, Natural Gas, Coal
+          Formation: From remains of dead organisms
+          Drawbacks: Pollution, global warming
+        Nuclear Energy
+          Definition: Uses uranium for fission
+          Drawbacks: Radioactive waste, potential accidents
+    Renewable Energy Resources
+      Definition: Can be replaced quickly or are limitless
+      Types
+        Sunlight
+          Uses: Heating, electricity generation
+          Drawbacks: Not practical in cloudy areas
+        Moving Water
+          Uses: Generates electricity via turbines
+          Drawbacks: Ecosystem impact from dams
+        Wind
+          Uses: Converts kinetic energy to electricity
+          Drawbacks: Limited to windy areas, aesthetic concerns
+        Biomass
+          Definition: Chemical energy from plants
+          Uses: Heating, cooking, electricity
+          Drawbacks: Land use for crops
+        Geothermal
+          Definition: Heat from Earth's interior
+          Uses: Electricity generation, home heating
+          Drawbacks: High installation costs
+    World Energy Use
+      Overview: Fossil fuels dominate global energy
+      Comparison: Rich nations vs. poor nations
+      Conservation: Importance of energy efficiency
+    Energy Conservation Tips
+      Examples: Efficient use, reducing consumption
+      Importance: Mitigating pollution and global warming

@@ -1,0 +1,22 @@
+mindmap
+  Boyle's Law
+    Definition
+      States that decreasing gas volume increases pressure
+    Explanation
+      Pressure increases due to more collisions of gas molecules
+    Example
+      Squeezing a balloon
+        Prediction: Balloon pressure increases as volume decreases
+    Related Concepts
+      Gas Laws
+        Charles' Law
+        Amontons' Law
+    Historical Context
+      Named after Robert Boyle
+      Boyle's experiments in the 1660s
+      Father of modern chemistry
+    Visualization
+      Inverse relationship between volume and pressure
+        Graph representation
+          X-axis: Volume (V)
+          Y-axis: Pressure (P)

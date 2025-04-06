@@ -1,0 +1,45 @@
+mindmap
+  Satellites and Computers
+    Types of Orbits
+      Geostationary Orbit
+        Distance: 36,000 km
+        Duration: 24 hours
+        Uses: Weather and communications satellites
+      Polar Orbit
+        Distance: Several hundred kilometers
+        Duration: 90 minutes
+        Uses: Global weather observation and land/ocean monitoring
+    Satellite Functions
+      Weather Satellites
+      Communications Satellites
+      Global Positioning Satellites
+      Climate Satellites
+    Global Positioning System (GPS)
+      Functionality
+        Requires GPS receiver
+        Uses signals from at least four satellites
+        Measures distance using signal timing
+      Applications
+        Locating positions on Earth
+        Integration in devices like cell phones and cars
+    Geographic Information Systems (GIS)
+      Purpose
+        Linking location with various data types
+        Creating detailed maps
+      Applications
+        Urban planning
+        Natural resource mapping
+        Crop damage assessment
+    Satellite Imagery
+      Types of Images
+        Water vapor in atmosphere
+        Ocean surface temperatures
+        Global vegetation
+      Importance
+        Provides large-scale views of Earth
+        Aids in disaster tracking and prediction
+    Historical Context
+      1900 Galveston Hurricane
+        Lack of satellite technology led to high casualties
+      Hurricane Katrina (2005)
+        Importance of satellites in disaster response

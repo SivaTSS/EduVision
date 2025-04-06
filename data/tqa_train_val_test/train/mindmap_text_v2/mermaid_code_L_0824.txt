@@ -1,0 +1,23 @@
+mindmap
+  Cellular Respiration Reactions
+    What is Cellular Respiration
+      Definition
+      Process of breaking down glucose with oxygen
+      Produces carbon dioxide and water
+    Chemical Equation
+      C6H12O6 + 6O2 -> 6CO2 + 6H2O
+    Catabolic Reaction
+      Definition of catabolic reactions
+      Bonds broken in glucose
+      Energy released
+    Energy Release
+      Chemical energy stored in glucose
+      Converted to heat
+      Used to form ATP
+    Relation to Breathing
+      Inhaling brings in oxygen
+      Exhaling releases carbon dioxide and water vapor
+    Organisms Involved
+      Autotrophs
+      Heterotrophs
+      Interconnectedness in ecosystem

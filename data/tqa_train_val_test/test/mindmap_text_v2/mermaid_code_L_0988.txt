@@ -1,0 +1,29 @@
+mindmap
+  Pressure in Fluids
+    Siphon Demonstration
+      Liquid Movement
+      Air Removal
+      Uphill Flow
+      Liquid Direction
+    Fluid Pressure
+      Definition
+        Force on Area
+        Concentration of Force
+      SI Unit
+        Pascal (Pa)
+        Kilopascal (kPa)
+      Calculation
+        Pressure = Force / Area
+        Example: Box Pressure
+    Fluid Behavior
+      Particle Movement
+        Constant Motion
+        Collisions
+      Pressure Distribution
+        Equal in All Directions
+        Movement from High to Low Pressure
+    Factors Influencing Pressure
+      Depth of Fluid
+        Greater Depth = More Pressure
+      Density of Fluid
+        Denser Fluids = More Pressure

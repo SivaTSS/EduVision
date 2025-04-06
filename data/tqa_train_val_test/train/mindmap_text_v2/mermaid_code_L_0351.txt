@@ -1,0 +1,37 @@
+mindmap
+  Water Pollution
+    Point Source Pollution
+      Example
+    Non-Point Source Pollution
+      Common Pollutants
+      Impact on Water Quality
+      Causes
+      Pathways to Water Sources
+    Municipal Pollution
+      Sources
+        Sewage
+        Storm Drains
+        Septic Tanks
+        Boats
+        Yard Runoff
+    Industrial Pollution
+      Sources
+        Factories
+        Hospitals
+      Hazardous Pollutants
+        Radioactive Substances
+        Heavy Metals
+        Fossil Fuel By-products
+        Oil Products
+        Heated Water
+    Agricultural Pollution
+      Sources
+        Animal Waste
+        Pesticides
+        Herbicides
+        Fertilizers
+        Soil
+    Effects of Water Pollution
+      Water Shortages
+      Health Impacts
+      Environmental Impacts

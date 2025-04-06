@@ -1,0 +1,34 @@
+mindmap
+  Biomes
+    Definition
+      Area with similar climate
+      Similar communities of plants and animals
+    Types
+      Terrestrial biomes
+        Deserts
+        Forests
+      Aquatic biomes
+        Ponds
+        Lakes
+    Influencing Factors
+      Abiotic factors
+        Climate
+          Rainfall
+          Temperature
+        Soil quality
+      Biotic factors
+        Plant communities
+        Animal communities
+    Examples
+      Tropical rainforests
+      Deserts
+    Adaptations
+      Desert animals
+        Behavioral adaptations
+      Grassland animals
+        Adaptations
+        Examples of grassland animals
+    Differences
+      Rainforest vs Desert
+        Plant differences
+        Animal differences

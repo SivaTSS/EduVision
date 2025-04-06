@@ -1,0 +1,39 @@
+mindmap
+  STIs
+    Definition
+      Infection through sexual contact
+      Caused by pathogens
+    Types
+      Bacterial
+        Chlamydia
+          Most common in U.S.
+          Can lead to serious reproductive issues if untreated
+        Gonorrhea
+          May cause pain during urination
+          Can lead to infections of reproductive organs if untreated
+        Syphilis
+          Serious STI with potential organ damage
+      Viral
+        HPV
+          Causes genital warts
+          Can lead to cervical cancer
+          Preventable by Gardasil vaccine
+        Genital Herpes
+          Causes painful blisters
+          No cure, but medications can help
+        Hepatitis B
+          Affects liver, can lead to liver cancer
+          Vaccine available
+        HIV/AIDS
+          No cure, can be managed with medication
+    Myths
+      One partner means no STIs
+      No symptoms means no STIs
+      STIs are easily cured
+    Prevention
+      Abstinence
+      Safe sexual practices
+      Vaccination (e.g., Gardasil for HPV, Hepatitis B vaccine)
+    Risk Factors
+      More common in teens and young adults
+      Lack of awareness and education

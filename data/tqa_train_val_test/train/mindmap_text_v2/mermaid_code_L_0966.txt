@@ -1,0 +1,20 @@
+mindmap
+  Newtons Second Law
+    Rate of Change of Momentum
+    Force and Acceleration
+      Proportional Relationship
+      Doubling Force
+    Force and Mass
+      Inverse Relationship
+      Doubling Mass
+    Acceleration
+      Definition
+      Factors Affecting Acceleration
+        Net Force
+        Mass
+    Equation Representation
+      a = Net Force / Mass
+    Practical Example
+      Tony and Sam's Acceleration
+        Mass Comparison
+        Effect of Force

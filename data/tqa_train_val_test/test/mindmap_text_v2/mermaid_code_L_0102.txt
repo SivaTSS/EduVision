@@ -1,0 +1,22 @@
+mindmap
+  Earth Science
+    Geology
+      Study of solid materials and structures
+      Processes creating and destroying materials
+      Human use of Earth materials
+    Oceanography
+      Study of ocean environment
+      Covers 70% of Earth's surface
+      Marine geology
+    Meteorology
+      Study of weather patterns
+      Use of technology for forecasting
+    Climatology
+      Study of the atmosphere
+      Understanding climate change
+    Environmental Science
+      Effects of humans on the environment
+      Includes climate change
+    Astronomy
+      Study of outer space
+      Use of telescopes and spacecraft

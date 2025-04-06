@@ -1,0 +1,42 @@
+mindmap
+  Respiratory System
+    Importance of Oxygen
+      Oxygen for Cells
+      Carbon Dioxide Release
+    Respiration
+      Definition
+      Stages
+        Inhalation
+        Exhalation
+    Structures
+      Nose
+      Trachea
+      Lungs
+      Diaphragm
+      Alveoli
+    Breathing Process
+      Role of Diaphragm
+      Steps
+        Inhaling
+        Exhaling
+        Gas Exchange
+        Gas Transport
+    Diseases
+      Asthma
+        Symptoms
+        Triggers
+      Pneumonia
+        Symptoms
+        Causes
+      Emphysema
+        Symptoms
+        Causes
+    Health Tips
+      Avoid Smoking
+      Healthy Lifestyle
+        Nutrition
+        Sleep
+        Exercise
+      Hygiene Practices
+        Hand Washing
+        Avoiding Sick Contacts

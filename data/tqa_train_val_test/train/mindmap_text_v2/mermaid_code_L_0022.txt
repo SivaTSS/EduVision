@@ -1,0 +1,33 @@
+mindmap
+  Energy in the Atmosphere
+    Define Energy
+      Forms of Energy
+        Heat
+        Light
+        Chemical
+        Electrical
+    Solar Energy
+      Sun as Energy Source
+      Photons and Waves
+      Electromagnetic Spectrum
+        Wavelengths
+        Visible Light
+        Infrared Light
+        Ultraviolet Light
+        Gamma Rays
+    Heat Transfer
+      Radiation
+        Energy Transfer by Waves
+      Conduction
+        Molecule to Molecule Contact
+      Convection
+        Heat Transfer in Liquids and Gases
+    Variation of Solar Energy
+      Equator vs. Poles
+      Effects on Weather and Winds
+    Greenhouse Effect
+      Definition
+      Greenhouse Gases
+        Carbon Dioxide
+        Water Vapor
+      Human Impact

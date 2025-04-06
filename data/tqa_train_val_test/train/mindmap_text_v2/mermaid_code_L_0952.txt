@@ -1,0 +1,19 @@
+mindmap
+  Metals
+    What are metals
+      Elements that can conduct electricity
+      Largest class of elements
+      Solid at room temperature (except mercury)
+    Properties of metals
+      High melting points
+      Good conductors of heat
+      Shiny appearance
+      Ductile
+      Malleable
+    Conductivity of metals
+      Flow of electrons
+      Tendency to give up electrons
+      Example: Lithium
+        Two electrons in first energy level
+        One electron in second energy level
+        Easier to give up one electron for stability

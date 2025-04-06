@@ -1,0 +1,19 @@
+mindmap
+  acceleration_due_to_gravity
+    why_objects_fall_faster
+      longer_fall_time
+      increasing_velocity
+    rate_of_acceleration
+      9.8_m_per_s2
+      independent_of_mass
+    mass_effects
+      gravity_pull
+      equal_acceleration
+      air_resistance
+        leaf_vs_acorn
+        vacuum_condition
+    velocity_change
+      1_second_velocity
+      2_seconds_velocity
+      5_seconds_velocity
+      6_seconds_velocity

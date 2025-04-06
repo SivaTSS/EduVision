@@ -1,0 +1,21 @@
+mindmap
+  respiration
+    air_entry
+      inhalation
+      exhalation
+      air_pressure_change
+    gas_exchange
+      alveoli
+        diffusion
+        capillaries
+      blood_interaction
+    diaphragm_rib_muscles
+      contraction
+      relaxation
+    involuntary_control
+      brain_regulation
+      voluntary_control
+    respiration_vs_breathing
+      definition_difference
+      cellular_exchange
+    epiglottis_function

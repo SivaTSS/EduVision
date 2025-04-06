@@ -1,0 +1,20 @@
+mindmap
+  frequency_and_pitch_of_sound
+    pitch_of_sound
+      definition How high or low a sound seems to a listener
+      dependence on_frequency
+        high_frequency High-pitched sounds
+        low_frequency Low-pitched sounds
+    frequency_of_sound_waves
+      measurement_in_hertz
+      range_for_humans 20 Hz to 20,000 Hz
+    infrasound
+      definition Frequencies below 20 Hz
+      characteristics Too low for humans to hear
+    ultrasound
+      definition Frequencies above 20,000 Hz
+      characteristics Too high for humans to hear
+      examples
+        dogs Can hear up to 50,000 Hz
+        bats Can hear above 100,000 Hz
+        navigation Bats use ultrasound to navigate in the dark

@@ -1,0 +1,43 @@
+mindmap
+  Optics and Optical Instruments
+    Definition of Optics
+      Study of visible light
+      Extends human vision
+      Used in various tasks
+    Optical Instruments
+      Microscopes
+        Light Microscope
+          Compound Microscope
+            Objective lenses
+            Eyepiece lenses
+            Overall magnification
+          Advances in scientific knowledge
+            Discovery of cells
+            Identification of bacteria
+            Visibility of viruses and atoms
+      Telescopes
+        Types
+          Reflecting Telescopes
+            Uses mirrors
+            Advantages over refracting
+          Refracting Telescopes
+            Uses lenses
+      Cameras
+        Functionality
+          Light passes through lens
+          Forms reduced real image
+          Records on film or sensor
+          Shutter controls light exposure
+      Lasers
+        Focused beam of light
+        Production process
+          Stimulated electrons
+          Concave mirrors
+        Applications
+          Communication signals in optical fibers
+          Various uses in technology
+    Optical Fibers
+      Functionality
+        Carry communication signals
+        Reflect light internally
+        Multiple signals simultaneously

@@ -1,0 +1,36 @@
+mindmap
+  Renewable Energy Resources
+    Electricity Generation
+      Turbines
+      Examples
+    Solar Energy
+      Uses
+        Heating
+        Electricity Generation
+      Solar Power Plants
+        Mirrors
+        Receiver
+        Heat Transfer
+          Conduction
+    Water Power
+      Hydroelectric Power
+        Dams
+        Kinetic Energy
+      Wave and Tidal Power
+    Wind Power
+      Energy from Moving Air
+      Turbines
+    Biomass Energy
+      Sources
+        Wood
+        Grains
+      Biofuels
+    Geothermal Energy
+      Earth's Internal Heat
+      Power Plants
+    Environmental Impact
+      Pollution
+      Resource Management
+    Cost Considerations
+      Renewable vs Non-Renewable
+      Mining Impacts

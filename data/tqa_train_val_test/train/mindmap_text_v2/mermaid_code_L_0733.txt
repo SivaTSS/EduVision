@@ -1,0 +1,37 @@
+mindmap
+  Machines
+    Definition
+      Device that makes work easier by changing a force
+    Types of Machines
+      Simple Machines
+        Levers
+        Hammers
+        Paddles
+      Complex Machines
+        Appliances
+        Power Tools
+    Functions
+      Increase Force
+      Increase Distance
+      Change Direction
+    Efficiency
+      Definition
+        Measure of how well a machine reduces friction
+      Calculation
+        Efficiency = Output work / Input work * 100%
+    Mechanical Advantage
+      Definition
+        Number of times a machine multiplies input force
+      Calculation
+        Actual Mechanical Advantage = Output force / Input force
+        Ideal Mechanical Advantage = Input distance / Output distance
+    Examples
+      Doorknobs
+      Nutcrackers
+      Ramps
+      Pulleys
+    Key Concepts
+      Input Force
+      Output Force
+      Input Distance
+      Output Distance

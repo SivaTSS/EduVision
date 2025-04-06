@@ -1,0 +1,34 @@
+mindmap
+  fossils
+    definition
+      preserved remains
+      examples
+        bones
+        teeth
+        impressions
+    paleontology
+      paleontologists
+        study fossils
+        learn about past life
+        evidence for evolution
+    fossil record
+      evidence of evolution
+      species change over time
+      layers of rock
+        newer layers on top
+        oldest layers at the bottom
+    radiometric dating
+      determines age of fossils
+      measures radioactive decay
+      oldest rocks: 4-5 billion years
+      oldest fossils: 3-4 billion years
+    notable paleontologists
+      James Hagadorn
+        early animal life
+        evidence of early organisms
+      Jenny Clack
+        first vertebrate on land
+        study of tetrapods
+      Richard Dawkins
+        intermediate fossils
+        modern whale ancestors

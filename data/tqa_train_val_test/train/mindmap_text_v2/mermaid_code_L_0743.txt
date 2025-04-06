@@ -1,0 +1,30 @@
+mindmap
+  Measuring Waves
+    Wave Properties
+      Wave Amplitude
+        Definition
+        Measurement in Transverse Waves
+        Measurement in Longitudinal Waves
+      Wavelength
+        Definition
+        Measurement in Transverse Waves
+        Measurement in Longitudinal Waves
+      Wave Frequency
+        Definition
+        Measurement
+        Relation to Energy
+    Wave Energy
+      Relation to Amplitude
+      Relation to Wavelength
+      Relation to Frequency
+    Wave Speed
+      Definition
+      Relation to Wavelength and Frequency
+      Calculation Examples
+    Tsunamis
+      Definition
+      Impact
+      Example: Thailand Tsunami
+    Wave Behavior in Different Media
+      Speed Changes
+      Other Properties Changes

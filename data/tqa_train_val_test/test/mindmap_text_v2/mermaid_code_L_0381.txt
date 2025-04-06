@@ -1,0 +1,32 @@
+mindmap
+  Understanding Animal Behavior
+    Definition of Animal Behavior
+      Interaction with Environment
+      Interaction with Other Animals
+    Types of Behavior
+      Innate Behavior
+        Definition
+        Examples
+          Honeybee Waggle Dance
+          Grasp Reflex in Humans
+      Learned Behavior
+        Definition
+        Examples
+          Dog Sitting on Command
+        Learning Methods
+          Habituation
+          Observational Learning
+          Conditioning
+          Learning through Play
+          Insight Learning
+    Evolution and Fitness
+      Natural Selection
+        Role of Genes
+        Increase in Fitness
+    Communication
+      Purpose of Communication
+      Methods of Communication
+    Comparison of Behaviors
+      Innate vs Learned
+        Characteristics
+        Advantages of Learned Behaviors

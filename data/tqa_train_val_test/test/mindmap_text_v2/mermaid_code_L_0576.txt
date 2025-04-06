@@ -1,0 +1,44 @@
+mindmap
+  Insects
+    Characteristics
+      Segmented bodies
+      Exoskeleton
+        Cuticle
+          Exocuticle
+          Inner layer
+      Body segments
+        Head
+        Thorax
+        Abdomen
+    Communication
+      Bioluminescence
+      Sounds
+        Fireflies
+        Cicadas
+        Moths
+      Chemical
+      Dance language
+    Diversity
+      Over a million species
+      Found in various environments
+      Size range
+    Adaptations
+      Key adaptations for class Insecta
+      Wing structure
+    Social Behavior
+      Social insects
+        Termites
+        Ants
+        Bees
+      Nesting and homing
+      Migration
+    Groups of Insects
+      Wingless
+        Bristletails
+        Silverfish
+      Winged
+        Mayflies
+        Dragonflies
+        Grasshoppers
+        Beetles
+        Butterflies

@@ -1,0 +1,24 @@
+mindmap
+  Cellular Respiration
+    Glycolysis
+      Location: Cytoplasm
+      Process: Splitting of glucose
+      Products: 2 pyruvate, 2 ATP (net gain), NADH
+      Oxygen Requirement: Yes/No (occurs with or without oxygen)
+    Krebs Cycle
+      Location: Mitochondria
+      Structure: Cristae (increases surface area)
+      Inputs: Acetyl-CoA from pyruvate
+      Products: NADH, FADH2, ATP, CO2
+      Importance: Energy carriers for electron transport chain
+    Electron Transport Chain
+      Location: Mitochondria
+      Function: ATP production
+      Key Components: Protein complex, mobile transfer molecules
+      Gradient: Proton (H+) gradient formation
+      Final Electron Acceptor: Oxygen
+    Overall Process
+      Reactants: Glucose, Oxygen
+      Products: ATP, CO2, Water
+      Chemical Reaction: C6H12O6 + 6O2 → 6CO2 + 6H2O
+      Total ATP Yield: 36-38 ATP (aerobic), 2 ATP (anaerobic)

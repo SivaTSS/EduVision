@@ -1,0 +1,21 @@
+mindmap
+  Mechanical Wave
+    Definition
+      Disturbance in matter
+      Transfers energy through matter
+    Medium
+      Matter through which wave travels
+      Can be solid, liquid, or gas
+    Types of Mechanical Waves
+      Transverse Waves
+        Particles vibrate up and down
+        Perpendicular to wave direction
+      Longitudinal Waves
+        Particles vibrate back and forth
+        Parallel to wave direction
+      Surface Waves
+        Combination of transverse and longitudinal
+        Particles move in circular motion
+    Energy Source
+      Disturbance in matter needed
+      Example: Falling water droplets

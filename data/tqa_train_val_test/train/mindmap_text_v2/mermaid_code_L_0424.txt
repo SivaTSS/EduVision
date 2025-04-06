@@ -1,0 +1,42 @@
+mindmap
+  Photosynthesis
+    Definition
+      Process of making glucose using light energy
+      Requires water and carbon dioxide
+      Produces oxygen as a byproduct
+    Photosynthetic Organisms
+      Plants
+      Algae
+      Some bacteria
+    Chloroplast
+      Structure
+        Surrounded by two membranes
+        Contains thylakoids with chlorophyll
+        Stroma filled with fluid
+      Function
+        Site of photosynthesis
+    Stages of Photosynthesis
+      Light Reactions
+        Occur in thylakoids
+        Capture light energy
+        Produce ATP and NADPH
+        Use water and produce oxygen
+      Calvin Cycle
+        Occur in stroma
+        Use ATP and NADPH to produce glucose
+        Use carbon dioxide
+    Energy Flow
+      Begins with photosynthesis
+      Glucose as energy source for cells
+    Autotrophs vs Heterotrophs
+      Autotrophs
+        Make glucose (self feeders)
+        Examples: plants, algae
+      Heterotrophs
+        Obtain glucose by consuming autotrophs (other feeders)
+        Examples: animals, fungi
+    Raw Materials for Photosynthesis
+      Light
+      Water
+      Carbon dioxide
+      Absorbed through leaves and stomata

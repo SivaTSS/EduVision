@@ -1,0 +1,37 @@
+mindmap
+  Respiratory System Diseases
+    Acute Bronchitis
+      Definition
+      Causes
+      Symptoms
+      Treatment
+    Pneumonia
+      Definition
+      Effects on Body
+      Causes
+      Symptoms
+      Treatment
+    Asthma
+      Definition
+      Causes
+      Symptoms
+      Management
+    Tuberculosis
+      Definition
+      Symptoms
+      Transmission
+    Lung Cancer
+      Definition
+      Symptoms
+      Causes
+    Emphysema
+      Definition
+      Symptoms
+      Causes
+    Common Causes
+      Pathogens
+      Pollution
+      Smoking
+    Effects on Body
+      Oxygen Deprivation
+      Impact on Other Organs

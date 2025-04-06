@@ -1,0 +1,42 @@
+mindmap
+  Animal Behavior
+    Communication
+      Definition
+      Importance for Social Animals
+      Methods
+        Hearing
+        Sight
+        Smell
+    Social Animals
+      Definition
+      Examples
+        Ants
+        Bees
+        Crows
+        Wolves
+        Humans
+      Cooperation
+        Task Division
+        Defense
+        Food Sharing
+    Reproductive Behaviors
+      Mating
+      Courtship
+        Examples
+          Courtship Dance in Birds
+      Offspring Care
+        Nest Building
+        Feeding
+        Protection
+    Defensive Behaviors
+      Territoriality
+      Defensive Displays
+        Example: Male Gorillas
+    Cyclical Behaviors
+      Annual Cycles
+        Migration
+        Hibernation
+      Daily Cycles
+        Circadian Rhythms
+        Diurnal Animals
+        Nocturnal Animals

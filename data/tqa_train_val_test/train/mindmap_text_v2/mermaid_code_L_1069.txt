@@ -1,0 +1,27 @@
+mindmap
+  Wave Particle Theory
+    Debate on Electromagnetic Radiation
+      Duration: Over 200 years
+      Perspectives
+        Particles
+        Waves
+    Einstein's Wave-Particle Theory
+      Year: 1905
+      Concept
+        Electromagnetic energy as discrete packets
+        Definition of Photon
+    Evidence Supporting Theory
+      Double-Slit Experiments
+        Setup: Laser light through slits
+        Observations
+          Pinpoints of light
+          Interference patterns
+    Nature of Electromagnetic Radiation
+      Behavior
+        Mostly waves
+        Sometimes particles
+      Source of Energy
+        Electrons returning to lower energy levels
+    Photon Characteristics
+      Energy Dependency
+        Based on frequency of electromagnetic wave

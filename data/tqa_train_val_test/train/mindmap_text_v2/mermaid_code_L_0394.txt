@@ -1,0 +1,34 @@
+mindmap
+  Excretory System
+    Excretion
+      Definition
+      Organs
+        Large Intestine
+        Liver
+        Skin
+        Lungs
+        Kidneys
+    Urinary System
+      Structures
+        Kidneys
+        Ureters
+        Urinary Bladder
+        Urethra
+      Functions
+        Filter Waste
+        Excrete Urine
+    Kidney Function
+      Blood Filtration
+        Nephrons
+        Glomerulus
+      Urine Formation
+    Homeostasis
+      Water Regulation
+      Hormone Secretion
+    Kidney Diseases
+      Kidney Stones
+      Urinary Tract Infections
+      Diabetes
+      Treatments
+        Hemodialysis
+        Kidney Transplant

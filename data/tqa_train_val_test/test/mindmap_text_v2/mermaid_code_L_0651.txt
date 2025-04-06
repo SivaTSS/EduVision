@@ -1,0 +1,33 @@
+mindmap
+  Protists Nutrition
+    Endocytosis
+      Purpose
+        Nutrient intake for some protists
+      Types
+        Phagocytosis
+        Pinocytosis
+        Receptor-mediated endocytosis
+      Process
+        Wraps around prey
+        Creates food vacuole
+        Produces toxins
+        Digests and absorbs nutrients
+    Algae
+      Food Acquisition
+        Photosynthesis
+        Sunlight energy
+    Animal-like Protists
+      Feeding Methods
+        Swallowing prey
+        Filter-feeders
+          Use of flagellum
+          Creates current for food intake
+    Fungi-like Protists
+      Nutrient Absorption
+        Decomposing decaying matter
+        Parasitic behavior
+          Harm host for nutrients
+    Slime Molds
+      Energy Source
+        Decaying plant life
+        Soil nutrients

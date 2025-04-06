@@ -1,0 +1,48 @@
+mindmap
+  Petroleum Power
+    What is Petroleum
+      Definition
+      Uses
+        Vehicles
+        Materials
+          Waxes
+          Plastics
+          Fertilizers
+    Crude Oil
+      Formation
+        Dead Organisms
+        Heat and Pressure
+      Characteristics
+        Mixture of Hydrocarbons
+        Appearance
+    Extraction Process
+      Location
+        Porous Rock Layer
+        Impermeable Layer
+      Methods
+    Refining Process
+      Purpose
+      Products
+        Fuels
+          Gasoline
+          Diesel
+          Heating Oil
+        Other Products
+          Waxes
+          Plastics
+          Fertilizers
+    Environmental Impact
+      Oil Spills
+      Pollution
+      Consequences
+    Oil Production in the US
+      Domestic Production
+      Import Dependence
+      Major Regions
+        Gulf of Mexico
+        Texas
+        Alaska
+        California
+    Challenges
+      Substitutes for Petroleum
+      Deep vs Shallow Drilling

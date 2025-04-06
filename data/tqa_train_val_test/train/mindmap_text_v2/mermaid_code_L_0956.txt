@@ -1,0 +1,31 @@
+mindmap
+  Modern Periodic Table
+    Definition
+      Organizes known elements
+      Arranged by increasing atomic number
+      Each element has a chemical symbol
+    Periods
+      Rows of the table
+      Increase in protons from left to right
+      Varying lengths
+        Period 1: 2 elements
+        Periods 6 and 7: longer, some elements below main table
+    Groups
+      Columns of the table
+      Similar properties within groups
+      18 groups in modern table
+        Group 1: reactive solids
+        Group 18: colorless, odorless gases
+    Element Example: Lead (Pb)
+      Atomic number: 82
+      Class: metal
+    Metalloids
+      Elements classified as metalloids
+      Properties between metals and nonmetals
+      Example: Arsenic (As)
+    Historical Context
+      Mendeleev's table
+        Arranged by increasing atomic mass
+        Called columns groups and rows periods
+      Modern table based on Mendeleev's work
+      More elements discovered since Mendeleev's time

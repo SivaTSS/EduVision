@@ -1,0 +1,20 @@
+mindmap
+  Accuracy and Precision
+    Accuracy
+      Definition: Close to true value
+      Example: Golf balls landing in the hole
+    Precision
+      Definition: Close in value to each other
+      Example: Golf balls landing close together
+    Measurement Evaluation
+      Accurate Measurement
+        Definition: Close to true value
+        Example: All golf balls in the hole
+      Precise Measurement
+        Definition: Close to each other
+        Example: Golf balls clustered together
+    Kami's Measurements
+      Results: 66.71 mL, 66.70 mL, 66.69 mL
+      Actual Volume: 69.70 mL
+      Precision: Yes
+      Accuracy: No

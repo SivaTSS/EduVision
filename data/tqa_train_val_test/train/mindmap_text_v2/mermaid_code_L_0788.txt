@@ -1,0 +1,38 @@
+mindmap
+  Carbon and Living Things
+    Biochemical Compounds
+      Definition
+      Importance of Carbon
+      Classes
+        Carbohydrates
+          Structure
+          Functions
+            Energy Storage
+            Cell Wall Composition
+        Proteins
+          Structure
+          Functions
+            Enzymes
+            Hormones
+            Antibodies
+            Transport
+        Lipids
+          Structure
+          Functions
+            Energy Storage
+            Cell Membrane Composition
+        Nucleic Acids
+          Structure
+          Functions
+            Genetic Information Storage
+            Protein Synthesis
+    Photosynthesis
+      Importance
+      Process
+    Key Questions
+      Four Classes of Biochemical Compounds
+      Sugars and Starches
+      Protein Structure
+      Functions of Proteins
+      Structure of Nucleic Acids
+      Components of Nucleotides

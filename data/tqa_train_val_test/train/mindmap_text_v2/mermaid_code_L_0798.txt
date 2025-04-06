@@ -1,0 +1,21 @@
+mindmap
+  Alpha Decay
+    What is alpha decay
+    Why alpha decay occurs
+    Radioactive elements
+      Unstable nuclei
+      Types of radioactive decay
+        Alpha decay
+        Beta decay
+        Gamma decay
+    Nuclear equations
+      Balancing equations
+      Example: Uranium-238 to Thorium-234
+      Example: Polonium-210 to Lead
+    Alpha particle
+      Composition
+      Representation
+    Risks of alpha decay
+      Least dangerous type
+      Limited penetration
+      Internal damage

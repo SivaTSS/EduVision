@@ -1,0 +1,39 @@
+mindmap
+  Skeletal System
+    Components
+      Bones
+      Cartilage
+      Ligaments
+    Functions
+      Support and Shape
+      Movement
+      Blood Cell Production
+      Calcium Storage
+      Protection of Organs
+    Bone Structure
+      Tissues
+        Periosteum
+        Compact Bone
+        Spongy Bone
+        Bone Marrow
+      Growth and Development
+        Ossification
+        Growth in Length and Width
+    Joints
+      Types
+        Immovable Joints
+        Partly Movable Joints
+        Movable Joints
+          Ball-and-Socket
+          Hinge
+          Pivot
+    Problems
+      Osteoporosis
+        Causes
+        Prevention
+      Bone Fractures
+        Causes
+        Healing Process
+      Ligament Sprains
+        Common Types
+        Prevention

@@ -1,0 +1,45 @@
+mindmap
+  Reptiles
+    Characteristics
+      Ectothermic
+      Four-legged vertebrates
+      Produce amniotic eggs
+    Adaptations
+      Terrestrial adaptations
+        Scales for protection and water retention
+        Efficient lungs for breathing air
+        Diaphragm for air movement
+    Reproduction
+      Sexual reproduction
+      Internal fertilization
+      Oviparous
+      Minimal parental care
+    Classification
+      Four orders
+        Crocodilia
+          Examples: crocodiles, alligators
+          Traits: complex brains, strong jaws
+        Sphenodontia
+          Example: tuatara
+          Traits: least specialized reptiles
+        Squamata
+          Examples: lizards, snakes
+          Traits: flexible jaws, color change
+        Testudines
+          Examples: turtles, tortoises
+          Traits: hard shell
+    Habitats
+      Aquatic
+      Terrestrial
+      Range from deserts to rainforests
+    Diet
+      Carnivores
+        Top predators: crocodilians
+        Lower-level predators: snakes, lizards
+      Herbivores
+        Examples: terrestrial turtles
+      Omnivores
+        Examples: marine turtles, some lizards
+    Evolution
+      Birds evolved from reptile ancestors
+      Differences between birds and reptiles

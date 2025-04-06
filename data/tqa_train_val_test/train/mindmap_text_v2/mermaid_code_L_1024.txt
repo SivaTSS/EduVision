@@ -1,0 +1,20 @@
+mindmap
+  significant figures
+    determining significant figures
+      measurement process
+      counting rules
+    examples of measurements
+      beaker measurement
+      graduated cylinder measurement
+    rules for counting significant figures
+      leading zeros
+      zeros between nonzero digits
+      zeros indicating decimal point
+      trailing zeros
+    calculations with significant figures
+      fewest significant figures rule
+      volume calculation example
+    rounding rules
+      rounding down
+      rounding up
+      special case for 5

@@ -1,0 +1,42 @@
+mindmap
+  cardiovascular diseases
+    coronary artery disease
+      definition
+      symptoms
+        chest pain
+        angina
+      consequences
+        heart attack
+          blocked blood vessel
+          cardiac muscle death
+    congestive heart failure
+      definition
+      effects on body
+    atherosclerosis
+      definition
+      plaque growth
+        inflammation
+        narrowing of arteries
+      causes
+        high-fat diet
+        high cholesterol
+        smoking
+        obesity
+        diabetes
+      prevention
+        healthy diet
+        regular exercise
+        quitting smoking
+    strokes
+      definition
+      causes
+        atherosclerosis in brain
+      risk factors
+        old age
+        high blood pressure
+        previous stroke
+        diabetes
+        high cholesterol
+        smoking
+      prevention
+        low blood pressure

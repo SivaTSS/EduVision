@@ -1,0 +1,36 @@
+mindmap
+  Scientific Investigation
+    Hypothesis
+      Question: Do vinegar and water freeze at the same temperature?
+      Prediction: If vinegar is cooled, it will freeze at the same temperature as water.
+    Experiment
+      Steps
+        Identify research question
+        Form hypothesis
+        Gather evidence
+        Analyze evidence
+        Decide if evidence supports hypothesis
+        Draw conclusions
+        Communicate results
+      Variables
+        Manipulated variable: Temperature
+        Responding variable: Number of paper clips picked up by magnet
+        Controlled variables: Size and shape of magnet
+    Importance of Investigation
+      Produces evidence
+      Leads to new questions
+      Advances science
+    Ethics in Research
+      Importance of ethical rules
+        Honesty in reporting
+        Avoiding bias
+        Ensuring safety of subjects
+        Humane treatment of animals
+    Measurement
+      Use of thermometers
+      Fahrenheit vs. Celsius
+      Freezing and boiling points of water
+    Communication
+      Sharing results for feedback
+      Importance of replication
+      Methods: peer-reviewed journals, presentations, public articles

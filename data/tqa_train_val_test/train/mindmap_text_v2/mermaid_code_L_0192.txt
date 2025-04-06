@@ -1,0 +1,24 @@
+mindmap
+  Heat Waves and Droughts
+    Heat Wave Definition
+      Criteria
+        More than five consecutive days
+        Temperatures above 9 F (5 C) average
+    Drought Definition
+      Criteria
+        Significantly less precipitation than normal
+    Causes of Heat Waves
+      High-pressure cell
+      Jet stream position
+        Jet stream further north than normal
+    Consequences of Drought
+      Soil moisture loss
+      Dust storms
+      Forest loss
+      Wildlife disturbance
+      Increased wildfires
+    Recent Trends
+      Increased frequency and duration
+      Example: Summer 2011 North American heat wave
+        Record temperatures
+        States breaking temperature records

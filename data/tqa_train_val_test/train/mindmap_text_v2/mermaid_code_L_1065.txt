@@ -1,0 +1,20 @@
+mindmap
+  Wave Amplitude
+    Definition
+      Maximum distance particles move from resting position
+    Transverse Waves
+      Crest height determines amplitude
+      Amplitude = height of crest - resting position
+    Longitudinal Waves
+      Compression distance determines amplitude
+      Amplitude = distance between compressed particles
+    Energy Relation
+      Greater energy results in greater amplitude
+      Example: small pebble vs big boulder in water
+    Figures
+      Figure 1.1
+        Relationship between crest, amplitude, and wavelength
+      Figure 1.2
+        Representation of a transverse wave
+      Figure 1.3
+        Comparison of two longitudinal waves

@@ -1,0 +1,23 @@
+mindmap
+  Nonvascular Plants
+    Definition
+      Lack seeds
+      Lack vascular tissue
+    Types
+      Mosses
+        Gametophyte stage
+        Sporophyte stage
+      Hornworts
+        Hornlike sporophytes
+        Moist habitats
+      Liverworts
+        Leafy appearance
+        Flattened ribbon-like appearance
+    Characteristics
+      No true roots, stems, or leaves
+      Short stature
+      Leafy appearance
+    Reproduction
+      Gametophyte produces gametes
+      Fertilization leads to sporophyte
+      Sporophyte forms sporangium

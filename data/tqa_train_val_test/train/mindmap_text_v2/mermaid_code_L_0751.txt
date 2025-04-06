@@ -1,0 +1,28 @@
+mindmap
+  electromagnetic waves
+    definition
+      electromagnetic radiation
+      electromagnetic wave
+    properties
+      transverse waves
+      electric and magnetic fields
+    formation
+      begins with vibrating charged particle
+      interaction of electric and magnetic fields
+    travel
+      through space without medium
+      interaction with matter
+        reflection
+        refraction
+        diffraction
+        energy conversion
+    wave-particle theory
+      developed by Albert Einstein
+      photons
+        energy and frequency relationship
+    sources
+      sun
+      technology-based sources
+        radio waves
+        microwaves
+        X rays

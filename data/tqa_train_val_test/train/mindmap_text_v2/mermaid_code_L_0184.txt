@@ -1,0 +1,33 @@
+mindmap
+  Greenhouse Effect
+    Definition
+      What is greenhouse effect
+      Earth in radiative equilibrium
+    Greenhouse Gases
+      Common gases
+        CO2
+        H2O
+        Methane
+        O3
+        Nitrous oxides
+        CFCs
+      Sources
+        Natural processes
+        Human activities
+    Mechanism
+      Heat trapping
+        Absorption of solar radiation
+        Re-emission of infrared radiation
+      Insulation effect
+    Impact
+      Temperature increase
+      Climate change
+      Weather patterns
+    Human Influence
+      Increased levels
+        Methane
+        Carbon dioxide
+        CFCs
+      Consequences
+        More heat trapping
+        Global warming

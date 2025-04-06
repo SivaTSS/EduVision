@@ -1,0 +1,36 @@
+mindmap
+  Habitat and Niche
+    Niche
+      Definition
+      Role in Ecosystem
+      Energy Flow
+      Interaction with Other Organisms
+      Nutrient Recycling
+      Competitive Exclusion
+      Vacancy Filling
+    Habitat
+      Definition
+      Factors Describing Habitat
+        Sunlight
+        Temperature
+        Rainfall
+      Distinction from Ecosystem
+    Environmental Changes
+      Rapid Changes
+      Gradual Changes
+      Impact on Niches
+    Species Interaction
+      Competition
+      Predation
+      Symbiosis
+    Habitat Destruction
+      Causes
+        Urban Development
+        Poor Fire Management
+        Invasive Species
+      Consequences
+        Population Decrease
+        Extinction
+    Examples
+      Tarpan and Konik
+      Kudzu Invasion

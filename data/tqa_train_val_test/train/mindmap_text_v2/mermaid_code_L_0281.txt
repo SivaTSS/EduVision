@@ -1,0 +1,34 @@
+mindmap
+  Water Cycle
+    Definition
+      Description of the water cycle
+      Continuous process
+    Major Processes
+      Evaporation
+      Condensation
+      Sublimation
+      Transpiration
+    Major Reservoirs
+      Oceans
+      Lakes
+      Rivers
+      Groundwater
+      Soil moisture
+    Precipitation
+      Types
+        Rain
+        Snow
+        Sleet
+        Hail
+      Effects
+        Surface runoff
+        Infiltration
+    Groundwater
+      Storage in aquifers
+      Springs
+    Human Impact
+      Water collection methods
+        Canals
+        Aqueducts
+        Dams
+        Wells

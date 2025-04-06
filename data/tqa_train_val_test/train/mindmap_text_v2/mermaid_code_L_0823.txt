@@ -1,0 +1,28 @@
+mindmap
+  catalysts
+    video demonstration
+      chemical equation
+      catalyst used
+      observations of reaction
+    definition
+      increases reaction rate
+      alternate pathway
+      lower activation energy
+    importance
+      supports life
+      enzymes in living organisms
+    factors influencing reaction rate
+      temperature
+      concentration
+      surface area
+    characteristics
+      not a reactant
+      not changed or used up
+    analogy
+      tunnel through a mountain
+    enzyme details
+      effectiveness
+      examples
+        amylase
+          starch to sugar
+          digestion process

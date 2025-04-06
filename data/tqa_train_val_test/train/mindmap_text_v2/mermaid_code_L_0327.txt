@@ -1,0 +1,39 @@
+mindmap
+  Hertzsprung-Russell Diagram
+    Definition
+      Scatter graph of star classes
+      Properties
+        Luminosity
+        Absolute magnitude
+        Color
+        Effective temperature
+    History
+      Created by Ejnar Hertzsprung and Henry Norris Russell
+      Around 1910
+    Axes
+      Horizontal
+        Temperature
+          High to low
+      Vertical
+        Luminosity
+          Logarithmic scale
+    Main Sequence
+      Most stars located here
+      Hydrogen fusion into helium
+      Sun's position
+    Star Types
+      White Dwarfs
+        Less bright than expected
+        Very small size
+        Final evolutionary state for low mass stars
+      Red Giants
+        Brighter than expected
+        Much larger size
+        Expands to several thousand times the size of main sequence stars
+    Temperature and Color
+      Hotter stars are bluish
+      Cooler stars are reddish
+    Evolutionary Process
+      Main-sequence star evolves to red giant
+      Red giant may become white dwarf
+      White dwarf cools to black dwarf

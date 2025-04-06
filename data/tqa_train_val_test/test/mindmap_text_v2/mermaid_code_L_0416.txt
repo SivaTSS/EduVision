@@ -1,0 +1,34 @@
+mindmap
+  Ecosystem Change
+    Ecological Succession
+      Definition
+        Process of species change over time
+      Types
+        Primary Succession
+          Occurs in uncolonized areas
+          Pioneer Species
+            Bacteria
+            Lichens
+          Soil Formation
+            Weathering of rock
+            Addition of organic matter
+        Secondary Succession
+          Occurs in disturbed areas
+          Pioneer Species
+            Grasses
+            Fireweed
+          Faster than primary succession
+    Climax Community
+      Definition
+        Final stable state of an ecosystem
+      Likelihood
+        Unlikely due to frequent disturbances
+    Human Impact
+      Environmental Problems
+        Caused by human actions
+      Effects on Living Things
+        Impact on ecosystems and species
+    Comparison
+      Primary vs Secondary Succession
+        Primary: bare rock, slower
+        Secondary: disturbed area, faster

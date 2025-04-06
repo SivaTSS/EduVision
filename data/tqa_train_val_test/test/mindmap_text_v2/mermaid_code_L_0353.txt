@@ -1,0 +1,45 @@
+mindmap
+  Weather Maps
+    Purpose
+      Graphical depiction of weather conditions
+      Display meteorological features
+      Use of symbols for information
+    Isolines
+      Definition
+        Lines connecting points of equal value
+      Types
+        Isotherms
+          Constant temperature
+          Indicate fronts
+        Isobars
+          Constant pressure
+          Indicate pressure cells
+        Isotachs
+          Constant wind speed
+    High and Low Pressure
+      Identification
+        High pressure areas
+          Symbol: H
+          Characteristics
+        Low pressure areas
+          Symbol: L
+          Characteristics
+      Wind Behavior
+        Relative to pressure cells
+    Fronts
+      Definition
+        Boundaries between air masses
+      Appearance on maps
+        Cold front
+          Symbol
+        Warm front
+          Symbol
+        Stationary front
+          Symbol
+        Occluded front
+          Symbol
+    Surface Weather Analysis
+      Conditions shown
+        Sea level pressure
+        Temperature
+        Cloud cover

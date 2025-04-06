@@ -1,0 +1,17 @@
+mindmap
+  Transverse Wave
+    Definition
+      Particles vibrate perpendicular to wave direction
+    Characteristics
+      High points are crests
+      Low points are troughs
+    Examples
+      Rope wave
+      Guitar string
+    S Waves
+      Occur during earthquakes
+      Travel through underground rocks
+      Can travel for hundreds of miles
+    Visual Representations
+      Diagram of crests and troughs
+      Graph of rock motion as sine wave

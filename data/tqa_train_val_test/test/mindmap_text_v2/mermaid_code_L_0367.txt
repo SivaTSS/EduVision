@@ -1,0 +1,36 @@
+mindmap
+  Animals
+    Classification
+      Animal Kingdom
+        Eukarya Domain
+        Divided into 40 phyla
+        Invertebrates
+          Lack backbone
+          95% of species
+        Vertebrates
+          Have backbone
+          5% of species
+    Traits
+      Multicellular eukaryotes
+      Heterotrophic
+        Consume other organisms
+      Specialized cells
+        Different jobs
+      Higher levels of organization
+        Tissues, organs, organ systems
+    Functions
+      Movement
+        Search for food and mates
+        Escape from predators
+      Internal digestion
+        Specialized tissues and organs
+      Response to stimuli
+        Specialized nerve cells
+        Nervous system
+    Life Cycle
+      Diploid organisms
+      Sexual reproduction
+        Meiosis produces haploid sperm and eggs
+        Fertilization forms diploid zygote
+      Embryonic development
+        May include larval stages

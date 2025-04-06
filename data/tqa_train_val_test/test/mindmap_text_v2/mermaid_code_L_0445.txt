@@ -1,0 +1,31 @@
+mindmap
+  Angiosperms
+    Species
+      Number of species
+      Comparison with gymnosperms
+    Characteristics
+      Flower structure
+        Sepals
+        Petals
+        Stamens
+        Carpels
+          Stigma
+          Style
+          Ovary
+            Ovules
+      Reproductive methods
+        Self-pollination
+        Cross-fertilization
+    Importance
+      Food sources
+        Grains
+        Starchy foods
+        Legumes
+        Fruits
+      Non-food uses
+        Cloth
+        Lumber
+    Growth
+      Abundance on the planet
+      Fruit development
+    Location of sex organs

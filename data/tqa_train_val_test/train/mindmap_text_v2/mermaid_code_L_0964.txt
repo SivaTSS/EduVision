@@ -1,0 +1,23 @@
+mindmap
+  Newtons First Law of Motion
+    Definition
+      Object at rest remains at rest
+      Object in motion remains in motion
+      Acted on by unbalanced force
+    Application to Skateboarding
+      Starting a skateboard
+        Push off with foot
+        Overcoming friction
+      Stopping a skateboard
+        Friction as unbalanced force
+      Changing direction
+        Pressing down on one side
+    Historical Context
+      Developed by Isaac Newton
+      Around 1700
+      Known as law of inertia
+    Key Concepts
+      Inertia
+        Tendency to resist change in motion
+      Unbalanced forces
+        Cause changes in motion

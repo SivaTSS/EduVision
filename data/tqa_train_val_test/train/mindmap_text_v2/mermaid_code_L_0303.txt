@@ -1,0 +1,47 @@
+mindmap
+  Sedimentary Rock Classification
+    Types of Sedimentary Rocks
+      Clastic
+        Conglomerate
+          Description: Large rock fragments
+        Breccia
+          Description: Angular rock fragments
+        Sandstone
+          Description: Sand-sized particles
+        Siltstone
+          Description: Silt-sized particles
+        Shale
+          Description: Clay-sized particles
+      Chemical
+        Rock Salt
+          Description: Chemical precipitate
+        Dolostone
+          Description: Chemical precipitate
+        Limestone
+          Description: Bioclastic from organic materials
+      Biochemical
+        Coal
+          Description: Organic sediment from living organisms
+    Formation Processes
+      Clastic Formation
+        Made from rock fragments or clasts
+      Chemical Formation
+        Precipitate from fluids
+      Biochemical Formation
+        Formed from living organisms
+    Features of Sedimentary Rocks
+      Layering
+        Settles in horizontal layers
+        Younger layers on top
+      Grain Size
+        Small to large: Clay, Silt, Sand, Large
+    Coal Types
+      Lignite
+        Formation: Low-grade coal
+      Bituminous
+        Formation: Medium-grade coal
+      Anthracite
+        Formation: High-grade coal
+    Special Limestone
+      Marine Skeletons
+        Also known as: Bioclastic

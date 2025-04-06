@@ -1,0 +1,37 @@
+mindmap
+  Atmosphere Layers
+    Temperature Changes
+      Decreases with altitude in troposphere
+      Increases with altitude in stratosphere
+      Decreases with altitude in mesosphere
+      Increases with altitude in thermosphere
+    Troposphere
+      Lowest layer
+      Weather occurs here
+      Temperature decreases with altitude
+      Contains 75% of atmospheric gas
+      Convection cells cause air mixing
+      Temperature inversion phenomenon
+    Stratosphere
+      Above troposphere
+      Temperature increases with altitude
+      Contains ozone layer
+      Ozone absorbs UV radiation
+      Stratopause as boundary to mesosphere
+    Mesosphere
+      Above stratosphere
+      Temperature decreases with altitude
+      Few gas molecules
+      Meteors burn up here
+      Mesopause as boundary to thermosphere
+    Thermosphere
+      Above mesosphere
+      Temperature increases with altitude
+      Very few gas molecules
+      Ions create auroras
+      International Space Station orbits here
+    Exosphere
+      Highest layer
+      Merges with outer space
+      Gas molecules far apart
+      Weak gravity allows molecules to escape

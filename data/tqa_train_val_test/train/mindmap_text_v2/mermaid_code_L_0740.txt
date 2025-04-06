@@ -1,0 +1,21 @@
+mindmap
+  Thermal Energy Transfer
+    Conduction
+      Definition: Transfer of thermal energy between touching particles
+      Thermal Conductors: Materials that conduct thermal energy well
+        Examples: Metals
+      Thermal Insulators: Materials that do not conduct thermal energy well
+        Examples: Plastic, Wood
+    Convection
+      Definition: Transfer of thermal energy by particles moving through a fluid
+      Convection Currents: Loops of moving particles
+      Examples: Soup heating in a pot, Air currents
+    Radiation
+      Definition: Transfer of thermal energy by waves through empty space
+      Examples: Sun warming Earth, Campfire warming people
+    Insulation
+      Purpose: Keeps thermal energy from escaping or entering
+      Materials: Fluffy insulation, Down jackets
+    Applications
+      Heating Homes: Devices and systems involved
+      Running Vehicles: How thermal energy powers cars

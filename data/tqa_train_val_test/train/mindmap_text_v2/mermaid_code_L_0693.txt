@@ -1,0 +1,31 @@
+mindmap
+  Water Cycle
+    Definition
+      Continuous process
+      Movement of water
+    Key Processes
+      Evaporation
+        Water from oceans
+      Condensation
+        Formation of clouds
+      Precipitation
+        Rain, snow, hail
+      Surface Runoff
+        Water flows over land
+      Infiltration
+        Water enters ground
+      Groundwater Storage
+        Stored in aquifers
+      Surface Water Storage
+        Lakes, rivers, reservoirs
+      Evapotranspiration
+        Water vapor from plants
+    Differences from Nutrient Cycles
+      Water is recycled
+      Energy flows through ecosystems
+    Importance
+      Essential for life
+      Supports biological productivity
+    Relationship with Biogeochemical Cycles
+      Involves biotic and abiotic components
+      Other cycles: carbon, nitrogen

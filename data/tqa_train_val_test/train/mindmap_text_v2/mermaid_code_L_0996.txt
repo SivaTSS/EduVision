@@ -1,0 +1,34 @@
+mindmap
+  Pulley
+    Definition
+      Simple machine
+      Rope and grooved wheel
+      Used to lift loads
+    Types of Pulleys
+      Fixed Pulley
+        Attached to a secure surface
+        Example: Flagpole pulley
+        Ideal Mechanical Advantage: 1
+      Moveable Pulley
+        Attached to the object being moved
+        Example: Zip-line pulley
+        Ideal Mechanical Advantage: 2
+      Compound Pulley
+        Combination of fixed and moveable pulleys
+        Example: Crane pulley
+        Ideal Mechanical Advantage: 2 or greater
+    Mechanical Advantage
+      Changes force applied
+      Ideal vs Actual Mechanical Advantage
+        Ideal: No friction
+        Actual: Overcomes friction
+      Calculation
+        Equal to number of rope segments
+        More segments = less force needed
+    Applications
+      Lifting heavy objects
+      Example: Lifting buckets from a well
+    Questions
+      Compare pulleys A and B
+      Force applied to load with 200 Newtons effort
+      Constructing a compound pulley with ideal mechanical advantage of 6

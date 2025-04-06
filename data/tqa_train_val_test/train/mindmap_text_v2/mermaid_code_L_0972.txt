@@ -1,0 +1,41 @@
+mindmap
+  Nucleic Acid Classification
+    Nucleic Acids
+      Definition
+        One of four classes of biochemical molecules
+        Includes RNA and DNA
+      Elements
+        Carbon
+        Hydrogen
+        Oxygen
+        Nitrogen
+        Phosphorus
+      Structure
+        Nucleotides
+          Phosphate group
+          Sugar
+            Deoxyribose in DNA
+            Ribose in RNA
+          Nitrogen bases
+            DNA: Adenine, Thymine, Guanine, Cytosine
+            RNA: Adenine, Uracil, Guanine, Cytosine
+    Types of Nucleic Acids
+      RNA
+        Single nucleotide chain
+        Copies genetic code
+        Synthesizes proteins
+      DNA
+        Double nucleotide chain
+        Stores genetic information
+        Instructs protein synthesis
+    Bonds
+      Covalent bonds
+        Hold nucleotides together
+      Hydrogen bonds
+        Form between nitrogen bases
+        Adenine with Thymine
+        Guanine with Cytosine
+    Structure Comparison
+      DNA as a double helix
+        Backbone of sugars and phosphates
+        Base pairs as steps of a staircase

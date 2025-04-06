@@ -1,0 +1,42 @@
+mindmap
+  Hydrocarbons
+    Definition
+      Compounds of carbon and hydrogen
+      Simplest carbon-based compounds
+    Saturated Hydrocarbons
+      Single bonds between carbon atoms
+      Also called alkanes
+      Types
+        Straight-chain
+        Branched-chain
+        Cyclic
+      Isomers
+    Unsaturated Hydrocarbons
+      At least one double or triple bond
+      Types
+        Alkenes
+          Ends in -ene
+          Example: Ethene
+        Alkynes
+          Ends in -yne
+          Example: Ethyne
+        Aromatic Hydrocarbons
+          Six carbon atoms in a ring
+          Example: Benzene
+    Properties
+      Boiling and melting points
+      Influence of size
+      Nonpolar nature
+    Uses
+      Fuels
+        Gasoline
+        Natural gas
+        Diesel fuel
+      Manufacturing
+        Plastics
+        Synthetic fabrics
+    Sources
+      Fossil fuels
+        Coal
+        Petroleum
+        Natural gas

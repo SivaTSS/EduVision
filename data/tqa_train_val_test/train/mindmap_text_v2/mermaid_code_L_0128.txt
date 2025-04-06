@@ -1,0 +1,19 @@
+mindmap
+  Water Distribution on Earth
+    Scarcity of Water
+      Reasons for Scarcity
+    Water Reservoirs
+      Oceans
+        Contains 97% of Earth's Water
+      Fresh Water
+        3% of Total Water
+        Sources
+          Ice and Glaciers
+          Ground Water
+          Lakes
+          Atmospheric Moisture
+    Residence Time
+      Longest Residence Times
+        Ice and Glaciers
+      Shortest Residence Times
+        Atmosphere

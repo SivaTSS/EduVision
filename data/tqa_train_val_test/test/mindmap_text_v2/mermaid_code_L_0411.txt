@@ -1,0 +1,24 @@
+mindmap
+  Communities
+    Definition
+      Biotic component of an ecosystem
+      Populations of all species in an area
+    Community Interactions
+      Predation
+        Predator-prey relationship
+        Balance of populations
+        Keystone species
+      Competition
+        Intraspecific competition
+        Interspecific competition
+        Outcomes of competition
+      Symbiosis
+        Mutualism
+        Parasitism
+        Commensalism
+    Adaptations
+      Predator adaptations
+      Prey adaptations
+      Camouflage
+    Ecosystem Examples
+      Types of ecosystems

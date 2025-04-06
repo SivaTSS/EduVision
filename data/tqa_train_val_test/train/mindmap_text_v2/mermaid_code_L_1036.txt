@@ -1,0 +1,20 @@
+mindmap
+  Speed of Sound
+    Speed in Dry Air
+      Value at 20 C: 343 m/s
+    Variation in Media
+      Solids: Fastest
+      Liquids: Moderate
+      Gases: Slowest
+      Example Speeds
+        Water: 1437 m/s
+        Wood: 3850 m/s
+        Glass: 4540 m/s
+        Aluminum: 6320 m/s
+    Effect of Temperature
+      Lower Temperature: Slower Speed
+      Speed Comparison
+        0 C: 331 m/s
+        20 C: 343 m/s
+        100 C: 386 m/s
+      Speed at -20 C: 319 m/s

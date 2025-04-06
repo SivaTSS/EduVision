@@ -1,0 +1,30 @@
+mindmap
+  Hearing Sound
+    How We Hear Sound
+      Outer Ear
+        Pinna
+        Ear Canal
+        Eardrum
+      Middle Ear
+        Ossicles
+          Hammer
+          Anvil
+          Stirrup
+      Inner Ear
+        Cochlea
+        Hair Cells
+    Loud Sounds and Hearing Loss
+      Damage to Hair Cells
+      Exposure Time
+      Permanent Hearing Loss
+    Protecting Hearing
+      Hearing Protectors
+        Earplugs
+        Electronic Protectors
+      Tips for Protection
+        Limit Exposure
+        Use Protectors in Loud Environments
+    Dangers of Loud Sounds
+      Rock Concerts
+      Occupational Hazards
+      Recreational Activities

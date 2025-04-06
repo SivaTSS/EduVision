@@ -1,0 +1,35 @@
+mindmap
+  biomes
+    biome
+      definition
+      characteristics
+        abiotic factors
+        primary producers
+    terrestrial biomes
+      climate influence
+        temperature
+        moisture
+      examples
+        tropical rainforest
+        temperate grassland
+        tundra
+    aquatic biomes
+      types
+        freshwater
+        marine
+      characteristics
+        sunlight
+        nutrients
+    ecosystems
+      energy input
+      matter recycling
+    zones
+      freshwater zones
+        littoral zone
+        limnetic zone
+        profundal zone
+      marine zones
+        intertidal zone
+        pelagic zone
+        benthic zone
+        aphotic zone

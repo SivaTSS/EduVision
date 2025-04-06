@@ -1,0 +1,17 @@
+mindmap
+  Electron Cloud Atomic Model
+    Influences on Electron Movement
+    Heisenberg Uncertainty Principle
+      Definition
+      Relation to Electron Orbitals
+    Bohr's Model of the Atom
+      Fixed Energy Levels
+      Limitations
+    Schrödinger's Contribution
+      Wave Behavior of Electrons
+      Equation for Electron Probability
+      Identification of Orbitals
+        Shapes of Orbitals
+    Modern Quantum Mechanical Model
+      Electron Cloud Model
+      Visual Representation of Electron Cloud

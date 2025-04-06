@@ -1,0 +1,35 @@
+mindmap
+  Faults
+    Features of Faults
+      Fracture with no movement
+      Dip-slip faults
+        Vertical movement
+        Normal fault
+          Hanging wall drops
+          Footwall remains
+        Reverse fault
+          Footwall drops
+          Hanging wall remains
+        Thrust fault
+          Nearly horizontal angle
+      Strike-slip faults
+        Horizontal motion
+        Shear stress
+    Geological History
+      San Andreas Fault
+        350 miles of displacement
+        Origin of rocks in San Francisco
+      Grand Teton Mountain Range
+        Complex geological history
+    Earthquake Mechanics
+      Energy release
+      Slip distance
+      Fault dip
+        Angle to horizontal surface
+    Types of Faults
+      Dip-slip faults
+        Normal faults
+        Reverse faults
+      Strike-slip faults
+        Right-lateral
+        Left-lateral

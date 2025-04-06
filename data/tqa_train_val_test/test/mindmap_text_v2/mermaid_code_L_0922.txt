@@ -1,0 +1,24 @@
+mindmap
+  Hypothesis
+    Role in Science
+      Definition: Educated guess
+      Testable and falsifiable
+    Criteria of Scientific Hypothesis
+      Testable
+        Observations can agree or disagree
+      Falsifiable
+        Must be possible to show it is false
+    Examples of Hypotheses
+      Acids turn red litmus paper blue
+      All life in the universe exists on Earth
+    Testing Hypotheses
+      Example: Dropping objects
+        Testable: Yes
+        Falsifiable: Yes
+      Example: Invisible creatures
+        Testable: No
+        Falsifiable: No
+    Limitations of Proving Hypotheses
+      Impossible to examine all cases
+      One exception can disprove
+      Gathering evidence increases likelihood of truth

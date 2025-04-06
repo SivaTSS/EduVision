@@ -1,0 +1,22 @@
+mindmap
+  Electromagnetic Waves
+    Properties
+      Speed
+        Speed of light
+        Speed in different mediums
+      Wavelength
+        Definition
+        Range
+      Frequency
+        Definition
+        Range
+    Relationships
+      Speed, Wavelength, Frequency
+        Equation: Speed = Wavelength * Frequency
+        Inverse relationship
+    Effects
+      Harmful Waves
+      Harmless Waves
+    Phenomena
+      Refraction
+        Light bending in different mediums

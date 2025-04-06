@@ -1,0 +1,23 @@
+mindmap
+  flooding
+    flash_flood
+      definition
+      causes
+      differences_from_regular_flood
+      urban_prone_areas
+      mountainous_regions
+      safety_tips
+    flood
+      causes
+      effects_on_nile_river
+      role_of_dams_and_levees
+      nutrient_source
+      impact_of_logging
+    precipitation
+      absorption_capacity
+      rainfall_intensity
+      historical_examples
+    vegetation
+      role_in_flood_mitigation
+      wetlands
+      effects_of_logging

@@ -1,0 +1,41 @@
+mindmap
+  Air Pollution Causes
+    Slash-and-Burn Agriculture
+      Definition
+      Pollutants Released
+        Carbon Dioxide
+        Carbon Monoxide
+        Methane
+        Particulates
+        Nitrous Oxide
+        Hydrocarbons
+        Organic and Elemental Carbon
+    Volatile Organic Compounds
+      Definition
+      Sources
+        Human-made Substances
+        Natural Sources
+      Common Pollutant
+        Methane
+    Fossil Fuels
+      Definition
+      Pollutants Released
+        Carbon Monoxide
+        Nitrogen Dioxide
+        Sulfur Dioxide
+        Hydrocarbons
+      Sources of Air Pollution
+        Transportation
+        Factories and Power Plants
+        Other Sources
+    Incomplete Combustion
+      Effects
+        Pollutant Production
+        Mercury Emission
+    Particulates
+      Sources
+        Industry
+        Vehicles
+        Natural Sources
+    Greenhouse Gases
+      Impact of Biomass Burning

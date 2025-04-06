@@ -1,0 +1,22 @@
+mindmap
+  Groundwater
+    Water Movement
+      Aquifer
+      Capillary Action
+    Sources of Groundwater
+      Recharge
+      Fossil Water
+      Desert Aquifers
+    Factors Influencing Recharge
+      Local Climate
+      Land Slope
+      Surface Rock Type
+      Vegetation Cover
+      Land Use
+      Water Retention
+    Residence Time
+      Minutes to Thousands of Years
+      Older Fossil Water
+    Aquifer Depths
+      Shallow Aquifers
+      Deep Aquifers

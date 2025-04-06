@@ -1,0 +1,35 @@
+mindmap
+  Genetics
+    Punnett Square
+      Offspring Genotypes
+      Expected Ratios
+        Violet to White
+    Mendel's Laws
+      Rediscovery in 1900
+      Molecules of Heredity
+        Chromosomes
+        DNA Structure
+        Genes
+    Key Concepts
+      Gene
+      Allele
+      Genotype
+      Phenotype
+      Locus
+      Trait
+    Inheritance Patterns
+      Simple Traits
+        Dominance
+        Recessive
+      Complex Traits
+        Codominance
+        Incomplete Dominance
+        Multiple Alleles
+        Polygenic Traits
+    Sex-Linked Traits
+      Inheritance
+      X and Y Chromosomes
+      Examples
+        Color Blindness
+    Environmental Influence
+      Trait Variation

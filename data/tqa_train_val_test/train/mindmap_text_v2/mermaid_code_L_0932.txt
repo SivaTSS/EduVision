@@ -1,0 +1,21 @@
+mindmap
+  Isotopes
+    Formation
+      Carbon-14 Formation
+    Properties
+      Same Physical and Chemical Properties
+      Neutrons and Protons Relationship
+    Hydrogen Isotopes
+      Hydrogen
+      Deuterium
+      Tritium
+      Mass Numbers
+    Carbon Isotopes
+      Carbon-12
+      Carbon-13
+      Carbon-14
+    Radioactivity
+      Radioisotopes
+      Radioactive Decay
+      Stability and Unstable Nuclei
+      Safety Precautions

@@ -1,0 +1,41 @@
+mindmap
+  Biotechnology in Agriculture
+    Food Chain
+      Definition
+        Diagram of feeding interactions
+        Single pathway
+      Characteristics
+        Begins with producers
+        Limited levels (3-4)
+        Example: plant -> grasshopper -> bird -> snake -> owl
+    Food Web
+      Definition
+        Diagram of feeding interactions
+        Multiple intersecting pathways
+      Characteristics
+        Shows many organisms
+        More complex than food chains
+        Example: phytoplankton -> krill -> fish -> shark
+    Energy Flow
+      Importance
+        Constant flow for stability
+        Organisms must eat others
+      Representation
+        Arrows indicate feeding relationships
+    Producers and Consumers
+      Producers
+        Create own food through photosynthesis
+        Start of food chain
+      Consumers
+        Herbivores and carnivores
+        Use glucose for energy
+    Decomposers
+      Role in food chains
+        Break down organic matter
+        Important for nutrient cycling
+    Healthy Food Web
+      Requirements
+        Diversity of species
+        Balanced interactions
+      Construction
+        Must include various trophic levels

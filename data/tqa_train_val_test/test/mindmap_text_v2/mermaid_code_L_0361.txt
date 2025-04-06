@@ -1,0 +1,32 @@
+mindmap
+  Scientific Method
+    Steps
+      Observations
+      Ask a Question
+      Form a Hypothesis
+        Testable Answer
+        Research Existing Knowledge
+      Test the Hypothesis
+        Experiment
+          Independent Variable
+          Dependent Variable
+          Experimental Controls
+      Analyze Results
+        Conclusion
+      Communicate Results
+        Presentation Methods
+        Importance of Replication
+    Scientific Hypothesis
+      Definition
+      Testability
+    Experiment
+      Definition
+      Variables
+        Independent
+        Dependent
+        Controls
+    ACE Gene Study
+      Hypothesis
+        D Genes vs I Genes
+      Results
+      Communication of Results

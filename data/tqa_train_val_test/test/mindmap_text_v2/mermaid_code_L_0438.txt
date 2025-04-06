@@ -1,0 +1,30 @@
+mindmap
+  Archaeans
+    Definition
+      Prokaryotes in Archaea Domain
+      First discovered in extreme environments
+      Classified as bacteria until 1970s
+    Types of Extremophiles
+      Halophiles
+        Thrive in salty environments
+        Found in Great Salt Lake and Dead Sea
+      Hyperthermophiles
+        Thrive in high temperatures
+        Can reproduce at 122°C (252°F)
+      Acidophiles
+        Thrive in acidic environments
+        Found in acid mine drainage and volcanic vents
+      Alkaliphiles
+        Thrive in basic environments
+        Found in Mono Lake
+    Habitats
+      Found in diverse environments
+      Soils, bodies of water, marshlands
+      Common in oceans and human bodies
+    Ecological Roles
+      Important decomposers
+      Help recycle carbon and nitrogen
+      Live in close relationships with other organisms
+      Methanogens in cows
+        Aid in digestion of cellulose
+        Produce methane as waste

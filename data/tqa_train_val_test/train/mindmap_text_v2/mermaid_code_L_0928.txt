@@ -1,0 +1,22 @@
+mindmap
+  Ionic Bonding
+    What is an ionic bond
+      Definition
+      Formation process
+    Electron transfer
+      Metals lose electrons
+      Nonmetals gain electrons
+    Energy considerations
+      Energy to remove electrons
+      Comparison of lithium and cesium
+    Example of ionic bond
+      Sodium and chlorine
+        Sodium ion (Na+)
+        Chloride ion (Cl-)
+        Formation of sodium chloride
+    Periodic table relationships
+      Metals and nonmetals
+      Alkali metals and halogens
+    Energy dynamics
+      Energy release when gaining electrons
+      Reactivity of halogens

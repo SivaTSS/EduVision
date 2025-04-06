@@ -1,0 +1,36 @@
+mindmap
+  Technology
+    Definition
+      Application of knowledge to real-world problems
+      Includes methods, processes, and devices
+    Technological Design Process
+      Steps
+        Identify problem
+        Research solutions
+        Develop designs
+        Create model
+        Test model
+        Finalize design
+      Constraints
+        Laws of nature
+        Material properties
+        Production costs
+        Ethical concerns
+    Relationship with Science
+      Different goals
+        Science: Increase knowledge
+        Technology: Practical application of knowledge
+      Mutual advancement
+        Scientific knowledge aids technology
+        Technology aids scientific exploration
+    Impact on Society
+      Technology influences society
+      Society sets direction for technology
+      Examples of technology improving lives
+        Efficient wood-burning stoves for safety
+        Solar-powered cars
+    Engineering
+      Role of engineers
+        Professionals in technology
+        Strong background in physical science
+      Careers in engineering

@@ -1,0 +1,53 @@
+mindmap
+  Erosion and Deposition by Flowing Water
+    Erosion
+      Definition
+      Agents
+        Flowing Water
+        Waves
+        Wind
+        Ice
+        Gravity
+      Process
+        Transport of Sediments
+        Dropping of Sediments
+    Deposition
+      Definition
+      Process
+        Conditions for Deposition
+        Types of Deposits
+          Alluvial Fans
+          Deltas
+          Natural Levees
+    Flowing Water
+      Types
+        Runoff
+        Streams
+        Rivers
+      Effects on Earth's Surface
+        Erosion
+        Landforms
+          V-shaped Valleys
+          Waterfalls
+          Floodplains
+          Meanders
+          Oxbow Lakes
+    Groundwater
+      Erosion and Deposition
+        Caves
+        Sinkholes
+        Stalactites
+        Stalagmites
+    Factors Influencing Erosion
+      Water Velocity
+      Particle Size
+        Dissolved Minerals
+        Suspended Particles
+        Saltation
+        Traction
+    Flooding
+      Causes
+        Heavy Rain
+      Effects
+        Floodplains
+        Natural Levees

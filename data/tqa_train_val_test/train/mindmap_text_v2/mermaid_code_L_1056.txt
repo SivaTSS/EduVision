@@ -1,0 +1,18 @@
+mindmap
+  Ultrasound
+    Definition
+      Sound with frequency higher than human ear can detect
+      Frequencies above 20,000 Hz
+    Echolocation
+      Used by animals like bats and dolphins
+      Identifies locations of unseen objects
+      Helps find prey and avoid obstacles in the dark
+    Sonar
+      Stands for Sound Navigation and Ranging
+      Locates underwater objects
+      Functions as sender and receiver of ultrasound waves
+      Distance calculation using speed and time
+    Ultrasonography
+      Uses reflected ultrasound waves to see inside the body
+      Harmless to patients
+      Used for examining internal organs and unborn babies

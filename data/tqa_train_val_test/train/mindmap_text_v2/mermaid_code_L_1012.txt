@@ -1,0 +1,28 @@
+mindmap
+  Scientific Graphing
+    Advantages of Graphs
+      Visual representation of data
+      Easier interpretation than tables
+    Types of Graphs
+      Bar Graphs
+        Compare values for different categories
+        Example: Average tornadoes in cities
+      Circle Graphs
+        Show percents of a whole
+        Example: Tornado strength distribution
+      Line Graphs
+        Show changes over time
+        Example: Monthly tornado averages
+    Data Examples
+      Table 1.1
+        Average tornadoes per year
+        Cities ranked by tornado frequency
+      Table 1.2
+        Percent of U.S. tornadoes by strength
+        F-scale ratings from F0 to F5
+      Table 1.3
+        Average number of tornadoes per month
+        Trends over the year
+    Graph Creation
+      Use graph paper for plotting
+      Identify appropriate graph type for data

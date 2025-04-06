@@ -1,0 +1,23 @@
+mindmap
+  Rutherford's Atomic Model
+    Gold Foil Experiment
+      Alpha Particles Observation
+      Modern Observation Techniques
+      Particle Behavior in Gold Atoms
+      Adoption by Modern Researchers
+    Discovery of the Nucleus
+      Ernest Rutherford
+      Historical Context
+      Three-Dimensional Model Creation
+    Key Findings
+      Concentration of Positive Charge
+      Nucleus and Empty Space
+      Planetary Model of the Atom
+    Historical Background
+      John Dalton's Atomic Theory
+      J.J. Thomson's Plum Pudding Model
+      Rutherford's Inferences
+    Subsequent Discoveries
+      Protons and Neutrons
+      James Chadwick's Contribution
+      Evolution of Atomic Models

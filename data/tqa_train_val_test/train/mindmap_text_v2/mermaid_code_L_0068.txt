@@ -1,0 +1,32 @@
+mindmap
+  Rock Types
+    Definition
+      What rocks are made of
+      Importance of rocks
+    Major Types
+      Igneous
+        Formation
+          Magma cooling
+          Lava cooling
+      Sedimentary
+        Formation
+          Compaction and cementation
+          Erosion and sedimentation
+      Metamorphic
+        Formation
+          Heat and pressure
+    Rock Cycle
+      Transformation processes
+        Cooling and crystallization
+        Weathering and erosion
+        Metamorphism
+      Relationships between rock types
+        Igneous to sedimentary
+        Igneous to metamorphic
+        Sedimentary to metamorphic
+    Clues from Minerals
+      Formation conditions
+      Geological information
+    Human Importance
+      Uses of rocks
+      Significance in modern life

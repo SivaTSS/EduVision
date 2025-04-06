@@ -1,0 +1,45 @@
+mindmap
+  Outdoor Air Pollution
+    Pollutants
+      Definition
+      Sources
+        Burning Fossil Fuels
+        Agriculture
+        Industrial Processes
+    Categories of Pollutants
+      Primary Pollutants
+        Definition
+        Examples
+          Smoke from Fires
+          Emissions from Vehicles
+      Secondary Pollutants
+        Definition
+        Examples
+          Ozone
+    Causes of Air Pollution
+      Burning Fossil Fuels
+        Power Plants
+        Factories
+        Transportation
+      Agriculture
+        Cattle Ranching
+        Fertilizers and Pesticides
+      Other Sources
+        Plastics Production
+        Nuclear Power
+        Landfills
+    Effects of Air Pollution
+      Human Health Problems
+      Ecosystem Damage
+      Acid Rain
+        Causes
+          Sulfur Oxides
+          Nitrogen Oxides
+        Effects on Wildlife
+      Global Warming
+        Greenhouse Gases
+        Consequences
+          Rising Sea Levels
+          Extreme Weather Events
+          Food Shortages
+          Species Extinction

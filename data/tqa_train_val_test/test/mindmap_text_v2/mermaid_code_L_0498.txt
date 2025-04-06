@@ -1,0 +1,47 @@
+mindmap
+  Cyclic Behavior of Animals
+    Red Knot Migration
+      Migration Distance
+      Resource Use
+        Horseshoe Crab Eggs
+      Data Collection
+      Population Decline
+    Ocean Life
+      Largest Migration
+        Timing
+      Reasons for Migration
+      Organisms Involved
+    Yearly Cycles of Behavior
+      Hibernation
+        Energy Conservation
+        Examples
+          Bats
+          Squirrels
+          Snakes
+      Migration
+        Triggers
+        Examples
+          Birds
+          Fish
+          Insects
+          Whales
+          Wildebeest
+      Navigation
+        Landmarks
+        Environmental Clues
+    Daily Cycles of Behavior
+      Circadian Rhythms
+        Definition
+        Control Mechanism
+          Biological Clock
+          Light Influence
+      Diurnal Animals
+        Examples
+          Mammals
+          Insects
+          Birds
+      Nocturnal Animals
+        Examples
+          Bats
+          Foxes
+          Skunks

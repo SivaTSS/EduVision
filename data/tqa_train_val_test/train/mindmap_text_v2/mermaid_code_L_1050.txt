@@ -1,0 +1,21 @@
+mindmap
+  Thermal Radiation
+    Definition
+      Transfer of thermal energy by waves
+      Can travel through air or empty space
+    Examples
+      Campfire warming hands
+      Sun warming Earth
+    Characteristics
+      Everything radiates thermal energy
+      Thermal energy is total kinetic energy of particles
+    Methods of Transfer
+      Thermal radiation
+      Conduction
+      Convection
+    Insulation
+      Poorly insulated homes radiate more energy
+      Special cameras detect radiated heat
+    Visual Representation
+      Figure 1.1: Diagram of thermal energy transfer
+      Figure 1.2: Image of thermal radiation from a home

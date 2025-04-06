@@ -1,0 +1,31 @@
+mindmap
+  Speed and Velocity
+    Speed
+      Definition
+      Calculation
+        Formula
+        Example
+    Velocity
+      Definition
+      Difference from Speed
+      Representation
+        Vector
+    Average Speed
+      Calculation
+        Formula
+        Example
+    Instantaneous Speed
+      Definition
+      Calculation
+    Distance-Time Graph
+      Representation of Speed
+      Slope Interpretation
+      Example
+    Factors Affecting Speed
+      Traffic
+      Speed Limits
+      Traffic Lights
+    Applications
+      Sports
+        Fast-Pitch Softball
+      Everyday Travel

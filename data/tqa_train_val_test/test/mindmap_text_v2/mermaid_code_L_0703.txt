@@ -1,0 +1,55 @@
+mindmap
+  Mollusks
+    Types
+      Gastropods
+        Examples
+          Snails
+          Slugs
+        Habitat
+          Gardens
+          Deserts
+          Mountains
+          Rivers
+          Lakes
+          Ocean
+        Features
+          One-piece shell
+          Well-developed head
+          No sense of hearing
+          Keen sense of smell
+      Bivalves
+        Examples
+          Clams
+          Scallops
+          Oysters
+          Mussels
+        Habitat
+          Marine
+          Freshwater
+        Features
+          Two-part shell
+          Large gills
+          No head
+          Muscular foot
+      Cephalopods
+        Examples
+          Octopus
+          Squid
+        Habitat
+          All oceans
+        Features
+          Prominent head
+          Well-developed brain
+          Modified foot (arms/tentacles)
+          Three hearts
+          Jet propulsion
+          Color and texture change
+          High intelligence
+    Species
+      Living
+        Approximately 160,000
+      Extinct
+        Approximately 70,000
+    Classes
+      Ten living classes
+      Two extinct classes

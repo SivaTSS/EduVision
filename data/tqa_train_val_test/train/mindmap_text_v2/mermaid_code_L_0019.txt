@@ -1,0 +1,34 @@
+mindmap
+  Ocean Floor
+    Exploration
+      Vast unknown spaces
+      Difficulty of deep ocean study
+      Special vehicles required
+    Study Methods
+      Indirect tools
+        Sonar
+          Sound waves
+          Distance measurement
+      Direct methods
+        Submersibles
+          Trieste
+          Alvin
+          Remotely operated vehicles (ROVs)
+    Major Features
+      Continental Shelf
+      Continental Slope
+      Abyssal Plain
+      Oceanic Trenches
+      Seamounts
+      Mid-Ocean Ridge
+    Resources
+      Living Resources
+        Food sources
+        Medicines
+      Nonliving Resources
+        Oil and gas
+        Minerals
+    Environmental Impact
+      Risks of drilling
+      Oil spills
+      Mining challenges

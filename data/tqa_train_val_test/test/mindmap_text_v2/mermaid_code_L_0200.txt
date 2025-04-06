@@ -1,0 +1,38 @@
+mindmap
+  Hurricanes
+    Difference
+      Hurricane vs Mid-latitude Cyclone
+    Formation
+      Tropical Cyclones
+      Energy Source
+      Conditions for Formation
+        Warm Sea Temperatures
+        Low Wind Shear
+      Development Stages
+        Tropical Depression
+        Thunderstorms
+        Eye of the Storm
+    Damage
+      Causes
+        Storm Surge
+        High Winds
+        Rainfall
+      Historical Examples
+        Hurricane Katrina
+        Hurricane Camille
+    Categories
+      Saffir-Simpson Scale
+        Category 1
+        Category 2
+        Category 3
+        Category 4
+        Category 5
+    Lifecycle
+      Duration
+      Weakening Factors
+        Cooler Water
+        Land Interaction
+    Statistics
+      Annual Hurricanes
+      Property Damage Trends
+      Prediction Improvements

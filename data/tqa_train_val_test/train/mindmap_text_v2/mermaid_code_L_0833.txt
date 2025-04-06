@@ -1,0 +1,29 @@
+mindmap
+  Chemical Reaction Overview
+    Bill Nye Demonstration
+      Steel Wool Reaction
+        Observations
+        Chemical Changes
+        Energy Type
+      Hydrogen and Oxygen Reaction
+        Energy Release
+    Definition
+      Chemical Reaction
+        Reactants
+        Products
+    Chemical Equations
+      General Form
+        Reactants to Products
+    Types of Reactions
+      Synthesis
+      Decomposition
+      Replacement
+      Combustion
+    Energy in Reactions
+      Exothermic
+        Energy Release
+      Endothermic
+        Energy Absorption
+    Reaction Examples
+      Synthesis Example
+      Combustion Example

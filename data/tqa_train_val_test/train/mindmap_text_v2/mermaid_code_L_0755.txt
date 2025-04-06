@@ -1,0 +1,42 @@
+mindmap
+  Optics
+    Definition
+      Study of visible light
+      Extends human vision
+    Reflection
+      Law of reflection
+      Types of reflection
+        Regular reflection
+        Diffuse reflection
+      Mirrors
+        Plane mirrors
+          Virtual images
+          Life-sized images
+        Concave mirrors
+          Real and virtual images
+        Convex mirrors
+          Reduced virtual images
+    Refraction
+      Bending of light
+      Lenses
+        Concave lenses
+          Reduced virtual images
+        Convex lenses
+          Enlarged or reduced images
+    Optical Instruments
+      Microscopes
+        Compound microscope
+          Uses convex lenses
+      Telescopes
+        Reflecting telescopes
+        Refracting telescopes
+      Cameras
+        Records images
+        Uses convex lenses
+      Lasers
+        Focused beam of light
+        Uses in communication
+    Applications
+      Optical fibers
+        Transmit signals
+        Reflect light internally

@@ -1,0 +1,28 @@
+mindmap
+  Human Population
+    Urban Sprawl
+      Land loss in the US
+      Changes in Phoenix land use since 1912
+      Urban areas after agricultural expansion
+      Urban growth and water usage
+      Sustainability issues
+    Population Growth
+      Rate of growth
+      Time to grow from 6 billion to 7 billion
+      Predicted population by 2050
+      Cornucopians vs Neo-Malthusians
+    Exponential Growth
+      Historical growth patterns
+      Recent rapid increase
+      Comparison of country-level growth
+    Five Stages of Population Growth
+      Stage 1: High birth and death rates
+      Stage 2: Drop in death rates, exponential growth
+      Stage 3: Continued growth
+      Stage 4: Birth rates equal death rates
+      Stage 5: Stabilization of population
+    Future Outlook
+      Neo-Malthusians' perspective
+      Cornucopians' perspective
+      Concerns about carrying capacity
+      Potential consequences of overpopulation

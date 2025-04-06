@@ -1,0 +1,33 @@
+mindmap
+  Fresh Water Ecosystems
+    Water Biomes
+      Types
+        Freshwater
+        Marine
+        Estuarine
+    Freshwater Biomes
+      Lakes
+        Zones
+          Littoral Zone
+          Open-water Zone
+          Deep-water Zone
+      Rivers
+        Slow-moving
+        Fast-moving
+    Wetlands
+      Types
+        Marshes
+        Swamps
+        Bogs
+      Importance
+        Biodiversity
+        Water filtration
+    Ecology
+      Geology Effects
+      Oxygen Levels
+      Temperature Stratification
+      Nutrient Circulation
+    Organisms
+      Adaptations
+      Food Chains
+      Endangered Species

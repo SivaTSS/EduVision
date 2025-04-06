@@ -1,0 +1,24 @@
+mindmap
+  Origin of Earth
+    Solar System Formation
+      Solar Nebula
+      Formation of Sun and Planets
+      Extreme Conditions
+    Early Earth
+      Hostile Environment
+      Formation of Atmosphere
+        Sources of Gases
+        Lack of Oxygen
+    Earth's Layers
+      Density Variation
+      Core, Mantle, and Crust
+    Life on Earth
+      Conditions for Life
+      Origin of Life
+    Changes Over Time
+      Atmosphere Evolution
+      Water Cycle
+      Impact Events
+    Moon Formation
+      Collision with Asteroid
+      Material Ejection

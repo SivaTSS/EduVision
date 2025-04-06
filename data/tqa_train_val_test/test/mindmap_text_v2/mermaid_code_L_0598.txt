@@ -1,0 +1,30 @@
+mindmap
+  Mendel's Pea Plants
+    Simple Trait
+    Heterozygote
+      Difference from Homozygote
+    Pea Plant Breeding
+      Yellow Wrinkled x Yellow Smooth
+        Next Generation Appearance
+      Yellow Wrinkled x Heterozygous Yellow Smooth
+        Next Generation Appearance
+      Green Wrinkled x Green Wrinkled
+        Next Generation Appearance
+    Genetics
+      Definition
+      Importance of Mendel's Work
+        Disproving Trait Blending
+        Consistent Results
+    Inheritance
+      Definition
+      Examples of Inherited Traits
+    Characteristics of Pea Plants
+      Identifiable Traits
+      Growth Rate
+      Pollination Methods
+        Self-Pollination
+        Cross-Pollination
+    Mendel's Early Experiments
+      F1 Generation Results
+      F2 Generation Results
+      Consistency Across Traits

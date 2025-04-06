@@ -1,0 +1,27 @@
+mindmap
+  Molecular Compounds
+    Covalent Compounds
+      Definition
+        Nonmetallic elements
+        Covalent bonds
+        Shared valence electrons
+      Properties
+        Low boiling points
+        Cannot conduct electricity
+        May not dissolve in water
+    Naming Covalent Compounds
+      Rules
+        Left-most element first
+        Second element with -ide suffix
+        Use of prefixes
+      Examples
+        Hydrogen chloride (HCl)
+        Dinitrogen trioxide (N2O3)
+        Carbon dioxide (CO2)
+    Comparison with Ionic Compounds
+      Differences
+        Bonding method
+        Properties
+          Burning ability
+          Solubility in water
+          Electrical conductivity

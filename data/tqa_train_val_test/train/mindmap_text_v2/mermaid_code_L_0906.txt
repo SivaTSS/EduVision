@@ -1,0 +1,27 @@
+mindmap
+  fundamental particles
+    discovery timeline
+      1803: John Dalton discovers the atom
+      1897: J.J. Thomson discovers the electron
+      1905: Albert Einstein discovers the photon
+      1911: Ernest Rutherford discovers the proton
+      1932: James Chadwick discovers the neutron
+      1964: Murray Gell-Mann proposes quarks
+    types of fundamental particles
+      quarks
+        types: up, down
+        properties: mass, electric charge (+2/3, -1/3), color charge
+        combinations: protons (2 up, 1 down), neutrons (2 down, 1 up)
+      leptons
+        types: six types including electrons
+        properties: mass, electric charge (-1, 0)
+      bosons
+        types: gluons, W bosons, Z bosons, photons, gravitons (hypothetical)
+        properties: force-carrying, mass (some massless)
+    standard model
+      explanation: matter and interactions
+      limitations: does not explain gravity, mass of matter
+    fundamental forces
+      types: gravity, electromagnetic, weak nuclear, strong nuclear
+      bosons: transmit forces
+      examples: gluons (strong nuclear force), photons (electromagnetic force)

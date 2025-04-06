@@ -1,0 +1,22 @@
+mindmap
+  Motion and Measurement
+    Definition of Motion
+      Change in position
+      Frame of reference
+    Measuring Distance
+      Length of route between two points
+      SI unit: meter (m)
+      Short distances: centimeters (cm)
+      Long distances: kilometers (km)
+    Representing Direction
+      Importance of direction in motion
+      Vectors
+        Quantity with size and direction
+        Arrow representation
+    Examples of Motion
+      Snail vs. cheetah speed
+      Track events and distances
+    Practical Applications
+      Using maps to measure distance
+      Calculating total distance with direction changes
+      Drawing vectors for routes

@@ -1,0 +1,21 @@
+mindmap
+  Technological Design Constraints
+    Constraints
+      Physical Constraints
+        Natural Laws
+        Properties of Materials
+        Example: Kite Shape
+      Social Constraints
+        Ease of Use
+        Safety
+        Attractiveness
+        Cost
+    Trade-offs
+      Definition
+      Examples
+        Expensive vs Practical
+        Attractive vs Safe
+    Design Process
+      Step-by-Step Approach
+      Finding Solutions
+      Working Within Constraints

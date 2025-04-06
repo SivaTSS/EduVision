@@ -1,0 +1,40 @@
+mindmap
+  Seismic Waves
+    P-waves
+      Properties
+        Arrive first
+        Travel through solids, liquids, gases
+        Fastest (6-7 km/s)
+        Compression/expansion motion
+        Bend at liquid outer core
+        P-wave shadow zone
+    S-waves
+      Properties
+        Arrive second
+        Travel only through solids
+        Slower (3.5 km/s)
+        Up and down motion
+        Disappear at outer core
+    Seismology
+      Study of seismic waves
+      Learn about Earth's interior
+      Use of seismographs
+    Earth Layers
+      Inner core
+        Hottest part
+      Outer core
+        Liquid, responsible for magnetic field
+      Lower mantle
+      Upper mantle
+      Crust
+        Outermost layer
+    Wave Characteristics
+      Crest
+      Trough
+      Amplitude
+      Wavelength
+    Surface Waves
+      Travel along ground
+      Slowest (2.5 km/s)
+      Two types
+      Cause most damage

@@ -1,0 +1,27 @@
+mindmap
+  Internal Combustion Engines
+    What is a Combustion Engine
+      Definition
+      Types
+        Internal Combustion Engine
+        External Combustion Engine
+    How Internal Combustion Engine Works
+      Steps of Operation
+        Fuel-Air Mixture Intake
+        Compression of Mixture
+        Ignition
+        Power Stroke
+        Exhaust
+        Cycle Repeats
+      Energy Conversion
+        Thermal Energy to Kinetic Energy
+    Kinetic Energy Utilization
+      Piston Movement
+      Crankshaft Rotation
+      Driveshaft Function
+      Wheel Movement
+    Engine Components
+      Cylinder
+      Piston
+      Crankshaft
+      Fuel-Air Mixture

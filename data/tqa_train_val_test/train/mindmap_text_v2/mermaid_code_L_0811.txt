@@ -1,0 +1,20 @@
+mindmap
+  Bohr's Atomic Model
+    Building on Rutherford's Model
+      Rutherford's Discovery
+        Concentration of Positive Charge
+        Electrons Orbiting Nucleus
+      Bohr's Improvements
+        Fixed Distances for Electrons
+        Energy Levels
+    Energy Quanta and Energy Levels
+      Definition of Quantum
+      Absorption and Release of Energy
+      Electrons at Fixed Energy Levels
+    Importance of Communication in Science
+      Bohr's Collaboration in Rutherford's Lab
+      Nobel Prize Recognition
+    Historical Context
+      John Dalton's Atomic Theory
+      J.J. Thomson's Electron Discovery
+      Evolution of Atomic Models

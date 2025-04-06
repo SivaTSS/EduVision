@@ -1,0 +1,20 @@
+mindmap
+  Buoyancy of Fluids
+    Archimedes Law
+      Definition
+      Explanation of Floating Objects
+    Buoyant Force
+      Definition
+      Relationship with Weight
+      Factors Affecting Buoyancy
+    Density
+      Definition
+      Relation to Buoyancy
+      Examples
+    Displacement
+      Definition
+      Relation to Buoyant Force
+      Archimedes' Observation
+    Applications
+      Machines
+      Everyday Examples

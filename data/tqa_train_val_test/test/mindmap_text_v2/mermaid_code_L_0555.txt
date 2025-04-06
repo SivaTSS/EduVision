@@ -1,0 +1,18 @@
+mindmap
+  Human Vision
+    How the Human Eye Works
+      Cornea
+      Pupil
+        Expansion
+        Contraction
+      Retina
+        Cells
+        Main Cells Difference
+      Image Formation
+    Vision
+      Definition
+      Importance of Depth Perception
+      Importance of Color Vision
+    Primate Evolution
+      Tree-Dwelling Adaptation
+      Color Vision for Food

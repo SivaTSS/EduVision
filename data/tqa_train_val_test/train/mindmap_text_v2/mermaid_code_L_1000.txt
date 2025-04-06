@@ -1,0 +1,31 @@
+mindmap
+  Radioisotopes
+    Definition
+      What is a radioisotope
+      Example: carbon-14
+    Stability
+      Unstable nuclei
+      Proton-to-neutron ratio
+        Stable nucleus ratio
+        Unstable nucleus ratio
+    Isotopes
+      Definition of isotopes
+      Radioactive isotopes
+    Elements
+      Elements with only radioactive isotopes
+      Elements with more than 83 protons
+        All isotopes are radioactive
+        Unstable nuclei due to proton repulsion
+    Carbon
+      Carbon-12
+        Stable nucleus
+        Proton-to-neutron ratio 1:1
+      Carbon-14
+        Unstable nucleus
+        Proton-to-neutron ratio 1:1.3
+        Use in dating fossils
+    Stability Methods
+      Ways to become stable
+        Decay
+        Proton-to-neutron ratio adjustment
+        Other methods

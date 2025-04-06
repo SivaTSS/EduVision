@@ -1,0 +1,41 @@
+mindmap
+  Human Skeletal System
+    Axial Skeleton
+      Skull
+      Vertebral Column
+      Rib Cage
+    Appendicular Skeleton
+      Limbs
+      Pelvic Girdle
+      Shoulder Girdle
+    Scapula
+      Common Name: Shoulder Blade
+      Function: Connects with Humerus
+    Thoracic Vertebrae
+      Number: 12
+      Location: Middle of Spinal Column
+    Ribs
+      Attachment: Thoracic Vertebrae
+    Atlas Bone
+      Definition: First Cervical Vertebra
+      Role: Supports the Skull
+    Components of Skeletal System
+      Bones
+      Cartilage
+      Ligaments
+    Functions of Skeletal System
+      Support
+      Protection
+      Movement
+      Blood Cell Production
+    Types of Bone Tissue
+      Compact Bone
+      Spongy Bone
+    Bone Characteristics
+      Living Tissue
+      Periosteum
+      Bone Marrow
+    Development of Skeleton
+      Initial Stage: Cartilage
+      Growth Plates
+      Replacement of Cartilage

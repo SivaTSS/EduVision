@@ -1,0 +1,36 @@
+mindmap
+  Surface Water
+    Freshwater Importance
+      Vital for humans, plants, and living things
+      Uses: drinking, washing, industry, recreation
+    Streams and Rivers
+      Definition: body of water flowing downhill
+      Features
+        Source: spring or melting snow
+        Mouth: where it flows into a larger body of water
+        Tributaries: smaller streams flowing into larger ones
+        River System: river and its tributaries
+        Floodplain: area that may flood
+        Basin: land drained by a river system
+        Divide: highest points separating basins
+    Ponds and Lakes
+      Definition: standing freshwater
+      Formation: precipitation, runoff, streams
+      Types
+        Lakes: larger than ponds
+        Great Lakes: hold 22% of world's fresh surface water
+        Sources: precipitation, runoff, streams
+    Wetlands
+      Definition: area covered with water or soggy soil
+      Importance
+        Biodiversity: homes for various species
+        Water purification: filters sediments and toxins
+        Flood prevention: slows rushing water
+      Types
+        Marshes: grassy plants, usually underwater
+        Swamps: soggy, may have shrubs or trees
+        Bogs: soggy soil, covered with mosses
+    Floods
+      Definition: overflow of water in streams or rivers
+      Causes: heavy rains, rapid snowmelt
+      Impact: damage to homes and farms, loss of life

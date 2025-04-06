@@ -1,0 +1,25 @@
+mindmap
+  Chemical Reactions
+    Synthesis Reactions
+      Definition: Two or more reactants combine to form a single product
+      General Equation: A + B -> C
+      Example: 2Na + Cl2 -> 2NaCl
+      Example: 2NO + O2 -> 2NO2
+    Decomposition Reactions
+      Definition: One reactant breaks down into two or more products
+      General Equation: AB -> A + B
+      Example: H2CO3 -> H2O + CO2
+      Example: 2H2O -> 2H2 + O2
+    Replacement Reactions
+      Definition: Elements switch places in compounds
+      Single Replacement
+        General Equation: A + BC -> B + AC
+        Example: 2K + 2H2O -> 2KOH + H2
+      Double Replacement
+        General Equation: AB + CD -> AD + CB
+        Example: NaCl + AgF -> NaF + AgCl
+    Combustion Reactions
+      Definition: Substance reacts quickly with oxygen
+      General Equation: Fuel + O2 -> CO2 + H2O
+      Example: CH4 + 2O2 -> CO2 + 2H2O
+      Cellular Respiration: C6H12O6 + 6O2 -> 6CO2 + 6H2O

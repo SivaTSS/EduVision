@@ -1,0 +1,34 @@
+mindmap
+  Aquatic Biomes
+    Freshwater Biomes
+      Definition: Less than 1% salt
+      Types
+        Ponds and Lakes
+        Streams and Rivers
+        Wetlands
+          Marshes
+          Swamps
+          Bogs
+      Factors
+        Distribution of life in lakes
+        Nutrient entry in littoral zone
+        Biomass and species diversity
+    Marine Biomes
+      Definition: More salt
+      Types
+        Oceans
+        Coral Reefs
+        Estuaries
+      Adaptations
+        Salt excretion organs
+      Ocean Zones
+        Photic Zone
+          Depth: Up to 200 meters
+          Photosynthesis occurs
+        Aphotic Zone
+          Depth: Deeper than 200 meters
+          Chemosynthesis occurs
+    Key Factors
+      Sunlight availability
+      Dissolved oxygen concentration
+      Nutrient concentration

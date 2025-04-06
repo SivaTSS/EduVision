@@ -1,0 +1,24 @@
+mindmap
+  Electrons
+    Discovery
+      Discovered by: J.J. Thomson
+      Year: 1897
+      Significance: Fundamental to atomic theory
+      Initial location: Outside nucleus
+      Modern view: Orbitals and energy levels
+    Characteristics
+      Type: Fundamental particles (leptons)
+      Charge: -1
+      Mass: 1/2000 of proton/neutron
+      Neutral atoms: Equal number of electrons and protons
+    Atomic Structure
+      Location: Outside nucleus
+      Movement: Constantly moving due to attraction to nucleus
+      Orbitals: Regions of probable electron location
+        Types: S orbitals (spherical), P orbitals (dumbbell)
+    Energy Levels
+      Definition: Fixed distances from nucleus
+      Distribution: Electrons fill lower levels first
+      Valence Electrons: Outermost electrons involved in reactions
+      Example: Beryllium atom (4 protons, 4 electrons)
+        Valence electrons: 2

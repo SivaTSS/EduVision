@@ -1,0 +1,31 @@
+mindmap
+  Testing Hypotheses
+    Purpose of Scientific Method
+      Create a hypothesis
+      Understand machine workings
+      Determine necessary information
+      Test hypothesis validity
+    Hypothesis Development
+      Alternative hypothesis for CO2 rise
+      Testing alternative hypothesis
+      Implications of true hypothesis
+      Role of multiple hypotheses
+    Falsifiability in Science
+      Discard incorrect hypotheses
+      Example: CO2 rise due to fossil fuels
+    Testing Hypotheses
+      Review scientific literature
+      Hypothesis 1: Volcanic CO2 emissions
+        Increase in volcanic eruptions
+        Changes in volcanic gas composition
+        Findings: Constant eruptions, unchanged gas composition
+        Conclusion: Hypothesis 1 is wrong
+      Hypothesis 2: Fossil fuel burning
+        Evidence from scientific literature
+        Graph of global CO2 emissions
+        Conclusion: Hypothesis 2 is true
+    Graph Analysis
+      Production of liquids and gases over time
+      X-axis: Years
+      Y-axis: Production levels
+      Overview of resource production and usage

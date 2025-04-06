@@ -1,0 +1,26 @@
+mindmap
+  Female Reproductive Structures
+    Vagina
+      Description: Cylinder-shaped organ
+      Functions
+        Sexual intercourse: Sperm enters
+        Birth: Baby passes through
+    Uterus
+      Description: Hollow organ with muscular walls
+      Functions
+        Development: Baby develops until birth
+        Birth: Muscular walls push baby out
+    Ovaries
+      Description: Small, oval organs
+      Functions
+        Egg release: One egg released monthly
+        Hormone secretion: Produces estrogen
+      Egg count
+        At birth: 1-2 million immature eggs
+        At puberty: 40,000 immature eggs
+    Fallopian Tubes
+      Description: Narrow tubes connecting to uterus
+      Functions
+        Egg transport: Sweeps egg into tube
+        Fertilization: Occurs in the tube
+        Implantation: Fertilized egg implants in uterus

@@ -1,0 +1,32 @@
+mindmap
+  Crustaceans
+    Characteristics
+      Exoskeleton
+      Body cavity
+      Digestive system
+      Waste removal
+      Nervous system
+      Molting
+    Classes
+      Branchiopoda
+        Examples: Brine shrimp
+      Remipedia
+      Cephalocarida
+      Maxillopoda
+      Ostracoda
+      Malacostraca
+        Examples: Crabs, lobsters, shrimp, krill, woodlice
+    Habitat
+      Aquatic
+      Freshwater
+      Terrestrial
+    Reproduction
+      Separate sexes
+      Sexual reproduction
+      Egg laying
+    Feeding
+      Filter feeding
+      Differences from mollusks
+      Evolution of filter feeding
+    Appendages
+      Functions

@@ -1,0 +1,44 @@
+mindmap
+  Air Pollution and Human Health
+    First Line of Defense
+      Body's natural defenses
+    Effects of Breathing Pollutants
+      Lung problems
+      Other health issues
+        Heart disease
+        Weakened immune system
+    Vulnerable Populations
+      Infants and toddlers
+      Elderly
+      Individuals with pre-existing conditions
+    Pollution Impact
+      Affects everyone
+      Economic costs
+        Washington state costs
+    Health Effects of Specific Pollutants
+      Lead
+        Lead poisoning
+      Carbon monoxide
+        Risk in poorly ventilated spaces
+      Nitrogen and sulfur oxides
+        Lung disease
+        Increased asthma rates
+      Ozone
+        Respiratory damage
+        Heart disease and cancer
+      Particulates
+        Heart and lung disease
+        Increased asthma attacks
+    Rising Disease Rates
+      Lung cancer in non-smokers
+      Asthma increase
+        Historical data
+        Global trends
+    Case Studies
+      Atlanta 1996 Olympic Games
+        Ozone reduction
+        Decrease in asthma hospital visits
+    Research Findings
+      No safe level of air pollution
+      Smog exposure risks
+      Asthma rate increase

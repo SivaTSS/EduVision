@@ -1,0 +1,40 @@
+mindmap
+  Galaxies
+    Types of Galaxies
+      Spiral Galaxies
+        Features
+          Rotating disk of stars and dust
+          Central bulge
+          Spiral arms
+          Young blue stars
+      Elliptical Galaxies
+        Features
+          Oval shape
+          Mostly old stars
+          Little gas and dust
+      Irregular Galaxies
+        Features
+          Deformed by other galaxies
+    Milky Way Galaxy
+      Description
+        Spiral galaxy
+        Contains about 400 billion stars
+        Disk about 100,000 light-years across
+        Central bulge and spiral arms
+      Location of Earth
+        In a spiral arm
+        More than halfway from center to edge
+    Star Clusters
+      Open Clusters
+        Groups of young stars
+        Loosely held by gravity
+      Globular Clusters
+        Spherical groups of old stars
+        Tightly held by gravity
+    Astronomical Observations
+      How do astronomers know we live in a spiral galaxy?
+      How can astronomers tell the age of a galaxy?
+    Comparisons
+      Size of galaxies vs solar system
+      Distance to other galaxies
+        Closest spiral galaxy: Andromeda

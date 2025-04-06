@@ -1,0 +1,25 @@
+mindmap
+  Scientific Theory
+    Definition
+      Broad explanation
+      Supported by evidence
+    Importance
+      Connects observations
+      Explains phenomena
+    Comparison
+      Science vs Everyday Language
+        Scientific theory
+          Well-supported explanation
+        Everyday theory
+          Casual use
+    Examples
+      Dalton's Atomic Theory
+        Atoms as smallest particles
+        Compounds consist of elements
+      Einstein's Theory of Gravity
+      Kinetic Theory of Matter
+      Wave-Particle Theory of Light
+    Law of Parsimony
+      Simplest theory preferred
+      Fewer assumptions
+      Historical context

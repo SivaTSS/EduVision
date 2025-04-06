@@ -1,0 +1,19 @@
+mindmap
+  Efficiency
+    Output_Work
+      Definition: Work done by the machine
+      Always_Less_Than_Input_Work: True
+    Input_Work
+      Definition: Work put into the machine by the user
+      Example: 5000 joules input for 4000 joules output
+    Efficiency_Calculation
+      Formula: Efficiency = (Output / Input) x 100%
+      Example_1: 6000 J output from 8000 J input = 75%
+      Example_2: 6700 J output from 7500 J input = 90%
+    Friction
+      Definition: Force opposing motion between surfaces
+      Impact_on_Work: Reduces output work
+    Machines
+      Definition: Devices that make work easier
+      Example: Dolly and ramp
+      Characteristics: Do not increase total work done

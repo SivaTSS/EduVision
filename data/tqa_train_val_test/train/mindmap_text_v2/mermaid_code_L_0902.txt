@@ -1,0 +1,23 @@
+mindmap
+  Energy Forms
+    Mechanical Energy
+      Definition: Energy of movement
+      Example: Guitarist plucking strings
+    Chemical Energy
+      Definition: Energy stored in atomic bonds
+      Example: Batteries converting chemical to electrical energy
+    Electrical Energy
+      Definition: Energy of moving electrons
+      Example: Electric current in wires
+    Electromagnetic Energy
+      Definition: Energy traveling as electrical and magnetic waves
+      Example: Stage lights
+    Thermal Energy
+      Definition: Energy of moving atoms
+      Example: Jogger sweating
+    Sound Energy
+      Definition: Mechanical energy from vibrations
+      Example: Singer's voice
+    Nuclear Energy
+      Definition: Energy stored in atomic nuclei
+      Example: Energy from nuclear power plants

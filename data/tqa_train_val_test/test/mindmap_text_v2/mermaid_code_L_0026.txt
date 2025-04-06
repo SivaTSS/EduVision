@@ -1,0 +1,43 @@
+mindmap
+  Changing Weather
+    Air Masses
+      Definition
+        Large body of air with uniform conditions
+      Types
+        Continental Polar
+        Maritime Tropical
+      Movement
+        Caused by winds and jet streams
+        Cold air moves south
+        Warm air moves north
+    Fronts
+      Definition
+        Boundary between two air masses
+      Types
+        Cold Front
+          Characteristics
+            Cold air mass moves faster
+            Causes storms and precipitation
+        Warm Front
+          Characteristics
+            Warm air rises over cold air
+            Brings light precipitation
+        Occluded Front
+          Characteristics
+            Warm air trapped between cold air
+            Causes cloudy weather and precipitation
+        Stationary Front
+          Characteristics
+            Stalled air masses
+            May bring prolonged precipitation
+    Cyclones and Anticyclones
+      Cyclone
+        Definition
+          Winds rotating around low pressure
+        Weather
+          Brings cloudy, wet conditions
+      Anticyclone
+        Definition
+          Winds rotating around high pressure
+        Weather
+          Brings fair, dry conditions

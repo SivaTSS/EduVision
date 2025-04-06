@@ -1,0 +1,24 @@
+mindmap
+  Surface Features of the Sun
+    Sunspots
+      Definition
+      Characteristics
+        Cooler and darker
+        Magnetic activity
+      Cycle
+        11-year cycle
+        Minimum and maximum numbers
+    Solar Flares
+      Definition
+      Causes
+      Effects on Earth
+        Power grid disruptions
+        Communication issues
+    Solar Prominences
+      Definition
+      Formation
+      Visibility
+    Solar Dynamics Observatory
+      Purpose
+      Imaging capabilities
+      Importance for research

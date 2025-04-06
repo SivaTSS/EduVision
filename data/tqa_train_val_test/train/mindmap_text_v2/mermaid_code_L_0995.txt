@@ -1,0 +1,24 @@
+mindmap
+  Protons
+    Description
+      Definition of protons
+      Location in the nucleus
+      Charge and mass
+    Relationship with Elements
+      Unique number of protons per element
+      Example: Hydrogen vs Helium
+    Atoms and Charge
+      Neutral atoms contain protons, neutrons, and electrons
+      Charge of electrons
+      Inferring protons from electrons
+    Fundamental Particles
+      Composition of protons
+        Quarks
+          Up quarks
+          Down quark
+        Gluons
+          Role in binding quarks
+    Role in Stars
+      Proton interactions in the sun
+      Fusion of hydrogen to helium
+      Energy release in stars

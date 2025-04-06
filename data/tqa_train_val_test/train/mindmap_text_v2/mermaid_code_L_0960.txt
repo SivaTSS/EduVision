@@ -1,0 +1,20 @@
+mindmap
+  Musical Instruments
+    Properties
+      Create sound by vibrating matter
+      Use resonance to amplify sound
+      Change frequency to alter pitch
+    Resonance
+      Definition: Vibrating in response to sound waves
+      Application in instruments
+        Example: Drum vibrates when struck
+    Categories
+      Percussion
+        Examples: Xylophones, Drums, Cymbals
+      Wind
+        Examples: Clarinets, Trumpets, Flutes
+      Stringed
+        Examples: Violins, Guitars, Harps
+    Historical Context
+      Use of sound to make music for thousands of years
+      Diversity of musical instruments

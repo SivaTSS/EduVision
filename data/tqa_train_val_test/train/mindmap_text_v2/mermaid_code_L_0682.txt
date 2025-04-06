@@ -1,0 +1,30 @@
+mindmap
+  Water Pollution
+    Definition
+      Limited Resource
+      Contaminants
+    Sources
+      Point Source Pollution
+        Examples
+          Untreated Sewage
+          Wastewater
+          Leaking Tanks
+      Nonpoint Source Pollution
+        Examples
+          Fertilizer Runoff
+          Agricultural Chemicals
+    Effects
+      Ecosystem Imbalance
+        Human Sewage
+        Nutrient Cycles
+      Agriculture Runoff
+        Food Web Changes
+        Algal Blooms
+      Pharmaceuticals
+        Impact on Aquatic Organisms
+      Heat Pollution
+        Effects on Aquatic Ecosystems
+    Natural Events
+      Storms
+      Volcanic Eruptions
+      Earthquakes

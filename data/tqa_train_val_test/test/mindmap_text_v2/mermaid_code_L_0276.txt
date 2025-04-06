@@ -1,0 +1,23 @@
+mindmap
+  Atmospheric Pressure and Density
+    Force of Atmospheric Pressure
+      Gravity
+      Weight of Air
+    Atmospheric Pressure
+      Definition
+      Units of Measurement
+      Effects on Humans
+        Ears Popping
+        Body Compensation
+    Air Density
+      Definition
+      Decrease with Altitude
+        Reasons
+          Gravity's Pull
+          Compression by Atmosphere
+      Effects of Altitude
+        Climbing Mountains
+        Changes in Temperature
+    Importance of Atmospheric Pressure
+      Survival
+      Effects on Liquids

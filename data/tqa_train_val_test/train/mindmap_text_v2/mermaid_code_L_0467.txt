@@ -1,0 +1,35 @@
+mindmap
+  Blood Types
+    Antigens
+      Definition
+      Examples
+        Type A
+        Type B
+        Type AB
+        Type O
+    Antibodies
+      Definition
+      Type O Antibodies
+        Anti-A
+        Anti-B
+      Type A Antibodies
+        Anti-B
+      Type B Antibodies
+        Anti-A
+      Type AB Antibodies
+        None
+    Blood Transfusion
+      Importance of Matching
+      Risks of Mismatched Blood
+        Clumping
+        Potential Death
+    Universal Donors
+      Type O Blood
+      No Antigens
+    Universal Recipients
+      Type AB Blood
+      No Plasma Antibodies
+    Rhesus Factor
+      Definition
+      Positive
+      Negative

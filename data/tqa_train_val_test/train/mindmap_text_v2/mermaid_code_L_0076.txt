@@ -1,0 +1,25 @@
+mindmap
+  continental drift
+    definition
+      hypothesis
+      supercontinent Pangaea
+    evidence
+      Alfred Wegener
+        fit of continents
+        fossil distribution
+        similar rock types
+        ancient climate zones
+      magnetic evidence
+        Earth's magnetic field
+        alignment of iron-rich crystals
+    historical context
+      initial rejection by scientists
+      acceptance of continental drift today
+    phenomena
+      movement of north magnetic pole
+      ancient glaciers
+      coral reefs and coal swamps
+    arguments
+      case for continental drift
+      lack of mechanism for movement
+      driving forces for continental motion

@@ -1,0 +1,34 @@
+mindmap
+  Hearing and the Ear
+    Sound
+      Form of energy
+      Travels in waves
+    Hearing Process
+      Ear gathers sound waves
+      Amplifies sound waves
+      Converts to electrical signals
+      Brain interprets signals
+    Outer Ear
+      Pinna
+        Catches sound waves
+      Ear Canal
+        Carries sound waves
+      Eardrum
+        Vibrates with sound waves
+    Middle Ear
+      Ossicles
+        Hammer
+        Anvil
+        Stirrup
+      Function
+        Amplifies vibrations
+        Acts as a lever
+    Inner Ear
+      Cochlea
+        Contains hair cells
+        Converts vibrations to electrical signals
+      Nerve Impulses
+        Travel to the brain
+    Effects of Loud Sounds
+      Damage to hair cells
+      Impacts ability to hear

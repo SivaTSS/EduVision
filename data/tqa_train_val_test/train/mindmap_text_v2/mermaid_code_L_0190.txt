@@ -1,0 +1,22 @@
+mindmap
+  Heat Budget of Planet Earth
+    CERES
+      Measures
+      Acronym
+    Ideal Radiation Budget
+      Definition
+      Importance
+    Solar Radiation
+      Reflection and Absorption
+        Clouds
+        Surfaces
+      Equator vs Poles
+    Albedo
+      Ice Caps Melting
+    Greenhouse Gases
+      Impact on Heat Budget
+    Energy Balance
+      Incoming vs Outgoing Energy
+      Temperature Effects
+    Atmospheric Circulation
+      Latitude Differences

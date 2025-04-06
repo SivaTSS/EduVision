@@ -1,0 +1,30 @@
+mindmap
+  Earths Core
+    Composition
+      Dense Metal
+      Inner Core
+        Solid
+      Outer Core
+        Liquid
+        Convection
+    Seismic Waves
+      P-waves
+        Travel Through
+          Solids
+          Liquids
+        Information About Inner Core
+      S-waves
+        Travel Through
+          Solids
+        Do Not Travel Through Outer Core
+    Evidence of Composition
+      Density Calculations
+      Metallic Meteorites
+      Magnetic Field
+    Heat Sources
+      Radioactive Element Breakdown
+      Inner Core Heat
+    Implications of Density
+      Crust Density
+      Core Material Composition
+    Outer Core Temperature

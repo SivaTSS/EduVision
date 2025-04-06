@@ -1,0 +1,40 @@
+mindmap
+  Weather vs Climate
+    Weather
+      Definition
+        Atmosphere conditions at a specific time and place
+      Characteristics
+        Air temperature
+        Air pressure
+        Humidity
+        Precipitation
+        Wind speed and direction
+        Fog
+        Cloud cover
+      Changeability
+        Rapid changes
+        Daily variations
+      Energy Source
+        The Sun
+    Climate
+      Definition
+        Long-term average of weather
+      Characteristics
+        Air temperature
+        Humidity
+        Wind speed and direction
+        Precipitation type, quantity, frequency
+      Changeability
+        Slow changes
+        Predictable patterns
+      Determining Factors
+        Angle of the Sun
+        Cloud cover likelihood
+        Air pressure
+        Energy distribution over time
+    Comparison
+      Weather vs Climate
+        Weather changes quickly
+        Climate changes slowly
+        Weather is less predictable
+        Climate is more stable

@@ -1,0 +1,34 @@
+mindmap
+  Plant Characteristics
+    Characteristics
+      Eukaryotic
+      Photosynthetic
+      Multicellular
+    Photosynthesis
+      Process
+        Captures sunlight
+        Uses carbon dioxide
+        Produces glucose
+      Organelle
+        Chloroplasts
+    Adaptations
+      Environments
+        Desert
+        Tropical rain forest
+        Lakes
+        Oceans
+    Roles in Ecosystem
+      Food source for animals
+      Habitat for animals
+        Nests for birds
+        Shelter for insects
+    Differences
+      Sporophyte vs Gametophyte
+        Sporophyte
+          Diploid
+        Gametophyte
+          Haploid
+    Distinctions
+      Plants vs Fungi
+        Plants are autotrophs
+        Fungi are heterotrophs

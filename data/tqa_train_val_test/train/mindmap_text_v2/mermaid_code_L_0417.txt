@@ -1,0 +1,36 @@
+mindmap
+  Air Pollution
+    Definition
+      Chemical substances and particles in the atmosphere
+      Mainly caused by human actions
+    Outdoor Air Pollution
+      Causes
+        Burning of fossil fuels
+        Ranching and fertilizers
+        Soil erosion, mining, construction
+      Effects
+        Human health problems
+          Respiratory diseases
+          Cardiovascular diseases
+          Asthma and heart attacks
+        Acid rain
+          Lowers pH of water
+          Damages soil and aquatic life
+        Global climate change
+          Greenhouse effect
+          Rising temperatures
+          Melting ice caps
+          Extreme weather
+    Indoor Air Pollution
+      Sources
+        Radon gas
+        Fuel-burning appliances
+        Mold
+        Dust and pet dander
+      Control Measures
+        Keep home clean
+        Use low-VOC materials
+        Ensure proper venting of appliances
+        Install carbon monoxide alarms
+    Public Service Announcement
+      Practical tips for improving indoor air quality

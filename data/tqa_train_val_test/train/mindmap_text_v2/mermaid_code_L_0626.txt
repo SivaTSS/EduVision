@@ -1,0 +1,47 @@
+mindmap
+  Pathogens
+    Definition
+      Pathogen as a living thing or virus
+      Commonly called germs
+    Types of Pathogens
+      Bacteria
+        One-celled organisms without a nucleus
+        Common diseases
+          Tuberculosis
+          Strep throat
+          Pneumonia
+      Fungi
+        Eukaryotic organisms
+        Common diseases
+          Ringworm
+          Athlete's foot
+          Histoplasmosis
+      Protozoa
+        One-celled organisms with a nucleus
+        Common diseases
+          Malaria
+          Diarrhea (Giardia lamblia)
+      Viruses
+        Nonliving collections of protein and DNA
+        Common diseases
+          Colds
+          Flu
+          Cold sores (Herpes simplex)
+    Transmission
+      Vectors
+        Organisms that carry pathogens
+        Examples: ticks, mosquitoes
+      Contagious diseases
+        Spread from person to person
+        Example: colds
+      Foodborne illnesses
+      Waterborne pathogens
+        Example: Giardia lamblia
+      Surface contact
+        Example: athletes foot
+      Respiratory droplets
+        Spread by sneezing or coughing
+    Prevention
+      Use of insect repellent
+      Boiling water to kill pathogens
+      Hygiene practices to avoid surface contact

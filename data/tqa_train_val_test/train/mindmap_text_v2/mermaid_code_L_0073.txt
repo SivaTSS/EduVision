@@ -1,0 +1,31 @@
+mindmap
+  Nonrenewable Energy Resources
+    Fossil Fuels
+      Formation
+        Organic Material
+        Heat and Pressure
+      Types
+        Coal
+          Formation
+          Uses
+          Environmental Impact
+        Oil
+          Formation
+          Uses
+          Environmental Impact
+        Natural Gas
+          Formation
+          Uses
+          Environmental Impact
+    Environmental Problems
+      Air Pollution
+      Greenhouse Gases
+      Acid Rain
+    Health Problems
+      Surface Mining
+      Underground Mining
+    Nuclear Energy
+      Formation
+      Uses
+      Environmental Impact
+      Safety Concerns

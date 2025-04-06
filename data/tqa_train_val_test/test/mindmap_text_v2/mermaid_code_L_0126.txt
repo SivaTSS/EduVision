@@ -1,0 +1,25 @@
+mindmap
+  development of theories
+    scientific theory
+      explanation of complex phenomena
+      predicts future events
+      supported by evidence
+      constantly tested and revised
+      simpler model of reality
+    scientific law
+      describes consistent phenomena
+      does not explain why
+      may have exceptions
+    relationship between theories and laws
+      theories explain why
+      laws describe what happens
+      theories can become laws
+      laws cannot become theories
+    hypothesis
+      initial idea to be tested
+      supported or refuted by evidence
+      can become a theory
+    importance in science
+      theories provide reliable explanations
+      laws describe consistent outcomes
+      no hierarchy of importance

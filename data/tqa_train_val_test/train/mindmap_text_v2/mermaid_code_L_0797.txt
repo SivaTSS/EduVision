@@ -1,0 +1,32 @@
+mindmap
+  Alloys
+    Definition
+      Mixture of metal with other elements
+      Examples: steel, bronze, brass
+    Properties
+      More useful than pure metals
+      Can include metals, nonmetals, or both
+    Formation
+      Melting metal
+      Dissolving other elements
+      Cooling and hardening
+    Common Alloys
+      Brass
+        Alloy of copper and zinc
+        Softer and easier to shape
+        Used in saxophones, doorknobs, plumbing fixtures
+      Stainless Steel
+        Contains nickel, chromium, carbon, iron
+        Shiny, strong, rust-resistant
+        Used in sinks, utensils
+      Gold Jewelry
+        Alloy of gold, copper, silver
+        Harder than pure gold
+      Bronze
+        Alloy of copper and tin
+        First alloy made
+        Used in statues, coins
+    Sterling Silver
+      Contains 93% silver, 7% copper
+      Harder and stronger than pure silver
+      Retains malleability and luster

@@ -1,0 +1,32 @@
+mindmap
+  Touch
+    What is touch
+    Touch receptors
+      Mechanoreceptors
+        Detect pressure
+        Detect vibrations
+        Detect texture
+      Thermoreceptors
+        Hot receptors
+        Cold receptors
+      Pain receptors
+        Detect pain
+        Found throughout the body
+      Proprioceptors
+        Detect body position
+        Found in joints, tendons, muscles
+    Sensory neurons
+      Located in skin
+      Sensitive areas: palms, soles, face, tongue, lips
+    Communication with the brain
+      Sensory messages to central nervous system
+      Frontal lobe processes information
+    Reflex arcs
+      Bypass the brain
+      Example: knee-jerk reaction
+    Sensations
+      Pain
+      Pressure
+      Temperature
+      Texture
+      Vibration

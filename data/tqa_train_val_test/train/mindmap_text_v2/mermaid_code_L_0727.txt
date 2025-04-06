@@ -1,0 +1,21 @@
+mindmap
+  Newtons First Law of Motion
+    Definition
+      States that an object's motion will not change unless an unbalanced force acts on it
+      If at rest, stays at rest
+      If in motion, stays in motion
+    Inertia
+      Tendency to resist change in motion
+      Depends on mass
+        Greater mass = greater inertia
+    Unbalanced Force
+      Must be applied to overcome inertia
+      Causes acceleration
+    Examples
+      Skateboard hitting a curb
+      Pool balls on a table
+      Amusement park ride
+    Importance of Seat Belts
+      Inertia causes bodies to move forward in a sudden stop
+    Relationship to Mass
+      Mass affects inertia and acceleration

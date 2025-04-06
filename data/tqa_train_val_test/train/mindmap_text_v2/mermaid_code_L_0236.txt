@@ -1,0 +1,28 @@
+mindmap
+  Metamorphic Rock Classification
+    Conditions of Formation
+      Heat and Pressure
+      Parent Rock Identification
+    Changes During Metamorphism
+      Texture Changes
+      Mineral Changes
+    Types of Metamorphic Rocks
+      Foliated
+        Characteristics
+        Examples
+          Slate
+          Phyllite
+          Schist
+          Gneiss
+      Non-Foliated
+        Characteristics
+        Examples
+          Quartzite
+          Marble
+          Metaconglomerate
+    Metamorphic Processes
+      Shale to Slate
+      Slate to Phyllite
+      Phyllite to Schist
+      Schist to Gneiss
+      Limestone to Marble

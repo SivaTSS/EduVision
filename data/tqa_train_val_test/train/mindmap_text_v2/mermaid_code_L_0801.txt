@@ -1,0 +1,32 @@
+mindmap
+  Artificial Light
+    Types of Light Bulbs
+      Incandescent
+        Produces light by incandescence
+        Contains tungsten filament
+        Not energy efficient
+      Fluorescent
+        Produces light by fluorescence
+        Contains mercury gas
+        Coated with phosphor
+      Neon
+        Produces light by electroluminescence
+        Contains neon gas
+        Excited electrons emit light
+      Vapor
+        Produces light by electroluminescence
+        Contains sodium or mercury
+        Used for streetlights and stadiums
+      LED
+        Stands for light-emitting diode
+        Contains semiconductor material
+        Reliable and durable
+    Comparison
+      Incandescent vs Compact Fluorescent
+        Incandescent wastes energy by producing heat
+        CFL is more energy efficient
+    Applications
+      Traffic Lights
+      Indicator Lights
+      Street Lighting
+      Stadium Lighting

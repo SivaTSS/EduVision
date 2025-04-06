@@ -1,0 +1,47 @@
+mindmap
+  Blood
+    Blood Components
+      Plasma
+        Contains dissolved substances
+        Carries nutrients and hormones
+      Blood Cells
+        Red Blood Cells
+          Carry oxygen
+          Contain hemoglobin
+        White Blood Cells
+          Defend against infections
+        Platelets
+          Help with blood clotting
+    Functions of Blood
+      Transport
+        Oxygen to cells
+        Nutrients to cells
+        Carbon dioxide and wastes away
+      Defense
+        Fights infections
+      Repair
+        Repairs tissues
+      Regulation
+        Controls pH
+        Regulates body temperature
+    Blood Types
+      ABO Blood Type
+        Antigen A
+        Antigen B
+        Type A, B, AB, O
+      Rhesus Blood Type
+        Rh+ (with antigen)
+        Rh- (without antigen)
+    Medical Significance
+      Blood Transfusions
+        Must match blood type
+        Risk of agglutination
+    Diseases of Blood
+      Anemia
+        Causes: blood loss, iron deficiency
+      Leukemia
+        Abnormal white blood cells
+      Hemophilia
+        Genetic clotting disorder
+      Sickle-Cell Disease
+        Genetic disorder affecting shape of red blood cells

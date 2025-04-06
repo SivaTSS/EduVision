@@ -1,0 +1,32 @@
+mindmap
+  pH Concept
+    What is pH
+      Definition
+      Measurement
+    Acidity
+      Definition
+      Importance for living things
+    Acids
+      Definition
+      Characteristics
+      Examples
+        Vinegar
+        Battery acid
+    Bases
+      Definition
+      Characteristics
+      Examples
+        Antacid tablets
+        Drain cleaner
+    Strength of Acids and Bases
+      Measurement
+      pH Scale
+        Neutral pH
+        Acidic pH
+        Basic pH
+        Powers of ten
+    Environmental Impact
+      Importance of pH for ecosystems
+      Effects of acid rain
+      Acid fog
+      Impact on plants and fish

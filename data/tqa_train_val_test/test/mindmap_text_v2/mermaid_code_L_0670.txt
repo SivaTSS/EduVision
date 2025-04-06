@@ -1,0 +1,27 @@
+mindmap
+  Scientific Investigation
+    Scientific Method
+      Steps
+        Make observations
+        Identify a question
+        Research existing knowledge
+        Form a hypothesis
+        Test the hypothesis
+        Analyze results
+        Communicate results
+    Variables
+      Independent Variable
+      Dependent Variable
+      Control Variables
+        Importance of Control Variables
+    Hypothesis
+      Features of a Good Hypothesis
+        Testable
+        Can be proven wrong
+        Provides measurable results
+        Y/N answers
+    Communication
+      Importance of Sharing Results
+        Peer review
+        Scientific community
+        Related studies

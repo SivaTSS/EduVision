@@ -1,0 +1,34 @@
+mindmap
+  Landforms from Glacial Erosion and Deposition
+    Erosive Processes
+      Glacier Erosion
+        Abrasion
+        Plucking
+        Freezing and Thawing
+    Glacial Features
+      Striations
+        Direction of Glacier Movement
+        Creation Process
+      U-shaped Valleys
+        Formation from V-shaped Valleys
+        Hanging Valleys
+      Cirques
+        Bowl-shaped Features
+        Tarn Formation
+      Moraines
+        Types of Moraines
+          Lateral Moraines
+          Medial Moraines
+          Ground Moraines
+          Terminal Moraines
+          End Moraines
+    Depositional Features
+      Glacial Till
+        Unsourced Deposits
+        Erratics
+      Varves
+        Formation Process
+        Climate Indicators
+      Eskers
+      Drumlins
+        Direction of Ice Movement

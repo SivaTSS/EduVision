@@ -1,0 +1,42 @@
+mindmap
+  Mechanical Advantage
+    Definition
+      Ratio of output force to input force
+      Change in input force by a machine
+    Types
+      Actual Mechanical Advantage
+        Reflects force increase/decrease
+        Takes friction into account
+        Calculated as Output force / Input force
+      Ideal Mechanical Advantage
+        Reflects force change without friction
+        Always greater than actual
+        Calculated as Input Distance / Output Distance
+    Calculations
+      Actual Mechanical Advantage Equation
+        Output force / Input force
+      Ideal Mechanical Advantage Equation
+        Input Distance / Output Distance
+    Examples
+      Lever
+        Juan's lever problem
+          Input force: 30 N
+          Input distance: 1 m
+          Output distance: 0.2 m
+      Ramp
+        Input distance: 6 m
+        Output distance: 2 m
+        Ideal Mechanical Advantage: 3
+        Another ramp
+          Input distance: 8 m
+          Output distance: 4 m
+          Ideal Mechanical Advantage: 2
+    Machine Characteristics
+      Strength of Force
+        Increases
+        Decreases
+        Stays the same
+      Distance Over Force is Applied
+        Decreases
+        Increases
+        Stays the same

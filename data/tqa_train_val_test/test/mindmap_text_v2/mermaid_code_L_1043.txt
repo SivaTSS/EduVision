@@ -1,0 +1,25 @@
+mindmap
+  Technological Design Process
+    Tri-ATHLETE Robot
+      Problems Solved
+      Solutions Provided
+      Design Testing
+      Design Refinement
+    Technological Design
+      Definition
+      Similarities to Scientific Investigation
+    Steps of Technological Design Process
+      Identify a Problem
+      Research the Problem
+      Generate Possible Solutions
+      Select the Best Solution
+      Create a Model
+      Test the Model
+      Refine and Retest
+      Communicate Final Solution
+    Constraints
+      Cost
+      Safety
+    Importance of Testing
+      Identify Problems
+      Modify Design

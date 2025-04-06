@@ -1,0 +1,28 @@
+mindmap
+  Tides
+    Causes
+      Gravitational Attraction
+        Moon
+        Sun
+      Tidal Range
+        Difference between high and low tide
+        Factors affecting tidal range
+    Types of Tides
+      High Tides
+        Occurrence
+        Locations relative to the Moon
+      Low Tides
+      Spring Tides
+        Occurrence
+        Conditions for occurrence
+      Neap Tides
+        Occurrence
+        Conditions for occurrence
+    Effects
+      Daily rise and fall of sea level
+      Local variations
+        Coastal shapes
+        Unique locations (e.g., Bay of Fundy)
+    Importance
+      Understanding ocean dynamics
+      Influence on ecosystems

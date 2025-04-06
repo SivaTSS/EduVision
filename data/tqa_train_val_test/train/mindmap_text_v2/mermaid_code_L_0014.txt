@@ -1,0 +1,29 @@
+mindmap
+  Water on Earth
+    Description of Water
+      Chemical compound
+      States of matter
+        Liquid
+        Gas
+        Solid
+    Occurrence of Water
+      Oceans
+      Freshwater
+        Ice caps
+        Glaciers
+        Lakes
+        Soil
+    Water Cycle
+      Processes
+        Evaporation
+        Condensation
+        Precipitation
+      Movement
+        Surface water
+        Groundwater
+    Importance of Water
+      Life dependency
+      Recycling of water
+    Effects on Water Cycle
+      Forest fires
+      Sun's intensity

@@ -1,0 +1,19 @@
+mindmap
+  Motion
+    Definition
+      Change of position
+      Objects position
+    Frame of Reference
+      Influences perception of motion
+      Not moving with respect to observer
+    Examples
+      Train on track
+      Man on bike
+      Geese flying
+      Meteor entering atmosphere
+    Perception of Motion
+      School bus example
+        Children inside bus
+        Outside objects as reference
+      Observer's perspective
+        Trees and stationary objects

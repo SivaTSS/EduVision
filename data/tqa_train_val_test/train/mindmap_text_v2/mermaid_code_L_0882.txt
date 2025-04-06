@@ -1,0 +1,26 @@
+mindmap
+  Electromagnetic Waves
+    Definition
+      Electromagnetic radiation
+      Transfer of energy
+    Components
+      Electric field
+      Magnetic field
+    Formation
+      Vibrating charged particle
+      Creation of fields
+    Characteristics
+      Transverse wave
+      Travel through space and matter
+      Energy loss in matter
+    Interactions
+      Reflection
+      Refraction
+      Diffraction
+      Absorption
+    Sources
+      Sun
+      Technology-based sources
+        Radio waves
+        Microwaves
+        X rays

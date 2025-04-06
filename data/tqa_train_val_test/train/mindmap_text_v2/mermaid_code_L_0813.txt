@@ -1,0 +1,25 @@
+mindmap
+  Bond Polarity
+    Polar Covalent Bonds
+      Definition
+      Example
+    Nonpolar Covalent Bonds
+      Definition
+      Example
+    Factors Determining Polarity
+      Arrangement of Atoms
+      Electronegativity Differences
+    Polar Compounds
+      Definition
+      Characteristics
+      Examples
+        Water
+        NH3
+        CHCl3
+    Nonpolar Compounds
+      Definition
+      Characteristics
+      Examples
+        BF3
+        CCl4
+        CO2

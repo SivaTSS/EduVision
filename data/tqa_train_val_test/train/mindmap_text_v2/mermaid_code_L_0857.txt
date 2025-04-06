@@ -1,0 +1,23 @@
+mindmap
+  Descriptive Statistics
+    Definition
+      Summary of sample characteristics
+      Importance in scientific investigations
+    Central Tendency
+      Mean
+        Average value
+        Calculation method
+      Median
+        Middle value
+        Ranking method
+      Mode
+        Most common value
+    Variation
+      Range
+        Total spread of values
+        Calculation method
+    Examples
+      Sample values
+        Heights of children
+        Calculation of mean, median, mode
+        Calculation of range

@@ -1,0 +1,37 @@
+mindmap
+  Autoimmune Diseases
+    Immune System Function
+      Protects from pathogens
+      Can malfunction
+    Autoimmune Diseases
+      Definition
+        Immune system attacks own cells
+      Examples
+        Type 1 Diabetes
+        Multiple Sclerosis
+        Rheumatoid Arthritis
+        Celiac Disease
+        Inflammatory Bowel Disease
+        Psoriasis
+        Lupus
+      Treatment
+        Medicines to weaken immune response
+    Allergies
+      Definition
+        Immune system attacks harmless substances
+      Allergens
+        Plant pollens
+        Foods (nuts, shellfish)
+        Drugs (penicillin)
+        Mold
+        Dust
+        Animal dander
+        Insect stings
+      Symptoms
+        Watery eyes
+        Sneezing
+        Runny nose
+        Anaphylaxis
+      Treatment
+        Antihistamines
+        Corticosteroids

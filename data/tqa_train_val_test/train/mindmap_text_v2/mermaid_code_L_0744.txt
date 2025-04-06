@@ -1,0 +1,24 @@
+mindmap
+  Wave Interactions and Interference
+    Sound Waves
+      Echo
+        Definition: Sound waves bounce back from hard objects
+        Example: Man shouting at rock wall
+    Wave Reflection
+      Definition: Waves bounce back from barriers
+      Example: Ocean waves reflecting off rocks
+    Wave Refraction
+      Definition: Waves bend when entering a new medium
+      Example: Light bending in water
+    Wave Diffraction
+      Definition: Waves spread out around obstacles
+      Example: Sound waves bending around corners
+    Wave Interference
+      Definition: Interaction of waves affecting amplitude
+      Types
+        Constructive Interference
+          Definition: Crests overlap, increasing amplitude
+        Destructive Interference
+          Definition: Crests overlap troughs, decreasing amplitude
+    Standing Waves
+      Definition: Wave appears to stand still due to interference

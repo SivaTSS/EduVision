@@ -1,0 +1,36 @@
+mindmap
+  Humans and Primates
+    Human and Primate Relationship
+      Chimpanzees
+        Geographic Location
+        Tool Use
+      Gorillas
+        Social Behavior
+        Family Leader
+      Orangutans
+        Learned vs Innate Behavior
+    Biological Family Hominidae
+      Genera
+        Chimpanzees
+        Gorillas
+        Humans
+        Orangutans
+      DNA Similarity
+        Over 97% Commonality
+      Language and Culture
+        Communication
+        Knowledge Transfer
+    Great Apes
+      Characteristics
+        Size Range
+        Male vs Female Size
+      Behavior
+        Family Groups
+        Dominant Male
+        Solitary Orangutans
+    Specialized Human Features
+      Dental Structure
+      Bipedalism
+      Hand Dexterity
+      Brain Size
+      Bone Mass

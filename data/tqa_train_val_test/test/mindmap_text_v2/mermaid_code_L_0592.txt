@@ -1,0 +1,31 @@
+mindmap
+  Mammal Characteristics
+    What is a Mammal?
+      Differences from other vertebrates
+      Unique characteristics
+    Famous Fossil "Ida"
+      Characteristics displayed
+      Diet based on dentition
+      Behavioral insights from eyes
+      Type of mammal
+    Key Characteristics of Mammals
+      Presence of hair or fur
+      Sweat glands
+      Mammary glands
+      Three middle ear bones
+      Neocortex region
+      Specialized teeth
+      Four-chambered heart
+    Types of Mammals
+      Viviparous mammals
+      Monotremes
+        Example: Platypus
+        Other: Echidnas
+      Marsupials
+        Examples: Kangaroos, Koalas
+      Placental mammals
+        Examples: Humans, Whales, Dogs
+    Diversity of Mammals
+      Range of habitats
+      Adaptations for environments
+      Size variation

@@ -1,0 +1,27 @@
+mindmap
+  Vision Correction
+    Myopia
+      Definition: Nearsightedness
+      Affects: 1/3 of people
+      Symptoms: Clear nearby, blurry distant
+      Eye Shape: Too long
+      Correction: Concave lens
+      Causes: Inherited, visual stress, close work
+      Signs: Difficulty seeing distant objects
+    Hyperopia
+      Definition: Farsightedness
+      Affects: 1/4 of people
+      Symptoms: Clear distant, blurry nearby
+      Eye Shape: Too short
+      Correction: Convex lens
+      Signs: Difficulty focusing on close objects, eye strain
+    Astigmatism
+      Definition: Irregular cornea shape
+      Effect: Blurred vision
+      Correction: Special lenses or surgery
+    Vision Correction Methods
+      Lenses
+        Types: Concave for myopia, Convex for hyperopia
+      Surgery
+        Example: LASIK
+        Purpose: Change cornea shape

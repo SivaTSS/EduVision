@@ -1,0 +1,19 @@
+mindmap
+  Mendeleev's Periodic Table
+    Development
+      Year: 1869
+      Method: Organizing elements by atomic mass
+      Basis: Served as foundation for modern periodic table
+      Cards: Created cards for each element with properties
+      Pattern: Found by arranging elements in order of atomic mass
+    Groups
+      Definition: Columns of elements with similar properties
+      Similarity: Elements in a group are like a family
+    Periods
+      Definition: Rows of the table
+      Structure: Each period contains eight elements
+      Repetition: Pattern repeats in subsequent rows
+    Model Effectiveness
+      Predictions: Could predict unknown elements and properties
+      Example: Predicted gallium's existence and properties
+      Importance: Helped in discovering new elements

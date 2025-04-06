@@ -1,0 +1,36 @@
+mindmap
+  early space exploration
+    rocket mechanics
+      how a rocket works
+      Newton's laws of motion
+        first law
+        second law
+        third law
+      thrust and propulsion
+    types of satellites
+      natural satellites
+      artificial satellites
+      imaging satellites
+      communications satellites
+      navigational satellites
+    early rocket history
+      ancient rockets
+      gunpowder vs liquid fuel
+      multiple stages
+      V2 rocket
+      Wernher von Braun
+    space race
+      Sputnik 1
+      U.S. response
+        Explorer I
+        Vanguard 1
+      key events
+        first human in space
+        Apollo 11 mission
+    satellite functions
+      imaging Earth
+      monitoring climate change
+      navigation systems
+    future of space exploration
+      challenges in science and technology
+      new goals for NASA

@@ -1,0 +1,22 @@
+mindmap
+  electromagnetic_waves
+    speed_of_light
+      value: 300 million meters per second
+      travel_time_from_sun: 8 minutes
+    wavelength
+      definition: distance between corresponding points of adjacent waves
+      range: longer than a soccer field to shorter than an atom
+    frequency
+      definition: number of waves passing a fixed point in a given time
+      range: thousands to trillions of waves per second
+    energy
+      relationship: higher frequency = more energy
+      low_frequency: little energy, normally harmless
+      high_frequency: a lot of energy, potentially harmful
+    wave_speed_relationship
+      equation: speed = wavelength * frequency
+      implications: shorter wavelength = higher frequency
+    example_calculation
+      given_wavelength: 3 meters
+      calculated_frequency: 1.0 x 10^8 Hz
+      reverse_calculation: wavelength for 3.0 x 10^8 Hz = 1.0 m

@@ -1,0 +1,32 @@
+mindmap
+  Cartilaginous Fish
+    Characteristics
+      Jawed fish
+      Paired fins
+      Paired nostrils
+      Scales
+      Two-chambered hearts
+      Skeletons made of cartilage
+    Subclasses
+      Sharks
+      Rays
+      Skates
+      Chimaera
+    Adaptations
+      Evolution of jaws
+      Ampullae of Lorenzini
+      Cartilage vs bone
+      Leydig's organ
+    Feeding
+      Teeth types
+        Dense flattened teeth
+        Needle-like teeth
+        Pointed lower teeth
+        Triangular upper teeth
+      Prey sensing
+    Reproduction
+      Internal fertilization
+      Ovoviviparous reproduction
+    Habitat
+      Oceanic environments
+      Coral reefs

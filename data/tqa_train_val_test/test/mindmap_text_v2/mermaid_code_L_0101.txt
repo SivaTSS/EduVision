@@ -1,0 +1,41 @@
+mindmap
+  Blizzards
+    Definition
+      What is a blizzard?
+      Conditions
+        Temperature
+          Below -7 C (20 F)
+          Below -12 C (10 F) for severe
+        Winds
+          Greater than 56 km/h (35 mph)
+          Greater than 72 km/h (45 mph) for severe
+        Visibility
+          Less than 2/5 km (1/4 mile) for three hours
+          Near zero for severe
+    Formation
+      Air Masses
+        Cold polar air
+        Warm moist air
+      Mid-latitude cyclone
+        Jet stream interaction
+        Pressure difference
+    Types
+      Snowstorms
+        Similarities to blizzards
+        Conditions for snowstorm to become blizzard
+    Occurrence
+      Timing
+        Most common in winter
+      Locations
+        Middle latitudes
+        U.S. metropolitan areas
+          Buffalo, New York
+          Rochester, New York
+    Survival
+      Tips for surviving a blizzard
+    Lake-effect Snow
+      Causes
+        Frigid air over Great Lakes
+        Moisture absorption
+      Effects
+        Heavy snowfall on leeward side

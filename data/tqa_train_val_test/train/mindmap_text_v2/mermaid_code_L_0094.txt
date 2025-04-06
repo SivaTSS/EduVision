@@ -1,0 +1,62 @@
+mindmap
+  Air Quality
+    Photochemical Smog
+      Definition
+      Causes
+        Auto exhaust
+        Oil refinery emissions
+        Sunshine
+      Effects
+        Ozone
+        Over Los Angeles
+    Clean Air Act
+      Purpose
+      Regulated Pollutants
+        Ozone
+        Particulate Matter
+        Sulfur Dioxide
+        Nitrogen Dioxide
+        Carbon Monoxide
+        Lead
+        Other Pollutants
+          Benzene
+          Perchloroethylene
+          Methylene Chloride
+          Dioxin
+          Asbestos
+          Toluene
+          Cadmium
+          Mercury
+          Chromium
+      Impact
+        Cleaner air
+        Improved visibility
+        Industrial smog reduction
+    Air Pollution History
+      Early Causes
+        Wood burning
+        Fossil fuels
+      Industrial Revolution
+    Geographic Factors
+      Wind effects
+      Mountain ranges
+      Inversions
+      Pollution transport
+    California Air Quality
+      Contributing Factors
+        Mountain ranges
+        Arid conditions
+        Agriculture
+        Industry
+        Vehicle density
+      Smoggiest Cities
+        Los Angeles area
+        Visalia-Porterville
+        Bakersfield-Delano
+        Fresno-Madera
+        Hanford-Corcoran
+        Sacramento area
+        Houston area
+        Dallas-Fort Worth
+        Washington D.C. area
+        El Centro

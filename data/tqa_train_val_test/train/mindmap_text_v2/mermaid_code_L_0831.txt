@@ -1,0 +1,38 @@
+mindmap
+  Chemical Formula
+    Analogy
+      Chemical symbol to element
+      Chemical formula to compound
+    Compounds
+      Represented by chemical formulas
+      Elements represented by chemical symbols
+      Ratios represented by subscripts
+    Examples
+      Sodium sulfide
+        Chemical formula: Na2S
+        Ratio: 1 Na+ to 2 S2-
+      Sulfur dioxide
+        Chemical formula: SO2
+        Ratio: 1 S to 2 O
+      Water
+        Chemical formula: H2O
+        Ratio: 2 H to 1 O
+      N2O5
+        Ratio: 2 N to 5 O
+    Types of Compounds
+      Ionic Compounds
+        Positive metal ions and negative nonmetal ions
+        Example: Sodium chloride
+          Chemical formula: NaCl
+          Ratio: 1 Na+ to 1 Cl-
+        Example: Calcium iodide
+          Chemical formula: CaI2
+          Ratio: 1 Ca2+ to 2 I-
+      Covalent Compounds
+        Nonmetals joined by covalent bonds
+        Example: Hydrogen peroxide
+          Chemical formula: H2O2
+          Ratio: 2 H to 2 O
+        Example: Carbon dioxide
+          Chemical formula: CO2
+          Ratio: 1 C to 2 O

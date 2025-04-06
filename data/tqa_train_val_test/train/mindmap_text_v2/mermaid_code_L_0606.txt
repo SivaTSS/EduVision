@@ -1,0 +1,27 @@
+mindmap
+  Mollusks
+    Definition
+      Invertebrates
+      Phylum Mollusca
+    Examples
+      Clams
+      Mussels
+      Snails
+    Characteristics
+      Head with tentacles
+      Muscular foot
+      Radula
+      Mantle
+      Complete digestive tract
+      Gills
+    Relationship to Other Organisms
+      Related to segmented worms
+      Similar early development stages
+      Shared organ system features
+      Differences in body segmentation
+    Adaptations
+      Shells for protection
+      Foot for movement
+      Variations in radula
+      Nautilus foot adaptation
+      Squid body plan advantages

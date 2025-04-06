@@ -1,0 +1,22 @@
+mindmap
+  Enzymes as Catalysts
+    Definition
+      Enzymes are catalysts in living things
+      Speed up biochemical reactions
+    Importance
+      Necessary for life
+      Reduce activation energy
+    Mechanism
+      Lock-and-key model
+        Substrates fit into active site
+      Induced fit theory
+    Characteristics
+      Highly specific
+      Not changed in reactions
+      Efficient with minimal waste
+    Examples
+      Amylase
+      Pepsin
+    Factors Affecting Enzyme Activity
+      Temperature
+      pH

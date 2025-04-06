@@ -1,0 +1,24 @@
+mindmap
+  Ferromagnetic Material
+    Magnetism
+      Definition
+      Ability to be attracted by a magnet
+      Acts as a magnet
+    Atoms as Tiny Magnets
+      Movement of electrons
+      North and south poles
+    Magnetic Domains
+      Regions of aligned atoms
+      Importance in magnetization
+    Ferromagnetic Materials
+      Unique properties
+      Examples
+        Iron
+        Cobalt
+        Nickel
+    Permanent Magnets
+      Creation from iron nail
+      Process of magnetization
+    Natural Permanent Magnets
+      Magnetite
+      Historical significance

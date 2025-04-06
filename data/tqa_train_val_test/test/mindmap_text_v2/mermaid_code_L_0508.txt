@@ -1,0 +1,41 @@
+mindmap
+  Ecosystems
+    Definition
+      Ecosystem
+      Biotic Factors
+        Living Organisms
+        Populations
+        Species
+      Abiotic Factors
+        Nonliving Factors
+        Examples
+          Temperature
+          Water
+          Soil
+          Air
+    Energy Flow
+      Source
+        Sunlight
+        Photosynthesis
+      Producers
+        Plants
+      Consumers
+        Herbivores
+        Carnivores
+    Nutrient Recycling
+      Biogeochemical Cycles
+        Carbon
+        Nitrogen
+      Water Recycling
+    Roles in Ecosystem
+      Scavengers
+        Energy Source
+        Benefits
+      Decomposers
+    Ecosystem Examples
+      Rainforest
+      Savanna
+      Tundra
+      Desert
+      Great Barrier Reef
+      Greater Yellowstone Ecosystem

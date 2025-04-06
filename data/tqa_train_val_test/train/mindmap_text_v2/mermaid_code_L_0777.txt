@@ -1,0 +1,46 @@
+mindmap
+  Element Groups
+    Unknown Element
+      Soft Solid
+      Reacts with Water
+    Group 1
+      Hydrogen
+      Alkali Metals
+        Highly Reactive
+        Soft
+        Low Density
+    Group 2
+      Alkaline Earth Metals
+        Very Reactive
+        Silvery Grey
+        Harder than Alkali Metals
+    Groups 3-12
+      Transition Metals
+        Less Reactive
+        Shiny
+        High Melting Points
+        Lanthanides
+        Actinides
+          Radioactive
+    Groups 13-16
+      Group 13
+        Boron Group
+          Contains Boron
+      Group 14
+        Carbon Group
+          Contains Carbon
+      Group 15
+        Nitrogen Group
+          Contains Nitrogen
+      Group 16
+        Oxygen Group
+          Contains Oxygen
+    Group 17
+      Halogens
+        Highly Reactive Nonmetals
+        React with Alkali Metals
+    Group 18
+      Noble Gases
+        Colorless
+        Odorless
+        Least Reactive

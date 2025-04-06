@@ -1,0 +1,19 @@
+mindmap
+  Longitudinal Wave
+    Definition
+      Type: Mechanical Wave
+      Medium: Travels through matter
+    Characteristics
+      Particle Vibration: Parallel to wave direction
+      Compressions: Particles crowd together
+      Rarefactions: Particles spread apart
+    Visual Representation
+      Sketch: Longitudinal Wave in a Spring
+      Sections
+        Rarefaction: Left side
+        Compression: Right side
+        Direction of Wave: Middle
+    P Waves
+      Cause: Earthquakes
+      Motion: Travels through underground rocks
+      Compressions and Rarefactions: Closest and farthest vertical lines

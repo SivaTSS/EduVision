@@ -1,0 +1,45 @@
+mindmap
+  Air Pollution
+    Types of Pollutants
+      Primary Pollutants
+        Carbon Oxides
+          Carbon Monoxide
+          Carbon Dioxide
+        Nitrogen Oxides
+          Nitrogen Oxide
+          Nitrogen Dioxide
+        Sulfur Oxides
+          Sulfur Dioxide
+          Sulfur Trioxide
+        Particulates
+        Lead
+        Volatile Organic Compounds
+          Methane
+          Chlorofluorocarbons
+          Dioxin
+      Secondary Pollutants
+        Ozone
+    Sources of Air Pollution
+      Vehicle Emissions
+      Industrial Emissions
+      Natural Sources
+        Volcanic Ash
+        Dust
+    Effects of Air Pollution
+      Health Risks
+        Asthma
+        Heart Disease
+        Cancer
+      Environmental Impact
+        Acid Rain
+        Greenhouse Effect
+    Photochemical Smog
+      Formation Process
+        Car Exhaust
+        Sunlight Reaction
+      Components
+        Nitrogen Oxides
+        Ozone
+    Solutions to Reduce Pollution
+      Personal Actions
+      Policy Changes

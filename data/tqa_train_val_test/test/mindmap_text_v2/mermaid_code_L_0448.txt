@@ -1,0 +1,34 @@
+mindmap
+  Animal-like Protists
+    Definition
+      Protozoa
+        Single-celled eukaryotes
+        Heterotrophs
+        Traits shared with animals
+    Taxonomy
+      Five Kingdom System
+        Proposed by Whittaker
+      Kingdom Protista
+        Emergence and classification
+    Groups of Protozoa
+      Flagellates
+        Long flagella
+        Example: Trypanosoma
+      Ciliates
+        Move using cilia
+        Example: Paramecium
+      Sporozoans
+        Produce spores
+        Example: Toxoplasma
+      Pseudopodia
+        Temporary feet-like structures
+        Example: Amoeba
+    Movement
+      Flagella
+      Cilia
+      Pseudopodia
+      Non-motile
+    Characteristics
+      Size
+        0.01 - 0.5 mm
+      Disease-causing

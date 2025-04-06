@@ -1,0 +1,44 @@
+mindmap
+  Moon
+    Definition
+      Natural satellite of Earth
+      Orbits due to gravity
+    Distance
+      3,476 km in diameter
+      One-fourth the size of Earth
+    Orbit and Rotation
+      Completes orbit every 27.3 days
+      Rotates once every 27.3 days
+      Same side always faces Earth
+    Surface Features
+      Maria
+        Dark basalt areas
+        Cover 16% of surface
+      Terrae
+        Light highlands
+        Formed from ancient magma ocean
+      Craters
+        Caused by meteorite impacts
+        Coldest temperatures in permanently shaded areas
+    Internal Structure
+      Crust
+        60 km thick on near side
+        100 km thick on far side
+      Mantle
+        Composed of olivine and orthopyroxene
+      Core
+        Small, mostly iron with sulfur and nickel
+    Water Presence
+      Ice found in cold craters
+      Bound in lunar soil
+    Unique Characteristics
+      No atmosphere
+      Extreme temperature variations
+      No evidence of life
+    Historical Significance
+      First person on the Moon
+      Galileo's discoveries
+    Eclipses
+      Definition of eclipse
+      Lunar eclipse
+      Total solar eclipse

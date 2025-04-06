@@ -1,0 +1,25 @@
+mindmap
+  Weather Prediction
+    Monitoring Weather
+      Scientists monitor weather above Earth
+      Remote Sensing
+        Definition
+        Water Vapor Sensing
+    GIFTS
+      Stands for
+      Function
+      Advantages over Weather Balloons
+      Data Collection
+    Numerical Weather Prediction
+      Definition
+      Process
+        Data Input
+        Supercomputers
+        Mathematical Models
+      Forecasting
+        Accuracy
+        Limitations
+        Future Projections
+    Hurricane Predictions
+      Path Prediction Challenges
+      Forecasting Capabilities

@@ -1,0 +1,25 @@
+mindmap
+  Respiratory System
+    Inspiration and Expiration
+      Muscle Control
+        Diaphragm
+    Organs
+      Lungs
+      Pharynx
+      Larynx
+        Voice Box
+      Trachea
+        Leads to Bronchi
+      Bronchi
+        Branch into Bronchioles
+    Function of Organs
+      Air Movement
+      Filtering and Moistening
+        Nose and Nasal Cavity
+      Sound Production
+        Larynx
+      Gas Exchange
+        Alveoli
+    Structure Relationship
+      Bronchi to Bronchioles
+      Smaller Spaces in Lungs

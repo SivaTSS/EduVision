@@ -1,0 +1,28 @@
+mindmap
+  Chromosomal Disorders
+    Down Syndrome
+      Inheritance
+      Extra Chromosome
+      Fetal Screening
+    Rare Chromosome Disorders
+      Shared Characteristics
+      Clinical Geneticist
+      Karyotype
+      Genetic Material
+    Chromosomal Disorder Definition
+      Causes of Down Syndrome
+      Timing of Chromosomal Defects
+      Embryo Survival
+    Changes in Chromosome Number
+      Extra Chromosome Disorders
+      Damaged Chromosomes
+    Examples of Disorders
+      Down Syndrome
+        Trisomy 21
+        Mental and Physical Effects
+      Klinefelter Syndrome
+        XXY Genotype
+        Learning Difficulties
+      Cri du Chat Syndrome
+        Missing Chromosome 5
+        Facial Features

@@ -1,0 +1,26 @@
+mindmap
+  Peripheral Nervous System
+    Parts
+      Sensory Division
+        Role
+          Carries messages from sense organs and internal organs to CNS
+        Sensory Neurons
+          Receive stimuli from environment
+          Send messages to the brain
+      Motor Division
+        Role
+          Carries messages from CNS to internal organs and muscles
+        Somatic Nervous System
+          Controls voluntary movements
+          Example: Waving hand, playing violin
+        Autonomic Nervous System
+          Controls involuntary functions
+          Sympathetic Division
+            Prepares body for fight or flight
+            Increases heart rate, blood flow
+          Parasympathetic Division
+            Prepares body for rest and digest
+            Controls digestion, heartbeat, breathing
+    Functions
+      Connects CNS to the rest of the body
+      Includes nerves outside the brain and spinal cord

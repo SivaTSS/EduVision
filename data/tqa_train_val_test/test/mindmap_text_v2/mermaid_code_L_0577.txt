@@ -1,0 +1,44 @@
+mindmap
+  Ecology
+    Definition
+      Study of interactions
+      Living organisms and environment
+    Factors
+      Abiotic
+        Non-living components
+        Examples
+          Sunlight
+          Climate
+          Soil
+          Water
+          Air
+      Biotic
+        Living components
+        Examples
+          Plants
+          Animals
+          Bacteria
+          Fungi
+          Protists
+    Research Methods
+      Field Studies
+        Data collection in natural settings
+        Example: Insect study in rainforest
+      Laboratory Studies
+        Controlled environment analysis
+        Data analysis from field studies
+    Biomes
+      Definition
+        Large communities of plants and animals
+      Examples
+        Arctic
+        Tropics
+        Desert
+        Atacama Desert
+    Ecological Interactions
+      Energy acquisition
+        Plants: Photosynthesis
+        Animals: Consume other organisms
+      Interactions between biotic and abiotic factors
+        Example: Animals breathe oxygen
+        Example: Plants absorb carbon dioxide

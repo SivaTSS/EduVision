@@ -1,0 +1,35 @@
+mindmap
+  Ocean Zones
+    Benthic Zones
+      Common Characteristics
+      Subzones
+        Shallow
+        Deep
+    Pelagic Zones
+      Definition
+      Subzones
+        Shallow
+        Deep
+    Neritic Zone
+      Productivity
+      Density of Life
+      Nutrient Levels
+    Epipelagic Zone
+      Productivity
+    Organism Movement
+      Reasons for Zone Transition
+    Nutrient Sources
+      Deep Ocean
+    Littoral Zone
+      Uniqueness
+      Condition Variations
+    Life at Ocean Bottom
+      Challenges
+    Zone Comparisons
+      Intertidal Zone
+      Neritic Zone
+      Oceanic Zone
+    Photic and Aphotic Zones
+      Distinction
+      Light Penetration
+      Photosynthesis Dependency

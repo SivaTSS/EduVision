@@ -1,0 +1,31 @@
+mindmap
+  Tropisms
+    Definition
+      Growth toward or away from a stimulus
+    Types
+      Phototropism
+        Stimulus: Light
+        Response: Leaves and stems grow toward light
+      Gravitropism
+        Stimulus: Gravity
+        Response: Roots grow downward, shoots grow upward
+      Thigmotropism
+        Stimulus: Touch
+        Response: Tendrils twist around objects
+    Mechanism
+      Auxins
+        Hormones that cause directional growth
+        Move to one side of the stem
+        Cause rapid cell growth on one side
+        Result in bending of the plant
+    Experiments
+      Phototropism Signal
+        Occurs in growing tip of plant
+      Signal Migration
+        Moves up and down, not across
+      Agar Block Experiment
+        Demonstrated substance responsible for response
+    Importance
+      Adaptation to environment
+      Maximizing light for photosynthesis
+      Roots obtaining water and nutrients

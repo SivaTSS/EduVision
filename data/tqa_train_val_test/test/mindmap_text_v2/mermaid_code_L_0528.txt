@@ -1,0 +1,26 @@
+mindmap
+  Fungi Classification
+    The Fungi Kingdom
+      Identified Fungi
+      Characteristics of Chytrid Fungi
+      Examples of Basidiomycetes
+      Defining Characteristic of Ascomycetes
+      Similarities and Differences of Fungi
+    Ascomycete Fungi
+      Habitats
+      Fruiting Body Size
+      Presence in Marine Environments
+      Species Distinction Characteristics
+    Comparison with Plants
+      Commonalities with Plants
+      Differences from Plants
+      Similarities with Animals
+    Characteristics of Fungi
+      Cell Walls Made of Chitin
+      Types of Fungi
+        Molds
+          Examples: Penicillium
+        Mushrooms
+          Examples: Morels, Shiitake, Cremini, Oyster
+        Single-celled Yeasts
+          Example: Baker's Yeast

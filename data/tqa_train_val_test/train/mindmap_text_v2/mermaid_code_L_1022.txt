@@ -1,0 +1,25 @@
+mindmap
+  Screw
+    Definition
+      Simple machine
+      Inclined plane wrapped around cylinder
+    Uses
+      Move objects to greater depth or height
+      Hold things together
+        Example: wood pieces
+        Example: bottle cap
+    Mechanical Advantage
+      Always greater than 1
+      Output force greater than input force
+      Ratio of output to input force
+    Examples
+      Wood screw
+      Bottle cap
+      Other examples not mentioned
+    Thread Characteristics
+      Closer threads
+        Greater mechanical advantage
+        Easier to turn
+      Widely spaced threads
+        Harder to turn
+        More force needed

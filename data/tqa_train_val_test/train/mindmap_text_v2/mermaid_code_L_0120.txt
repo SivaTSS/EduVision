@@ -1,0 +1,28 @@
+mindmap
+  Coriolis Effect
+    Land Movement
+      Faster Land
+        Equator
+        Poles
+      Slowest Land
+    Ball Throwing
+      Equator to North Pole
+      Equator to South Pole
+    Winds Without Rotation
+      Straight Movement
+    Airplane Curvature
+      East to West in Northern Hemisphere
+      South to North in Southern Hemisphere
+    Freely Moving Objects
+      Appearance of Curvature
+      Importance of Coriolis
+    Earth Rotation
+      Steering Winds
+      Surface Ocean Currents
+      Right in Northern Hemisphere
+      Left in Southern Hemisphere
+    Circular Patterns
+      Wind and Currents
+      Hemisphere Dependence
+    Demonstration
+      Metal Ball and Rotating Plate

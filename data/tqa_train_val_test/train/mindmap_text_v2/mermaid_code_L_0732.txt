@@ -1,0 +1,29 @@
+mindmap
+  Work and Power
+    Definition of Work
+      Use of force to move an object
+      Calculated as Force x Distance
+      SI unit: Joule (J)
+    Definition of Power
+      Measure of work done in a given time
+      Calculated as Work / Time
+      SI unit: Watt (W)
+    Relationship between Work and Power
+      Power = Work / Time
+      More powerful devices do more work in less time
+    Examples of Work
+      Jana lifting a weight
+      Pieter passing a book
+      Electric mixer doing work
+    Everyday vs Physics Definition
+      Physics: Force must be in the direction of movement
+      Example: Tennis player vs student studying
+    Machines and Work
+      Examples: Tractors, leaf blowers
+      Commonality: Help perform work
+    Problem Solving
+      Calculating work from force and distance
+      Calculating power from work and time
+    Horsepower
+      1 horsepower = 745 watts
+      Comparison to steam engines

@@ -1,0 +1,36 @@
+mindmap
+  radioactive_decay
+    definition
+      unstable_nuclei
+      emission_of_particles_and_energy
+      nuclear_reaction
+    types_of_decay
+      alpha_decay
+        emission_of_alpha_particle
+        example: uranium-238_to_thorium-234
+      beta_decay
+        emission_of_beta_particle
+        example: thorium-234_to_protactinium-234
+      gamma_decay
+        emission_of_gamma_rays
+    half_life
+      definition
+      measurement
+      examples
+        carbon-14
+        uranium-238
+        potassium-40
+    radioactive_dating
+      method
+      carbon-14_dating
+        formation_in_atmosphere
+        decay_process
+        limitations
+    comparison
+      alpha_vs_beta_vs_gamma
+        penetration_ability
+        travel_distance
+        emitted_particles
+    applications
+      estimating_ages_of_fossils
+      estimating_ages_of_rocks

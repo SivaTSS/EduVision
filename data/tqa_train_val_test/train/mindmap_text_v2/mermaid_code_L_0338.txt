@@ -1,0 +1,27 @@
+mindmap
+  Fossilization Types
+    Mold Fossils
+      Definition: Depression left in the shape of the material
+    Cast Fossils
+      Definition: Rocky material that fills the mold
+    Trace Fossils
+      Definition: Evidence of organism activity
+    True Form Fossils
+      Definition: Original material preserved
+    Preservation Methods
+      Unaltered Preservation
+        Example: Insects in amber
+        Example: Mammoths in ice
+      Permineralization
+        Definition: Minerals replace organic material
+        Examples: Dinosaur bones, petrified wood
+    Fossil Formation Processes
+      Compression
+        Definition: High pressure leaves dark imprint
+        Common in: Leaves and ferns
+      Mineral Replacement
+        Definition: Original material replaced by minerals
+        Example: Calcite shells replaced by quartz
+    Reasons for Few Soft Part Fossils
+      Explanation: Soft parts decay quickly
+      Exceptions: Insects in amber, animals in ice

@@ -1,0 +1,19 @@
+mindmap
+  atomic forces
+    electromagnetic force
+      attraction between electrons and protons
+      repulsion between protons
+      force-carrying particles: photons
+      charged particles: electrons (-1), protons (+1)
+    strong nuclear force
+      holds nucleus together
+      attraction between quarks
+      force-carrying particles: gluons
+      overcomes electromagnetic repulsion
+      limits on stable nuclei
+    weak nuclear force
+      changes subatomic particles
+      force-carrying particles: W and Z bosons
+      operates within the nucleus
+      weaker than strong and electromagnetic forces
+      alters element identity

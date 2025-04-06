@@ -1,0 +1,20 @@
+mindmap
+  Elements
+    What is an element
+      Definition: Pure substance that cannot be separated
+      Naturally occurring elements: 92 known
+    Properties of elements
+      Unique properties: Different for each element
+      Examples: Iron (solid, magnetic), Neon (gas, red glow)
+    Historical context
+      Aristotle's theory: Four elements (earth, air, water, fire)
+      Shift to modern understanding: Discovery of many elements
+    Atoms and elements
+      Definition of atom: Smallest particle with properties of element
+      Similarity of atoms: Atoms of an element are alike
+      Example: Carbon atoms (6 protons, 6 electrons)
+    Common elements
+      Most common in universe: Hydrogen
+      Most common in Earth's atmosphere: Nitrogen
+      Most common in Earth's crust: Oxygen
+      Most common in living things: Carbon

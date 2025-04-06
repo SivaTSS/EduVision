@@ -1,0 +1,44 @@
+mindmap
+  Dwarf Planets
+    Characteristics
+      Must orbit a star
+      Must be nearly spherical
+      Must not have cleared orbit of smaller objects
+      Must not be a moon
+    Dwarf Planets in Solar System
+      Pluto
+        Composition
+          Icy and rocky
+          Diameter: 2,400 km
+        Moons
+          Charon
+          Nix
+          Hydra
+        Orbit
+          Tilted and elliptical
+          Sometimes crosses Neptune's orbit
+      Eris
+        Largest known dwarf planet
+        27% more mass than Pluto
+        Discovered in 2003
+        Moon: Dysnomia
+      Haumea
+        Recognized as a dwarf planet in 2008
+      Makemake
+        Diameter: 1,300 to 1,900 km
+        Composition: methane, ethane, nitrogen ices
+        Orbits the Sun in 310 years
+      Ceres
+        Closest dwarf planet to the Sun
+        Largest object in the asteroid belt
+        Composition: rocky
+    Controversy
+      Pluto's reclassification
+        From planet to dwarf planet in 2006
+        IAU's refined definition of a planet
+      Public opinion
+        Some still consider Pluto a planet
+        Concerns about other planets losing status
+    Exploration
+      Ongoing discoveries in the outer solar system
+      Potential for more dwarf planets

@@ -1,0 +1,44 @@
+mindmap
+  Echinoderms and Invertebrate Chordates
+    Echinoderms
+      Definition
+        Ocean-dwelling invertebrates
+        Phylum Echinodermata
+      Traits
+        Spiny endoskeleton
+        Radial symmetry
+        Tube feet with suckers
+      Reproduction
+        Asexual and sexual reproduction
+        Fertilization occurs in water
+        Larvae have bilateral symmetry
+      Examples
+        Sea stars
+        Sand dollars
+        Sea urchins
+        Sea cucumbers
+    Chordates
+      Definition
+        Animals in Phylum Chordata
+      Traits
+        Notochord
+        Post-anal tail
+        Hollow dorsal nerve cord
+        Pharyngeal slits
+      Invertebrate Chordates
+        Tunicates
+          Characteristics
+            Lose traits by adulthood
+            Filter feeders
+            Reproduce sexually and asexually
+        Lancelets
+          Characteristics
+            Retain all traits as adults
+            Filter feeders
+            Reproduce sexually
+    Comparison
+      Echinoderms vs Chordates
+        Echinoderms are invertebrates
+        Chordates include vertebrates and invertebrates
+      Tunicates vs Lancelets
+        Tunicates lose traits; Lancelets retain traits

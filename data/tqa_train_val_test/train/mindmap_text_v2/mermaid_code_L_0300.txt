@@ -1,0 +1,38 @@
+mindmap
+  Seafloor Spreading Hypothesis
+    Evidence
+      Magnetic Stripes
+        Pattern of magnetic polarity
+        Symmetrical about mid-ocean ridges
+      Seafloor Topography
+        Flat-topped mountains (guyots)
+        Deep sea trenches
+    Key Contributors
+      Harry Hess
+        Geology professor and naval officer
+        Discovered guyots and trenches
+        Proposed seafloor spreading
+      Bruce Heezen
+        Discovered Great Global Rift
+      Vine and Matthews
+        Identified bands of magnetic polarity
+    Concepts
+      Mantle Convection
+        Idea of Holmes
+      Continental Drift
+        Idea of Wegener
+    Mechanism
+      Magma at mid-ocean ridges
+        Hot magma rises
+        Lava cools and forms new crust
+      Oceanic Crust Movement
+        Spreads away from ridge
+        Pushes continents apart
+        Subduction at trenches
+    Geological Implications
+      Age of Seafloor
+        Oldest crust at trenches
+        Youngest crust at ridges
+      Guyots
+        Eroded volcanoes
+        Moved deeper as seafloor spreads

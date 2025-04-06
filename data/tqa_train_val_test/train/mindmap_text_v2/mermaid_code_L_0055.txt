@@ -1,0 +1,46 @@
+mindmap
+  Sun
+    Characteristics
+      Star
+      Center of solar system
+      99.8% of solar system mass
+      Mostly hydrogen and helium
+      Plasma state
+    Layers
+      Inner layers
+        Core
+          Plasma
+          15 million degrees Celsius
+          Nuclear fusion
+        Radiative zone
+          4 million degrees Celsius
+          Slow energy transfer
+        Convection zone
+          Hot material rises and cools
+      Outer layers
+        Photosphere
+          Visible surface
+          6000 degrees Celsius
+        Chromosphere
+          2000 km thick
+          4000 to 10,000 degrees Celsius
+        Corona
+          Outermost layer
+          1 to 3 million K
+    Energy
+      Source
+        Nuclear fusion in core
+      Movement
+        Energy radiates outward
+    Surface Features
+      Sunspots
+        Cooler, darker areas
+        11 year cycle
+      Solar flares
+        Violent explosions
+        Release high energy particles
+      Solar prominences
+        Glowing arches of plasma
+    Solar Wind
+      Dangerous to human life
+      Protection from solar wind

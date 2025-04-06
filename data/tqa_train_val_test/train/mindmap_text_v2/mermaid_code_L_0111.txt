@@ -1,0 +1,40 @@
+mindmap
+  Climate Zones and Biomes
+    Biome Definition
+      Relation to Climate Zone
+      Plants and Animals
+    Climate Classification
+      Koppen System
+        Major Climate Groups
+        Subcategories
+          Forest
+          Monsoon
+          Wet/Dry Types
+    Major Climate Zones
+      Tropical Moist
+        Location
+        Temperature
+        Rainfall
+        Vegetation
+      Dry Climates
+        Characteristics
+        Location
+        Vegetation
+      Moist Subtropical Mid-Latitude
+        Location
+        Temperature
+        Rainfall
+      Continental Climates
+        Location
+        Temperature
+        Precipitation
+      Polar Climates
+        Location
+        Temperature
+        Precipitation
+    Microclimates
+      Definition
+      Factors Influencing Microclimates
+        Valley Effects
+        Mountain Slope Differences
+        Altitude Effects

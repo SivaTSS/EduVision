@@ -1,0 +1,23 @@
+mindmap
+  Mid-Latitude Cyclones
+    Center
+      Low Pressure Cell
+    Air Masses
+      Warm Air
+      Cold Air
+    Characteristics
+      Mature Cyclone
+      Heaviest Precipitation
+    Formation
+      Polar Front
+      Temperature Difference
+    Noreasters
+      Origin
+      Frequency
+    Cyclone Definition
+      Wind Rotation
+      Counter-Clockwise Motion
+    Air Motion
+      Rising Air
+      Cooling
+      Precipitation

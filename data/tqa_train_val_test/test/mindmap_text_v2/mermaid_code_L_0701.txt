@@ -1,0 +1,23 @@
+mindmap
+  Archaea
+    Types
+      Halophiles
+        Habitat: Salty environments
+        Examples: Great Salt Lake, Dead Sea
+      Thermophiles
+        Habitat: Extremely hot environments
+        Examples: Hot springs, geysers, near volcanoes
+        Temperature: Thrive near 100C
+      Methanogens
+        Habitat: Swamps, guts of cows and termites
+        Role: Help break down cellulose
+        Relationship: Mutualistic with cows
+    Characteristics
+      Cell Wall: Different from bacteria
+      Phospholipids: Allow survival in harsh environments
+    Common Environments
+      Soil
+      Ocean plankton
+    Discovery
+      First found in extreme environments
+      Increasing research on roles in common environments
