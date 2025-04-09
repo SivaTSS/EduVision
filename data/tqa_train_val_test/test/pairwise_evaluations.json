@@ -1,0 +1,1892 @@
+[
+  {
+    "filename": "mermaid_code_L_0799.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0799.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0799.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, with distinct sections for definition, demonstration, applications, explanation, and related gas laws, which enhances logical flow and detail compared to Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0807.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0807.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0807.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the application sections, which enhance understanding of Bernoulli's Law."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0353.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0353.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0353.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the sections on high and low pressure and fronts, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0620.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0620.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0620.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer title, which provides context, and its better organization with distinct sections like 'Definition' and 'Importance' that enhance clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0381.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0381.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0381.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in detailing learning methods and providing specific examples. It presents a more comprehensive view of animal behavior, enhancing clarity and detail."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0508.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0508.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0508.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of components, particularly in the definitions and interactions within ecosystems, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0895.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0895.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0895.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides clearer definitions and examples, enhancing detail and logical flow, while Output A is less specific and organized."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0372.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0372.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0372.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of arthropod characteristics and life cycles, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0978.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0978.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0978.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definitions and explanations, better organization of applications, and more detailed descriptions of concepts, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0001.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0001.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0001.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, inclusion of a specific experiment example that enhances detail, and better logical flow in explaining the differences between theories and hypotheses."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0450.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0450.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0450.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, more detailed breakdown of characteristics and subgroups, and better logical flow in presenting information about arachnids."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1046.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1046.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1046.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, more detailed breakdown of roles and skills, and better logical flow in presenting information about technology careers."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0686.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0686.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0686.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer and more detailed explanation of parasitism, including specific effects on the host, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0524.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0524.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0524.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, providing a clearer structure with specific examples and a comprehensive breakdown of components, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1018.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1018.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1018.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the comparison section, which distinctly separates scientific and everyday language. It also provides more detailed examples and maintains a consistent structure throughout."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0416.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0416.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0416.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and additional detail regarding soil formation in primary succession, enhancing the overall understanding of the topic."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0575.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0575.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0575.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a structured overview of insect reproduction and life cycles. It effectively categorizes information, making it easier to follow, while Output B lacks the same level of detail and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0706.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0706.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0706.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting a structured hierarchy that effectively categorizes information about vascular seedless plants, while Output B lacks coherence and detail in its sections."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0380.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0380.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0380.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, presenting information in a more structured manner. It includes additional details such as 'Grasping Ability' and 'Opposable Thumbs' under traits, enhancing the depth of information."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0430.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0430.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0430.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, more detailed explanations of key concepts, and better logical flow, particularly in the sections on inheritance patterns and environmental influence."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0974.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0974.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0974.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in detailing the effects on divers and the risks associated with rapid ascent, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0463.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0463.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0463.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the detailed breakdown of parental care and egg development, which enhances understanding. Output B, while detailed, lacks the same level of clarity in the structure of reproductive behavior and nesting strategies."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0564.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0564.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0564.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct categories and subcategories that enhance understanding. It provides more detailed information on pearl formation and risks, making it more comprehensive."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0411.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0411.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0411.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations of community interactions, particularly in the competition and symbiosis sections, which enhance understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0193.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0193.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0193.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections that effectively categorize information about Cenozoic life. It provides a more structured approach to the topics, making it easier to follow and understand compared to Output B, which has a less coherent arrangement and mixes topics without clear delineation."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0703.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0703.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0703.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, more detailed features, and logical flow, making it easier to understand the distinctions between the types of mollusks."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0461.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0461.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0461.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, providing clear subfields and a case study that enhances logical flow and understanding of the relationship between basic and applied research."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0102.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0102.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0102.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A provides more detailed descriptions for each branch, enhancing clarity and depth. It also maintains a consistent structure that aids in logical flow and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0363.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0363.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0363.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of safety rules and protocols, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0452.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0452.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0452.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing detailed subcategories and examples that enhance understanding of arthropods, while Output B lacks the same level of detail and structure."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0164.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0164.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0164.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer phrasing and more detailed explanations, particularly in the sections on environmental changes and extinction as a normal part of Earth's history, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1043.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1043.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1043.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, comprehensive detail on examples, and logical flow that effectively outlines the entire technological design process."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0918.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0918.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0918.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure and more detailed descriptions, which enhance understanding. The use of full phrases instead of underscores in Output A improves clarity and readability, while the logical flow of historical progression is well maintained."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0376.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0376.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0376.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of amphibians, including specific traits and stages of development, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0339.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0339.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0339.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its better organization and inclusion of Marine Mammals, which adds detail. It also maintains clarity and logical flow, making it easier to follow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0448.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0448.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0448.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting information in a structured manner that enhances understanding. It maintains a consistent format and provides detailed examples, making it easier to follow compared to Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0685.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0685.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0685.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a comprehensive structure with detailed stages and factors affecting succession, while Output B lacks some detail in the stages of succession and has less clarity in the organization of human impact."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0447.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0447.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0447.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of examples under specific types of communication, which enhances logical flow. It provides more detailed examples of animal communication, making it easier to understand the concepts presented."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0673.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0673.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0673.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for each topic and subtopic, making it easier to follow. It also provides more detail in the 'Seasonal Detection' section by including 'Day Length Sensing' and 'Photoperiodism' as separate subtopics."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0445.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0445.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0445.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure and more detailed explanations of each component, enhancing understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0438.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0438.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0438.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of categories, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0558.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0558.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0558.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, detailed breakdown of categories, and logical flow that effectively separates and elaborates on the various aspects of arthropods, making it easier to understand."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0826.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0826.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0826.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and organization, providing a clearer structure with distinct sections for definition, key concepts, historical context, applications, and related gas laws, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0604.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0604.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0604.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and logical flow, providing a clearer structure with detailed subcategories that enhance understanding of complex concepts in modern genetics."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0696.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0696.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0696.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct subcategories that enhance understanding of the evolution topic. It provides a more structured approach to the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1013.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1013.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1013.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definitions, better organization of examples, and more detailed explanations of concepts, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0245.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0245.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0245.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in how it groups related concepts and provides a more comprehensive view of adaptations and their impacts on biodiversity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0296.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0296.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0296.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in detailing the consequences of dishonesty and the importance of replication, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0388.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0388.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0388.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of guidelines and components, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0429.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0429.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0429.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, providing a clearer structure with specific examples and ratios that enhance logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0503.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0503.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0503.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer and more concise descriptions, particularly in the adaptations sections, which enhance understanding. The logical flow is maintained effectively, and the details are well-organized, making it easier to follow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0632.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0632.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0632.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting characteristics and examples in a consistent format. It maintains a straightforward structure that enhances clarity, while Output B introduces additional details that may disrupt the flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0574.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0574.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0574.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, providing a clearer structure with distinct categories and examples, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0707.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0707.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0707.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its greater clarity and detail, providing specific examples and definitions that enhance understanding. It is well-organized with distinct sections that logically flow from general characteristics to specific classes and evolutionary aspects."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0644.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0644.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0644.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of primate types and their characteristics, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0636.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0636.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0636.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in how it groups adaptations and highlights differences from green algae, making it easier to understand the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0701.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0701.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0701.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, more detailed descriptions, and logical flow, making it easier to understand the information about Archaea."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0152.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0152.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0152.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing more detailed subcategories under each pollutant type, which enhances understanding of the specific effects of air pollution."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0528.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0528.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0528.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for characteristics, types, and comparisons, making it easier to follow. It also provides more detailed examples and specific distinctions, enhancing overall clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0352.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0352.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0352.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and organization, particularly in the 'Characteristics' and 'Air Masses' sections, which provide a clearer understanding of the topic."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0486.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0486.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0486.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more structured approach to the topic of healthy eating. It includes detailed subcategories that enhance understanding, while Output B lacks some detail and has less clarity in its organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0565.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0565.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0565.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of the importance of algae and protists, including specific examples and subcategories that enhance understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0290.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0290.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0290.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of concepts, providing definitions and examples for both biotic and abiotic factors, and a more structured approach to levels of organization, enhancing logical flow and detail."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0567.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0567.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0567.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of categories, including a dedicated section for 'Importance' which adds depth and context. It also maintains a logical flow that enhances understanding of the significance and uses of seedless plants."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0631.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0631.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0631.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of plant characteristics, adaptations, and comparisons with other organisms, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0573.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0573.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0573.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definitions, more detailed examples, and better logical flow in presenting information, making it easier to understand the concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0566.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0566.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0566.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct categories and subcategories that enhance understanding. It provides more detail in each section, making it easier to follow the connections between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0650.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0650.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0650.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting information in a more structured manner. It effectively groups related concepts under distinct categories, making it easier to follow. Additionally, it includes a historical context section that adds depth, which is less emphasized in Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0671.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0671.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0671.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of concepts, including definitions, development, and characteristics, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0922.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0922.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0922.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, more detailed examples, and better logical flow, particularly in the testing section which explicitly states the testability and falsifiability of each hypothesis."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0660.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0660.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0660.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its greater detail, including specific examples and clarifications that enhance clarity and understanding. The organization is also slightly better, with clear distinctions between concepts and subpoints, leading to improved logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0535.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0535.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0535.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the way it separates concepts related to habitat and niche, while also providing a focused section on conservation. Output B, while detailed, lacks the same level of clarity and organization, making it harder to follow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0466.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0466.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0466.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the sections on hypertension and factors affecting blood pressure, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0657.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0657.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0657.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of the life cycle and reproductive processes of ferns and seedless plants, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0747.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0747.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0747.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its enhanced clarity and detail, particularly in the definition and examples sections. It provides a more comprehensive view of the relationship between technology and society, and the logical flow is slightly better organized, making it easier to follow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0699.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0699.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0699.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, providing specific stimuli and responses for each type of tropism, which enhances understanding. It also includes an 'Importance' section that adds valuable detail, making it more comprehensive than Output A."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0254.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0254.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0254.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in the 'Experiments' section where it distinctly separates 'Conditions' and 'Variables', enhancing understanding. Additionally, the use of 'Measuring Phenomena' in the 'Observations' section adds detail that improves clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0561.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0561.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0561.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections that effectively categorize information about Echinoderms. It provides a more comprehensive view of their importance, ecological roles, and research applications, making it easier to understand compared to Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0443.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0443.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0443.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing more detailed subcategories under each main topic, which enhances understanding of the subject matter."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0687.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0687.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0687.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer structure, as it includes definitions and specific functions that enhance understanding. The organization is more logical, with distinct sections that provide a comprehensive overview of each relationship, while Output B lacks some definitions and clarity in its phrasing."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0361.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0361.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0361.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for each step of the scientific method and a focused breakdown of the ACE Gene Study. It provides a more structured approach, making it easier to follow and understand."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0909.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0909.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0909.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer headings and more detailed explanations, particularly in the 'Behavior of gas particles' section, which enhances understanding. The organization is slightly better, with a logical flow that connects concepts more effectively."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1075.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1075.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1075.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of topics, more detailed breakdown of contributions, and better logical flow in presenting both historical context and notable scientists."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0536.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0536.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0536.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, providing a clearer structure with specific examples and consequences, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0446.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0446.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0446.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for definitions, purposes, types of behaviors, and examples. It provides more detailed explanations and maintains a consistent structure, making it easier to follow compared to Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0674.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0674.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0674.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for seed characteristics, mechanisms of dispersal, types of fruits, and benefits, making it easier to follow. Output B, while detailed, lacks the same level of clarity and organization, particularly in the categorization of fruits."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0200.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0200.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0200.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and organization, providing a comprehensive breakdown of hurricane characteristics, formation, and damage, which enhances clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0634.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0634.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0634.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides more detail by including the number of species for each classification, enhancing clarity and depth of information, while maintaining good organization and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0534.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0534.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0534.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its better organization and additional details, particularly in the Ginkgoes and Gnetophytes sections, which enhance clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0026.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0026.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0026.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides more detailed definitions and explanations, enhancing clarity and understanding. It is better organized with clear distinctions between concepts and their characteristics, leading to a more logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0149.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0149.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0149.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the separation of examples and characteristics. It provides more detailed explanations for regional variations and maintains a consistent structure throughout."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0700.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0700.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0700.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of topics, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0373.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0373.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0373.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, inclusion of a comparison section that enhances logical flow, and more detailed explanations of reproduction and definitions."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0598.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0598.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0598.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer organization and logical flow, providing distinct sections for definitions, examples, and results, which enhances understanding. Output B, while detailed, lacks the same level of clarity and structured progression."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0658.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0658.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0658.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer organization and logical flow, presenting distinct categories and examples in a structured manner, making it easier to follow and understand the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0795.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0795.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0795.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A provides a more comprehensive overview of air pressure changes, including specific details about pressure at different altitudes, which enhances clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0600.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0600.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0600.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of information, with distinct sections for definitions, factors, examples, and outcomes, enhancing logical flow. It also provides a more detailed explanation of the outcomes of microevolution and includes a section on species definition, which adds depth."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0633.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0633.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0633.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, with distinct sections for hormones, growth regulation, plant responses, and importance, which enhances logical flow and detail compared to Output B's more fragmented structure."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0900.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0900.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0900.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of methodologies and examples, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0368.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0368.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0368.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer chronological organization of major events, which enhances logical flow. It also provides more specific details, such as exact timeframes for evolutionary milestones and modern examples, improving clarity and depth."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0770.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0770.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0770.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations of gas laws, including real-life examples that enhance understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0577.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0577.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0577.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its better organization and logical flow, covering a wider range of topics in ecology, including levels of study and fields of ecology, which adds detail and clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0595.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0595.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0595.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the historical context and causes of extinction, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0973.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0973.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0973.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and additional detail, particularly in the examples provided, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0100.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0100.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0100.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of concepts, providing distinct sections for definitions and components, which enhances clarity and logical flow. It also offers more detailed explanations of key concepts, making it more informative overall."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0491.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0491.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0491.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and additional detail in the 'Examples' section, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0839.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0839.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0839.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, more detailed points, and better logical flow. It uses consistent capitalization and provides a more comprehensive view of the topic."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0560.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0560.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0560.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail in listing specific examples under each category, which enhances clarity and logical flow. Output B lacks some specific examples and has less organization in the 'Island Ecology' section."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0168.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0168.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0168.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of concepts, particularly in the nutrient dynamics section, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0359.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0359.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0359.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, particularly in distinguishing between scientific theories and laws, and it includes a relevant case study that adds detail and enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0672.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0672.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0672.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, presenting concepts in a more structured manner. It also includes more detail in the sections, particularly regarding the importance of peer review and skepticism in science, enhancing overall clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0005.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0005.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0005.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior clarity and organization, providing detailed explanations for each concept, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0029.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0029.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0029.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct subcategories that enhance understanding of climate causes. It provides a more structured approach to the topic, while Output B, although detailed, lacks the same level of clarity and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0668.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0668.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0668.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the categorization of hazards and safety guidelines, which are more detailed and specific compared to Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0617.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0617.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0617.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and logical flow, particularly in the descriptions of the gametophyte and sporophyte stages for mosses, which enhances clarity and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1006.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1006.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1006.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides clearer definitions and explanations, enhancing understanding. It is better organized with detailed points that logically flow, making the information more accessible."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0325.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0325.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0325.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure, more detailed explanations, and better logical flow, particularly in defining concepts and providing context for each section."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0983.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0983.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0983.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization of the preparation section, which distinguishes between minimum education and advanced degrees, enhancing clarity and detail."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0360.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0360.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0360.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the definitions and examples provided, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0412.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0412.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0412.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and more detailed explanations, particularly in the sections on energy sources and habitat definitions, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0961.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0961.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0961.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in the section on advancements, which provides a more coherent narrative and context for each example."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0497.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0497.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0497.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of topics, particularly in the characteristics and appendages sections, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0746.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0746.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0746.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting a comprehensive structure that effectively categorizes topics related to measuring in science. It provides a more detailed breakdown of each category, enhancing clarity and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0526.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0526.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0526.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer descriptions, better organization of information, and more detailed explanations, particularly in the habitat and behavior sections, which enhance logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0684.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0684.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0684.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definitions and examples, better organization of information, and improved logical flow, making it easier to understand the concepts of structural evidence for evolution."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0593.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0593.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0593.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing detailed classifications and characteristics of major mammal groups, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0588.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0588.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0588.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and more detailed descriptions, particularly in the characteristics of lizards and differences between snakes and legless lizards, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0366.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0366.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0366.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, particularly in the categorization of plant responses and adaptations. It provides a more structured approach to the topics, making it easier to follow and understand."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0669.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0669.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0669.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a comprehensive overview of salamanders with distinct categories and subcategories, making it easier to understand the relationships between different aspects."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0492.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0492.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0492.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides clearer definitions and examples, better organization of concepts, and more detail regarding resource types, enhancing logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0690.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0690.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0690.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of components, characteristics, and examples, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0745.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0745.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0745.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a comprehensive structure that covers all aspects of scientific investigation in a systematic manner. It includes detailed subcategories that enhance understanding, while Output B, although informative, lacks the same level of organization and detail."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0414.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0414.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0414.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its superior organization and detail, including additional concepts like food webs and trophic levels, which enhance clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0195.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0195.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0195.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections for major topics and subtopics, making it easier to follow. It also provides more detail on key concepts and events, enhancing overall clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0364.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0364.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0364.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and detail, particularly in the Plant Organs section, where it provides clearer distinctions between functions and types. The logical flow is also more coherent, making it easier to follow the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0713.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0713.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0713.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in the 'Branches' section where it breaks down concepts more explicitly. It also includes the importance of physical science training, adding valuable detail."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1017.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1017.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1017.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and more detailed explanations, particularly in the example section, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0219.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0219.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0219.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to slightly better clarity in the description of Santa Ana Winds, where 'wildfire risks' is more precise than 'fire risk'. This enhances the overall detail and logical flow of the mind map."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0529.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0529.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0529.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its better organization and detail, particularly in the inclusion of 'Factors Influencing Reproduction' and additional information about spores, which enhances clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0527.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0527.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0527.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed exploration of topics, including specific hunting techniques and the role of fungi in ecosystems, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0622.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0622.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0622.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, more detailed definitions and examples, and better logical flow in presenting the concepts of speciation and selection."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0093.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0093.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0093.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B provides clearer definitions and detailed explanations for each category, enhancing understanding. It is better organized with a logical flow that connects concepts effectively."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0563.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0563.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0563.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of topics, which enhances logical flow and understanding of the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0239.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0239.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0239.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure, more detailed explanations, and better logical flow, making it easier to understand the concepts related to mid-latitude cyclones."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0666.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0666.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0666.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A provides more detail and organization, covering specific aspects like tadpoles' role in cleaning waterways and various research applications, which enhances clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0101.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0101.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0101.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer organization and logical flow, providing a comprehensive overview of blizzards with distinct sections that enhance understanding. It includes detailed categories and subcategories, making it easier to follow compared to Output B, which has less clarity in its structure."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1014.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1014.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1014.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and clarity. It provides a more detailed breakdown of comparisons and applications, enhancing logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0298.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0298.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0298.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and logical flow, particularly in distinguishing between characteristics of scientific questions and providing examples. It also maintains a consistent structure in the steps of the scientific method, enhancing clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0711.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0711.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0711.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and organization, providing a comprehensive overview of biomes with clear subcategories and examples, enhancing clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0378.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0378.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0378.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, more detailed descriptions, and better logical flow, particularly in the sections on species diversity and generalists vs specialists."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0013.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0013.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0013.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed exploration of each topic, including specific examples and a comprehensive timeline of life forms."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0689.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0689.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0689.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of information, with distinct sections for definitions, factors, types, and biodiversity, allowing for better logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1044.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1044.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1044.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization, with distinct sections for historical examples and technological devices, providing a more logical flow. It also includes more detail in the historical examples, enhancing clarity and depth."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0354.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0354.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0354.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure and more detailed explanations, particularly in the comparison section, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0555.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0555.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0555.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of topics, particularly in the section on human vision characteristics and the evolution of vision in primates, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0520.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0520.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0520.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of subspecialties within biology, providing specific focuses for each area, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0487.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0487.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0487.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct categories and subcategories that enhance understanding. It provides more detail in the subphyla section, which aids in comprehensiveness."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0556.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0556.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0556.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct subcategories under each primate type, making it easier to follow. It also provides more detailed descriptions, particularly in the areas of social behavior and dietary differences."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0462.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0462.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0462.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and more detailed explanations, particularly in the sections on producers, consumers, and decomposers, which enhance understanding of the topic."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0653.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0653.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0653.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization, inclusion of an example cross and practice problem, which enhance detail and logical flow, making it more comprehensive than Output A."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1011.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1011.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1011.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definitions, additional details about the variables, and better logical flow with the inclusion of experimental controls, enhancing overall understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0562.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0562.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0562.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior clarity and organization, providing detailed subcategories and logical flow that enhance understanding of the importance of insects."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0160.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0160.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0160.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer organization and logical flow, as it groups related concepts under broader categories, making it easier to understand the relationships between evolution, plate tectonics, and climate change."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0585.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0585.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0585.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of characteristics and components, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0194.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0194.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0194.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred for its clearer organization and logical flow, providing more detailed subcategories under each main topic, which enhances understanding of the Mesozoic era."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0379.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0379.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0379.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its greater detail, including additional traits such as 'Complex Brain' and 'Specialized Ears', which enhance clarity and depth. The organization remains consistent with Output A, and the logical flow is maintained throughout both outputs."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0498.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0498.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0498.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure and more detailed explanations, particularly in the examples and definitions provided, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0275.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0275.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0275.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of topics, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0988.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0988.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0988.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the 'Fluid Pressure' section where it includes a specific SI unit and a calculation example. Output B lacks some detail and has slight inconsistencies in terminology."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0365.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0365.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0365.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer language, better organization of concepts, and more detailed explanations of adaptations and reproductive structures, which enhance logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0420.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0420.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0420.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its enhanced detail in the 'Current situation' and 'Chief Causes' sections, providing clearer explanations of the causes of extinction and their implications, which improves clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0357.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0357.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0357.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more comprehensive overview of wind power topics without introducing unrelated elements like 'Wind Turbine Height' and 'Current Trends' which dilute focus in Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0024.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0024.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0024.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of local and global winds, their characteristics, and effects, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0444.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0444.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0444.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of concepts, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0431.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0431.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0431.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of genetic disorders and their types, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0496.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0496.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0496.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a structured breakdown of insect control methods and types of pests, which enhances understanding. It also includes more detailed subcategories and specific examples, making it more informative."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0276.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0276.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0276.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections that effectively break down complex concepts. It provides a more comprehensive view of atmospheric pressure and density, including detailed explanations and relevant examples."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1008.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1008.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1008.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct categories and subcategories that enhance understanding. It provides a more structured approach to lab safety, making it easier to follow compared to Output B, which lacks some clarity and detail in its organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0332.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0332.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0332.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of each category, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0670.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0670.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0670.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the sections on experimentation and communication, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0814.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0814.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0814.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer definition, detailed examples, and better organization of related concepts, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0126.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0126.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0126.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred for its clearer organization and logical flow, presenting concepts in a more structured manner. It effectively distinguishes between theories, laws, and hypotheses while maintaining detail and clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0377.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0377.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0377.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more structured overview of reptile characteristics, adaptations, and classifications. It presents detailed traits and roles in ecosystems more effectively than Output B."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0597.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0597.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0597.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of Mendel's concepts, including specific examples and explanations that enhance understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0576.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0576.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0576.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of insect characteristics, body structure, and social behavior, which enhances logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0559.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0559.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0559.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting a comprehensive view of biodiversity with distinct sections that enhance understanding. It provides more detailed subpoints under each category, making it easier to grasp the connections between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0382.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0382.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0382.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its greater detail, particularly in the examples provided for social animals and reproductive behaviors, which enhance clarity and understanding. The organization is also slightly better, with clear subcategories under each main topic, contributing to a more logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0367.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0367.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0367.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization of categories and subcategories, which enhances logical flow. It provides a more detailed breakdown of traits and life cycle stages, making it easier to understand the relationships between concepts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0495.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0495.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0495.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and additional detail, particularly in the examples provided for each type of consumer, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0730.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0730.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0730.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the applications of Pascal's and Bernoulli's laws, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0651.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0651.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0651.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its clearer organization and additional details, such as the purpose of endocytosis and the specific mechanisms of feeding methods, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0605.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0605.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0605.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct categories and subcategories that enhance understanding. It provides more detailed explanations in certain areas, such as genetic analysis advances and the relationship determination in molecular clocks, which contribute to a more comprehensive overview."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0032.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0032.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0032.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer structure and more detailed explanations, particularly in the Energy Flow and Food Chains sections, which enhance logical flow and understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0028.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0028.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0028.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its superior organization and logical flow, providing a more detailed breakdown of topics related to weather forecasting, including specific methods and instruments, which enhances clarity."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0297.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0297.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0297.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of concepts, which enhances understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0611.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0611.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0611.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, with distinct sections that effectively categorize information. It provides more detailed subcategories and examples, enhancing understanding of the concepts related to natural selection."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0578.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0578.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0578.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its additional detail in the 'Characteristics' and 'Importance' sections, enhancing clarity and providing a more comprehensive understanding of invertebrates."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0712.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0712.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0712.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations, particularly in the section on Scientific Theories vs. Laws, which provides a better distinction between theories and laws."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_1020.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_1020.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_1020.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and clearer organization, providing a more comprehensive overview of the topic with well-defined subcategories and examples."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0554.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0554.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0554.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing a more detailed breakdown of each category, which enhances understanding."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0592.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0592.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0592.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, presenting a structured hierarchy of mammal characteristics without introducing unrelated topics like fossils, which can distract from the main focus."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0027.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0027.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0027.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its enhanced detail, particularly in the classification of tornadoes and hurricanes, and the inclusion of a section on safety measures, which adds to its clarity and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0482.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0482.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0482.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed breakdown of characteristics, behaviors, and differences between centipedes and millipedes, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0182.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0182.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0182.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed explanations of each component, which enhances understanding of the concepts related to global wind belts."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0584.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0584.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0584.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and more detailed examples, which enhance understanding and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0594.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0594.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0594.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred due to its enhanced clarity and detail, particularly in the habitat description and the functions of the placenta. It also provides specific examples for sexual dimorphism, improving logical flow and organization."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0639.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0639.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0639.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its slightly better organization and clarity, particularly in the use of consistent capitalization for examples, which enhances readability and maintains a uniform structure."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0115.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0115.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0115.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its greater detail and organization, particularly in the breakdown of instruments and data collection methods, which enhances clarity and logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0681.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0681.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0681.txt",
+    "evaluation": {
+      "preferred_output": "Output B",
+      "overall_comment": "Output B is preferred for its clarity and organization, providing a more comprehensive overview of social behavior with clear definitions and examples, while also including the importance of communication, which enhances logical flow."
+    }
+  },
+  {
+    "filename": "mermaid_code_L_0464.txt",
+    "mind_map_v1_path": "../data/tqa_train_val_test/test/mindmap_text_v1/mermaid_code_L_0464.txt",
+    "mind_map_v2_path": "../data/tqa_train_val_test/test/mindmap_text_v2/mermaid_code_L_0464.txt",
+    "evaluation": {
+      "preferred_output": "Output A",
+      "overall_comment": "Output A is preferred due to its clearer organization and logical flow, providing more detailed subcategories and specific examples, which enhance understanding of the topic."
+    }
+  }
+]
