@@ -5,3 +5,5 @@ numpy
 matplotlib
 pandas
 manim
+# pip install transformers peft datasets torch trl tqdm
+tensorboard
