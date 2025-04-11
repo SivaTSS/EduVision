@@ -1,0 +1,31 @@
+mindmap
+  Scientific Theory
+    Definition
+      Broad explanation
+      Widely accepted
+      Supported by evidence
+    Differences from everyday language
+      Broad explanation
+      Well-supported
+      Connects phenomena
+    Examples
+      Dalton's Atomic Theory
+      Einstein's Theory of Gravity
+      Kinetic Theory of Matter
+      Wave-Particle Theory of Light
+    Law of Parsimony
+      Simplest theory
+      Fewest assumptions
+      More likely to be correct
+    Importance
+      Connects observations
+      Makes sense of phenomena
+      Withstands test of time
+    Evidence
+      Compounds
+      Fixed proportions
+      Atoms as smallest particles
+    Refinement and Expansion
+      Atoms composed of smaller particles
+      Fixed proportions still apply
+      Continued relevance

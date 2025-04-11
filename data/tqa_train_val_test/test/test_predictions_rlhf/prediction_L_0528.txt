@@ -1,0 +1,39 @@
+mindmap
+  Fungi Kingdom
+    Classification
+      Chytrid Fungi
+        General Characteristics
+          - Aquatic
+          - Small fruiting body
+          - Reproduction by zoospores
+      Basidiomycetes
+        Examples
+          - Mushrooms
+          - Toadstools
+          - Bracket fungi
+      Ascomycetes
+        Habitats
+          - Terrestrial
+          - Marine
+        Characteristics
+          - Fruiting body is an ascocarp
+          - Reproduction by ascospores
+        Distinguishing Species
+          - Morphological features
+          - Genetic analysis
+    Similarities to Plants
+      Cell Walls
+        Made of chitin
+      Habitats
+        Soil
+    Differences from Plants
+      Nutrition
+        Heterotrophs
+      Cell Walls
+        Not made of cellulose
+      Transportation
+        Lack of xylem and phloem
+    Types of Fungi
+      Molds
+      Yeasts
+      Mushrooms

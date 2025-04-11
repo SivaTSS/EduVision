@@ -1,0 +1,29 @@
+mindmap
+  Scientific Method
+    Steps
+      Make Observations
+      Ask Question
+      Form Hypothesis
+      Test Hypothesis
+        Experiment
+          Independent Variable
+          Dependent Variable
+          Controls
+      Analyze Results
+      Communicate Results
+    Definition
+      Scientific Hypothesis: Potential, testable answer to a scientific question
+      Experiment: Controlled scientific test investigating effects of independent variable on dependent variable
+    Application
+      Athletic Ability
+        Variation in Abilities
+        Hypothesis: ACE Gene Affects Response to Training
+        Testing Hypothesis
+          Independent Variable: ACE Gene Version (D or I)
+          Dependent Variable: Muscle Mass or Endurance
+          Controls: Other Factors Affecting Response
+        Results: Increased Muscle Mass or Endurance
+        Replication: Confirming Results by Other Scientists
+    Importance
+      Replication: Ensuring Reliability of Results
+      Communication: Sharing Results with Other Scientists

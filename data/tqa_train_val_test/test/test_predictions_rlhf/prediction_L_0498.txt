@@ -1,0 +1,30 @@
+mindmap
+  Cyclic Behavior of Animals
+    Yearly Cycles
+      Hibernation
+        Definition
+        Examples
+      Migration
+        Definition
+        Examples
+        Distance
+        Triggers
+        Guidance
+    Daily Cycles
+      Circadian Rhythms
+        Definition
+        Control
+      Diurnal vs Nocturnal
+        Definition
+        Examples
+    Resources
+      Red Knot Migration
+      Ocean Life - Vertical Migration
+      Yearly Cycles of Behavior
+      Circadian Rhythms
+      Hibernation
+      Migration
+      Diurnal vs Nocturnal
+      Biological Clock
+      Light Control
+      Satellite Tracking

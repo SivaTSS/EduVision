@@ -1,0 +1,36 @@
+mindmap
+  Air Masses
+    Definition
+      Batch of air with same temp and humidity
+      Forms over stable regions
+    Formation
+      High pressure zones
+      Polar and tropical regions
+    Types
+      Continental (c)
+        Forms over land
+        Dry and cold
+      Maritime (m)
+        Forms over water
+        Moist and warm
+      Polar (P)
+        Forms near poles
+        Cold and dry
+      Tropical (T)
+        Forms near equator
+        Moist and warm
+    Movement
+      Pushed by high-level winds
+      Shares temp and humidity with regions
+    Interaction
+      Storms form when air mass and region have different characteristics
+      Cold air over warm ground causes heating and cloud formation
+      Warm air over cold ground causes cooling and inversion
+    Size
+      Can be 1,600 km across
+      Several kilometers thick
+    Moderation of Temperature
+      Movements moderate temperature
+    Relationship with Storms
+      Form mostly in high pressure areas
+      Storms arise if air mass and region have different characteristics

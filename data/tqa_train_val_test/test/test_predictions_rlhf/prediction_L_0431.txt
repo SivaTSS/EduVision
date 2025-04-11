@@ -1,0 +1,29 @@
+mindmap
+  Genetics
+    Human Genome Project
+      Significance
+      Accomplishments by 2003
+    Genetic Disorders
+      Causes
+        Single Gene Mutations
+        Chromosome Separation Errors
+      Examples
+        Autosomal Recessive Disorders
+        X-Linked Recessive Disorders
+    Biotechnology
+      Definition
+      Methods
+        Polymerase Chain Reaction
+        Gene Cloning
+      Applications
+        Gene Therapy
+        Genetically Modified Food Crops
+        Human Protein Production
+    Ethical Considerations
+      Pros
+      Cons
+        Health Concerns
+        Environmental Impact
+        Monarch Butterfly Larvae Poisoning
+        Labeling of GMO Foods
+        Balancing Benefits and Risks

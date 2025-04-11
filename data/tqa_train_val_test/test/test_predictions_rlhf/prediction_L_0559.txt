@@ -1,0 +1,42 @@
+mindmap
+  Biodiversity
+    Definition
+      Variety of life and its processes
+      Species in a given area
+    Importance
+      Direct benefits to humans
+        Medicines
+        Clothing
+        Shelter
+      Economic impact
+        Products
+        Prescription drugs
+      Ecosystem stability
+        Extinction effects
+        Nutrient cycling
+        Pollination
+    Identification of new species
+      Techniques
+        Genetic analysis
+        Morphological analysis
+    Locations of new species
+      Rainforests
+      Coral reefs
+      Other ecosystems
+    Threats to biodiversity
+      Extinction
+      Habitat loss
+      Pollution
+    Bionics
+      Inspiration for technology
+        Rattlesnake heat-sensing pits
+        Termite mounds
+    Eastgate Centre
+      Inspired by termite mounds
+      Energy efficiency
+    Conclusion
+      Importance of biodiversity
+        Direct benefits
+        Ecosystem stability
+        Bionics
+        Eastgate Centre

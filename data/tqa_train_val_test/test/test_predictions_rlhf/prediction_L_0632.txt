@@ -1,0 +1,41 @@
+mindmap
+  Plant Classification
+    Non-vascular Plants
+      Definition
+      Examples
+        Mosses
+        Liverworts
+        Hornworts
+    Seedless Vascular Plants
+      Definition
+      Examples
+        Ferns
+        Whisk Ferns
+        Club Mosses
+        Horsetails
+    Gymnosperms
+      Definition
+      Examples
+        Redwood
+        Fir
+        Cypress
+    Angiosperms
+      Definition
+      Examples
+        Magnolia Trees
+        Roses
+        Tulips
+        Tomatoes
+    Plant Groups
+      Phyla
+        Number of Phyla
+        Grouping of Phyla
+    Evolution of Plants
+      First Types of Plants
+      Order of Evolution
+        Seeds
+        Vascular Tissue
+        Flowers
+    Location of Non-vascular Plants
+      Habitat
+      Reason for Location

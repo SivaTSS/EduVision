@@ -1,0 +1,53 @@
+mindmap
+  Insects
+    Arthropods
+      Invasion of Land
+        Times
+        Dragonfly Larva Movement
+      Adaptations
+        Class Insecta
+        Key Adaptation
+    Characteristics
+      Segmented Bodies
+        Exoskeleton
+          Cuticle
+        Body Segments
+          Head
+            Antennae
+            Compound Eyes
+            Mouthparts
+          Thorax
+            Legs
+            Wings
+          Abdomen
+            Digestive System
+            Circulatory System
+            Respiration
+    Communication
+      Bioluminescence
+      Sounds
+      Pheromones
+    Social Insects
+      Termites
+      Ants
+      Bees and Wasps
+    Migration
+      Monarch Butterflies
+    Insect Groups
+      Wingless
+        Bristle Tails
+        Silverfish
+      Winged Insects
+        Mayflies
+        Dragonflies and Damselflies
+        Stoneflies
+        Webspinners
+        Angel Insects
+        Earwigs
+        Grasshoppers, Crickets, and Katydids
+        Stick Insects
+        Ice-Crawlers and Gladiators
+        Cockroaches and Termites
+        Mantids
+        Lice
+        Thrips

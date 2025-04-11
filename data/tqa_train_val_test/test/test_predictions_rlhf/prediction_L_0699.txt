@@ -1,0 +1,36 @@
+mindmap
+  Tropisms
+    Definition
+      Growth towards or away from a stimulus
+    Types
+      Phototropism
+        Stimulus: Light
+        Response: Growth towards light
+        Example: Leaves and stems grow towards light
+      Gravitropism
+        Stimulus: Gravity
+        Response: Growth towards or away from gravity
+        Example: Roots grow downwards, shoots grow upwards
+      Thigmotropism
+        Stimulus: Touch
+        Response: Growth towards or away from touch
+        Example: Tendrils twist around poles
+    Auxins
+      Hormone causing tropisms
+      Rapid cell growth on one side of stem
+      Causes bending of plant
+    Phototropic Response
+      Determined by growing tip of plant
+      Migration up and down plant shoot
+      Agar block experiment
+    Experiment
+      Agar block placed in light
+      Plant stem placed on agar block
+      Stem bends towards light
+    Conclusion
+      Auxin causes phototropic response
+      Auxin moves to one side of stem
+      Rapid cell growth on one side of stem
+      Stem bends towards light
+    References
+      URL:

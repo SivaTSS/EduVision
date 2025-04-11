@@ -1,0 +1,43 @@
+mindmap
+  Protist Characteristics
+    Definition
+      Kingdom Protista
+        Unique eukaryotic organisms
+        Not animals, plants, or fungi
+    Classification
+      Animal-like protists
+        Heterotrophs
+        Moveable
+      Plant-like protists
+        Autotrophs
+        Photosynthesize
+      Fungi-like protists
+        Heterotrophs
+        Cell walls
+        Spore reproduction
+    Characteristics
+      Eukaryotic
+        Nucleus
+      Mitochondria
+      Parasitic
+      Aquatic or moist environments
+    Examples
+      Kelp (multicellular)
+      Amoeba (single-celled)
+      Diatoms (single-celled)
+      Paramecium (single-celled)
+    Phototrophs
+      Obtain food through photosynthesis
+      Example: Diatoms
+    Organotrophs
+      Obtain food from other organisms
+      Example: Amoeba
+    Reproduction
+      Not all protists reproduce the same way
+      Some reproduce sexually
+      Some reproduce asexually
+    Environment
+      Most protists prefer aquatic or moist environments
+      Some are parasites
+    Kingdom Protista
+      "Junk

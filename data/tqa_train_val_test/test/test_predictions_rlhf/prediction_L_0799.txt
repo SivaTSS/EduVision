@@ -1,0 +1,24 @@
+mindmap
+  Amontons Law
+    Definition
+      Increasing temperature of a gas while holding its volume constant increases its pressure
+    Explanation
+      Heating gas particles move faster
+        Increases collisions with each other and container
+        Causes greater pressure
+    Demonstration
+      Air pressure in a can
+        Constant volume after heating
+        Lower pressure after cooling
+    Application
+      Friction between tires and road
+        Generates heat
+        Increases tire pressure
+      Amontons Gas Law
+        Relationship between temperature and pressure of a gas
+        First proposed by Guillaume Amontons in the late 1600s
+        One of three commonly known gas laws
+        Explains difference in air pressure in a tire
+          Tire and air inside it get warmer due to friction with the road
+          Volume of air inside the tire is constant
+          Pressure of the air increases when it gets warmer

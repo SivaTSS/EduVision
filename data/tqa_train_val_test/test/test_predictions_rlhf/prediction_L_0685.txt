@@ -1,0 +1,37 @@
+mindmap
+  Ecological Succession
+    Definition
+      Constant replacement of one community by another
+    Types of Succession
+      Primary Succession
+        Occurs in areas with no soil
+        Begins with pioneer species (e.g., lichens)
+        Soil formation through pioneer species
+      Secondary Succession
+        Occurs in established areas disturbed
+        Pioneer species are grasses or shrubs
+        Soil already exists
+    Stages of Succession
+      Early Succession
+        Grasses and shrubs dominate
+        Soil improvement
+      Later Succession
+        Trees begin to grow
+        Forest establishment
+    Climax Communities
+      End result of succession
+      Stable balance of organisms
+      Dependent on climate
+    Sub-Climax Communities
+      Maintained by human activities
+      Example: American Prairie
+    Impact of Human Activities
+      Cattle grazing affecting sagebrush and grasses
+      Fire aiding spread of American Prairie
+    Biomes and Climax Communities
+      Relationship between the two
+      Factors affecting characteristics of climax communities
+    Questions
+      How do climax communities relate to biomes?
+      What factors affect the characteristics of climax communities?
+      How has cattle grazing affected the ecological balance between sagebrush and grass

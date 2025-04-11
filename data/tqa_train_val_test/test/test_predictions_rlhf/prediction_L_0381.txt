@@ -1,0 +1,45 @@
+mindmap
+  Animal Behavior
+    Definition
+      Interaction with environment or other animals
+      Behaviors can be alone or with others
+    Purpose
+      Increase fitness
+        Survival
+        Reproduction
+    Evolution
+      Behaviors controlled by genes
+      Natural selection
+    Innate Behavior
+      Occurs naturally in all animals of a species
+      No practice or learning required
+      Examples
+        Honeybee waggle dance
+        Human baby grasp reflex
+    Learned Behavior
+      Occurs after experience or practice
+      More common in intelligent species
+      Examples
+        Dog sitting on command
+        Human behaviors (making bed, riding bike, using computer)
+    Learning Methods
+      Habituation
+        Getting used to something after repeated exposure
+      Observational Learning
+        Learning by watching and copying others
+      Conditioning
+        Reward or punishment
+      Learning through Play
+        Fun but may have other purposes
+      Insight Learning
+        Learning from past experiences and reasoning
+    Communication
+      Sharing information with other animals
+      Purposes
+        Reproduction
+        Survival
+    Questions
+      1. Why do animals behave in the ways pictured in Figure 15.1?
+      2. What are some ways animals communicate?
+      3. What purposes might communication serve?
+      4. Define animal behavior.

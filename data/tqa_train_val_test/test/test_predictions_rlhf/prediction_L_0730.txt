@@ -1,0 +1,42 @@
+mindmap
+  Pressure of Fluids
+    Definition of Pressure
+      Pressure Equation
+        Force Area
+        SI Unit: Pascal (Pa)
+    Factors Affecting Pressure
+      Depth
+        Increased Pressure with Depth
+        Ocean Pressure vs. Atmospheric Pressure
+      Density
+        Dense Fluids Exert More Pressure
+        Air vs. Water Pressure
+    Pascals Law
+      Explanation
+        Transmission of Pressure
+        Ketchup Example
+      Applications
+        Hydraulic Car Lifts
+        Hydraulic Systems in Airplanes
+    Bernoullis Law
+      Explanation
+        Pressure and Speed Relationship
+      Applications
+        Airplane and Bird Wings
+        Race Car Spoilers
+    Pressure and Everyday Life
+      Floating in Water
+      Air Pressure Uses
+        Sipping through a Straw
+        Breathing
+    Problem Solving
+      Calculating Pressure
+        Force Area Equation
+        Example Problem
+      You Try It!
+        Example Problem
+    References
+      Blaise Pascal
+      Daniel Bernoulli
+      Hydraulic Systems
+      Sailing Physics

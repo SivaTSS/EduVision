@@ -1,0 +1,42 @@
+mindmap
+  Technology
+    Definition
+      Application of knowledge to real-world problems
+      Includes methods, processes, and devices
+    Engineers
+      Professionals in technology
+      Strong background in physical science
+    Technological Design Process
+      1. Research
+      2. Develop possible designs
+      3. Create a model
+      4. Test the model
+    Constraints
+      Laws of nature
+      Properties of materials
+      Cost of production
+      Ethical concerns
+    Evolution of Technology
+      Computers
+        ENIAC (1946)
+        PDP-8 (1968)
+        Macintosh 128K (1984)
+        MacBook Air (2010)
+    Science vs. Technology
+      Goals
+        Science: Increase knowledge
+        Technology: Use knowledge for practical purposes
+      Interdependence
+        Scientific knowledge needed for technology
+        Technology used to further science
+    Impact of Technology on Society
+      Solving real-world problems
+      Making lives easier or healthier
+      Examples
+        Nanotechnology
+        Wood-burning stoves in Darfur
+    Careers in Engineering
+      Variety of careers available
+      URLs for more information
+
+Explanation: The mind map has a single central node labeled "Technology" which is the root of the mind

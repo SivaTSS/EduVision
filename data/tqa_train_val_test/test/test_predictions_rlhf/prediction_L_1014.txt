@@ -1,0 +1,29 @@
+mindmap
+  Scientific Law
+    Definition
+      Statement describing what always happens under certain conditions
+    Examples
+      Newton's Three Laws of Motion
+        First Law
+        Second Law
+        Third Law
+      Law of Conservation of Mass
+      Law of Conservation of Energy
+      Law of Conservation of Momentum
+    Differences from Theories
+      Laws state what always happens
+      Theories answer why questions
+    Relationship with Theories
+      Laws provide basis for theories
+      Theories explain why laws exist
+    Examples of Laws in Action
+      Bumper Cars
+      Hitting a Ball with a Bat
+      Pushing a Swing
+    Predictive Value
+      Allows prediction of future events
+    Limitations
+      Do not explain why things happen
+    Comparison with Human Laws
+      Traffic Laws
+      Other Human-Devised Laws

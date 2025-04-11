@@ -1,0 +1,32 @@
+mindmap
+  Weather versus Climate
+    Weather
+      Definition
+        Change from day to day
+        Directly related to energy
+      Factors
+        Air temperature
+        Air pressure
+        Fog
+        Humidity
+        Cloud cover
+        Precipitation
+        Wind speed and direction
+    Climate
+      Definition
+        Long-term average of weather
+        Predictable
+      Factors
+        Angle of the Sun
+        Cloud cover
+        Air pressure
+        Energy
+        Position relative to factors
+    Relationship between Weather and Climate
+      Weather can change rapidly
+      Climate changes slowly
+      Climate determines weather patterns
+    Importance of Weather and Climate
+      Weather affects daily life
+      Climate affects long-term planning
+      Climate change affects the planet

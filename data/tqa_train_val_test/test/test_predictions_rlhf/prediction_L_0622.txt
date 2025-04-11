@@ -1,0 +1,44 @@
+mindmap
+  Origin of Species
+    Allopatric Speciation
+      Definition
+      Causes of Physical Separation
+        Mountain Range Emergence
+        Canyon Formation
+        New Rivers or Streams
+      Shrimp Speciation Example
+        Determining Species
+    Diatoms: Evolution of a New Species
+      Diatom Definition
+      Stephanodiscus yellowstonensis Location
+      Historical Diatom Analysis Technique
+      Environmental Conditions
+      Climate Change Impact
+    Comparisons
+      Natural Selection vs Artificial Selection
+        Natural Selection Description
+        Artificial Selection Description
+      Reproductive Isolation
+        Definition
+      Allopatric vs Sympatric Speciation
+        Allopatric Speciation Description
+        Sympatric Speciation Description
+    Sympatric Speciation
+      Definition
+      Examples
+        Orca Whales
+        Galapagos Island Finches
+    Speciation Process
+      Natural Selection Role
+      Artificial Selection Role
+      Evolution vs Speciation
+    Reproductive Isolation Mechanisms
+      Geographic Isolation
+      Behavioral Isolation
+    Species Identification
+      Mating Test Method
+    Allopatric Speciation Examples
+      Galapagos Island Finches
+      Grand Canyon Squirrels
+    Sympatric Speciation Examples
+      Orca Wh

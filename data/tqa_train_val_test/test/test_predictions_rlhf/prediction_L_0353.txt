@@ -1,0 +1,9 @@
+mindmap
+  Weather Maps
+    Purpose
+      Graphically depict weather conditions
+      Display multiple features or computer models
+      Human observations
+    Isolines
+      Isotherms: Lines of constant temperature
+      Isobars:

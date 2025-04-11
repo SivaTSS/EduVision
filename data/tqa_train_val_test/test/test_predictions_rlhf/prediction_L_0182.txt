@@ -1,0 +1,40 @@
+mindmap
+  Global Wind Belts
+    Definition
+      Winds blow from high to low pressure
+      Winds at base of atmospheric circulation cells
+    Northern Hemisphere Wind Belts
+      Hadley Cell
+        Air moves northeast to southwest
+        Trade Winds
+      Ferrel Cell
+        Air moves southwest
+        Westerly Winds
+      Polar Cell
+        Air moves northeast
+        Polar Easterlies
+    Southern Hemisphere Wind Belts
+      Similar to Northern Hemisphere
+    Jet Stream
+      Definition
+        Fast-flowing river of air
+        Forms at boundary between troposphere and stratosphere
+      Polar Jet Stream
+        Forms at polar front
+        Most powerful jet stream
+        Moves seasonally
+    Precipitation and Evaporation
+      Precipitation in low pressure regions
+      Evaporation in high pressure regions
+    Polar Front
+      Junction between Ferrell and Polar cells
+      Extreme weather
+    Climate Influence
+      High and low pressure areas determine climate
+      Precipitation and evaporation patterns
+    Questions
+      What would wind do if Earth did not rotate?
+      What happens at the equator?
+      What creates the Trade Winds?
+      What happens to air that sinks at the poles?
+      What are the winds created?

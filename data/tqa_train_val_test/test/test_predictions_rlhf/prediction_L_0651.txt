@@ -1,0 +1,33 @@
+mindmap
+  Protist Nutrition
+    Endocytosis and Exocytosis
+      Function
+        Nutrient Ingestion
+      Types
+        Phagocytosis
+          Wrap around prey
+          Create food vacuole
+          Produce toxins
+        Pinocytosis
+          Absorb nutrients
+        Receptor-Mediated Endocytosis
+          Specific nutrient absorption
+    Plant-Like Protists
+      Algae
+        Photosynthesis
+        Food Source
+    Animal-Like Protists
+      Filter-Feeders
+        Flagellum Whipping
+        Nutrient Acquisition
+      Endocytosis
+        Bacterial Cell Ingestion
+        Food Vacuole
+        Toxin Production
+    Fungi-Like Protists
+      Slime Molds
+        Decomposition
+        Energy Source
+    Parasitic Protists
+      Harm Hosts
+      Nutrient Absorption

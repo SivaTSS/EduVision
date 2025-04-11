@@ -1,0 +1,35 @@
+mindmap
+  Plants
+    Evolution
+      From Green Algae
+        Similarities
+          Cellulose in Cell Walls
+          Shared Chemicals
+        Differences
+          Embryo Retention
+          Cuticle
+          Stomata
+          Vascular Tissue
+    Adaptations
+      Embryo Retention
+        Inside Female Plant
+      Cuticle
+        Seals Water
+        Prevents Water Loss
+      Stomata
+        Small Pores in Leaves
+        Open/Close Depending on Weather
+      Vascular Tissue
+        Xylem
+          Transports Water and Nutrients
+        Phloem
+          Transports Sugars
+    Comparison to Green Algae
+      Similarities
+        Photosynthesis
+        Cell Walls
+      Differences
+        Embryo Retention
+        Cuticle
+        Stomata
+        Vascular Tissue

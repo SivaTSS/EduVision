@@ -1,0 +1,32 @@
+mindmap
+  Reptiles
+    Definition
+      Tetrapods (four-legged)
+      Ectothermic (internal temperature depends on environment)
+    Characteristics
+      Skin covered in scales
+      Advanced eyesight
+      Sense of smell (tongue in snakes)
+      Lungs for breathing
+      Amniotes (embryos surrounded by thin membrane)
+      Reproduction (sexual or asexual)
+      Cloaca (single exit/entrance for sperm, eggs, waste)
+      Amniotic eggs (leathery or hard shell)
+    Orders
+      Squamata (lizards, snakes, amphisbaenids)
+      Crocodilia (crocodiles, gharials, caimans, alligators)
+      Testudines (turtles, tortoises)
+      Sphenodontia (tuatara)
+    Examples
+      Snakes
+      Alligators
+      Crocodiles
+    Distribution
+      Every continent except Antarctica
+    Size Range
+      Jaragua Sphaero (0.6 inches)
+      Saltwater crocodile (up to 23 feet)
+    Misconceptions
+      Birds evolved from dinosaurs
+    Fun Facts
+      Compare food consumption of reptiles, birds,

@@ -1,0 +1,55 @@
+mindmap
+  Plant Hormones
+    Definition
+      Chemical signals controlling plant processes
+    Importance
+      Communication between cells
+      Response to stimuli
+    Types of Hormones
+      Ethylene
+        Fruit ripening
+        Abscission
+      Gibberellins
+        Growth promotion
+        Breaking dormancy
+      Cytokinins
+        Cell division
+        Preventing senescence
+      Abscisic Acid
+        Closing stomata
+        Maintaining dormancy
+      Auxins
+        Involved in growth
+        Apical dominance
+        Tropisms
+    Stimuli Responses
+      Gravity
+      Light
+      Touch
+      Seasonal changes
+    Ethylene
+      Function
+        Fruit ripening
+        Abscission
+      Effects
+        Ripening of fruit
+        Over-ripening
+    Gibberellins
+      Function
+        Growth promotion
+        Breaking dormancy
+      Effects
+        Longer stems
+        Increased growth
+    Cytokinins
+      Function
+        Cell division
+        Preventing senescence
+      Effects
+        Promoting growth
+        Extending life
+    Abscisic Acid
+      Function
+        Closing stomata
+        Maintaining dormancy
+      Effects

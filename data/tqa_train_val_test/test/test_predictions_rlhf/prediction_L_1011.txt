@@ -1,0 +1,29 @@
+mindmap
+  Experiments
+    Definition
+      Controlled scientific study
+      Specific variables
+    Variables
+      Manipulated variable
+        Independent variable
+      Responding variable
+        Dependent variable
+    Control
+      Held constant
+      Influence on outcome
+    Example
+      Speed of object down ramp
+        Manipulated: steepness
+        Responding: speed
+    Experimental Controls
+      Smoothness of ramps
+      Identical blocks
+    Other Variables
+      Block movement
+      Block material
+    Measurement
+      Stopwatch
+      Indirect measurement
+    Prediction
+      Changes in responding variable
+      Manipulated variable change

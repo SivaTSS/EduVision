@@ -1,0 +1,28 @@
+mindmap
+  Nonvascular Plants
+    Definition
+      Lack seeds and vascular tissue
+      Examples: Mosses, Hornworts, Liverworts
+    Characteristics
+      Short in height
+      Lack true roots, stems, and leaves
+      Leafy appearance and stem-like structures
+    Phyla
+      Mosses
+      Hornworts
+      Liverworts
+    Life Cycle
+      Gametophyte stage: Haploid, produces gametes
+      Sporophyte stage: Diploid, forms sporangium and spores
+    Mosses
+      Recognized as green fuzz on damp rocks and trees
+      Tiny stem-like and leaf-like structures
+      Sporophytes form capsules called sporangia
+    Hornworts
+      Named for hornlike sporophytes
+      Gametophytes are flattened lobes
+      Sporophytes rise up from the base
+    Liverworts
+      Two distinct appearances: Leafy or flattened ribbon-like
+      Can resemble a liver
+      Thallose liverworts are flattened and ribbon-like

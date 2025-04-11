@@ -1,0 +1,29 @@
+mindmap
+  Scientific Revolution
+    History of Science
+      Thales: Father of Science
+        Greek Philosophers
+        Natural Causes
+      Empiricism
+        Aristotle
+        Inductive Reasoning
+      Persian Scholars
+        Geber: Father of Chemistry
+      Scientific Method
+        Experimentation
+      Dark Ages
+        Europe
+      Scientific Advances
+        Copernicus: Sun-Centered Solar System
+          Solar System Models
+          Evidence for Sun-Centered Solar System
+        Galileo: Improved Telescope
+          Astronomy Discoveries
+        Kepler: Laws of Planetary Motion
+        Newton: Law of Universal Gravitation
+          Three Laws of Motion
+        Einstein: General Theory of Relativity
+          Matter and Energy
+          Gravity as Property of Space and Time
+          Black Holes
+          Influence on Science

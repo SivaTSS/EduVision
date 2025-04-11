@@ -1,0 +1,27 @@
+mindmap
+  Observation
+    Definition
+      Information gathered with senses
+    Senses
+      Vision
+      Hearing
+      Touch
+      Smell
+      Taste
+    Instruments
+      Microscopes
+      Telescopes
+      Thermometers
+    Importance
+      Raise questions for investigation
+      Gather evidence in investigations
+    Examples
+      Chemical changes
+        Color changes
+        Odor production
+        Gas bubbles
+    Evidence Collection
+      Chemical changes
+        Color changes
+        Heat release
+        Temperature increase

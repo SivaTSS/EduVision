@@ -1,0 +1,61 @@
+mindmap
+  Ecology
+    Science of ecology
+      Biotic factors
+        Examples
+      Abiotic factors
+        Examples
+    Individual
+      Example
+    Population
+      Example
+    Community
+      Example
+    Ecosystem
+      Example
+    Biome
+      Example
+    Biosphere
+      Example
+    Niche
+    Habitat
+    Producers
+      Role
+    Consumers
+      Examples
+        Herbivores
+        Carnivores
+        Omnivores
+    Decomposers
+      Importance
+    Symbiosis
+      Types
+        Mutualism
+        Commensalism
+    Food Energy Production
+      Photosynthesis
+      Chemosynthesis
+    Food Energy Pathway
+    Symbiotic Relationships
+      Competition
+      Symbiosis
+        Mutualism
+        Commensalism
+        Parasitism
+    Ecosystem Types
+      Climate Conditions
+      Organisms Adaptation
+    Ecosystem Roles
+      Producers
+      Consumers
+        Herbivores
+        Carnivores
+        Omnivores
+      Decomposers
+    Feeding Relationships
+      Predator and Prey
+      Scavengers
+      Bacteria and Fungi
+    Species Interactions
+      Competition
+      Symb

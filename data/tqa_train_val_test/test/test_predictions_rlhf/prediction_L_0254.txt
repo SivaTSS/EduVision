@@ -1,0 +1,38 @@
+mindmap
+  Scientific Investigations
+    Data Collection
+      Observations
+        Earth's Surface Observations
+          Satellite Observations
+          Microscopes
+          Telescopes
+      Experiments
+        Controlled Conditions
+        Hypothesis Verification/Falsification
+        Independent Variable
+        Dependent Variable
+        Control Group
+        Experimental Errors
+          Systematic Errors
+          Random Errors
+          Margin of Error
+          Inconsistent Data Points
+    Guidelines
+      Manipulation of Only One Variable
+      Keeping Other Factors Constant
+      Use of Control Group
+      Multiple Measurements and Averaging
+      Correction of Mistakes
+      Throwing Out Inconsistent Data Points
+  Hypothesis Testing
+    Observations vs. Experiments
+      Observations: Simple Measurements or Advanced Technology
+      Experiments: Controlled Conditions and Manipulation of One Variable
+    Circumstances for Each
+      Observations: Practical or Ethical Reasons
+      Experiments: Verification or Falsification of Hypothesis
+  Examples
+    Vitamin D Levels Experiment
+      Control Group
+      Dependent Variable
+      Independent Variable

@@ -1,0 +1,36 @@
+mindmap
+  Learned Behavior of Animals
+    Definition
+      Behavior that occurs only after experience or practice
+      Flexible and adaptable
+    Methods of Learning
+      Habituation
+        Getting used to something after exposure
+        Ignoring things that are not dangerous
+      Observational Learning
+        Learning by watching and copying others
+        Examples: tying shoes, dancing, math problems
+      Conditioning
+        Learning through rewards or punishments
+        Examples: training dogs, bees finding nectar
+      Play
+        Learning through play and games
+        Young animals practicing skills
+      Insight Learning
+        Learning from past experiences and reasoning
+        Making tools to solve problems
+    Examples
+      Octopus Tool Use
+        Opening jars and using tools
+        Demonstrating intelligence and problem-solving skills
+      Crows and Scarecrows
+        Habituation to scarecrows
+        No longer afraid to come close
+    Implications
+      Flexibility of learned behaviors
+      Importance of learning for intelligence
+      Human dependence on learned behaviors
+      Comparison to other intelligent species
+      Koko the Gorilla
+        Learning sign language from Dr. Francine Patterson
+        Demonstrating intelligence and adaptability

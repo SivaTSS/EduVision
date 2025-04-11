@@ -1,0 +1,32 @@
+mindmap
+  Biotechnology in Agriculture
+    Food Web
+      Loons and Arctic Tern
+        Commonality
+      Beluga and Sea Duck
+        Commonality
+      Zooplankton Feeders
+    Food Chain vs Food Web
+      Definition
+      Beginning Organism
+      Herbivore Identification
+    Energy Flow
+      Importance
+      Food Energy Transfer
+      Levels in Food Chain
+    Ecosystem Stability
+      Organism Interactions
+      Food Chain Limitations
+    Food Web Example
+      Ocean Ecosystem
+      Food Chain Expansion
+    Food Web Components
+      Producers
+      Consumers
+      Decomposers
+    Food Web Complexity
+      Multiple Feeding Relationships
+      Species Diversity
+    Food Web Benefits
+      Accurate Energy Flow
+      Hundreds of Relationships

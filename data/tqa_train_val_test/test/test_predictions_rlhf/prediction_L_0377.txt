@@ -1,0 +1,36 @@
+mindmap
+  Reptiles
+    Definition
+      Ectothermic
+      Four-legged vertebrates
+      Produce amniotic eggs
+    Terrestrial Adaptations
+      Scales
+      Tough keratin
+      Efficient lungs
+      Centralized nervous system
+      Good senses of sight and smell
+    Reproduction
+      Sexual reproduction
+      Internal fertilization
+      Oviparous
+      No parental care
+    Classification
+      Four orders: Crocodilia, Sphenodontia, Squamata, Testudines
+    Habitats
+      Aquatic
+      Terrestrial
+    Diet
+      Carnivores
+      Herbivores
+      Omnivores
+    Ecosystem Roles
+      Top predators
+      Lower-level predators
+      Herbivores
+    Examples
+      Loggerhead turtles
+      Crocodiles
+      Lizards
+      Snakes
+      Tuataras

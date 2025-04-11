@@ -1,0 +1,21 @@
+mindmap
+  Molecular Evidence for Evolution
+    Molecular Clocks
+      Determine relationships between species
+      Calculate number of differences between DNA or amino acid sequences
+      Fewer differences = less time since species split
+    Genomes
+      All of the genes in an organism
+      Comparison of genomes provides new information about relationships and evolution
+    Biochemical Building Blocks
+      Same building blocks in all organisms
+      Amino acids and nucleotides
+    DNA and RNA Determine Development
+      Determine development of all organisms
+    Similarities and Differences in Genomes
+      Confirm patterns of evolution
+    Examples
+      Chicken and gorilla have more differences than gorilla and orangutan
+      Whale and horse have more DNA sequences in common than whale and shark
+      Mammal and bird have more differences than mammal and frog
+      Mammal and fish have more differences than mammal and bird

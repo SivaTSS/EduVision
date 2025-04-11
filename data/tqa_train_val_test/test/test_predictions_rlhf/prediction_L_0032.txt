@@ -1,0 +1,49 @@
+mindmap
+  Ecosystems
+    Definition
+      Group of living things and their environment
+      Ecological system
+    Abiotic Factors
+      Air
+      Sunlight
+      Soil
+      Water
+      Minerals
+    Biotic Factors
+      Species
+        Unique type of organism
+        Members can interbreed
+      Population
+        Members of a species living in the same area
+      Community
+        All populations in an ecosystem
+    Producers
+      Make food using energy
+        Photosynthesis
+          Plants and algae
+        Chemosynthesis
+          Microbes
+    Consumers
+      Can't make their own food
+      Types
+        Grazers
+        Predators
+        Scavengers
+        Decomposers
+    Energy Flow
+      Most ecosystems get energy from the Sun
+      Producers convert sunlight to chemical energy
+      Consumers get some energy when they eat producers
+    Food Chains
+      Simple diagram of energy flow
+      Producers at base
+      Primary consumers
+      Secondary consumers
+    Food Webs
+      More complex diagram
+      Overlapping food chains
+    Matter Recycling
+      Nutrients needed for life
+      Carbon and nitrogen examples
+      Decomposers release nutrients
+      Plants absorb nutrients

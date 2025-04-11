@@ -1,0 +1,35 @@
+mindmap
+  Weather Prediction
+    Monitoring Weather Above Earth
+      GIFTS
+        Definition
+        Function
+        Advantages
+    Numerical Weather Prediction
+      Explanation
+      Importance
+      Limitations
+    Remote Sensing
+      Definition
+      Role in Weather Prediction
+    Water Vapor Sensing
+      Method
+      Significance
+    Hurricane Predictions
+      Accuracy
+      Impact
+    Wind Sensing
+      Capabilities
+      Importance
+    Online Weather Prediction
+      Duration
+      Variations
+    Meteorologists' Role
+      Use of Computers
+      Interpretation of Results
+    Climate Predictions
+      Importance
+      Challenges
+    Broadcasting Forecasts
+      Satellites
+      Global Reach

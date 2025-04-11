@@ -1,0 +1,17 @@
+mindmap
+  Charles Law
+    Definition
+      - Scientific law about gases
+      - Increasing temperature increases volume (constant pressure)
+    History
+      - Developed by Jacques Charles and Joseph Gay-Lussac
+      - Based on experiments in the early 1800s
+    Explanation
+      - Heating a gas gives particles more energy
+      - Speedy particles spread out, increasing volume
+    Application
+      - Hot air balloons
+      - Gas expansion in engines
+    Implications
+      - Understanding gas behavior
+      - Predicting gas behavior in various conditions

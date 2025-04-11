@@ -1,0 +1,39 @@
+mindmap
+  Genetics
+    Introduction
+      Rediscovery of Mendel's Laws
+      Molecules of Heredity
+      Genes and Alleles
+    Genotype and Phenotype
+      Definition
+      Relationship
+    Simple Traits
+      Dominance
+      Punnett Squares
+      Genotype and Phenotype Ratios
+    Complex Traits
+      Codominance
+      Incomplete Dominance
+      Multiple Alleles
+      Polygenic Traits
+    Sex-Linked Traits
+      Sex Chromosomes
+      X-Linked Traits
+      Inheritance Pattern
+    Environmental Influence
+      Skin Color
+      Height
+    Sex Determination
+      Sex Chromosomes
+      X and Y Chromosomes
+      Sex-Linked Traits
+    Pedigree Analysis
+      Red-Green Color Blindness
+      Carrier Status
+    Recent Advances in Genetics
+      Human Genes
+      Genetic Engineering
+    Review Questions
+      Concepts
+      Comparison
+      Explanation

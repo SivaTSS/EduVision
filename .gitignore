@@ -19,6 +19,7 @@ data/tqa_train_val_test/train/*
 !data/tqa_train_val_test/train/teaching_images_llava_captions
 !data/tqa_train_val_test/train/pairwise_evaluations.json
 
+
 !data/tqa_train_val_test/test/
 data/tqa_train_val_test/test/*
 !data/tqa_train_val_test/test/mindmap_text_v1/
@@ -28,7 +29,13 @@ data/tqa_train_val_test/test/*
 !data/tqa_train_val_test/test/textbook_images_llava_captions
 !data/tqa_train_val_test/test/teaching_images_llava_captions
 !data/tqa_train_val_test/test/test_predictions
+!data/tqa_train_val_test/test/test_predictions_rlhf
 !data/tqa_train_val_test/test/pairwise_evaluations.json
+!data/tqa_train_val_test/test/llm_judge_evaluation_results_4o.json
+!data/tqa_train_val_test/test/llm_judge_evaluation_results_rlhf_4o.json
+!data/tqa_train_val_test/test/llm_judge_evaluation_results_rlhf.json
+!data/tqa_train_val_test/test/llm_judge_evaluation_results.json
+
 
 *Zone.Identifier
 

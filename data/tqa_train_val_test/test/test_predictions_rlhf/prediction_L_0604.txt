@@ -1,0 +1,38 @@
+mindmap
+  Modern Genetics
+    Genotype
+      Definition
+      Study of alleles
+    Phenotype
+      Definition
+      Observable traits
+    Alleles
+      Definition
+      Variants of genes
+    Genotype vs Phenotype
+      Same genotype, different phenotype
+      Different genotype, same phenotype
+    Mendel's Hereditary Factors
+      Dominant and recessive factors
+      DNA and chromosomes
+    DNA and Genetics
+      DNA structure
+      DNA replication
+    Genetic Material
+      DNA as hereditary factor
+      Chromosomes and genes
+    Mendel's Legacy
+      Foundation of modern genetics
+      Unanswered questions
+    Modern Genetics Applications
+      Rapid DNA analysis
+      Phenotypic plant traits
+    Genetic Engineering
+      Genetic modification
+      Gene therapy
+    Ethical Considerations
+      Genetic testing
+      Genetic privacy
+    Future of Genetics
+      Gene editing
+      Personalized medicine

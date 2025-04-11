@@ -1,0 +1,61 @@
+mindmap
+  Weather Fronts
+    Definition
+      Fronts
+        Types
+          Warm Front
+          Cold Front
+          Stationary Front
+          Occluded Front
+    Formation
+      Air Masses
+        Maritime Tropical
+        Continental Polar
+      Movement
+        Warm Air Mass
+        Cold Air Mass
+    Characteristics
+      Density
+      Mixing
+      Low Pressure Zone
+      Condensation
+      Precipitation
+      Winds
+    Warm Front
+      Description
+        Warm Air Mass
+        Cold Air Mass
+      Cloud Sequence
+        Cirrus
+        Cirrostratus
+        Altocumulus
+        Altostratus
+        Nimbostratus
+        Cumulus
+      Weather
+        Temperature Rise
+        Snow to Sleet
+        Mixing
+        Stratus Clouds
+        Fog
+    Cold Front
+      Description
+        Cold Air Mass
+        Warm Air Mass
+      Cloud Sequence
+        Cirrus
+        Cirrostratus
+        Rain Showers
+        Snow Showers
+        Thunderstorms
+      Weather
+        Cold Air Mass
+        Drier Air
+        Blustery Winds
+        Thunderstorms
+        Tornadoes
+        Heavy Snows
+    Stationary Front
+      Description
+        Air Masses
+        No Movement

@@ -1,0 +1,26 @@
+mindmap
+  Pressure in Fluids
+    Definition
+      Pressure defined
+      Force and area
+      SI unit: Pascal
+    Demonstration
+      Siphon demonstration
+      Questions
+    Explanation
+      Particles in fluids
+      Pressure exerted equally
+      Particles move from high to low pressure
+    Calculation
+      Pressure equation
+      Force and area
+      Example calculation
+    Factors Influencing Pressure
+      Depth of fluid
+      Density of fluid
+    Examples
+      Rock on ground
+      Break-dancer on hand
+      Break-dancer on back
+    Conclusion
+      Importance of pressure in fluids

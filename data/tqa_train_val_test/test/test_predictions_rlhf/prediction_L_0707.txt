@@ -1,0 +1,39 @@
+mindmap
+  Vertebrate Characteristics
+    Definition
+      Animals with a backbone
+      Includes mammals, birds, reptiles, amphibians, and fish
+    Vertebral Column
+      Protects spinal cord
+    Cranium
+      Skull to protect brain
+    Internal Skeleton
+      Supports animal, protects organs, allows movement
+    Head Region
+      Accumulation of sense organs
+    Size Range
+      Carp: 0.3 inches
+      Blue Whale: 110 feet
+    Classification
+      Seven classes of vertebrates
+        Agnatha
+        Chondrichthyes
+        Osteichthyes
+        Amphibia
+        Reptilia
+        Aves
+        Mammalia
+    Agnatha
+      Jawless fishes
+      No jaws or scales
+      Skeletons of hard, rubber-like cartilage
+    Chondrichthyes
+      Cartilaginous fishes
+      Examples: sharks, rays
+    Osteichthyes
+      Bony fishes
+    Amphibia
+      Spend part of life under water, part on land
+      Lungs for breathing on land
+      Skin that does not need to be kept wet
+      Produce watertight (amni

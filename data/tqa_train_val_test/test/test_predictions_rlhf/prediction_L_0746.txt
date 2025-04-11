@@ -1,0 +1,37 @@
+mindmap
+  Science Skills
+    Measuring
+      SI System of Units
+        Length: meter
+        Volume: cubic meter
+        Mass: gram
+      Accuracy and Precision
+        Accuracy: closeness to true value
+        Precision: exactness of measurement
+    Record Keeping
+      Importance
+      Tips
+    Calculations
+      Derived Quantities
+        Area
+        Volume
+      Significant Figures
+        Definition
+        Rounding
+    Scientific Notation
+      Definition
+      Conversion
+    Descriptive Statistics
+      Mean
+      Range
+    Graphs
+      Bar Graphs
+      Circle Graphs
+      Line Graphs
+    Models
+      Definition
+      Importance
+    Safety
+      Hazards
+      Safety Symbols
+      Safety Rules

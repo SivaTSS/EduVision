@@ -1,0 +1,31 @@
+mindmap
+  Gymnosperms
+    Definition
+      Seeds but no fruit
+      Four phyla: Conifers, Cycads, Ginkgoes, Gnetophytes
+    Conifers (Coniferophyta)
+      Characteristics
+        Trees: Pines, Firs, Spruces, Cedars, Coastal Redwoods
+        Reproductive structures in cones
+        Uses: Lumber, Paper, Resins
+    Cycads (Cycadophyta)
+      Characteristics
+        Tropical regions
+        Large, finely-divided leaves
+        Separate female and male plants
+    Ginkgoes (Ginkgophyta)
+      Characteristics
+        Unique: Only species left in phylum
+        "Living fossil"
+        Grown around Buddhist temples
+        Separate female and male plants
+    Gnetophytes (Gnetophyta)
+      Characteristics
+        Small and unusual group
+        Ephedra: Produces ephedrine
+        Welwitschia: Long leaves in southwestern Africa
+    Age of Dinosaurs
+      Dominant plants: Cycads
+      Duration: 65 to 200 million years ago
+    Gymnosperm Examples
+      Conifers: Pine, F

@@ -1,0 +1,32 @@
+mindmap
+  Ecosystem
+    Ecosystem Components
+      Biotic Parts
+        Species
+        Population
+        Community
+        Niche
+      Abiotic Parts
+        Habitat
+        Biotic Factors
+        Abiotic Factors
+    Ecosystem Energy
+      Energy Source
+      Energy Movement
+    Ecosystem Interactions
+      Food Web
+      Nutrient Cycle
+    Ecosystem Size
+      Scale of Ecosystem
+    Ecosystem Functions
+      Energy Flow
+      Nutrient Cycling
+      Biodiversity
+    Ecosystem Dynamics
+      Succession
+      Disturbance
+      Adaptation
+    Ecosystem Management
+      Conservation
+      Sustainability
+      Restoration

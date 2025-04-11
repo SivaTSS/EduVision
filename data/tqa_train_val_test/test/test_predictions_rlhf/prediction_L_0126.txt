@@ -1,0 +1,39 @@
+mindmap
+  Development of Theories
+    Scientific Theory
+      Explanation of complex phenomena
+      Provides why something happens
+      Used to predict future events
+      Strongly supported by evidence
+      No major inconsistencies
+      Constantly tested and revised
+      Simpler model of reality
+      Reliable explanations and predictions
+      Can be revised or discarded
+    Scientific Law
+      Describes something that always happens
+      Under the same set of circumstances
+      Does not explain why it happens
+      May have exceptions
+      Not always applicable
+    Hypothesis, Theory, and Law
+      Hypothesis: tentative explanation
+      Theory: strongly supported explanation
+      Law: always applicable description
+    Importance in Science
+      Hypothesis: initial step in scientific inquiry
+      Theory: foundation of scientific understanding
+      Law: useful for predicting and explaining phenomena
+    Evidence and Testing
+      Evidence supports or refutes a hypothesis
+      No significant evidence to refute = accepted
+      Becomes a theory with strong evidence
+      Continuous testing and revision
+    Relationship Between Theories and Laws
+      Theories provide explanations for laws
+      Laws are part of theories
+      Laws can be exceptions to theories
+    Misconceptions
+      Theory is not a proven fact
+      Law is not always applicable
+      Science does not

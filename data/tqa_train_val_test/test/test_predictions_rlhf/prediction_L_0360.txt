@@ -1,0 +1,39 @@
+mindmap
+  Life Science
+    Definition
+      Study of life and living things
+      Also known as biology
+    Fields
+      Ecology
+        Focus: interactions of organisms with each other and their environment
+      Botany
+        Focus: plants
+      Zoology
+        Focus: animals
+      Microbiology
+        Focus: microorganisms such as bacteria
+      Entomology
+        Focus: insects
+      Cell Biology
+        Focus: cells of living things
+      Physiology
+        Focus: tissues and organs and how they function
+      Genetics
+        Focus: genes, traits, and inheritance
+      Epidemiology
+        Focus: causes of diseases and how they spread
+      Paleontology
+        Focus: fossils and evolution
+    Theories
+      Cell Theory
+        All organisms are made up of one or more cells
+        Cells are the sites where all life processes take place
+        Cells come only from pre-existing cells
+        New cells form when existing cells divide
+      Evolution by Natural Selection
+        Explains how populations of organisms can change over time
+        As environments change, so must the traits of organisms if they are to survive in the new conditions
+        Explains why there are so many different species of organisms on Earth today
+    Basic vs Applied Science
+      Basic Science
+        Aim: to discover new

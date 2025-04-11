@@ -1,0 +1,38 @@
+mindmap
+  Local Winds
+    Causes
+      Differential Heating
+        Land and Sea
+        Altitude
+    Types
+      Sea and Land Breezes
+        Formation
+        Effects
+      Monsoon Winds
+        Cause
+        Effects
+      Mountain and Valley Breezes
+        Formation
+        Effects
+      Katabatic Winds
+        Formation
+        Effects
+      Chinook Winds
+        Formation
+        Effects
+        Rainshadow Effect
+      Santa Ana Winds
+        Formation
+        Effects
+        Fires
+    Consequences
+      Climate Moderation
+      Desert Formation
+      Fire Spread
+    Questions
+      Monsoon Winds
+      Santa Ana Winds
+      Chinook Winds
+      Katabatic Winds
+      Mountain and Valley Breezes
+      Sea and Land Breezes

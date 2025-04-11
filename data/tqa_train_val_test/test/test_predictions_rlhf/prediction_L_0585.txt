@@ -1,0 +1,34 @@
+mindmap
+  Ecological Organization
+    Levels
+      Individual
+        Definition
+        Characteristics
+      Population
+        Definition
+        Differences from Community
+      Community
+        Definition
+        Interactions
+      Ecosystem
+        Definition
+        Interactions with Abiotic Factors
+      Biosphere
+        Definition
+        Role in Ecology
+    Ecosystem Study
+      Small Levels
+      Large Levels
+    Questions
+      Individual Level
+      Population Level
+      Community Level
+      Ecosystem Level
+    Examples
+      Zebra
+        Water Retention
+        Population Growth
+        Species Interactions
+        Fire Effects
+    Resources
+      URL:

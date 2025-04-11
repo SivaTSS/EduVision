@@ -1,0 +1,21 @@
+mindmap
+  Fungi Reproduction
+    Asexual Reproduction
+      Spores
+        Formation
+        Dispersal
+      Budding
+        Process
+        Advantages
+      Fragmentation
+        Process
+        Advantages
+    Sexual Reproduction
+      Zygospore Formation
+        Fusion of Hyphae
+        Formation of Mycelium
+      Mating Types
+        (+) and (-)
+      Advantages
+        Genetic Diversity
+        Adaptation to Environments

@@ -1,0 +1,31 @@
+mindmap
+  Cnidarians
+    Definition
+      Phylum Cnidaria
+      Includes jellyfish, corals, sea anemones
+      Radial symmetry
+      True tissues
+    Body Plans
+      Polyp
+        Cup-shaped body
+        Sea anemone, coral
+      Medusa
+        Bell-shaped body
+        Jellyfish
+    Movement
+      Nematocysts
+        Stinging cells
+        Paralyze prey
+    Reproduction
+      Asexual budding (polyps)
+      Sexual formation of gametes (medusae, some polyps)
+    Colonies
+      Portuguese Man o War
+        Colony of polyps
+        Air-filled polyp for floating
+        Feeding polyps with tentacles
+      Coral Reefs
+        Built from coral polyps
+        Sessile polyps with tentacles
+        Calcium carbonate skeletons
+        Important habitats for ocean life

@@ -1,0 +1,44 @@
+mindmap
+  Echinoderms and Invertebrate Chordates
+    Echinoderms
+      Definition
+        Spiny skin
+        Endoskeleton
+      Characteristics
+        Radial symmetry
+        Tube feet with suckers
+        Internal canals
+      Reproduction
+        Asexual (fission)
+        Sexual (separate sexes)
+    Chordates
+      Definition
+        Phylum Chordata
+        Notochord, post-anal tail, hollow dorsal nerve cord, pharyngeal slits
+      Characteristics
+        Three embryonic cell layers
+        Segmented body
+        Complete coelom
+        Bilateral symmetry
+        Complete digestive system
+        Central nervous system
+        Circulatory system
+    Invertebrate Chordates
+      Tunicates
+        Definition
+          Invertebrate chordates
+          Sea squirts
+        Characteristics
+          Ocean dwellers
+          Shallow water
+          Filter feeders
+          Asexual and sexual reproduction
+      Lancelets
+        Definition
+          Invertebrate chordates
+          Retain all four defining chordate traits
+        Characteristics
+          Similar to tunicates
+          Live in shallow ocean water
+          Filter feeders
+          Sexual reproduction with separate sexes

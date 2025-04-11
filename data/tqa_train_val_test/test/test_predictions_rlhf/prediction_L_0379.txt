@@ -1,0 +1,46 @@
+mindmap
+  Mammals
+    Definition
+      Endothermic vertebrates
+      Four limbs
+      Produce amniotic eggs
+    Traits
+      Fur or hair
+      Mammary glands
+    Behaviors
+      Play
+      Complex behaviors
+    Body Temperature Regulation
+      High metabolism
+      Shivering
+      Insulating hair or fur
+      Layer of fat under skin
+      Sweating or panting
+    Diets
+      Herbivores
+      Carnivores
+      Omnivores
+        Frugivores
+    Reproduction
+      Separate sexes
+      Sexual reproduction
+      Oviparous (monotremes)
+      Viviparous (marsupials, placental mammals)
+    Classification
+      Subclasses
+        Monotreme
+        Marsupial
+        Placental
+      Orders
+        Insectivora
+        Chiroptera
+        Carnivora
+        Rodentia
+        Lagomorpha
+        Artiodactyla
+        Cetacea
+        Primates
+    Human Beings
+      Placental mammal
+      Order Primates
+      Unique traits of this order

@@ -1,0 +1,27 @@
+mindmap
+  Animal Behaviors
+    Definition
+      Any way animals act, alone or with others
+    Purpose
+      Getting food, protecting young, survival
+    Examples
+      Barking, purring, playing (dogs, cats)
+      Insect, bird behaviors
+    Learning
+      Innate behavior
+      Grasping behavior in human babies
+      Crow vending machine
+      Trial and error, observational learning
+      Mirror neurons
+    Cnidarians
+      Anemone swims away from sea star
+    Behaviors for Food
+      Chasing, catching prey
+    Behaviors for Protection
+      Nest building, protecting young
+    Fitness
+      Importance in animal survival
+    Evolution
+      Behaviors that increase fitness
+      Passing genes to next generation
+      Evolution by natural selection

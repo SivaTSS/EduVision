@@ -1,0 +1,26 @@
+mindmap
+  Genetics
+    Definition
+      Study of inheritance
+    Mendel's Experiments
+      Pea plants chosen for study
+        Easily identifiable traits
+        Rapid growth
+        Self-pollination or cross-pollination
+      Results
+        No blending of traits
+        Consistent inheritance patterns
+    Mendel's Contributions
+      Father of Genetics
+      Inheritance patterns for multiple traits
+      Disproved "blend" theory of inheritance
+    Key Terms
+      Inherit
+      Genetics
+      Homozygote
+      Heterozygote
+      Simple Trait
+      F1 Generation
+      F2 Generation
+      Self-Pollination
+      Cross-Pollination

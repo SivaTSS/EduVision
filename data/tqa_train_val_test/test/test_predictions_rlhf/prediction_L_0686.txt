@@ -1,0 +1,25 @@
+mindmap
+  Symbiosis
+    Definition
+      Close and long-term interaction between different species
+      At least one species benefits
+    Types
+      Mutualism
+        Both species benefit
+        Example: Herbivores and intestinal bacteria
+      Commensalism
+        One species benefits, other unaffected
+        Example: Spiders on trees
+      Parasitism
+        Parasitic species benefits, host species harmed
+        Example: Hookworms in humans
+    Examples
+      Clownfish and sea anemone
+        Clownfish protect anemone, anemone protects clownfish
+      Plover bird and African crocodile
+        Plover bird removes food from crocodile's teeth
+      Ostrich and zebra
+        Ostrich moves with zebra herd for protection
+    Benefits
+      Necessary for survival of one or both organisms
+      Mutualistic relationships can be essential for ecosystems

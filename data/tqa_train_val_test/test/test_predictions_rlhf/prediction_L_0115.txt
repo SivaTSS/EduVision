@@ -1,0 +1,59 @@
+mindmap
+  Weather Data Collection
+    Contemporary Forecasting
+      Radiosondes
+        Data Collection
+      Satellites
+        Data Collection
+      Radar
+        Data Collection
+    Other Methods
+      Thermometers
+      Barometers
+      Wind Speed
+      Wind Direction
+      Humidity
+      Precipitation
+    Instruments
+      Thermometers
+        Mercury
+        Coiled Strip
+        Infrared Radiation
+        Electrical Resistance
+      Barometers
+        Water
+        Air
+        Mercury
+      Weather Stations
+        Land
+        Sea
+        Orbit
+    Data Collection Sites
+      World Meteorological Organization
+        Satellites
+        Buoys
+        Aircraft
+        Ships
+        Land-Based Stations
+    Weather Forecasting
+      Atmospheric Characteristics
+        Temperature
+        Pressure
+        Humidity
+        Precipitation
+      Weather Stations
+        Location
+        Characteristics
+      Radiosondes
+        Measurement
+        Communication
+      Radar
+        Radio Detection and Ranging
+        Precipitation Characteristics
+        Doppler Radar
+      Weather Satellites
+        Importance
+        Long-Term Changes
+        Electromagnetic Spectrum
+        Visible Light Images
+        Infr

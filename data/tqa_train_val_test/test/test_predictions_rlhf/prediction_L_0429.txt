@@ -1,0 +1,31 @@
+mindmap
+  Gregor Mendel
+    Monk
+    Austrian
+    Mid-1800s
+    Studied heredity in pea plants
+  Pea Plants
+    Easy to grow
+    Quick growth
+    Many observable traits
+    Two forms of each trait
+    Sexual reproduction
+      Pollination
+      Fertilization
+  Mendel's Experiments
+    One trait at a time
+      Law of Segregation
+    Two traits at a time
+      Law of Independent Assortment
+  Law of Segregation
+    Two factors control each trait
+    Dominant factor hides recessive factor
+    Factors separate in gametes
+  Law of Independent Assortment
+    Factors controlling different traits go to gametes independently
+    F2 plants have all possible combinations of traits
+  Mendel's Legacy
+    Father of Genetics
+    Science of Heredity
+    Discoveries ignored until 1900
+    Modern Genetics based on Mendel's work

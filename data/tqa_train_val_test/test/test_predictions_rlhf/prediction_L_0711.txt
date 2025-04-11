@@ -1,0 +1,31 @@
+mindmap
+  Biomes
+    Definition
+      Area with similar climate
+      Includes similar communities of plants and animals
+    Causes of Differences
+      Climate influences types of plants and animals
+    Examples of Terrestrial Biomes
+      Tropical Rainforests
+        Precipitation: High
+        Temperature: High
+      Deserts
+        Precipitation: Low
+        Temperature: High
+    Influence of Soil Quality
+      Affects plants that migrate into ecosystem
+      Attracts different animals
+    Aquatic Biomes
+      Ponds
+      Lakes
+    Abiotic Factors
+      Rainfall
+      Temperature
+    Biotic Factors
+      Plants
+      Animals
+    Interaction of Abiotic and Biotic Factors
+      Define biome and ecosystem
+    Migration
+      Movement of organisms into or out of population
+      Whole new species moving into habitat

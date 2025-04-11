@@ -1,0 +1,50 @@
+mindmap
+  Climate
+    Definition
+    Latitude Effect
+      Temperature Variation
+      Global Air Currents
+        Wet and Dry Zones
+        Global Winds
+    Ocean Influence
+      Coastal Climate
+        Mild Temperature
+        High Precipitation
+      Inland Climate
+        Extreme Temperature
+        Low Precipitation
+    Mountain Effect
+      Altitude Influence
+        Cooler Temperature
+      Rain Shadow
+        Casting Precipitation
+        Leeward Side Dryness
+    Predicting Climate
+      Factors to Consider
+      Similar Locations Climate
+  Weather
+    Temperature
+    Precipitation
+    Timing
+  Latitude
+    Distance from Equator
+    Degrees Measurement
+  Global Air Currents
+    Prevailing Winds
+    Air Mass Movement
+  Coastal vs Inland Climate
+    Coastal Climate
+      Mild Temperature
+      High Precipitation
+    Inland Climate
+      Extreme Temperature
+      Low Precipitation
+  Ocean Currents
+    Warm or Cold Water
+    Near Shore Impact
+  Mountain Climate
+    Altitude Effect
+      Cooler Temperature
+    Rain Shadow
+      Casting Precipitation
+      Leeward Side Dryness

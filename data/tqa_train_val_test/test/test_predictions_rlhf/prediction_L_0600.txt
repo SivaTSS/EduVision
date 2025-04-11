@@ -1,0 +1,48 @@
+mindmap
+  Evolution
+    Microevolution
+      Definition
+        Small changes over time
+      Examples
+        Mosquitoes resistant to pesticides
+      Characteristics
+        Changes within a species
+        No new species created
+    Macroevolution
+      Definition
+        Large evolutionary changes
+      Examples
+        New species creation
+      Characteristics
+        Repeated microevolution over time
+        Major environmental changes
+    Cambrian Explosion
+      Definition
+        Rapid evolutionary change
+      Timing
+        Occurred 540 million years ago
+      Impact
+        Created new species
+    Species
+      Definition
+        Group of organisms with similar characteristics
+      Identification
+        Ability to mate and produce fertile offspring
+    Population
+      Definition
+        Group of organisms of the same species in the same area
+    Microevolution vs. Macroevolution
+      Differences
+        Microevolution: small changes, no new species
+        Macroevolution: large changes, new species
+      Relationship
+        Microevolution leads to macroevolution over time
+    Phyletic Gradualism
+      Definition
+        Gradual evolutionary change
+    Punctuated Equilibrium
+      Definition
+        Rapid evolutionary change followed by long periods of stability
+    Evolutionary Changes
+      Small vs. Large
+        Both possible

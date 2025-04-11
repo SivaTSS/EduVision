@@ -1,0 +1,29 @@
+mindmap
+  Consumers and Decomposers
+    Consumers
+      Definition
+        Obtain nutrients and energy by eating other organisms
+      Types of Consumers
+        Herbivores
+          Eat producers (plants)
+        Carnivores
+          Eat animals (herbivores or other carnivores)
+        Omnivores
+          Eat both producers and animals
+    Decomposers
+      Definition
+        Break down dead organisms and wastes to get energy
+      Importance
+        Release nutrients back into the environment
+        Stability of ecosystem depends on decomposers
+    Examples of Consumers
+      Caterpillars (herbivores)
+      Hawks (carnivores)
+      Dogs, bears, raccoons (omnivores)
+    Examples of Decomposers
+      Mushrooms on decaying log
+      Bacteria in soil
+    Role of Decomposers in Ecosystem
+      Recycle nutrients back into ecosystem
+      Allow producers to use nutrients
+      Essential for ecosystem stability and survival

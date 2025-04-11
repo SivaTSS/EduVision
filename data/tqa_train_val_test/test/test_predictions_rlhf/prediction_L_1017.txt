@@ -1,0 +1,22 @@
+mindmap
+  Scientific Process
+    Role of Investigation
+      Produces evidence
+      Answers questions
+      Advances science
+    Steps of Scientific Method
+      Ask a question
+      Do background research
+      Construct a hypothesis
+      Test the hypothesis
+        Do an experiment
+      Analyze the data
+        Draw a conclusion
+      Report the results
+    Example: Cody's Investigation
+      Observation: Cereal contains iron
+      Question: Is there enough iron for magnet attraction?
+      Hypothesis: Iron content too low
+      Test: Use strong magnet on cereal flake
+      Conclusion: Hypothesis incorrect
+      Next step: Report results to other scientists

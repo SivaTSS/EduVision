@@ -1,0 +1,35 @@
+mindmap
+  Animals
+    Definition
+      Multicellular eukaryotes
+      Heterotrophic
+    Characteristics
+      Specialized cells
+      Higher levels of organization
+      Internal digestion
+    Life Cycle
+      Diploid organisms
+      Sexual reproduction
+      Larval stages
+    Classification
+      Animal Kingdom
+        Phyla
+          Porifera
+          Cnidaria
+          Platyhelminthes
+          Nematoda
+          Mollusca
+          Annelida
+          Arthropoda
+          Echinodermata
+          Chordata
+    Invertebrates vs Vertebrates
+      Invertebrates
+        Lack a backbone
+        Make up 95% of animal species
+      Vertebrates
+        Have a backbone
+        Make up 5% of animal species
+    Evolution of Animals
+      First animal trait: multiple cells
+      Adaptive advantage: flexibility and specialization

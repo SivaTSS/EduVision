@@ -1,0 +1,32 @@
+mindmap
+  Invertebrates
+    Definition
+      Animals without a backbone
+      Examples: insects, earthworms, jellyfish
+    Characteristics
+      No backbone
+      Diverse shapes and sizes
+      Live in various environments
+    Importance
+      Billions of billions in number
+      Vital for survival of other organisms
+    Phyla
+      Porifera
+      Cnidaria
+      Platyhelminthes
+      Nematoda
+      Mollusca
+      Annelida
+      Arthropoda
+      Echinodermata
+    Examples
+      Sponges
+      Jellyfish
+      Flatworms
+      Nematodes
+      Snails
+      Earthworms
+      Insects
+      Crabs
+      Sea stars
+      Sea urchins

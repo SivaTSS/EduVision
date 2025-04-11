@@ -1,0 +1,35 @@
+mindmap
+  Pascals Law
+    Definition
+      Change in pressure at any point in an enclosed fluid
+      Transmitted equally throughout the fluid
+    Examples
+      Toothpaste tube
+        Squeezing tube forces toothpaste out
+      Hydraulic brakes
+        Pressure transmitted to brake shoes
+        Increases force applied to brake shoes
+      Hydraulic car lifts
+        Raises heavy cars for mechanics
+        Increases force applied to lift
+    Pressure
+      Definition
+        Force acting on a given area
+      Equation
+        Pressure = Force / Area
+        Force = Pressure * Area
+    Pascal's Contributions
+      Blaise Pascal
+        French mathematician and physicist
+        SI unit of pressure named after him
+      Pascals Law
+        Change in pressure transmitted equally
+        Useful in various applications
+        Toothpaste tube
+          Squeezing tube forces toothpaste out
+        Hydraulic brakes
+          Pressure transmitted to brake shoes
+          Increases force applied to brake shoes
+        Hydraulic car lifts
+          Raises heavy cars for mechanics
+          Increases force applied to lift

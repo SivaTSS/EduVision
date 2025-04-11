@@ -1,0 +1,57 @@
+mindmap
+  Arthropods
+    Definition
+      Phylum Arthropoda
+      Jointed feet
+    Subphyla
+      Chelicerates
+        Spiders
+        Mites
+        Scorpions
+      Myriapods
+        Centipedes
+        Millipedes
+      Hexapods
+        Insects
+      Crustaceans
+        Lobsters
+        Crabs
+        Barnacles
+        Crayfish
+        Shrimp
+    Characteristics
+      Segmented body
+        Head
+        Thorax
+        Abdomen
+      Appendages
+        Feeding
+        Sensory structures
+        Defense
+        Locomotion
+      Nervous system
+      Hard exoskeleton
+        Chitin
+        Molting
+      Open circulatory system
+        Hemolymph
+        Direct contact with tissues
+      Digestive system
+        Mouth
+        Anus
+      Respiration
+        Aquatic arthropods
+          Gills
+        Land-living arthropods
+          Tracheal system
+          Book lungs
+          Oxygen absorbing skin
+          Two structures for breathing
+    Significance
+      Diversity
+      Impact on humans
+        Food sources
+        Pests
+        Medical uses
+    Adaptations
+      Jointed limbs

@@ -1,0 +1,45 @@
+mindmap
+  Amphibians
+    Definition
+      Group of vertebrates
+      Live in both water and on land
+    Characteristics
+      Ectothermic
+        External temperature affects body temperature
+      Metamorphosis
+        Life cycle stage changes
+      Larval stage
+        Aquatic, gilled stage
+      Adult stage
+        Terrestrial, lung-breathing stage
+    Adaptations
+      Skin
+        Prevents water loss
+      Eyelids
+        Adaptation to land
+      Eardrum
+        Separates external and middle ear
+      Tail
+        Disappears in adulthood
+    Habitats
+      Freshwater environments
+        Streams, rivers, lakes, swamps, ponds
+      Drier environments
+        Forests, meadows, marshes
+    Reproduction
+      Sexual reproduction
+        External, internal, or internal fertilization
+    Orders
+      Urodela
+        Salamanders, newts
+      Anura
+        Frogs, toads
+      Apoda
+        Caecilians
+    Life Cycle
+      1. Egg stage
+         Fertilization methods
+      2. Larval stage
+         Aquatic, gilled stage
+      3. Adult stage
+         Terrestrial, lung-breathing stage

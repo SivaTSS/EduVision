@@ -1,0 +1,28 @@
+mindmap
+  Earth Science
+    Geology
+      Rocks
+      Landforms
+      Natural Processes
+      Human Use of Earth Materials
+    Oceanography
+      Ocean Basins
+      Marine Geology
+    Meteorology
+      Weather Patterns
+      Clouds
+      Hurricanes
+      Tornadoes
+    Climatology
+      Climate Change
+    Environmental Science
+      Landscape
+      Atmosphere
+      Water
+      Living Things
+    Astronomy
+      Outer Space
+      Physical Bodies
+      Telescopes
+      Spacecraft
+      Hubble Space Telescope

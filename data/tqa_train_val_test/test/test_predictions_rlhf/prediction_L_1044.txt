@@ -1,0 +1,30 @@
+mindmap
+  Technology and Science
+    Relationship
+      Technology uses science to solve problems
+      Science uses technology to make discoveries
+    Invention of Telescope and Microscope
+      Telescope
+        Inventor: Hans Lippershey
+        First telescope
+        Spread in Europe
+        Improved by Galileo
+      Microscope
+        Depends on scientific knowledge of light and lenses
+        Discovery of cells
+    Scientific Discoveries
+      Galileo's Discoveries
+        Hills and valleys on the moon
+        Spots on the sun
+        Jupiter's moons
+        Sun's rotation
+      Other Discoveries
+        Seismometers
+        Spectrometers
+    Impact on Science and Technology
+      Scientific Revolution
+        Birth of modern Western science
+        Importance of Galileo's discoveries
+      Advancement of Science and Technology
+        Continuous cycle of innovation
+        Mutual dependence and growth

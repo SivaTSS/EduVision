@@ -1,0 +1,58 @@
+mindmap
+  Bird Diversity
+    Evolution
+      Dinosaurs
+        Velociraptors
+          Size
+          Skeleton
+        Birds Descended From
+          Herbivores
+          Carnivores
+          Evidence
+    Adaptations
+      Beaks
+        Carnivores
+          Hawks
+          Eagles
+          Falcons
+          Owls
+        Herbivores
+          Goose
+          Cockatoo
+          Parrot
+        Generalists
+          American Crow
+      Feet
+        Waterfowl
+          Ducks
+          Geese
+          Swans
+          Pelicans
+        Landfowl
+          Chickens
+          Turkeys
+        Flightless Birds
+          Ostrich
+          Kiwi
+        Raptors
+          Claws
+          Vision
+          Hearing
+    Lifestyles
+      Carnivores
+        Diurnal
+          Falcons
+          Eagles
+          Hawks
+        Nocturnal
+          Owls
+      Herbivores
+      Generalists
+    Habitats
+      Tropics
+      Wetlands
+      Ground
+      Water
+    Specialists
+      Hummingbirds
+      Parrots

@@ -1,0 +1,26 @@
+mindmap
+  Boyle's Law
+    Definition
+      Constant Temperature
+      Inverse Relationship
+    Explanation
+      Pressure Increase
+        Volume Decrease
+      Gas Molecule Collisions
+        Increased Crowding
+        Greater Pressure
+    Demonstration
+      Latex Balloon
+        Volume Reduction
+        Pressure Increase
+      Bubble Wrap
+        Volume Reduction
+        Pressure Increase (Popping)
+    History
+      Robert Boyle
+        Discovery
+        Father of Modern Chemistry
+    Graphical Representation
+      Inverse Relationship
+        Volume vs Pressure
+        Graphical Demonstration

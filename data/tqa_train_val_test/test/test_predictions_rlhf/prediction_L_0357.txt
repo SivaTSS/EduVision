@@ -1,0 +1,37 @@
+mindmap
+  Wind Power
+    Causes of Wind
+      Sun Heats Earth Unevenly
+      Air Moves from Hot to Cold
+    Harnessing Wind Energy
+      Wind Turbines
+        Capture Energy
+        High in Sky
+    Advantages of Wind Power
+      Clean Energy
+        No Pollution
+        No Greenhouse Gases
+      Plentiful in Many Places
+    Disadvantages of Wind Power
+      Intermittent Energy Source
+        Not Always Windy
+      Expensive and Wear Out Quickly
+      Aesthetic Concerns
+        Loss of View
+        Near Coastlines
+    Wind Power Applications
+      Grinding Grain
+      Pumping Water
+      Sailing Ships
+      Generating Electricity
+    Wind Power Growth
+      Fastest Growing Renewable Energy Source
+      Large Wind Farms
+    Case Study: Cape Wind
+      Off Cape Cod, Massachusetts
+      Controversy Over Location
+    Case Study: California
+      Early Adopter of Wind Power
+      Windmills in Mountain Passes
+    References
+      URL:

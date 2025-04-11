@@ -1,0 +1,23 @@
+mindmap
+  Hypothesis in Science
+    Role
+      Testable
+      Falsifiable
+    Criteria
+      Testable
+      Falsifiable
+    Examples
+      Acids turn red litmus paper blue
+      All life in the universe exists on Earth
+    Impossibility of Proof
+      Gravity and Falling Objects
+        Testable
+        Falsifiable
+      Invisible Creatures
+        Not Testable
+      Inhabited Planets
+        Falsifiable but Not Testable
+    Conclusion
+      Evidence in Support
+      Likelihood of Truth
+      Impossibility of Proof

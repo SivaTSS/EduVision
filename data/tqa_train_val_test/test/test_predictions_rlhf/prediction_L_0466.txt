@@ -1,0 +1,38 @@
+mindmap
+  Blood Pressure
+    Definition
+      Measure of cardiovascular system health
+      Caused by circulating blood pressure on blood vessel walls
+    Components
+      Systolic Pressure
+        Pressure on blood vessels during heartbeat
+      Diastolic Pressure
+        Pressure on blood vessels between heartbeats
+    Healthy Range
+      Systolic: less than 120
+      Diastolic: less than 80
+    Measurement
+      Sphygmomanometer used
+      Digital or manual
+    Hypertension
+      High blood pressure
+      Systolic: 140 or higher
+      Diastolic: 90 or higher
+    Consequences
+      Increased risk of cardiovascular disease
+      "Silent killer" due to lack of symptoms
+    Treatment
+      Diet changes
+      Exercise
+      Medication
+    Risk Factors
+      Genetic background
+      Lifestyle choices
+      Low blood pressure symptoms
+        Dizziness or lightheadedness
+        Fainting
+        Dehydration and unusual thirst
+        Lack of concentration
+        Blurred vision
+        Nausea
+        Fatigue

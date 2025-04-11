@@ -1,0 +1,32 @@
+mindmap
+  Punnett Squares
+    Definition
+      Tool for predicting offspring from a cross
+      Based on laws of probability
+    Steps to Create
+      1. Parent factors at top
+      2. Parent factors on left
+      3. Pull factors into boxes
+    Example
+      Cross between purple flowers (Bb)
+    Calculating Percentage
+      Offspring with certain trait
+      Dominant trait = 25%
+    Crosses
+      1. Aa x Aa
+         Genotype ratio: 1:1
+         Phenotype ratio: 3:1
+      2. AABb x Aabb
+         Genotype ratio: 1:1:1:1
+         Phenotype ratio: 1:1:1:1
+      3. AAbb x aabb
+         Genotype ratio: 1:1:1:1
+         Phenotype ratio: 3:1
+    Applications
+      Peas (yellow vs green seeds)
+      Guinea pigs (smooth vs rough coat)
+    Mendel's Rules of Heredity
+      Law of Segregation
+        Each parent contributes one factor
+      Law of Independent Assortment
+        Factors assort independently

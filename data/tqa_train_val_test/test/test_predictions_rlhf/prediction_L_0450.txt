@@ -1,0 +1,42 @@
+mindmap
+  Arachnids
+    Definition
+      Class of joint-legged invertebrates
+      Subphylum Chelicerata
+    Characteristics
+      Four pairs of legs (8 total)
+      Two additional pairs of appendages: chelicerae, pedipalps
+      No antennae or wings
+      Cephalothorax and abdomen
+      Internal breathing systems
+    Subgroups
+      Araneae
+        Spiders
+          Approx. 40,000 species
+          Produce silk
+          Venomous
+          Found worldwide
+      Opiliones
+        Daddy-long-legs
+          Approx. 6,300 species
+          Long walking legs
+          Omnivores
+          Nocturnal
+      Scorpiones
+        Scorpions
+          Approx. 2,000 species
+          Venomous tail
+          Predators
+          Nocturnal
+      Acarina
+        Mites and ticks
+          Approx. 30,000 species
+          Small size
+          Parasitic
+          Affect both invertebrates and vertebrates
+    Uses
+      Silk production
+      Pest control
+      Medical research
+    Differences from Insects
+      Four pairs of legs vs. three pairs

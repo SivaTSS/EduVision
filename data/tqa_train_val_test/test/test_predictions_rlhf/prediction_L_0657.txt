@@ -1,0 +1,35 @@
+mindmap
+  Reproduction in Seedless Plants
+    Seedless Plants
+      Ferns
+        Sorus Location
+        Sorus Contents
+        Spore Release Mechanism
+        Bisexual Gametophyte
+        Antheridiogen Effect
+      Asexual Reproduction
+        Fragmentation
+      Alternation of Generations
+        Diploid Sporophyte
+        Haploid Gametophyte
+      Seedless Vascular Plants
+        Fern Gametophyte
+        Fern Sporophyte
+    Nonvascular Seedless Plants
+      Life Cycle Stages
+        Gametophyte Stage
+        Sporophyte Stage
+      Sexual Reproduction
+        Flagellated Sperm
+        Fertilization Requirements
+      Asexual Reproduction
+        Fragmentation
+    Seedless Vascular Plants
+      Life Cycle Stages
+        Gametophyte Stage
+        Sporophyte Stage
+      Sexual Reproduction
+        Flagellated Sperm
+        Fertilization Requirements
+      Asexual Reproduction
+        Fragmentation

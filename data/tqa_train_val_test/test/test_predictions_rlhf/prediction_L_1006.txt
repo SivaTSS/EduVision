@@ -1,0 +1,25 @@
+mindmap
+  Replication in Science
+    Definition
+      Getting the same result when an experiment is repeated
+    Importance
+      Checking work
+      Increasing confidence in results
+      Turning hypotheses into theories
+    Examples
+      Vaccine-autism study
+        Initial study linking vaccine to autism
+        Replication attempts
+        Fraudulent results
+    Benefits
+      Reducing errors
+      Enhancing credibility
+      Encouraging further research
+    Challenges
+      Time and resources
+      Difficulty in replicating complex experiments
+      Interpretation differences
+    Implications
+      Importance of replication in scientific research
+      Need for transparency and honesty
+      Role of peer review in ensuring accuracy

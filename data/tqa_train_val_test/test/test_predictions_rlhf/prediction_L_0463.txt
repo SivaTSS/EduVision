@@ -1,0 +1,46 @@
+mindmap
+  Bird Reproduction
+    Mating Displays
+      Pheasant Displays
+        Feather Spreading
+        Tail Flicking
+      African Widow Bird Display
+        Dangerous for Males
+        Benefits
+    Mating Behavior
+      Intelligence and Complexity
+      Mating Duration
+      Parental Care
+    Offspring Care
+      Altricial Birds
+        Example: Great Frigatebird
+      Precocial Birds
+        Example: Domestic Chicken
+    Brood Parasitism
+      Definition
+      Host Birds
+      Benefits for Parasites
+    Reproduction Process
+      Internal Fertilization
+      Egg Development
+      Egg Laying
+      Incubation
+      Hatching
+    Nesting Habits
+      Nest Types
+        Cup-Shaped Nests
+        Dome-Shaped Nests
+        Plate-Shaped Nests
+        Mound-Shaped Nests
+        Burrow-Shaped Nests
+      Nest Locations
+        Hidden Locations
+        Open Locations
+        Cliff Locations
+    Monogamy and Polygamy
+      Monogamous Birds
+        Examples: Parrots, Eagles, Falcons
+      Polygamous Birds
+        Example: Wild Turkey
+    Parental Care
+      Incub

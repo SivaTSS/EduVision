@@ -1,0 +1,1262 @@
+{
+  "mermaid_code_L_0565.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a somewhat clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not cover all key concepts as thoroughly as the ground truth. Grouping of ideas is less effective, and some details are missing or misplaced."
+  },
+  "mermaid_code_L_0672.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but the flow of ideas is less intuitive compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could lead to confusion for users unfamiliar with the subject.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not group ideas as effectively as the ground truth. Key concepts are present but are not as thoroughly covered, and the level of detail is inconsistent, which affects the overall logical completeness."
+  },
+  "mermaid_code_L_0497.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition and detailed characteristics, enhancing understanding. However, it lacks some thematic relevance in the classification section, which could confuse users.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but has some inconsistencies in hierarchy and coverage of key concepts compared to the ground truth, particularly in the classification and examples sections."
+  },
+  "mermaid_code_L_0027.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some terms and phrases could be more concise for better understanding. The flow of ideas is logical, but the addition of new concepts like 'Impact of Storms' may distract from the main focus on storm types and causes.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers additional relevant concepts such as 'Impact of Storms' and 'Predicting Storms', which enhances its completeness. However, some details could be streamlined for consistency and clarity in hierarchy."
+  },
+  "mermaid_code_L_0446.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and relatable manner, with practical examples that enhance understanding. However, some thematic connections could be more explicit to improve flow.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some new categories (e.g., 'Thermoregulation' and 'Animal Examples') that may detract from the original structure. Overall, it covers key concepts but lacks a consistent hierarchy in some areas."
+  },
+  "mermaid_code_L_0562.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not group ideas as effectively as the ground truth. Key concepts are covered, but the level of detail is inconsistent, leading to a less organized structure overall."
+  },
+  "mermaid_code_L_0029.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, but it lacks some thematic depth compared to the ground truth. The flow of ideas is logical, but the connections between concepts could be more explicitly stated.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could benefit from a more consistent hierarchy and grouping of ideas. Some details are less comprehensive than in the ground truth, particularly regarding the influence of global air currents."
+  },
+  "mermaid_code_L_0448.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but lacks some thematic depth and connections that could enhance understanding. The flow of ideas is generally good, but the inclusion of examples in a separate section may disrupt the thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized but less comprehensive than the ground truth. It omits the detailed hierarchy of the taxonomy and the grouping of ideas is not as thorough, particularly in the classification section where it does not mention the five kingdom system."
+  },
+  "mermaid_code_L_0339.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but lacks some thematic relevance and flow compared to the ground truth. Some categories are less detailed, which may hinder understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and complete than the ground truth. Key concepts are missing, and the hierarchy is inconsistent, leading to a less coherent structure."
+  },
+  "mermaid_code_L_0600.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it is understandable, the connections between ideas could be improved for better mental processing.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less effective than the ground truth. Key concepts are not as thoroughly covered, and there is some redundancy in the details provided, which affects the overall logical structure and hierarchy."
+  },
+  "mermaid_code_L_0711.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but lacks some thematic relevance and flow compared to the ground truth. While it provides definitions and examples, the organization of ideas could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories like 'Causes of Differences' and 'Characteristics of Biomes' without a clear hierarchical structure, leading to incomplete coverage of key concepts and a lack of consistent grouping."
+  },
+  "mermaid_code_L_1075.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it covers similar topics, the organization of ideas can lead to confusion in understanding the relationships between concepts.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories like 'Representation in Science' and 'Advice for Girls' that are not present in the ground truth, which disrupts the logical flow and hierarchy of the original concepts. Additionally, it lacks the depth of detail found in the ground truth."
+  },
+  "mermaid_code_L_0254.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it is understandable, the organization of ideas could be improved for better mental processing.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories like 'Hypothesis Testing' and 'Examples' that are not present in the ground truth, which disrupts the logical flow and completeness of key concepts."
+  },
+  "mermaid_code_L_0195.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand the evolution of life during the Paleozoic era. However, some thematic connections could be more explicit, which slightly affects the overall clarity compared to the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, with a logical hierarchy. It introduces additional relevant details and connections that enhance the understanding of the subject, although it could benefit from a more consistent grouping of ideas."
+  },
+  "mermaid_code_L_0632.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map maintains clarity and flow, but the repetitive use of 'Definition' and the incomplete sections detract from overall understanding.",
+    "structural_score": 3,
+    "structural_comment": "The organization is less effective due to redundancy and incomplete information, leading to a lack of logical flow and hierarchy."
+  },
+  "mermaid_code_L_0377.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but includes some redundancy and less thematic relevance in the examples section, which may hinder quick understanding.",
+    "structural_score": 3,
+    "structural_comment": "The organization is less logical due to the inclusion of an examples section that disrupts the flow and hierarchy of the main concepts, and some key details from the ground truth are missing."
+  },
+  "mermaid_code_L_0588.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces extraneous details and does not maintain a coherent flow of ideas, making it harder for users to process the information effectively.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized and lacks a consistent hierarchy. Key concepts are either missing or inadequately grouped, and the level of detail is inconsistent, leading to a less comprehensive representation of the topic."
+  },
+  "mermaid_code_L_0559.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some points are repetitive and could confuse users. The flow of ideas is generally logical, but the redundancy detracts from overall clarity.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less effective due to the lack of a consistent hierarchy and the inclusion of repetitive elements. Key concepts are covered, but the structure is not as coherent as the ground truth."
+  },
+  "mermaid_code_L_0988.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it defines key concepts, the connections between ideas are not as strong, making it slightly less intuitive to process.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new sections like 'Examples' and 'Applications' that, while relevant, disrupt the logical flow and hierarchy established in the ground truth. Additionally, some key concepts from the ground truth are not covered in the same depth."
+  },
+  "mermaid_code_L_0379.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the inclusion of additional concepts like 'Definition' and 'Behaviors' may distract from the core themes of mammalian traits and classification, slightly affecting thematic relevance.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers a broad range of concepts, but it introduces some redundancy and less relevant categories, which could lead to a less coherent hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0922.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and harder to process due to redundancy and lack of thematic focus. The flow of ideas is convoluted, making it difficult for users to grasp the main concepts quickly.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized, with excessive repetition of ideas and a lack of a consistent hierarchy. Key concepts are not distinctly grouped, leading to confusion and incomplete coverage of the topic."
+  },
+  "mermaid_code_L_0696.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces a lesson format and questions that may confuse users seeking a straightforward understanding of evolution. The thematic relevance is less clear compared to the ground truth, which presents a more direct exploration of evolutionary concepts.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a coherent structure and logical flow compared to the ground truth. Key concepts are scattered, and the hierarchy is inconsistent, making it difficult to follow the relationships between ideas."
+  },
+  "mermaid_code_L_0687.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, with definitions and examples that enhance understanding. However, it lacks some thematic relevance compared to the ground truth, which is more focused on specific relationships and functions.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it has some redundancy and lacks a consistent hierarchy in the presentation of ideas, making it slightly less effective than the ground truth."
+  },
+  "mermaid_code_L_0462.txt": {
+    "cognitive_score": 2,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it difficult for users to understand and mentally process the information. The flow of ideas is convoluted and does not effectively convey the main concepts related to biotechnology in agriculture.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized and lacks a logical structure. It fails to group ideas effectively and does not cover key concepts related to food chains and food webs, resulting in an inconsistent hierarchy and excessive detail that detracts from the main topic."
+  },
+  "mermaid_code_L_0651.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it introduces some redundancy and less thematic relevance compared to the ground truth, making it slightly less effective for understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and has some overlapping categories, which affects its organization and logical completeness compared to the ground truth."
+  },
+  "mermaid_code_L_1011.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some terms and concepts could be more explicitly defined for better understanding. The flow of ideas is logical, but the thematic relevance could be improved by better connecting the implications to the experiment.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively. However, the hierarchy could be slightly more consistent, particularly in the 'Other Variables' section, which feels somewhat disconnected from the main experiment theme."
+  },
+  "mermaid_code_L_0597.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic depth and examples that would enhance understanding compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, with some key concepts missing and a less consistent hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0368.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less organized, making it slightly harder to process than the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in the hierarchy and coverage of key concepts compared to the ground truth."
+  },
+  "mermaid_code_L_0534.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it is understandable, the organization of ideas could be improved for better mental processing.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces additional categories like 'Definition' and 'Evolution' that dilute the focus on key concepts and disrupt the logical hierarchy. The coverage of details is inconsistent, leading to a less coherent structure."
+  },
+  "mermaid_code_L_0707.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information clearly, but the generated mind map lacks some thematic connections and flow compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and does not cover all key concepts in a consistent hierarchy, leading to gaps in information compared to the ground truth."
+  },
+  "mermaid_code_L_0366.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with well-defined explanations for each concept. However, it lacks some thematic depth compared to the ground truth, which may affect overall understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it has a less consistent hierarchy and grouping of ideas compared to the ground truth, which affects its logical completeness."
+  },
+  "mermaid_code_L_0689.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some terms and connections could be more precise to enhance understanding. The flow of ideas is logical, but the inclusion of additional examples may slightly detract from thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some key concepts and details present in the ground truth. The hierarchy is mostly consistent, but the grouping of ideas could be improved for better logical completeness."
+  },
+  "mermaid_code_L_0658.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, but some thematic connections are less explicit compared to the ground truth, which may hinder full understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth and detail found in the ground truth, particularly in the coverage of key concepts and the hierarchy of ideas."
+  },
+  "mermaid_code_L_1018.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some sections are less thematically relevant and may confuse users, particularly the 'Differences from Everyday Language' section which overlaps with the definition.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical, with some key concepts like 'Evidence' and 'Refinement' introduced without clear connections to the main themes, leading to a lack of coherent hierarchy."
+  },
+  "mermaid_code_L_0239.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less specific compared to the ground truth, which may hinder full understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization, with some concepts being repeated and others missing, leading to a less logical structure."
+  },
+  "mermaid_code_L_0700.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with definitions and explanations that enhance understanding. However, it lacks some thematic depth compared to the ground truth, which may affect the user's ability to fully grasp the complexities of turtle biology.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers a broad range of topics related to turtles. However, it does not maintain the same level of detail and logical flow as the ground truth, particularly in the grouping of ideas and the hierarchy of concepts."
+  },
+  "mermaid_code_L_0361.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional concepts and redundancies that may confuse users, making it harder to follow the main ideas of the scientific method.",
+    "structural_score": 2,
+    "structural_comment": "The organization of the generated mind map is less coherent, with overlapping categories and a lack of clear hierarchy, which detracts from the logical flow and completeness of the key concepts."
+  },
+  "mermaid_code_L_0152.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less coherent than the ground truth, particularly in the Environmental Impact section, which introduces new concepts without clear connections to previous ideas.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it introduces some redundancy and lacks a consistent hierarchy in the Environmental Impact section, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0245.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy for users to understand the concept of biodiversity. However, some thematic connections are less explicit compared to the ground truth, which may slightly hinder the flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it lacks some depth and detail found in the ground truth. The hierarchy is mostly consistent, but certain groupings could be improved for better logical completeness."
+  },
+  "mermaid_code_L_0354.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information clearly, but the generated mind map introduces some ambiguity in definitions and lacks thematic relevance in the 'Interest' and 'Questions' sections, which may distract from the core concepts.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories like 'Interest' and 'Questions' that do not align with the logical structure of comparing weather and climate, leading to a less coherent hierarchy."
+  },
+  "mermaid_code_L_0611.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with definitions and examples that enhance understanding. However, it lacks some thematic depth compared to the ground truth, which may affect the overall cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it has some redundancy in the 'Natural Selection Requirements' section and lacks the same level of detail and grouping of ideas found in the ground truth."
+  },
+  "mermaid_code_L_0974.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some redundancy in concepts may hinder quick understanding. Overall, it is easier to follow than the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but includes some repetitive elements that detract from its logical flow. It covers key concepts adequately but lacks a consistent hierarchy in some areas."
+  },
+  "mermaid_code_L_0160.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information that is thematically relevant but lacks clarity in the flow of ideas, making it slightly harder to process than the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, with some concepts repeated and a lack of clear hierarchy, which detracts from its overall logical completeness compared to the ground truth."
+  },
+  "mermaid_code_L_0973.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. The ideas are understandable, but the connections between them could be improved for better mental processing.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. While it covers some key concepts, it lacks a consistent hierarchy and grouping of ideas, leading to redundancy and a less logical structure overall."
+  },
+  "mermaid_code_L_0382.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the focus on animal communication limits the thematic relevance compared to the broader scope of the ground truth. The flow of ideas is logical, but some details may confuse users unfamiliar with the specific examples provided.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization compared to the ground truth. While it covers some key concepts, it does not fully encompass the breadth of animal behavior, and the grouping of ideas is less coherent, leading to potential gaps in understanding."
+  },
+  "mermaid_code_L_0353.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less precise compared to the ground truth, which may affect understanding.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less coherent, with some concepts repeated and a lack of consistent hierarchy, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0486.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents detailed examples and subcategories that enhance understanding of healthy foods, making it easier for users to mentally process the information. However, it slightly deviates from the thematic relevance of the original mind map by introducing a lesson structure that may confuse some users.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it lacks a consistent hierarchy and grouping of ideas compared to the ground truth. The introduction of a lesson structure adds complexity that may detract from the logical flow."
+  },
+  "mermaid_code_L_0573.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some examples and details are less specific than in the ground truth, which may hinder full understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some of the depth and specific comparisons found in the ground truth, making it slightly less comprehensive."
+  },
+  "mermaid_code_L_0115.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a somewhat clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not group ideas as effectively as the ground truth. Key concepts are covered, but the level of detail is inconsistent, and some sections appear disorganized."
+  },
+  "mermaid_code_L_0574.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and has some redundancy in the grouping of ideas. Key concepts are not as thoroughly covered, and the level of detail varies significantly across sections."
+  },
+  "mermaid_code_L_0508.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some phrases are less precise than in the ground truth, which may affect understanding slightly. The flow of ideas is logical, but the addition of 'Energy Depiction' could confuse users as it introduces a new category without clear relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some redundancy (e.g., 'Ecosystem Sites' and 'Ecosystem Examples') and lacks a consistent hierarchy in the presentation of biogeochemical cycles, which could lead to confusion."
+  },
+  "mermaid_code_L_0450.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and structured manner, making it easy to understand. However, it lacks some thematic depth compared to the ground truth, particularly in the feeding habits and reproduction sections.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in terms of detail and hierarchy, especially in the characteristics of subgroups and the inclusion of reproduction and feeding habits."
+  },
+  "mermaid_code_L_0747.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some ideas are less thematically relevant or slightly less organized than the ground truth, which affects overall understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some key concepts and details present in the ground truth, leading to a slightly less comprehensive structure."
+  },
+  "mermaid_code_L_1006.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less cohesive compared to the ground truth. The thematic relevance is maintained, but some connections could be more explicit.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it lacks the same level of detail and consistent hierarchy found in the ground truth. Some ideas are grouped less effectively, leading to a slightly less logical structure."
+  },
+  "mermaid_code_L_0807.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but lacks some thematic depth and detail compared to the ground truth, making it equally understandable but less comprehensive.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and complete, with some key concepts missing and a less consistent hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0013.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information on the history of Earth's life forms, but the generated mind map lacks some clarity and thematic relevance compared to the ground truth. The flow of ideas is less coherent, making it slightly harder to process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It has a less consistent hierarchy and some key concepts are either missing or not grouped logically, leading to a lack of coverage in certain areas."
+  },
+  "mermaid_code_L_0378.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand. However, some thematic relevance is slightly altered, such as the inclusion of 'Success' which is less focused than the original categories.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it introduces some redundancy and lacks the same level of detail in certain areas, such as the specific breakdown of parental care."
+  },
+  "mermaid_code_L_0556.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it harder for users to process the information. The flow of ideas is disrupted by the inclusion of unrelated questions, which detracts from the main themes.",
+    "structural_score": 2,
+    "structural_comment": "The organization of the generated mind map is poor. Key concepts are not grouped logically, and there is an inconsistent hierarchy. The inclusion of a 'Questions' section adds confusion rather than clarity."
+  },
+  "mermaid_code_L_0690.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic depth compared to the ground truth, particularly in the Human Impact section, which is less detailed.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but does not fully capture the hierarchical structure and detail of the ground truth. Key concepts like Human Impact are less emphasized, and the grouping of ideas could be improved for better logical completeness."
+  },
+  "mermaid_code_L_0633.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information clearly, but the generated mind map has some redundancy in listing functions, which may hinder quick understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a clear hierarchical structure and mixes categories (e.g., functions and examples) in a way that makes it less organized compared to the ground truth."
+  },
+  "mermaid_code_L_0194.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some ideas are repeated, which may confuse users. The flow of ideas is logical, but the thematic relevance could be improved by reducing redundancy.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less effective than the ground truth. Key concepts are present, but the hierarchy is inconsistent, and some sections lack depth, leading to a less coherent structure overall."
+  },
+  "mermaid_code_L_0524.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic depth compared to the ground truth, which may affect understanding of complex interactions.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could benefit from a more consistent hierarchy and grouping of ideas, particularly in the 'Importance' and 'Food Web Construction' sections."
+  },
+  "mermaid_code_L_0376.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and detailed understanding of amphibians, with well-defined sections that enhance comprehension. However, it lacks some thematic relevance in the 'Ecological Roles' section, which could be more elaborated.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it lacks a consistent hierarchy in some areas, such as the classification of traits and ecological roles, which could be better grouped and detailed."
+  },
+  "mermaid_code_L_0558.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is somewhat disrupted by the introduction of new categories that overlap with existing ones, making it slightly less coherent than the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization, with some concepts being repeated or misplaced, which detracts from the overall logical structure compared to the ground truth."
+  },
+  "mermaid_code_L_1008.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but introduces some redundancy and less thematic relevance in certain areas, making it slightly less effective than the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization, with some concepts being repeated and others not grouped effectively, leading to a less logical structure compared to the ground truth."
+  },
+  "mermaid_code_L_0699.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic depth compared to the ground truth, particularly in the examples and questions sections, which could enhance understanding.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively. It introduces a conclusion section that adds value, but it could benefit from a more consistent hierarchy and additional details in certain areas, such as the experiments and questions."
+  },
+  "mermaid_code_L_0193.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces unrelated topics (e.g., Clovis Spear Points, Terrestrial Crocodiles) that detract from the main theme of Cenozoic Life, making it harder to follow and understand the core concepts.",
+    "structural_score": 2,
+    "structural_comment": "The organization is poor, with overlapping and redundant categories (e.g., multiple mentions of Pleistocene Megafauna) and a lack of clear hierarchy, leading to confusion about the relationships between ideas."
+  },
+  "mermaid_code_L_0634.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but some details are less organized.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and grouping of ideas. While it covers many key concepts, the level of detail is inconsistent, and some classifications are not clearly defined."
+  },
+  "mermaid_code_L_0918.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic connections and flow compared to the ground truth, making it equally understandable.",
+    "structural_score": 4,
+    "structural_comment": "The organization of the generated mind map is comparable to the ground truth, but it misses some key concepts and hierarchical consistency, resulting in an equal level of detail."
+  },
+  "mermaid_code_L_0498.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. While it covers similar topics, the organization of ideas can lead to confusion for the user.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces additional categories and subtopics that dilute the focus on key concepts, leading to a less coherent hierarchy and coverage of the main ideas."
+  },
+  "mermaid_code_L_0028.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth, making it equally understandable but not superior.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and complete than the ground truth. It misses key concepts and has a less consistent hierarchy, leading to a weaker overall structure."
+  },
+  "mermaid_code_L_1046.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive compared to the ground truth, particularly in the organization of career examples and skills.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some redundancy and lacks a consistent hierarchy in the grouping of ideas, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0496.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to the lack of explicit definitions and benefits associated with control methods, which may hinder understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks a consistent hierarchy and coverage of key concepts, particularly in the biological control section where definitions and benefits are missing."
+  },
+  "mermaid_code_L_0026.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the thematic relevance is slightly less focused compared to the ground truth, which maintains a more structured approach to weather changes.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map introduces additional concepts like 'Storms' and 'Weather Changes' that are not as well integrated into the existing structure, leading to a less organized presentation of ideas compared to the ground truth."
+  },
+  "mermaid_code_L_0447.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive than the ground truth. The thematic relevance is maintained, but the additional details may overwhelm some users.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers a broader range of concepts with a consistent hierarchy. However, the introduction of 'Questions' as a category, while interesting, may disrupt the logical flow compared to the ground truth."
+  },
+  "mermaid_code_L_0102.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand. However, some thematic relevance is slightly less explicit compared to the ground truth, particularly in the Environmental Science section.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it lacks some detail in certain areas, such as the specific processes in Oceanography and the comprehensive coverage of Environmental Science compared to the ground truth."
+  },
+  "mermaid_code_L_0563.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy for users to understand the roles and benefits of mammals. However, some thematic relevance is lost compared to the ground truth, particularly in the depth of examples provided.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it lacks some of the detailed connections and hierarchical structure found in the ground truth, particularly in the ecosystem roles section."
+  },
+  "mermaid_code_L_0674.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand the concepts of seeds and seed dispersal. However, it lacks some thematic relevance compared to the ground truth, particularly in the depth of examples provided.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in the consistency of hierarchy and grouping of ideas, particularly in the section on fruit adaptations which feels less integrated with the overall theme."
+  },
+  "mermaid_code_L_0564.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map has a less clear flow of ideas and thematic relevance compared to the ground truth. The repetition of concepts and lack of clarity in the organization makes it harder to process the information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized, with significant redundancy and a lack of logical hierarchy. Key concepts are repeated unnecessarily, leading to confusion and a lack of coherence."
+  },
+  "mermaid_code_L_0673.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to redundancy in sections like 'Seasonal Changes in Plants' being repeated. However, it still maintains a good flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "The organization is generally logical, but there are some inconsistencies in hierarchy and grouping of ideas, particularly with the overlap of topics and the lack of depth in certain areas compared to the ground truth."
+  },
+  "mermaid_code_L_0491.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition and context for Cnidarians, enhancing understanding. However, it lacks some thematic connections present in the ground truth, which may affect flow slightly.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts in detail, with a consistent hierarchy. It includes additional relevant information that enhances the overall structure compared to the ground truth."
+  },
+  "mermaid_code_L_0575.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less organized compared to the ground truth, which may hinder quick understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in certain areas, such as the details of metamorphosis and reproductive strategies, compared to the ground truth."
+  },
+  "mermaid_code_L_0168.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some thematic connections are less explicit than in the ground truth, which may hinder understanding slightly.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized but lacks some depth and detail compared to the ground truth, particularly in the coverage of nutrient dynamics and transport mechanisms."
+  },
+  "mermaid_code_L_0746.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth, making it equally understandable.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth, with some key concepts missing and a less consistent hierarchy, which affects its overall completeness."
+  },
+  "mermaid_code_L_0487.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy for users to understand the key concepts of chordates. However, the flow of ideas could be slightly improved by better integrating the definitions and examples with the characteristics.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers a broad range of concepts related to chordates. It includes detailed subcategories and relationships, enhancing the logical structure. However, the hierarchy could be more consistent, particularly in how examples are presented alongside definitions."
+  },
+  "mermaid_code_L_0900.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, but lacks some thematic depth compared to the ground truth, which may hinder full understanding of the topic.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it does not maintain the same level of detail and logical flow as the ground truth, particularly in the methodology section."
+  },
+  "mermaid_code_L_0276.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but lacks some thematic relevance and flow compared to the ground truth. While it covers similar topics, the organization of ideas can lead to confusion in understanding the relationships between concepts.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It has a more fragmented structure with some concepts overlapping and lacking a consistent hierarchy, which affects the logical completeness and grouping of ideas."
+  },
+  "mermaid_code_L_0617.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more concise manner, making it easier to understand. However, it lacks some clarity in the flow of ideas compared to the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers additional aspects like reproduction, which enhances its completeness. The hierarchy is mostly consistent, but some details could be better structured."
+  },
+  "mermaid_code_L_0352.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it introduces some redundancy and complexity that may hinder quick understanding compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some logical flow and consistency in hierarchy, particularly with the overlap of characteristics and types of fronts."
+  },
+  "mermaid_code_L_0909.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some terms and concepts are less precise compared to the ground truth, which may lead to slight confusion in understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces additional concepts (like 'Experiment' and 'Conclusion') that, while relevant, may detract from the focus on core concepts compared to the ground truth."
+  },
+  "mermaid_code_L_0093.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some connections between ideas are less explicit than in the ground truth, which may hinder immediate understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some detail and consistent hierarchy found in the ground truth, particularly in the coverage of interactions and relationships with weather."
+  },
+  "mermaid_code_L_0799.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and concise manner, making it easier to understand the concepts. However, it lacks some thematic relevance in the 'Experiment' section, which may confuse users unfamiliar with the context.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some redundancy by including 'Amontons Law' under 'Gas Laws.' The coverage of key concepts is good, but the hierarchy could be improved for better logical flow."
+  },
+  "mermaid_code_L_0701.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it introduces some redundancy and less thematic relevance compared to the ground truth. The flow of ideas is generally good, but the inclusion of questions may distract from the main themes.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized but lacks a consistent hierarchy and grouping of ideas compared to the ground truth. It covers additional concepts like 'Discovery' and 'Questions' that, while informative, may detract from the focus on key concepts related to Archaea."
+  },
+  "mermaid_code_L_0360.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with slight improvements in phrasing that enhance understanding. However, some details are less concise compared to the ground truth.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it lacks some detail in the 'Research Types' section, which affects its completeness compared to the ground truth."
+  },
+  "mermaid_code_L_0416.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and understandable manner, with a logical flow of ideas. However, it lacks some thematic depth compared to the ground truth, particularly in the comparison section.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively. It has a consistent hierarchy, but it could benefit from more detailed comparisons and a clearer distinction between primary and secondary succession."
+  },
+  "mermaid_code_L_0182.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are repetitive, which may hinder quick understanding. The flow of ideas is logical, but the thematic relevance could be improved by reducing redundancy.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it lacks some depth in certain areas and has overlapping sections that could confuse the hierarchy of ideas."
+  },
+  "mermaid_code_L_0535.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less intuitive compared to the ground truth. The thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some redundancy and lacks a consistent hierarchy in certain areas. The grouping of ideas is less coherent than in the ground truth."
+  },
+  "mermaid_code_L_0622.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some concepts are less thematically relevant, which may hinder understanding.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and complete. Key concepts are present, but the grouping of ideas is inconsistent, and the hierarchy is not as clear as in the ground truth."
+  },
+  "mermaid_code_L_0598.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic relevance compared to the ground truth, which is more focused on specific traits and results of Mendel's experiments.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some new elements that may distract from the core focus of pea plants and genetics as presented in the ground truth."
+  },
+  "mermaid_code_L_0706.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but introduces additional concepts that may distract from the main focus on vascular seedless plants. The flow of ideas is somewhat disrupted by the inclusion of questions and less relevant details.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization. While it covers some key concepts, the grouping of ideas is less logical, and the inclusion of unrelated details (like questions) detracts from the overall structure."
+  },
+  "mermaid_code_L_0367.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy for users to understand the key concepts. However, some thematic relevance is slightly less direct compared to the ground truth, particularly in the 'Questions' section, which may distract from the main themes.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively. It introduces a new section ('Questions') that enhances engagement, although it slightly deviates from the original structure. Overall, it maintains a logical hierarchy and grouping of ideas."
+  },
+  "mermaid_code_L_0411.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less concise than in the ground truth, which may slightly hinder understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some redundancy and lacks a consistent hierarchy in certain areas, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0463.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to the introduction of new categories and a lack of depth in certain areas compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical, with some concepts overlapping and a lack of consistent hierarchy, making it harder to follow than the ground truth."
+  },
+  "mermaid_code_L_0681.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it introduces some redundancy and less thematic relevance compared to the ground truth, which is more concise and focused.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it lacks some hierarchical consistency and detail in certain areas compared to the ground truth. The addition of 'Lesson Questions' is somewhat off-topic and disrupts the overall structure."
+  },
+  "mermaid_code_L_0126.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and detailed manner, making it easier for users to understand the distinctions and relationships between theories, laws, and hypotheses. However, it introduces some extraneous details that may distract from the core concepts.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it includes some redundancy and less relevant information (e.g., the Leaning Tower of Pisa) that detracts from its overall coherence and logical flow."
+  },
+  "mermaid_code_L_0650.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map has redundancy and lacks clarity, making it harder to process the information compared to the ground truth. The flow of ideas is disrupted by repeated sections and unclear categorization.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized, with overlapping categories and inconsistent hierarchy. Key concepts are repeated unnecessarily, leading to confusion and a lack of logical structure."
+  },
+  "mermaid_code_L_0686.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer definition and examples, enhancing understanding. However, the flow of ideas could be improved by better organizing the examples under their respective types.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some redundancy with separate sections for mutualistic, commensal, and parasitic relationships that could be integrated more effectively. Overall, it covers key concepts but lacks some detail in the hierarchy."
+  },
+  "mermaid_code_L_1017.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear and understandable manner, with a logical flow of ideas. However, some thematic relevance is slightly less focused compared to the ground truth, particularly in the redundancy of concepts related to investigations.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it introduces some additional categories that may lead to slight confusion. The hierarchy is mostly consistent, but the inclusion of 'Scientific Investigations' and 'Importance of Investigations' could be seen as overlapping with existing sections."
+  },
+  "mermaid_code_L_0657.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not group ideas as effectively as the ground truth. Key concepts are covered, but the level of detail and logical completeness is inferior, leading to a less organized structure."
+  },
+  "mermaid_code_L_0464.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to the inclusion of questions and specific examples like the Emperor Penguin, which may distract from the main themes.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical compared to the ground truth. Key concepts are not grouped as effectively, and the hierarchy is inconsistent, particularly with the addition of unrelated questions and specific species."
+  },
+  "mermaid_code_L_0005.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information clearly, but the generated mind map lacks some thematic relevance and flow compared to the ground truth, particularly in the organization of ideas and the inclusion of questions that may distract from the main topics.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces a 'Comparison' section that is not present in the ground truth and lacks a consistent hierarchy, which affects the logical completeness and grouping of ideas."
+  },
+  "mermaid_code_L_0666.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to the reorganization of ideas, making it slightly less intuitive than the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized but lacks some key concepts and details present in the ground truth, leading to a less comprehensive structure overall."
+  },
+  "mermaid_code_L_0429.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but lacks some thematic relevance and flow compared to the ground truth. Key concepts are present but not as well connected.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and complete than the ground truth. Some key concepts are missing or not grouped effectively, leading to a less coherent hierarchy."
+  },
+  "mermaid_code_L_0200.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information about hurricanes clearly, but the generated mind map lacks some thematic relevance and clarity in the flow of ideas compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and complete than the ground truth, with some key concepts missing or poorly grouped, leading to a less consistent hierarchy."
+  },
+  "mermaid_code_L_0576.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the introduction of new concepts like 'Invasion of Land' may confuse users unfamiliar with the topic.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization. While it covers some key concepts, the grouping of ideas is less logical, and the level of detail varies significantly, leading to potential gaps in understanding."
+  },
+  "mermaid_code_L_0978.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and concise manner, making it easier to understand the concepts related to Pascal's Law. However, it lacks some thematic connections that could enhance comprehension compared to the ground truth.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in the consistency of hierarchy and grouping of ideas, particularly in the application section."
+  },
+  "mermaid_code_L_0452.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand. However, it lacks some thematic relevance compared to the ground truth, particularly in the depth of examples and specific adaptations.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it does not fully match the logical completeness of the ground truth, particularly in the grouping of ideas and the level of detail regarding specific arthropod examples."
+  },
+  "mermaid_code_L_0745.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth, making it slightly harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and includes extraneous topics (e.g., 'Snuffalufagus') that detract from the main focus, resulting in a less organized structure compared to the ground truth."
+  },
+  "mermaid_code_L_0578.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less coherent than the ground truth, particularly in the organization of examples and functions.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some redundancy and lacks a consistent hierarchy in the classification of phyla and their meanings, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0420.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic relevance in the section on 'Importance to Ecosystems' which could be better integrated with the overall theme of biodiversity and extinction.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it is less comprehensive than the ground truth. It misses some details and connections, particularly in the 'Causes of the Sixth Mass Extinction' section, which is incomplete."
+  },
+  "mermaid_code_L_0275.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information on weather prediction clearly, but the generated mind map has a less coherent flow of ideas, making it slightly harder to process the information compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization, with some concepts being repeated and others not clearly grouped, leading to a less logical structure than the ground truth."
+  },
+  "mermaid_code_L_0503.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic connections are less direct compared to the ground truth, which may hinder immediate understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some detail and consistent hierarchy found in the ground truth, particularly in the classification and adaptation sections."
+  },
+  "mermaid_code_L_0668.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less cohesive compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and grouping of ideas. While it covers many key concepts, the level of detail is inconsistent, and some sections appear disorganized compared to the well-structured ground truth."
+  },
+  "mermaid_code_L_0380.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic relevance compared to the ground truth, particularly in the organization of examples and comparisons.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in the consistency of hierarchy and grouping of ideas, especially in the 'Prosimian vs Non-Prosimian' section which could be more clearly delineated."
+  },
+  "mermaid_code_L_0730.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some sections are slightly less concise than the ground truth, which may affect quick understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some redundancy and lacks a consistent hierarchy in certain areas compared to the ground truth."
+  },
+  "mermaid_code_L_0536.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, but it lacks some thematic relevance and flow compared to the ground truth, particularly in the organization of causes and effects.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it introduces new categories (Solutions, Consequences, Case Studies) that may detract from the original structure and hierarchy of the ground truth."
+  },
+  "mermaid_code_L_0364.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some sections are less concise than the ground truth, which may hinder quick understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it lacks some depth in certain areas and has slight inconsistencies in hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0412.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear and concise manner, making it easier to understand. However, some details are less explicit compared to the ground truth, which may affect the depth of understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some of the hierarchical detail and completeness found in the ground truth. Key concepts are present, but the grouping and level of detail could be improved for better logical flow."
+  },
+  "mermaid_code_L_0363.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and detailed manner, making it easier for users to understand and process the safety protocols in life science research. However, some thematic relevance is slightly diluted due to the addition of a lesson summary that may distract from the main focus.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts comprehensively, but it introduces a lesson summary that may disrupt the logical flow. The hierarchy is mostly consistent, but the additional details could lead to some confusion regarding the primary focus of the map."
+  },
+  "mermaid_code_L_0296.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it harder for users to understand the relationships between concepts. The flow of ideas is disrupted by the introduction of redundant themes and less relevant details.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical, with some key concepts missing or poorly grouped. The hierarchy is inconsistent, and the coverage of important aspects of the scientific community is incomplete compared to the ground truth."
+  },
+  "mermaid_code_L_0685.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the concept of ecological succession clearly, but the generated mind map introduces some new terms and concepts that may confuse users unfamiliar with the topic. The flow of ideas is logical, but the thematic relevance is slightly less consistent in the generated version.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks some key concepts and details present in the ground truth, such as the comprehensive coverage of stages in succession and the detailed factors affecting succession. The hierarchy is less consistent, with some ideas not clearly grouped under their relevant categories."
+  },
+  "mermaid_code_L_0592.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less coherent than the ground truth, particularly in the organization of types and examples of mammals.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in the coverage of key concepts, such as the evolutionary adaptations section, which is less detailed compared to the ground truth."
+  },
+  "mermaid_code_L_1014.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and understandable manner, with a logical flow of ideas. However, some details are less precise compared to the ground truth, which may affect comprehension slightly.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some new categories that may not align perfectly with the original structure, leading to a slightly less consistent hierarchy."
+  },
+  "mermaid_code_L_0298.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a way that is somewhat clear, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is present, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a logical structure and completeness. Key concepts are present, but the grouping of ideas is inconsistent, and there is redundancy in the coverage of topics, which detracts from the overall organization."
+  },
+  "mermaid_code_L_0770.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some concepts are less thematically relevant or organized compared to the ground truth. The flow of ideas is somewhat logical, but the clarity of certain explanations could be improved.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it lacks a consistent hierarchy in some areas. The grouping of ideas is adequate, but the level of detail varies, making it less comprehensive than the ground truth."
+  },
+  "mermaid_code_L_0001.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easier for users to understand the relationships between concepts. However, some thematic relevance is slightly less direct compared to the ground truth, particularly in the arrangement of the scientific method components.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it lacks some detail found in the ground truth, such as specific examples and a more consistent hierarchy in the presentation of ideas."
+  },
+  "mermaid_code_L_0595.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but lacks some thematic relevance and flow compared to the ground truth. While it covers similar topics, the organization of ideas can lead to confusion in understanding the relationships between concepts.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories and subcategories that are not as logically grouped, and some key concepts from the ground truth are either missing or inadequately detailed, leading to a less coherent hierarchy."
+  },
+  "mermaid_code_L_1013.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. The ideas are understandable, but the connections between them could be more explicit.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. While it covers some key concepts, the hierarchy is inconsistent, and the grouping of ideas is not as logical or complete, leading to a lack of clarity in the overall structure."
+  },
+  "mermaid_code_L_0653.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information clearly, but the generated mind map lacks some thematic relevance and flow compared to the ground truth, making it slightly less intuitive to process.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and complete than the ground truth. It introduces new concepts and examples that are not as well integrated into a logical hierarchy, leading to a less coherent structure."
+  },
+  "mermaid_code_L_0529.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides clear definitions and explanations for each method of reproduction, enhancing understanding. However, it lacks some thematic connections present in the ground truth, which could aid in processing the information more holistically.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in terms of hierarchical consistency and grouping of advantages under their respective reproduction types, which is more clearly delineated in the ground truth."
+  },
+  "mermaid_code_L_0584.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with well-defined categories and examples that enhance understanding. However, it lacks some thematic depth compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it introduces some redundancy in the examples and lacks a consistent hierarchy in the presentation of ideas compared to the ground truth."
+  },
+  "mermaid_code_L_0555.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and understandable manner, but it lacks some thematic relevance compared to the ground truth, particularly in the organization of concepts related to evolution and characteristics of vision.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it does not maintain a consistent hierarchy and grouping of ideas as effectively as the ground truth, leading to some confusion in the flow of information."
+  },
+  "mermaid_code_L_0639.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less precise compared to the ground truth, which may hinder understanding.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical, with some concepts overlapping and lacking a consistent hierarchy, leading to incomplete coverage of key ideas."
+  },
+  "mermaid_code_L_0372.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. Some concepts are less clearly defined, which may hinder understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It has some grouping of ideas but lacks a consistent hierarchy and coverage of key concepts, leading to a less logical structure overall."
+  },
+  "mermaid_code_L_0713.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less cohesive compared to the ground truth. The thematic relevance is maintained, but the additional details may overwhelm some users.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers a broader range of concepts and applications, enhancing its completeness. However, the hierarchy could be more consistent, as some sections feel less integrated than in the ground truth."
+  },
+  "mermaid_code_L_0983.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map provides additional details about each career, which can enhance understanding. However, the repetition of information under 'Interests' may confuse users and detract from clarity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized due to the redundancy of career details under both 'Careers' and 'Interests', which disrupts the logical flow and hierarchy of ideas."
+  },
+  "mermaid_code_L_0520.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic connections are less explicit compared to the ground truth, which may hinder immediate understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some detail and consistency in hierarchy compared to the ground truth, particularly in the grouping of subspecialties."
+  },
+  "mermaid_code_L_0527.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some sections, like 'Visibility' and 'Number of Species', may distract from the main themes, slightly affecting the flow of ideas.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but the inclusion of less relevant sections like 'Visibility' and 'Number of Species' detracts from the overall focus and hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0605.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost compared to the ground truth, making it slightly less intuitive to process.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less coherent, with some concepts grouped inconsistently and a lack of coverage for key concepts found in the ground truth."
+  },
+  "mermaid_code_L_0895.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear and understandable manner, with a logical flow of ideas. However, some thematic relevance is lost due to the lack of specific examples and context compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers many key concepts, but it lacks a consistent hierarchy and some details present in the ground truth, such as the specific ethical dilemmas and their implications."
+  },
+  "mermaid_code_L_0431.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information clearly, but the generated mind map has some inconsistencies in terminology and flow, making it slightly less intuitive than the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and has some redundancy in the coverage of genetic disorders, which affects its overall organization compared to the ground truth."
+  },
+  "mermaid_code_L_0567.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, as it mixes coal formation with seedless plants in a way that may confuse users. The flow of ideas is not as coherent as in the ground truth.",
+    "structural_score": 2,
+    "structural_comment": "The organization of the generated mind map is poor, with an inconsistent hierarchy and grouping of ideas. Key concepts related to seedless plants are overshadowed by the focus on coal, leading to incomplete coverage of the topic."
+  },
+  "mermaid_code_L_0670.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it harder to process the information compared to the ground truth. The flow of ideas is disrupted by the inclusion of unrelated topics like 'Deformed Frogs' and excessive repetition of steps.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and coherent than the ground truth. Key concepts are scattered, and there is redundancy in the presentation of the scientific method steps, which detracts from a consistent hierarchy."
+  },
+  "mermaid_code_L_0492.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed explanation of concepts, making it easier for users to understand the nuances of competition. However, it could benefit from a more streamlined flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some redundancy in examples and lacks a consistent hierarchy in the presentation of ideas."
+  },
+  "mermaid_code_L_0443.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, some thematic relevance is lost compared to the ground truth, particularly in the details of specific behaviors and features.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it lacks some depth and detail found in the ground truth, particularly in the grouping of ideas and the hierarchy of information."
+  },
+  "mermaid_code_L_0495.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less cohesive compared to the ground truth. The thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization. While it covers some key concepts, the grouping of ideas is less logical, and there is redundancy in the information presented, which detracts from its overall structure."
+  },
+  "mermaid_code_L_0332.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some terms and concepts may not be as immediately recognizable or relevant as in the ground truth. The flow of ideas is logical, but the thematic relevance could be improved in certain areas.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers many key concepts, but it lacks some depth in certain areas and has inconsistencies in hierarchy. The inclusion of a satellite image and references, while informative, may detract from the focus on core concepts."
+  },
+  "mermaid_code_L_0444.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with definitions and characteristics that enhance understanding. However, it lacks some thematic depth compared to the ground truth.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in the consistency of hierarchy and detail in certain areas, such as the life cycle and adaptations."
+  },
+  "mermaid_code_L_0438.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more accessible manner with simplified language and clearer examples, enhancing user understanding.",
+    "structural_score": 4,
+    "structural_comment": "While the generated mind map is well-organized, it lacks some detail and thematic depth compared to the ground truth, particularly in the ecological roles section."
+  },
+  "mermaid_code_L_0560.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive due to the introduction of additional subcategories that may overwhelm the user. However, it maintains thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces excessive detail in some areas, which can detract from the overall clarity. While it covers key concepts, the hierarchy is less consistent compared to the ground truth."
+  },
+  "mermaid_code_L_0101.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but lacks some thematic relevance and flow compared to the ground truth. While it provides specific criteria for blizzards, the organization of ideas could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new categories like 'Characteristics' and 'Location' that are not present in the ground truth, leading to a less coherent structure. Additionally, some key concepts from the ground truth are missing or inadequately covered."
+  },
+  "mermaid_code_L_0461.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information clearly and maintains a logical flow, but lacks some thematic depth compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized and covers key concepts, but it is less detailed and lacks some hierarchical consistency found in the ground truth."
+  },
+  "mermaid_code_L_0594.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less coherent than the ground truth, which maintains a more logical progression of concepts.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it lacks some depth and consistent hierarchy compared to the ground truth, which provides a more comprehensive structure."
+  },
+  "mermaid_code_L_0684.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it harder to understand the connections between concepts compared to the ground truth. The flow of ideas is disrupted by the mixing of categories and concepts.",
+    "structural_score": 2,
+    "structural_comment": "The organization of the generated mind map is poor, with overlapping categories and a lack of consistent hierarchy. Key concepts are not grouped logically, and the level of detail is inconsistent, leading to confusion."
+  },
+  "mermaid_code_L_0593.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, enhancing understanding. However, it introduces some additional categories that may slightly detract from the thematic focus compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers a broad range of concepts, but it lacks the same level of detail and consistent hierarchy found in the ground truth, particularly in the grouping of ideas."
+  },
+  "mermaid_code_L_0466.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some definitions and explanations are less detailed compared to the ground truth, which may hinder full understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some key concepts and details present in the ground truth, such as specific risks associated with hypertension and a more comprehensive view of factors affecting blood pressure."
+  },
+  "mermaid_code_L_0814.txt": {
+    "cognitive_score": 6,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed explanation of Boyle's Law, making it easier for users to understand the concepts. The flow of ideas is logical, and the thematic relevance is strong, particularly in the explanation and implications sections.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively. However, it could improve in the consistency of hierarchy, as some sections are less clearly defined compared to the ground truth. Overall, it is a strong structure but not as complete as the ground truth."
+  },
+  "mermaid_code_L_0703.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, but it introduces some additional details that may slightly complicate understanding compared to the ground truth. The flow of ideas is logical, but the added complexity in characteristics and habitats may require more cognitive effort to process.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized and covers a broader range of details, including specific habitats and characteristics. It maintains a consistent hierarchy and effectively groups related ideas, although it could benefit from a more concise presentation of some concepts."
+  },
+  "mermaid_code_L_0414.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, but it lacks some thematic depth compared to the ground truth, which provides more detailed definitions and examples that enhance understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers additional concepts like food webs and trophic levels, but it lacks the same level of detail and hierarchical clarity found in the ground truth, which may affect logical completeness."
+  },
+  "mermaid_code_L_0297.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less intuitive compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could lead to confusion for users unfamiliar with the subject.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and grouping of ideas compared to the ground truth. While it covers many key concepts, the level of detail is inconsistent, and some important aspects of the scientific method and peer review process are not as thoroughly represented."
+  },
+  "mermaid_code_L_0290.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy to understand. However, it lacks some thematic relevance compared to the ground truth, particularly in the depth of examples provided.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it does not fully match the hierarchical structure and detail level of the ground truth, particularly in the grouping of ideas."
+  },
+  "mermaid_code_L_0620.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less direct compared to the ground truth. The thematic relevance is maintained, but some connections are less intuitive.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and complete than the ground truth. Key concepts are present but lack a consistent hierarchy, and some details are scattered rather than grouped effectively."
+  },
+  "mermaid_code_L_0365.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less organized, making it slightly harder to follow than the ground truth. However, it maintains thematic relevance and provides a good flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in certain areas compared to the ground truth. While it covers key concepts, the hierarchy and grouping of ideas are not as consistent, leading to a slightly less logical structure."
+  },
+  "mermaid_code_L_0669.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a somewhat clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization. Key concepts are not grouped effectively, and there is an uneven level of detail across different sections, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0381.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, some thematic relevance is lost due to the inclusion of questions that may distract from the main concepts.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it lacks a consistent hierarchy and grouping of ideas compared to the ground truth, which affects its overall completeness."
+  },
+  "mermaid_code_L_0357.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, some thematic relevance is lost due to the rearrangement of concepts, which may slightly hinder understanding compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it lacks the same level of detail and consistent hierarchy found in the ground truth. Some groupings of ideas are less coherent, which affects the overall structure."
+  },
+  "mermaid_code_L_0164.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with definitions and examples that enhance understanding. However, it lacks some thematic depth compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it does not maintain the same level of hierarchical consistency and detail as the ground truth, particularly in the grouping of ideas."
+  },
+  "mermaid_code_L_0660.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information about reptiles clearly, but the generated mind map lacks some thematic relevance and flow compared to the ground truth, which organizes facts and misconceptions more effectively.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it is less comprehensive than the ground truth, which includes a wider range of topics and maintains a more consistent hierarchy."
+  },
+  "mermaid_code_L_1020.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with definitions and examples that enhance understanding. However, some thematic connections could be more explicitly stated to improve flow.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it lacks some hierarchical consistency in grouping related ideas, which could enhance logical completeness."
+  },
+  "mermaid_code_L_0577.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some definitions and examples are less detailed compared to the ground truth, which may hinder full understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map has some organizational issues, such as repeated sections and a lack of consistent hierarchy, which affects the logical flow and completeness of the concepts."
+  },
+  "mermaid_code_L_0388.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive compared to the ground truth. The thematic relevance is maintained, but some connections could be more explicit.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it introduces some redundancy and lacks a consistent hierarchy in certain areas, making it less logically complete than the ground truth."
+  },
+  "mermaid_code_L_0359.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less coherent than the ground truth. The thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers many key concepts, but it introduces some redundancy and lacks a consistent hierarchy in certain areas, particularly in the section discussing creativity."
+  },
+  "mermaid_code_L_0795.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a somewhat clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and has some redundancy in the coverage of concepts. Key ideas are grouped less effectively, and the level of detail is inconsistent, making it less organized than the ground truth."
+  },
+  "mermaid_code_L_0032.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some details are less concise compared to the ground truth, which may affect quick understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some hierarchical consistency and detail in certain areas compared to the ground truth."
+  },
+  "mermaid_code_L_0325.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive compared to the ground truth. The thematic relevance is maintained, but the additional details may overwhelm some users.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers a broader range of concepts, but it introduces some redundancy and less consistent hierarchy in the grouping of ideas compared to the ground truth."
+  },
+  "mermaid_code_L_0482.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but it lacks some thematic relevance and flow compared to the ground truth. Some details are missing or less organized, which may hinder understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It does not cover all key concepts and lacks a consistent hierarchy, making it harder to follow the relationships between ideas."
+  },
+  "mermaid_code_L_0826.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and detailed explanation of Charles Law, enhancing understanding through specific examples and effects. However, it lacks some thematic relevance found in the ground truth, such as the explicit mention of gas behavior.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in hierarchical consistency and grouping of ideas, particularly in the historical context section, which is less integrated compared to the ground truth."
+  },
+  "mermaid_code_L_0445.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and accessible manner, with a logical flow of ideas. However, it lacks some thematic relevance found in the ground truth, particularly in the details of flower structure and the comparison with gymnosperms.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it could improve in the consistency of hierarchy and grouping of ideas, especially in the flower structure section and the omission of the comparison with gymnosperms."
+  },
+  "mermaid_code_L_0024.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is slightly less intuitive than the ground truth. The thematic relevance is maintained, but the inclusion of questions may distract from the main concepts.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in certain areas compared to the ground truth. Key concepts are covered, but the hierarchy is not as consistent, particularly with the introduction of questions that disrupt the logical flow."
+  },
+  "mermaid_code_L_0561.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but some connections are less direct, making it slightly harder to process.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is organized but lacks some key concepts and details present in the ground truth. While it covers various aspects of echinoderms, the hierarchy and grouping of ideas are not as consistent, leading to a less comprehensive structure."
+  },
+  "mermaid_code_L_0100.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less intuitive compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and does not cover all key concepts in the same depth as the ground truth. Some ideas are grouped together in a way that may confuse users, and the level of detail is inconsistent."
+  },
+  "mermaid_code_L_0566.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and organized manner, making it easy for users to understand the importance of reptiles. However, some thematic relevance is slightly less focused compared to the ground truth, particularly in the section about pets and symbolism.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts effectively, but it introduces some additional categories that may dilute the focus. The hierarchy is mostly consistent, but the inclusion of 'Favorite Reptiles' feels somewhat out of place compared to the more thematic sections in the ground truth."
+  },
+  "mermaid_code_L_0671.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and understandable manner, with a logical flow of ideas. However, it lacks some thematic relevance compared to the ground truth, particularly in the organization of examples and definitions.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but introduces some new categories (like 'Hypothesis' and 'Importance') that are not present in the ground truth. This adds detail but also detracts from the logical completeness and hierarchy established in the ground truth."
+  },
+  "mermaid_code_L_0430.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but lacks some thematic relevance and flow compared to the ground truth. While it covers key concepts, the organization of ideas could be improved for better understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It misses some key concepts and does not maintain a consistent hierarchy, leading to a less comprehensive coverage of the topic."
+  },
+  "mermaid_code_L_1043.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and structured manner, making it easy to understand. However, it lacks some thematic depth compared to the ground truth, which may affect the user's ability to fully grasp the nuances of the technological design process.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts, but it is less comprehensive than the ground truth. Some details are missing, and the hierarchy is not as consistent, particularly in the examples and applications sections."
+  },
+  "mermaid_code_L_0839.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some thematic relevance is lost due to the inclusion of less relevant sections like 'Scientific Investigations' and 'Questions', which may distract from the main focus on communication.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical, with some key concepts missing or inadequately detailed, such as the challenges in communication and the role of science writers, which are crucial for a comprehensive understanding."
+  },
+  "mermaid_code_L_0961.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic relevance is lost due to the introduction of new concepts like 'Scientific Knowledge' and 'Challenges' that are not present in the ground truth. This may confuse users trying to follow the original structure.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and organization. While it covers some key concepts, the grouping of ideas is less logical, and the introduction of additional categories dilutes the focus on the main themes of the ground truth."
+  },
+  "mermaid_code_L_0604.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information clearly, but the generated mind map lacks some thematic connections and flow compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and misses some key concepts and hierarchical structure present in the ground truth, leading to a less comprehensive overview."
+  },
+  "mermaid_code_L_1044.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents the information in a clear manner, but some connections between ideas could be more explicitly stated to enhance understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some depth in the grouping of ideas and coverage of key concepts compared to the ground truth."
+  },
+  "mermaid_code_L_0219.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces unnecessary complexity and lacks clarity in the flow of ideas, making it harder for users to understand the relationships between concepts compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "While the generated mind map is organized and covers a range of concepts, it does not maintain a consistent hierarchy and introduces categories that dilute the focus on key concepts, making it less effective than the ground truth."
+  },
+  "mermaid_code_L_0631.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance, making it harder for users to understand the relationships between concepts. The flow of ideas is disjointed, leading to confusion.",
+    "structural_score": 2,
+    "structural_comment": "The organization of the generated mind map is poor, with a lack of logical grouping and coverage of key concepts. The hierarchy is inconsistent, and important details are either missing or misplaced."
+  },
+  "mermaid_code_L_0526.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional elements like resources and questions that detract from the clarity and thematic focus on frogs and toads. This makes it harder for users to process the core information compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "While the generated mind map is organized and covers many relevant concepts, the inclusion of less relevant sections (like resources and questions) disrupts the logical flow and hierarchy, making it less effective than the ground truth."
+  },
+  "mermaid_code_L_0373.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information clearly but introduces some additional details that may complicate understanding for users unfamiliar with the topic. The flow of ideas is generally logical, but the added complexity could hinder quick comprehension.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks some key concepts and has a less consistent hierarchy compared to the ground truth. While it covers some relevant details, the organization of ideas is not as coherent, leading to potential confusion about the relationships between concepts."
+  },
+  "mermaid_code_L_0712.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some terms are less precise than in the ground truth, which may affect understanding. The flow of ideas is logical, but the thematic relevance could be improved by maintaining closer alignment with the original concepts.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers a broader range of concepts, but it lacks the consistent hierarchy and grouping of ideas found in the ground truth. Some sections, like 'Methods' and 'Goals', introduce new concepts that may dilute the focus on the core themes of science."
+  },
+  "mermaid_code_L_0636.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but the organization of concepts could lead to some confusion for users trying to understand the relationships between adaptations and their functions.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and grouping of ideas compared to the ground truth. While it covers many key concepts, the organization is less logical, leading to redundancy and a less effective presentation of the relationships between the concepts."
+  },
+  "mermaid_code_L_0644.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but some thematic connections are less direct compared to the ground truth, which may hinder immediate understanding.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks some key concepts and hierarchical consistency found in the ground truth, particularly in the classification of primates."
+  },
+  "mermaid_code_L_0149.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and concise manner, making it easy to understand. However, it lacks some thematic depth compared to the ground truth, which provides more detailed explanations and examples.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized but lacks the same level of detail and consistent hierarchy found in the ground truth. Some key concepts are grouped together, but the overall structure could be improved for better logical flow."
+  },
+  "mermaid_code_L_0528.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a somewhat clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of concepts can lead to confusion.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks logical organization and completeness. Key concepts are repeated unnecessarily, and the hierarchy is inconsistent, making it harder to follow compared to the ground truth."
+  },
+  "mermaid_code_L_0585.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. The thematic relevance is maintained, but the additional questions may cause some confusion in understanding the core concepts.",
+    "structural_score": 3,
+    "structural_comment": "The organization of the generated mind map is less logical and complete than the ground truth. Key concepts are present, but the grouping of ideas is inconsistent, and the hierarchy is not as clear, leading to a lack of depth in some areas."
+  },
+  "mermaid_code_L_0554.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map presents information in a clear manner, but the flow of ideas is less coherent compared to the ground truth. Some thematic relevance is maintained, but the organization of topics could lead to confusion for users unfamiliar with the subject.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and grouping of ideas compared to the ground truth. Key concepts are covered, but the level of detail is inconsistent, and some sections overlap, which detracts from the overall organization."
+  }
+}

@@ -1,0 +1,51 @@
+mindmap
+  Scientific Method
+    Definition
+      Systematic approach to answer questions about natural world
+    Steps
+      Ask Question
+        Based on observations or data
+      Background Research
+        Understand question and context
+      Create Hypothesis
+        Predict outcome of experiment
+      Experiment or Observation
+        Test hypothesis
+      Gather Data
+        Collect results
+      Formulate Conclusion
+        Analyze data and draw conclusions
+    Characteristics of Scientific Questions
+      Testable
+        Can be answered with data
+      Observations
+        Direct and indirect
+      Inferences
+        Draw conclusions based on observations
+    Examples
+      Tomato Plants
+        Independent Variable: Type of fertilizer
+        Dependent Variable: Plant growth
+      CO2 Levels
+        Independent Variable: Time period
+        Dependent Variable: CO2 concentration
+    Good Science Questions
+      Clear and specific
+      Testable
+      Relevant
+    Non-Science Questions
+      Not testable
+      Lack clarity or specificity
+      Irrelevant
+  Global Warming
+    Causes
+      Increased CO2 levels
+      Greenhouse Effect
+    Effects
+      Rising Temperatures
+      Melting Ice Caps
+      Rising Sea Levels
+    Solutions
+      Reduce CO2 Emissions
+      Increase Energy Efficiency
+      Develop

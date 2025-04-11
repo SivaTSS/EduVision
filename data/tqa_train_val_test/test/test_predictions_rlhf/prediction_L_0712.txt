@@ -1,0 +1,39 @@
+mindmap
+  Science
+    Definition
+      Evidence-based
+      Logical
+    Induction
+      Drawing conclusions
+      Example: Gravity
+    Scientific Theories
+      Broad explanation
+      Widely accepted
+      Example: Kinetic Theory of Matter
+    Scientific Laws
+      Statement of natural phenomena
+      Example: Newton's Law of Gravity
+    History of Science
+      Ancient civilizations
+      Greek philosophers
+      Scientific Revolution
+    Contributions of Women and Minorities
+      Marie Curie
+      Lise Meitner
+      Ada Yonath
+      Shirley Ann Jackson
+      Ellen Ochoa
+    Milestones in Science
+      Mesopotamian calendar
+      Thales
+      Aristotle
+      Alhazen
+      Galileo
+      Human Chromosomes
+      Nuclear Fission
+      Ribosomes
+      Space Missions
+    Importance of Science
+      Understanding the world
+      Improving lives
+      Advancing technology

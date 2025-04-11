@@ -1,0 +1,27 @@
+mindmap
+  Ethics in Science
+    Definition
+      Deciding what's right and wrong
+    Importance
+      Ensuring safe and reliable science
+      Guiding scientific investigations
+    Ethical Rules
+      Honesty in reporting results
+      Avoiding bias
+      Carefulness in data collection
+      Informing coworkers and community about risks
+      Humane treatment of animals
+      Informed consent for human subjects
+    Ethical Dilemmas
+      Pacific Yew example
+        Right: Saving lives with anti-cancer drug
+        Wrong: Endangering tree and risking extinction
+    Personal Decisions
+      Example: Young person's choice
+      Rights and wrongs of choices
+      Ethical considerations
+    Scientific Knowledge and Ethics
+      Climate change example
+        Right: Reducing impact on climate change
+        Wrong: Driving cars that contribute to climate change
+        Ethical solutions: Carpooling, reducing energy use

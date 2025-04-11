@@ -1,0 +1,38 @@
+mindmap
+  Terrestrial Biomes
+    Definition
+      Area of land with similar climate
+      Similar communities of plants and animals
+    Factors Affecting Biome Type
+      Latitude
+        Arctic
+        Boreal
+        Temperate
+        Subtropical
+        Tropical
+      Humidity
+        Humid
+        Semi-humid
+        Semi-arid
+        Arid
+      Elevation
+        Colder as you go higher
+    Examples of Terrestrial Biomes
+      Tropical Rainforest
+      Chaparral
+      Taiga
+    Desert
+      Definition
+        Rainfall less than 50 cm (20 inches) per year
+    Tundra
+      Characteristics
+        Frost-molded landscapes
+        Low temperatures
+        Little precipitation
+        Poor nutrients
+        Short growing seasons
+      Types
+        Arctic Tundra
+        Alpine Tundra
+    Biodiversity
+      Highest near the equator

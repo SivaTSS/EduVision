@@ -1,0 +1,35 @@
+mindmap
+  Scientific Ways of Thinking
+    Understanding Science
+      Resource: Understanding Science at http://undsci.berkeley.edu/article/scienceflowchart
+    Questions
+      1. Interpreting Data Responses
+      2. Peer Review Importance
+      3. Exploration and Discovery Processes
+    Modern Science
+      Definition
+      Observation
+      Hypothesis
+    Scientific Process
+      Ask Questions
+      Make Detailed Observations
+      Develop Hypothesis
+      Find Answers Using Tests
+      Question Answers
+    Thinking Like a Scientist
+      Key to Being a Great Scientist
+      Asking Questions
+      Making Detailed Observations
+      Developing a Hypothesis
+      Finding Answers Using Tests
+      Questioning Answers
+    Example: Chimpanzee Study
+      Observations
+      Hypothesis
+      Experiment
+      Evidence
+      Questioning Answers
+    Importance of Skepticism
+      Skepticism in Science
+      Questioning Own Conclusions
+      Seeking Confirmation or Disagreement from Other Scientists

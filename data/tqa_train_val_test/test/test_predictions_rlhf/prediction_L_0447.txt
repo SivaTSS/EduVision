@@ -1,0 +1,47 @@
+mindmap
+  Animal Communication
+    Definition
+      Sharing information
+    Importance
+      Increases fitness
+      Helps animals find food
+      Defend against predators
+      Mate
+      Care for offspring
+    Methods
+      Sound
+        Birds
+        Monkeys
+        Frogs
+        Gibbons
+      Sight
+        Primates
+        Chimpanzees
+        Peacocks
+      Scent
+        Ants
+        Dogs
+    Human Communication
+      Language
+        Use of symbols
+        Words
+      Facial Expressions
+      Gestures
+    Examples
+      Birds
+        Warning cries
+        Flocking
+      Monkeys
+        Warning cries
+      Frogs
+        Mating
+      Gibbons
+        Territory
+      Primates
+        Aggression
+      Peacocks
+        Mating
+      Ants
+        Chemicals
+      Dogs
+        Territory

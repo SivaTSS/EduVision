@@ -1,0 +1,33 @@
+mindmap
+  Animal-like Protists (Protozoa)
+    Definition
+      Single-celled eukaryotes
+      Share traits with animals
+    Characteristics
+      Heterotrophs
+      Move by flagella, cilia, or pseudopodia
+      Size: 0.010.5mm
+    Examples
+      Flagellates: Trypanosoma (African sleeping sickness)
+      Ciliates: Paramecium
+      Sporozoans: Toxoplasma (no movement)
+    Groups
+      Flagellates
+        Long flagella (propeller-like movement)
+      Ciliates
+        Move by cilia (thin tail-like projections)
+      Sporozoans
+        Produce spores (no movement)
+    Distinguishing Features
+      Flagellates: Long flagella
+      Ciliates: Cilia for movement
+      Sporozoans: Produce spores
+    Taxonomy
+      Protista Kingdom
+      Proposed by: Carl Linnaeus
+      Origin: Combination of Protozoa and Plant-like protists
+    Questions
+      1. Who proposed the five kingdom taxonomic system?
+      2. How did the Kingdom Protista come about?
+      3. Define protozoa.
+      4. What

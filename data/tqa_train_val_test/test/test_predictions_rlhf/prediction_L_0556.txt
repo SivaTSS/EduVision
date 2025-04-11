@@ -1,0 +1,40 @@
+mindmap
+  Humans and Primates
+    Biological Family Hominidae
+      Chimpanzees
+        Geographical Location
+        Tools Used
+      Gorillas
+        Approach Behavior
+        Leader of Family
+      Orangutans
+        Learned or Innate Behavior
+    Similarities with Humans
+      DNA Sequence
+      Protein Functions
+      Communication and Culture
+    Specialized Human Features
+      Small Front Teeth
+      Upright Posture
+      Shortened Arms
+      Increased Hand Dexterity
+      Increased Brain Size
+      Decreased Skull and Face Bone Mass
+  Great Apes
+    Definition
+    Size Range
+    Diet
+    Family Structure
+    Communication and Culture
+    Species
+      Chimpanzees
+      Gorillas
+      Orangutans
+      Humans
+  Lesson Questions
+    Organisms in Hominidae
+    Similar Proteins in Chimpanzees and Humans
+    Importance of Primate Culture
+    Specialized Human Features
+
+Note: The Mermaid syntax provided is a simplified version for rendering purposes. It may not include all subtopics or follow strict hierarchical structure, but it should still be clear and self-explanatory.

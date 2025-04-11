@@ -1,0 +1,49 @@
+mindmap
+  Technological Design Process
+    Definition
+      New technology development
+    Steps
+      Identify problem
+      Research problem
+      Generate solutions
+      Select best solution
+      Create model
+      Test model
+      Refine and retest model
+      Communicate solution
+    Similarities with Scientific Investigation
+      Evidence and reason
+      Logical sequence
+    Tri-ATHLETE Example
+      Problem: Robot for disaster response
+      Solution: Tri-ATHLETE robot
+      Testing: Field tests, simulations
+      Refinement: Improvements in later versions
+    Design Process Flowchart
+      Identify problem
+      Research problem
+      Generate solutions
+      Select best solution
+      Create model
+      Test model
+      Refine and retest model
+      Communicate solution
+    Designing a Solar-Powered Car
+      Questions to research
+        Shape for sun rays
+        Energy conversion
+        Back-up energy source
+    Designing a Personal Item Carrier for Wheelchair Users
+      Questions to research
+        Personal items to carry
+        Carrier or holder types
+        Attachment points
+    Making a Model
+      Sketch idea
+      Use simple materials
+    Testing a Model
+      Test in a wheelchair
+      Ensure functionality
+    Example Questions
+      What personal items might be needed?
+      What types of carriers or holders might be used?

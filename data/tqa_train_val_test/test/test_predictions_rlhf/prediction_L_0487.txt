@@ -1,0 +1,48 @@
+mindmap
+  Chordates
+    Definition
+      Group of animals
+      Shared characteristics
+    Characteristics
+      Notochord
+        Rigid structure
+        Muscle attachment
+      Post-anal tail
+        Opposite head
+        Extends past anus
+      Dorsal hollow nerve cord
+        Runs along top
+        Develops into brain/spinal cord
+      Pharyngeal slits
+        Filter food from water
+        Present in embryonic stage
+    Examples
+      Vertebrates
+        Fish
+        Amphibians
+        Reptiles
+        Birds
+        Mammals
+      Invertebrates
+        Tunicates
+        Lancelets
+    Development
+      Four traits present
+        Post-anal tail
+        Dorsal hollow nerve cord
+        Notochord
+        Pharyngeal slits
+      Traits disappear in some chordates
+        Humans
+    Classification
+      Subphyla
+        Urochordata
+          Tunicates
+        Cephalochordata
+          Lancelets
+        Vertebrata
+          Fish
+          Amphibians
+          Reptiles
+          Birds
+          Mammals

@@ -1,0 +1,48 @@
+mindmap
+  Mammal Classification
+    Traditional Methods
+      Anatomy
+      Habitats
+      Feeding Habits
+    Subclasses and Orders
+      Lagomorphs
+        Rabbits
+        Hares
+      Rodents
+        Rats
+        Mice
+      Carnivores
+        Cats
+        Lions
+      Insectivores
+        Moles
+        Shrews
+      Bats
+        Vampire Bat
+      Primates
+        Monkeys
+        Apes
+        Humans
+      Ungulates
+        Deer
+        Sheep
+        Goats
+        Pigs
+        Elephants
+        Giraffes
+    Modern Approaches
+      Genetic Analysis
+      Ecological Niche
+    Island Ecosystems
+      Mammal Conservation
+      Biodiversity
+    Case Studies
+      Platypus Parts
+        Habitat
+        Diet
+        Foraging Behavior
+        Male Spur
+    Resources
+      Mammal Conservation in Island Ecosystems
+      Ungulates: Animal Planet
+      Platypus Parts

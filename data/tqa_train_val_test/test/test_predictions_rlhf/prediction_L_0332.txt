@@ -1,0 +1,52 @@
+mindmap
+  Tornadoes
+    Formation
+      Supercells
+        Elements
+          Rising air
+          Surrounding air
+        Power
+          Cap
+          Jet stream
+    Characteristics
+      Wind speed
+        Average
+        Maximum
+      Duration
+        Few seconds
+        Several hours
+      Path
+        Speed
+        Distance
+    Damage
+      Injuries
+        Flying debris
+      Deaths
+        Violent tornadoes
+    Prediction
+      Thunderstorms
+        Air masses
+          Maritime tropical
+          Continental polar
+      Warning
+        Radar
+        Prediction
+    Intensity
+      Fujita Scale
+        F0-F6
+        Wind speed
+        Damage
+    Frequency
+      Annual average
+      Variation
+    Regions
+      Tornado Alley
+        Location
+        Violent tornadoes
+    Impact
+      Destruction
+        Structures
+        Vehicles
+      Casualties
+        Injuries
+        Deaths

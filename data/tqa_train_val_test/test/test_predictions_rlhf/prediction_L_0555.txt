@@ -1,0 +1,42 @@
+mindmap
+  Human Vision
+    Definition
+      Ability to see light
+      Depends on eyes detecting light and forming images
+      Brain interpreting images
+    Importance
+      Primates rely on vision more than other animals
+      Humans can see in 3D and color
+    Eye Components
+      Cornea
+        Protective layer
+        Refracts light
+      Pupil
+        Adjusts size to control light
+      Retina
+        Contains two main cells
+          Rods
+            Sensitive to light
+            Detect black and white
+          Cones
+            Sensitive to color
+            Detect detail
+    Depth Perception
+      Two eyes facing same direction
+      Slightly different angles
+      Brain interprets differences
+    Color Vision
+      Humans see in color
+      Other animals see in shades of gray
+      Bees and butterflies see ultraviolet patterns
+    Evolutionary Advantage
+      Primates evolved depth perception
+        Helped tree-dwelling primates survive
+      Primates evolved color vision
+        Helped fruit-eating primates find food
+    Raptors Night Vision
+      Can see up to 8 times better than humans
+      Can see a rabbit from a mile away
+    Adaptation
+      Depth perception and color vision helped early primates survive
+      Humans have better

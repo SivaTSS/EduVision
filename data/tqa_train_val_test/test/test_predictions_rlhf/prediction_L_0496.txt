@@ -1,0 +1,41 @@
+mindmap
+  Control of Insects
+    Resources
+      Deadly Mating at (3:05)
+      Biological Control at Cornell Universitys Department of Entomology
+    Questions
+      How are farmers seeking to control diamondback moths (Plutella xylostella)?
+      What is an entomologist?
+      What is a danger of introducing a new insect as a biological control mechanism?
+      Why do people like biological control for food crops?
+    Insect Pests
+      Parasitic Insects
+        Mosquitoes
+        Lice
+        Bed Bugs
+      Disease Transmitting Insects
+        Mosquitoes
+        Flies
+      Structure Damaging Insects
+        Termites
+      Crop Destroying Insects
+        Locusts
+        Weevils
+    Control Methods
+      Biological Control
+        Predation
+          Ladybugs
+          Lacewings
+          Hoverflies
+        Parasitism
+          Wasps
+          Flies
+      Chemical Control
+        Insecticides
+          Insect-killing chemicals
+          Human, fish, and honeybee poisonings
+          Contamination of meat and dairy products
+    Considerations
+      Success against target pest
+      Impact on natural enemies of the pest
+      Susceptibility of crop to

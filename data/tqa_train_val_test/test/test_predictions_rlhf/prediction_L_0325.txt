@@ -1,0 +1,18 @@
+mindmap
+  Atmosphere Temperature
+    Causes of Convection
+      Warm Air Rises
+        Lower Density
+      Cool Air Sinks
+        Higher Density
+    Atmospheric Layers
+      Temperature Gradients
+        Different Layers
+        Temperature Gradient
+          Change in Temperature
+          Distance
+    Plate Tectonics Connection
+      Convection in Atmosphere
+        Similar to Plate Movement
+    Video Resource
+      URL: [Link]

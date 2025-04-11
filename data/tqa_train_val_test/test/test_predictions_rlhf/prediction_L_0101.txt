@@ -1,0 +1,30 @@
+mindmap
+  Blizzards
+    Definition
+      Temperature
+        Below -7 C (20 F)
+        -12 C (10 F) for severe blizzard
+      Wind
+        Greater than 56 kmh (35 mph)
+        -72 kmh (45 mph) for severe blizzard
+      Visibility
+        Snow so heavy that visibility is 2/5 km (1/4 mile) or less for at least three hours
+        Near zero visibility for severe blizzard
+    Formation
+      Mid-latitude cyclone
+        Jet stream brings cold air into contact with warm moist air
+      Lake-effect snow
+        Cold polar air absorbs moisture over Great Lakes
+        Dumps snow downwind
+    Occurrence
+      Middle latitudes and toward poles
+      Winter season
+      U.S. locations
+        Great Lakes region
+        Northeast
+    Survival
+      Stay indoors
+      Avoid travel
+      Dress warmly
+      Have emergency supplies
+      Listen to weather reports

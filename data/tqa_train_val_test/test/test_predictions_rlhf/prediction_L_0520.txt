@@ -1,0 +1,48 @@
+mindmap
+  Life Sciences
+    Branches
+      Botany
+        Focus: Plants
+      Zoology
+        Focus: Animals
+      Marine Biology
+        Focus: Ocean Life
+      Freshwater Biology
+        Focus: Freshwater Life
+      Microbiology
+        Focus: Microorganisms
+      Bacteriology
+        Focus: Bacteria
+      Virology
+        Focus: Viruses
+      Entomology
+        Focus: Insects
+      Taxonomy
+        Focus: Classification of Organisms
+    Subspecialties
+      Cell Biology
+        Focus: Cells and Structures
+      Anatomy
+        Focus: Structures of Animals
+      Morphology
+        Focus: Form and Structure
+      Physiology
+        Focus: Functions of Tissues and Organs
+      Immunology
+        Focus: Immune System
+      Neuroscience
+        Focus: Nervous System
+      Developmental Biology
+        Focus: Growth and Development
+      Genetics
+        Focus: Genetic Makeup
+      Biochemistry
+        Focus: Chemistry of Living Organisms
+      Molecular Biology
+        Focus: Nucleic Acids and Proteins
+      Epidemiology
+        Focus: Disease Spread
+      Evolution
+        Focus: Species Changes
+    Interactions
+      Ecology

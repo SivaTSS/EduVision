@@ -1,0 +1,39 @@
+mindmap
+  Archaea
+    Location
+      Extreme Environments
+        Halophiles
+          Great Salt Lake
+          Dead Sea
+        Thermophiles
+          Hot Springs
+          Geysers
+          Near Volcanoes
+      Common Environments
+        Soil
+        Ocean
+    Characteristics
+      Cell Wall
+        Differences from Bacteria
+      Phospholipids
+        Adaptation to Harsh Environments
+    Photosynthesis
+      Photosynthetic Archaea
+      Location
+    Mutualistic Relationships
+      Methanogens
+        Methane Production
+        Role in Animal Digestion
+        Example: Cows and Termites
+    Types of Archaea
+      Halophiles
+        Salt-Loving
+      Thermophiles
+        Extremely Hot Environments
+      Methanogens
+        Methane Producers
+        Role in Animal Digestion
+    Soil and Ocean Presence
+      New Research Findings
+      Abundance in Soil
+      Plankton in Ocean

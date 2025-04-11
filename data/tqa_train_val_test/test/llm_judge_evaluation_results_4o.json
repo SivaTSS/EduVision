@@ -1,0 +1,1262 @@
+{
+  "mermaid_code_L_0379.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including a definition of mammals and additional behaviors, which enhances understanding. It maintains thematic relevance and clarity, making it slightly better than the ground truth.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a consistent hierarchy and includes additional details such as behaviors and a more comprehensive list of orders. It covers key concepts effectively, making it slightly better than the ground truth."
+  },
+  "mermaid_code_L_0988.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader range of examples and applications, which can enhance understanding by relating concepts to real-world scenarios. It maintains thematic relevance and clarity, making it slightly easier to mentally process compared to the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and includes additional sections such as 'Applications' and 'Conclusion', which provide a more comprehensive view of the topic. It covers key concepts with a consistent structure and offers more detailed examples, making it more logically complete than the ground truth."
+  },
+  "mermaid_code_L_0922.txt": {
+    "cognitive_score": 2,
+    "cognitive_comment": "The generated mind map is less clear and more repetitive than the ground truth. It lacks thematic relevance and clarity, as it redundantly repeats the same subtopics under different branches, making it difficult to follow and understand.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical flow, with excessive repetition of ideas under different sections. The structure is confusing, and key concepts are not grouped effectively, leading to a lack of logical completeness."
+  },
+  "mermaid_code_L_0696.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and question-driven approach, which can enhance understanding by directly addressing common queries about evolution. It includes specific questions and answers that clarify misconceptions, making it easier for users to process the information. However, it may be slightly less thematic as it mixes educational content with structural explanations.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map offers a more detailed breakdown of concepts, such as specific questions and answers. However, it lacks some historical context and the explicit mention of key figures like Charles Darwin and Ernst Haeckel, which are present in the ground truth. The generated map is more focused on educational clarity rather than comprehensive historical coverage."
+  },
+  "mermaid_code_L_1075.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Representation in Science' and 'Advice for Girls' without clear integration into the main theme. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks the detailed hierarchy and grouping of ideas present in the ground truth. Key concepts like 'Historical Context' and specific details about notable scientists' contributions are missing, leading to a less comprehensive structure."
+  },
+  "mermaid_code_L_0254.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more segmented manner, which can aid in understanding by clearly distinguishing between observations and experiments. It also introduces a new section on hypothesis testing, which provides a clearer context for the data collection process. However, it lacks some thematic elements present in the ground truth, such as the specific mention of advanced technology in observations.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with distinct sections for types and techniques of observations, and a clear definition of experiments. It includes a section on hypothesis testing, which adds depth and context. The inclusion of examples and references further enhances the structure. However, it could improve by integrating some of the detailed examples and thematic elements from the ground truth."
+  },
+  "mermaid_code_L_0711.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces 'Causes of Differences' without clear context and mixes examples with characteristics, making it harder to follow. The flow of ideas is less coherent, and the thematic relevance is diluted by the scattered presentation of information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks a consistent hierarchy and does not cover key concepts like 'Influencing Factors' and 'Adaptations' comprehensively. The grouping of ideas is inconsistent, and the level of detail is uneven, with some areas overly detailed and others lacking depth."
+  },
+  "mermaid_code_L_0559.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more comprehensive view of biodiversity, including additional details such as pollination and waste recycling, which enhance understanding. However, it could be slightly overwhelming due to the repetition of ideas, such as the multiple mentions of 'inspiration for medicines.' Overall, it offers a richer cognitive experience with more thematic connections.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is more detailed and covers a broader range of concepts, such as conservation and additional ecosystem benefits. It maintains a logical structure with clear groupings, although the repetition of certain ideas could be streamlined for better clarity. The hierarchy is consistent, and the additional details provide a more complete picture of biodiversity."
+  },
+  "mermaid_code_L_0588.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It presents a mix of characteristics and behaviors without clear thematic grouping, making it harder to mentally process. The ground truth provides a more structured flow of ideas, with clear thematic sections such as 'Reptile Diversity' and 'Characteristics of Lizards'.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less organized and lacks logical completeness. It fails to cover key concepts such as 'Komodo Dragon' and 'Differences Between Snakes and Lizards' in detail. The hierarchy is inconsistent, with some sections overly detailed and others lacking depth. The ground truth offers a more balanced and comprehensive structure, with well-defined sections and consistent levels of detail."
+  },
+  "mermaid_code_L_0377.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear due to the lack of detailed traits for each reptile order, which makes it harder to understand the distinctions between them. The inclusion of examples is helpful but not well integrated into the thematic flow.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, as it lacks the detailed breakdown of traits for each order found in the ground truth. The hierarchy is less consistent, and the examples section is not clearly linked to the classification, reducing logical completeness."
+  },
+  "mermaid_code_L_0632.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces redundancy and lacks clarity in the 'Definition' sections, which are repeated unnecessarily. The thematic relevance is diluted by the repetition and the introduction of a new 'Plant Classification' node that is not well integrated.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized with redundant nodes and lacks a consistent hierarchy. The introduction of a new 'Plant Classification' node and repeated 'Definition' sections for 'Seedless Vascular Plants', 'Gymnosperms', and 'Angiosperms' disrupts the logical flow and completeness of the map."
+  },
+  "mermaid_code_L_0195.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed breakdown of the Cambrian Explosion and extinction events, making it easier to understand the evolution and significance of life forms during the Paleozoic era. It also includes additional details such as the origin of arthropods, fish, amphibians, and reptiles, which enhances thematic relevance.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more consistent hierarchy and logical flow. It provides a more comprehensive coverage of key concepts, such as the detailed breakdown of extinction events and the significance of extinctions. The inclusion of 'Later Paleozoic' as a category helps in understanding the progression of life forms, and the consistent use of subcategories improves the overall structure."
+  },
+  "mermaid_code_L_0029.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and detailed explanation of climate and its factors, making it easier to understand. It includes additional details such as the timing of precipitation and the specific effects of latitude and ocean currents, which enhance cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. It covers key concepts comprehensively and introduces a new section on predicting climate, which adds depth and completeness to the structure."
+  },
+  "mermaid_code_L_0448.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and concise understanding of animal-like protists, with a focus on their characteristics and classification. It simplifies the information by grouping similar concepts together, such as movement methods and examples, making it easier to process mentally. The inclusion of 'share traits with animals' adds thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized, with a clear hierarchy and logical grouping of ideas. It covers key concepts such as definition, characteristics, and classification. However, it lacks the explicit mention of taxonomy and the five kingdom system, which are present in the ground truth. The level of detail is comparable, but the ground truth provides a more complete picture of the taxonomy."
+  },
+  "mermaid_code_L_0600.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in thematic relevance and flow of ideas. It introduces a new category 'Evolutionary Changes' that overlaps with existing categories, causing redundancy and potential confusion. The ground truth mind map is more focused and clear in its thematic divisions.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, with overlapping categories and less detailed coverage of key concepts. It lacks the depth and consistent hierarchy present in the ground truth mind map, such as the detailed factors and outcomes of microevolution and the concepts related to macroevolution."
+  },
+  "mermaid_code_L_0339.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less detailed and lacks thematic depth compared to the ground truth. It provides a more superficial overview of marine organisms, omitting specific details such as the ecosystem importance of kelp, the specific types of plankton, and the detailed adaptations of fish. This makes it harder for a user to fully understand and mentally process the information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detailed grouping of ideas. Key concepts such as the specific types of marine plants and invertebrates are not covered in detail, and the hierarchy is inconsistent, with some categories like mammals being introduced without a clear connection to the rest of the map. The ground truth provides a more comprehensive and logically structured overview of marine organisms."
+  },
+  "mermaid_code_L_0672.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents a more streamlined and cohesive flow of ideas, with a clear emphasis on the scientific process and thinking. It introduces 'Key Questions' which guide the user's understanding and engagement with the content, enhancing cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map slightly improves on thematic grouping by integrating 'Exploration and Discovery' under 'Scientific Process' and adding 'Key Questions' for clarity. However, it lacks some specific examples and details present in the ground truth, such as the example of nutrient deficiency in chimpanzees."
+  },
+  "mermaid_code_L_0565.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically relevant compared to the ground truth. It combines 'Importance to People' and 'Importance to Ecosystem' under 'Protists', which can confuse the distinct roles these organisms play. The inclusion of 'Questions' as a separate category without context further detracts from clarity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks the detailed breakdown of concepts found in the ground truth, such as specific medical uses and scientific research areas. The hierarchy is inconsistent, with 'Algae Uses' and 'Questions' not fitting well into the overall structure, leading to a less comprehensive coverage of key concepts."
+  },
+  "mermaid_code_L_0562.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Food Webs' and 'Human Consumption' without clear connections to the main theme of insect importance. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and clear grouping of ideas. Key concepts such as 'Ecosystem Roles' and 'Pest Control' are not as thoroughly covered, and the level of detail is inconsistent, with some areas being overly detailed and others lacking depth."
+  },
+  "mermaid_code_L_0027.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides additional context and examples, such as 'Hurricane Katrina' and 'Common in Midwest,' which enhance understanding. It also introduces new sections like 'Impact of Storms,' making the information more comprehensive and easier to relate to real-world scenarios.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is more detailed and logically organized, with additional subcategories like 'Impact of Storms' and 'Warning Systems.' It maintains a consistent hierarchy and provides more specific details, such as 'More than 254 cm (100 inches)' for Lake-Effect Snow Storms, which enhances the depth and completeness of the information."
+  },
+  "mermaid_code_L_0446.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new categories like 'Thermoregulation' and 'Animal Examples' without clear integration into the main theme. The examples provided under 'Purposes' are specific but lack a clear connection to the broader categories, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical flow, with some sections like 'Animal Examples' and 'Questions' appearing disjointed. The coverage of key concepts is uneven, with some areas over-detailed and others underdeveloped, leading to a less comprehensive and coherent structure."
+  },
+  "mermaid_code_L_0497.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition of crustaceans and includes more detailed descriptions of their characteristics, which aids in understanding. It also offers a more comprehensive view of the classification by mentioning the number of classes and providing additional examples, enhancing thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated mind map offers a slightly more detailed classification and characteristics section. However, it lacks the 'Feeding' and 'Appendages' sections present in the ground truth, which affects the overall coverage of key concepts. The hierarchy and grouping of ideas are consistent in both maps."
+  },
+  "mermaid_code_L_0573.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically relevant compared to the ground truth. It introduces new examples like 'Cats hunting' and 'Gulls pecking at red spot' without clear context or explanation, which may confuse users. The conclusion is also vague and does not add significant cognitive value.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy, as seen in the redundant listing of 'Sucking reflex' and 'Grasp reflex' under both 'Reflex Behaviors' and 'Human Behaviors'. The 'Importance' section is vague and lacks detail, and the 'Conclusion' is not a typical component of a mind map, which disrupts the logical flow."
+  },
+  "mermaid_code_L_0486.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically relevant compared to the ground truth. It introduces a 'Lesson' node that is not thematically aligned with the rest of the map, and the flow of ideas is less coherent, with some sections like 'Nutrient-Poor Foods' not fitting well into the overall theme of choosing healthy foods.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks coverage of key concepts such as 'Energy Balance' and 'Lifestyle Choices' present in the ground truth. The hierarchy is inconsistent, with some sections overly detailed (e.g., listing specific foods) while others are missing entirely. The grouping of ideas is less effective, leading to a less comprehensive understanding of the topic."
+  },
+  "mermaid_code_L_0747.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more comprehensive and nuanced understanding of technology by including additional details such as the inclusion of methods, processes, and devices in the definition, and a more detailed timeline in the evolution of technology. It also clearly delineates the influence of society on technology and vice versa, enhancing thematic relevance and clarity.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical flow. It includes additional categories such as 'Evolution of Technology' and 'Nanotechnology' with detailed subpoints, providing a more complete coverage of key concepts. The grouping of ideas is consistent, and the level of detail is appropriate, making it structurally superior to the ground truth."
+  },
+  "mermaid_code_L_0450.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition of arachnids, which aids in understanding the context. It also includes additional details such as the subphylum and total number of species, enhancing thematic relevance. The flow of ideas is logical and easy to follow.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a consistent hierarchy. It includes a new section on 'Uses' and provides additional details about the subgroups, such as lifespan for scorpions and color variations for Opiliones. This enhances the coverage of key concepts and adds depth to the information presented."
+  },
+  "mermaid_code_L_0508.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces some redundancy and lacks clarity in certain areas. For example, 'Living organisms interact with each other' and 'Living organisms interact with environment' are repetitive under Ecology. The separation of 'Water Recycling' and 'Biogeochemical Cycles' is less clear than the integrated approach in the ground truth. Additionally, 'Energy Depiction' is vague and not well integrated into the overall theme.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces unnecessary subdivisions like 'Ecosystem Sites' and 'Energy Depiction' that disrupt the logical flow. The separation of 'Biogeochemical Cycles' and 'Water Recycling' is less coherent than the ground truth's unified 'Nutrient Recycling' section. The addition of 'Desert Botanical Gardens' as an ecosystem site is inconsistent with the other examples, which are broader ecosystems."
+  },
+  "mermaid_code_L_0115.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new categories like 'Weather Data Usage' and 'Data Analysis' that are not directly related to the core theme of data collection, which may confuse users. The flow of ideas is less intuitive, as it mixes data collection methods with data usage and analysis, making it harder to follow.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks a consistent hierarchy, as it combines data collection methods with data usage and analysis, which are separate themes. The grouping of ideas is less effective, with some categories like 'Weather Data Usage' and 'Data Analysis' being tangential to the main topic. The coverage of key concepts is less comprehensive, as it omits specific details like the types of data collected by satellites and the global launch of radiosondes."
+  },
+  "mermaid_code_L_0574.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new categories like 'Insect Senses' and 'Insect Mouthparts Adaptations' without clear integration into the main theme. The flow of ideas is disrupted by redundant categories and misplaced examples, such as 'Praying Mantises' under 'Plant Eaters'.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical grouping of ideas. Key concepts are scattered, and there is overlap in categories like 'Insect Food Sources' and 'Insect Feeding Methods'. The level of detail is inconsistent, with some sections overly detailed and others lacking depth. The ground truth provides a more comprehensive and logically structured overview of insect food and feeding methods."
+  },
+  "mermaid_code_L_0974.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear due to redundancy and less thematic coherence. It repeats concepts like 'Pressure Increases with Depth' and 'Pressure at Deep Ocean' without clear distinction, making it harder to follow. The ground truth is more concise and thematically organized.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks logical completeness and consistent hierarchy. It introduces redundant nodes like 'Pressure at Deep Ocean' and 'Diving Deep Below the Surface' without clear differentiation. The ground truth has a more coherent structure with clear grouping and hierarchy."
+  },
+  "mermaid_code_L_0611.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides clear definitions and examples, making it easier to understand the concepts of natural selection and evolution. The flow of ideas is logical, with a clear explanation of the process and its importance, enhancing cognitive processing.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized with a consistent hierarchy and logical grouping of ideas. It covers key concepts with sufficient detail and provides examples that enhance understanding. The structure is more comprehensive and logically complete compared to the ground truth."
+  },
+  "mermaid_code_L_0354.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new sections like 'Interest' and 'Questions' that are not directly relevant to the core comparison of weather and climate, which may confuse users. The flow of ideas is less clear due to these additional, less relevant sections.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a clear hierarchical structure and logical grouping compared to the ground truth. It introduces unrelated sections like 'Interest' and 'Questions' that do not contribute to the main theme. The coverage of key concepts is less comprehensive, and the hierarchy is inconsistent."
+  },
+  "mermaid_code_L_0353.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear due to redundancy and less thematic relevance. It repeats information under different headings, such as 'Symbols' and 'Isolines', which can confuse users. The flow of ideas is less coherent compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized. It lacks a consistent hierarchy and logical grouping of ideas, with redundant sections like 'Symbols' and 'Isolines'. Key concepts are not as clearly covered, and the level of detail is inconsistent, making it less complete than the ground truth."
+  },
+  "mermaid_code_L_0382.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic focus compared to the ground truth. It introduces new subcategories like 'Animal Communication' and 'Territorial Animals' that are not clearly integrated with the main theme of 'Animal Behavior'. The flow of ideas is less coherent, as it mixes specific examples with general concepts without a clear hierarchy.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical grouping of ideas. For instance, 'Cooperation' is separated from 'Social Animals', and 'Territorial Animals' is introduced as a separate category rather than under 'Defensive Behaviors'. The level of detail is inconsistent, with some areas overly detailed (e.g., specific animal examples) and others lacking (e.g., 'Daily Cycles' is incomplete)."
+  },
+  "mermaid_code_L_0160.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces redundant and disorganized elements, such as repeating 'Plate Tectonics Theory' and 'Climate Change Theory' without clear differentiation. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized and lacks logical completeness. It repeats concepts like 'Plate Tectonics Theory' and 'Climate Change Theory' without adding new insights. Key concepts are scattered, and the hierarchy is inconsistent, leading to a fragmented structure compared to the well-organized ground truth."
+  },
+  "mermaid_code_L_0973.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It presents information in a more fragmented manner, making it harder to follow. The flow of ideas is less coherent, and the thematic connections between concepts are not as clearly established.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detail, particularly in the grouping of ideas and coverage of key concepts. The ground truth provides a more comprehensive and detailed exploration of the topic, with a clearer structure and hierarchy."
+  },
+  "mermaid_code_L_0707.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces some new elements like 'Size Range' and 'Definition' that are not directly aligned with the thematic structure of the ground truth. The flow of ideas is less coherent, as it mixes general characteristics with specific class details without clear separation.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks the detailed exploration of key concepts such as 'Phylogeny' and 'Key Factors in Size'. The hierarchy is inconsistent, with some sections like 'Characteristics' being overly broad and lacking the depth found in the ground truth. The grouping of ideas is less effective, leading to a less comprehensive coverage of vertebrate characteristics."
+  },
+  "mermaid_code_L_0366.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides more detailed explanations for certain concepts, such as the mechanisms of gravitropism and phototropism, and the specific adaptations of xerophytes and epiphytes. This additional detail can aid in understanding and processing the information, making it slightly better than the ground truth in terms of cognitive indicators.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized and cover key concepts adequately. The generated mind map includes more detailed descriptions under certain nodes, but it does not significantly alter the overall structure or hierarchy compared to the ground truth. Therefore, they are about equal in terms of structural indicators."
+  },
+  "mermaid_code_L_0534.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces a new section on 'Evolution' which is not present in the ground truth, potentially adding complexity without clear thematic relevance. The flow of ideas is less clear due to the mixing of characteristics and examples, making it harder to mentally process compared to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks the clear hierarchical structure of the ground truth. It combines characteristics and examples under the same branches, which can lead to confusion. The ground truth provides a more organized and logically complete structure with distinct sections for features, characteristics, and uses, ensuring better coverage of key concepts."
+  },
+  "mermaid_code_L_0245.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more streamlined manner, with clear subcategories under each main topic, making it easier to understand and mentally process. The thematic relevance is maintained with a logical flow from definition to challenges and adaptations.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a consistent hierarchy and logical grouping of ideas. It covers key concepts with a clear structure, such as breaking down the importance of biodiversity into specific categories of values. The level of detail is appropriate, and the hierarchy is consistent throughout the map."
+  },
+  "mermaid_code_L_0152.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including an 'Environmental Impact' section, which helps users understand the overall effects of air pollution. It also uses more descriptive terms, such as 'Reduces Sunshine' and 'Orange-Brown Gas,' which can aid in comprehension. However, it lacks some specific examples found in the ground truth, like 'Spinach Leaf Damage' and 'Changes in Yosemite National Park.'",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated mind map introduces an additional layer with 'Environmental Impact,' which could enhance understanding of the broader implications. However, it also introduces some redundancy, such as repeating 'Lichen Nutrients' under different sections. The ground truth is more concise and focused, with a clear hierarchy and specific examples, making it equally effective in terms of structure."
+  },
+  "mermaid_code_L_0700.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including definitions and fun facts, which can enhance understanding. It also introduces new themes like conservation and behavior, making it more engaging and informative.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with clear categories and subcategories. It covers a wide range of topics, including some not present in the ground truth, such as conservation and behavior, providing a more comprehensive view of the subject."
+  },
+  "mermaid_code_L_0361.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional topics such as 'Scientific Investigation' and 'Athletic Ability' that are not directly related to the core theme of the scientific method, which may confuse users. The flow of ideas is less clear due to the inclusion of these unrelated elements.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical organization. It repeats elements like 'Independent Variable', 'Dependent Variable', and 'Controls' under different sections, leading to redundancy. The inclusion of unrelated topics like 'Microscope Importance' and 'Athletic Ability' further detracts from the focus and completeness of the map."
+  },
+  "mermaid_code_L_1018.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic relevance and flow of ideas. It introduces new sections like 'Refinement' and 'Conclusion' that are not directly related to the core understanding of scientific theory, potentially confusing the user. The 'Differences from Everyday Language' section is less clear than the 'Comparison' section in the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks a clear hierarchy and consistent grouping of ideas. The 'Evidence' section is redundant and overlaps with other sections, while the 'Refinement' and 'Conclusion' sections introduce unnecessary complexity. The ground truth provides a more coherent structure with a clear focus on key concepts."
+  },
+  "mermaid_code_L_0658.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces 'Offspring Survival' as a separate category, which overlaps with 'Parental Care' and is not clearly defined. The flow of ideas is less coherent, with some examples like 'Killdeer Broken Wing' misplaced under 'Display Behaviors' instead of 'Parental Care'.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detail, particularly in the 'Mating Systems' section, which is less detailed than the ground truth. The grouping of ideas is less effective, with 'Territorial Marking' incorrectly nested under 'Display Behaviors'. Overall, the generated map covers fewer key concepts and lacks the depth of the ground truth."
+  },
+  "mermaid_code_L_0239.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more comprehensive overview of mid-latitude cyclones, including additional details such as the stages of cyclone development and the impact on different regions. This enhances the user's understanding and mental processing of the topic.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical flow. It includes a detailed breakdown of cyclone stages and impacts, which are not present in the ground truth. This results in a more complete and well-structured representation of the topic."
+  },
+  "mermaid_code_L_0689.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new categories like 'Biome Adaptations' and 'Biome Resources' without clear integration into the main theme, which may confuse users. The flow of ideas is less clear due to the introduction of 'Chaparral' and 'Taiga' without context, and the thematic relevance is diluted by the less focused structure.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks the logical completeness of the ground truth. It introduces new elements like 'Chaparral' and 'Biome Resources' without sufficient detail or context. The hierarchy is inconsistent, with 'Biome Examples' and 'Biome Characteristics' overlapping in content. The ground truth provides a more comprehensive and organized structure with clear categories and subcategories."
+  },
+  "mermaid_code_L_0687.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition of symbiotic relationships and categorizes them into mutualism and parasitism, which aids in understanding. It also includes examples and functions for each type, making it easier to mentally process the information compared to the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with clear definitions and examples, but it lacks some of the detailed elements present in the ground truth, such as the specific components of lichens and the detailed nutrient exchange in mycorrhizae. The hierarchy is consistent, but the coverage of key concepts is slightly less comprehensive."
+  },
+  "mermaid_code_L_0368.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic organization compared to the ground truth. It introduces chronological data (e.g., ages) that may distract from the thematic focus on evolutionary traits. The flow of ideas is less coherent, particularly in the 'Vertebrate Evolution' section, where the transition to land colonization is abrupt and lacks detail.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy, especially in the 'Vertebrate Evolution' section, where the transition to land is incomplete. The coverage of key concepts is less comprehensive, with missing details on adaptations for land in vertebrates. The grouping of ideas is less logical, as it mixes chronological data with evolutionary traits without clear separation."
+  },
+  "mermaid_code_L_1011.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more concise manner, making it easier to understand and process. It uses clear and straightforward language, which enhances clarity and thematic relevance.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of ideas. It includes additional details such as 'Other Variables' and 'Implications,' which provide a more comprehensive coverage of key concepts compared to the ground truth."
+  },
+  "mermaid_code_L_0651.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader categorization of protists into plant-like, fungi-like, and animal-like, which aids in understanding. It also introduces the concept of exocytosis, offering a more comprehensive view of protist nutrition. However, it could be slightly overwhelming due to the increased number of categories and details.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with clear categorization of protists into plant-like, fungi-like, and animal-like, which enhances logical flow. It covers more concepts, such as exocytosis, and provides a detailed breakdown of endocytosis types. The hierarchy is consistent, and the grouping of ideas is more logical compared to the ground truth."
+  },
+  "mermaid_code_L_0597.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It combines unrelated elements under the same branches, such as mixing 'Law of Segregation' with 'Hereditary Factors' and 'Dominant vs Recessive Traits'. This makes it harder to follow the flow of ideas and understand the distinct concepts being presented.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It fails to cover key concepts like 'Genetic Ratios' and 'Inheritance Theory' comprehensively. The hierarchy is inconsistent, with some ideas like 'Self-Pollination' being misplaced under 'Genetic Crosses'. The level of detail is also reduced, omitting important explanations and examples present in the ground truth."
+  },
+  "mermaid_code_L_0462.txt": {
+    "cognitive_score": 2,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces a broad range of topics under biotechnology in agriculture without a clear focus on food chains, food webs, or energy flow, making it difficult for users to understand and mentally process the information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized and lacks logical completeness. It presents a long, linear list of topics without clear grouping or hierarchy, and it does not cover key concepts related to food chains, food webs, or energy flow. The ground truth mind map is more structured, with clear categories and a consistent hierarchy."
+  },
+  "mermaid_code_L_0674.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer understanding of seed and seed dispersal concepts by including definitions and elaborating on dormancy and food storage. It also highlights the importance of seed dispersal, which aids in cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is better organized with a clear distinction between seeds and seed dispersal. It includes more detailed examples and explanations, such as the importance of seed dispersal and environmental conditions, which enhance the logical completeness and hierarchy."
+  },
+  "mermaid_code_L_0102.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It omits key details such as the study of solid materials in geology and the impact of carbon dioxide on climate in climatology. The flow of ideas is less coherent, with some branches like 'Geology' and 'Oceanography' missing specific subtopics that aid understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detail, particularly in the 'Geology' and 'Oceanography' sections. Key concepts such as 'Marine geology' and 'Human use of Earth materials' are missing, leading to incomplete coverage of the subject matter."
+  },
+  "mermaid_code_L_0563.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map offers a clearer categorization of roles in ecosystems and benefits to people, with a more intuitive flow from general to specific concepts. The inclusion of 'Favorite Mammals' adds a personal touch, enhancing engagement.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-structured, but the generated map provides a slightly more comprehensive view by including 'Omnivores' and a broader cultural context. However, it lacks some specific examples of symbiotic relationships and research subjects found in the ground truth."
+  },
+  "mermaid_code_L_0026.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in thematic relevance compared to the ground truth. It introduces new categories like 'Storms' and 'Weather Changes' without clear integration into the main theme of weather changes. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It lacks a consistent hierarchy, especially in the 'Air Masses' section, where types are split into 'Continental' and 'Maritime' without clear definitions. The addition of 'Storms' and 'Weather Changes' sections is not well integrated, leading to a less cohesive structure."
+  },
+  "mermaid_code_L_0447.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and nuanced understanding of animal communication, with specific examples and subcategories that enhance clarity and thematic relevance. It includes additional elements like survival aspects and questions that guide the user's understanding.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more comprehensive coverage of key concepts. It includes a consistent hierarchy and detailed subcategories, such as survival aspects and specific examples of communication methods, which improve logical completeness and organization."
+  },
+  "mermaid_code_L_0496.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information in a clear and thematic manner. The generated map uses slightly different terminology but maintains thematic relevance and clarity similar to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks some structural elements present in the ground truth, such as the detailed breakdown of biological control benefits and risks. It also introduces new elements like 'Parasitism' without clear context, leading to a less consistent hierarchy and organization."
+  },
+  "mermaid_code_L_0491.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer introduction by defining Cnidarians and listing examples, which aids in understanding. It also offers more detailed descriptions of body plans and nematocysts, enhancing thematic relevance and clarity.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear definition section and more detailed descriptions of key concepts like body plans and nematocysts. It maintains a consistent hierarchy and covers all key concepts from the ground truth while adding more detail, making it more logically complete."
+  },
+  "mermaid_code_L_0673.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically relevant compared to the ground truth. It introduces a 'Conclusion' section that is not directly related to the main topic and lacks focus on the core aspects of seasonal changes in plants. The flow of ideas is less coherent, with some sections like 'Falling Leaves' and 'Detection of Seasonal Changes' being less integrated into the overall theme.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detail in key areas, such as 'Plant Responses to Seasons' and 'Seasonal Detection'. The inclusion of a 'Conclusion' section is unnecessary and detracts from the structural integrity. The grouping of ideas is less effective, with some concepts like 'Long-Day Plants' and 'Short-Day Plants' being misplaced under 'Detection of Seasonal Changes'."
+  },
+  "mermaid_code_L_0564.txt": {
+    "cognitive_score": 2,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process due to repeated sections and less thematic relevance. It introduces new topics like 'Cultures' and 'Farming' without clear integration into the main theme, leading to confusion.",
+    "structural_score": 1,
+    "structural_comment": "The generated mind map is poorly organized with repeated sections and lacks a consistent hierarchy. Key concepts are not grouped logically, and there is excessive repetition, which detracts from the logical completeness and organization seen in the ground truth."
+  },
+  "mermaid_code_L_0918.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map is slightly better in terms of cognitive indicators. It uses more straightforward language and provides additional context, such as 'Sun-Centered Solar System' and 'Influence on Science,' which can help users understand the significance of each contribution. The flow of ideas is clear, and the thematic relevance is maintained throughout.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is about equal in structural quality to the ground truth. Both maps cover key concepts and maintain a consistent hierarchy. However, the generated map includes additional details like 'Experimentation' under Geber and 'Black Holes' under Einstein, which add depth but do not significantly alter the overall structure or organization compared to the ground truth."
+  },
+  "mermaid_code_L_1046.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic organization compared to the ground truth. It introduces new categories like 'Careers in Technology' and 'Technology Professionals' that overlap with existing categories, potentially confusing the user. The flow of ideas is less straightforward, as it mixes skills and knowledge with specific career examples, making it harder to mentally process the information cohesively.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy, as it introduces redundant categories and scatters related concepts across different sections. The grouping of ideas is less logical, with skills and knowledge being repeated under different headings. The ground truth provides a clearer and more logical structure with a consistent hierarchy and better coverage of key concepts."
+  },
+  "mermaid_code_L_0028.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new concepts like 'Climate vs. Weather' without clear integration into the main theme of weather forecasting. The flow of ideas is less coherent, with some elements like 'Low Pressure' and 'Stormy Weather' not clearly connected to the main topic.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It omits key concepts such as the role of meteorologists, challenges in weather prediction, and detailed methods of data collection. The hierarchy is inconsistent, with some elements like 'Barometer' and 'Low Pressure' not fitting well into the overall structure. The ground truth provides a more comprehensive and detailed coverage of weather forecasting."
+  },
+  "mermaid_code_L_0498.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Scientific Studies' and 'Resources' without clear integration into the main theme of animal behavior. The flow of ideas is less coherent, with redundant sections like 'Migration Examples' and 'Yearly and Daily Cycles' that do not add clarity.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical grouping of ideas. Key concepts are scattered, such as 'Nocturnal and Diurnal Animals' being separated from 'Circadian Rhythms'. The level of detail is inconsistent, with some sections overly broad and others lacking depth. The ground truth provides a more comprehensive and logically complete structure."
+  },
+  "mermaid_code_L_0558.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new categories and details that are not present in the ground truth, such as 'Minilivestock' and 'Pest Control', which may confuse users expecting a focus on the original themes. The flow of ideas is less clear due to the additional, less relevant information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks the logical organization and thematic consistency of the ground truth. It introduces new categories and subcategories that disrupt the hierarchy and coherence, such as 'Medicine' and 'Products', which are not directly related to the main themes of the ground truth. The coverage of key concepts is diluted by the inclusion of less relevant details."
+  },
+  "mermaid_code_L_0376.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and nuanced understanding of amphibian traits, including specific physiological features and evolutionary context. This enhances cognitive processing by offering a richer context and clearer thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map offers more detail in certain areas, such as traits and reproduction. However, it lacks some elements present in the ground truth, like specific conservation efforts and threats to survival, which balances the overall structural completeness."
+  },
+  "mermaid_code_L_0524.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides clear examples and explanations, such as the Arctic Ocean ecosystem, which enhances understanding. It also includes a section on the importance of energy flow, which is not explicitly covered in the ground truth, making it more informative.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map has a slightly different structure, such as separating 'Importance' and 'Differences' as distinct sections. However, it lacks some specific examples and questions present in the ground truth, maintaining a similar level of detail and logical completeness."
+  },
+  "mermaid_code_L_0194.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map presents information in a less clear and coherent manner compared to the ground truth. It repeats certain ideas, such as 'Birds Evolved from Dinosaurs' and 'Diversification of Species,' which can confuse the user. The thematic relevance is also less focused, with some sections like 'Impact of Extinction' being less directly related to the main topic of Mesozoic life.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical grouping of ideas, with some concepts being repeated in different sections. The coverage of key concepts is less comprehensive, and the level of detail is inconsistent, leading to a less complete understanding of the topic."
+  },
+  "mermaid_code_L_0633.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It introduces a separate 'Functions' category that redundantly lists functions already associated with specific hormones, leading to potential confusion. The thematic relevance is diluted by the addition of an 'Examples' section that is not well-integrated with the rest of the map.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a clear hierarchy and logical flow, with overlapping categories such as 'Functions' and 'Examples' that are not consistently integrated. The ground truth provides a more coherent structure with clear groupings and a logical progression from hormones to their functions and importance."
+  },
+  "mermaid_code_L_0634.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear due to redundancy and lack of thematic focus. It introduces unnecessary details like 'Carbon Dioxide, Water, Sunlight' under Photosynthesis, which complicates understanding. The inclusion of 'Species Count' is not thematically relevant to the main topic of plant-like protists.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy, with misplaced elements like 'Macrocystis pyrifera' under 'Red Algae' instead of 'Kelp'. The classification section is cluttered with repeated phyla names and lacks examples for most categories, reducing logical completeness."
+  },
+  "mermaid_code_L_0193.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new elements like Clovis Spear Points and specific regional extinctions, which may confuse users seeking a focused understanding of Cenozoic life. The flow of ideas is less clear due to the inclusion of unrelated topics, making it harder to mentally process the information compared to the ground truth.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical organization. It introduces unrelated topics and does not maintain a clear grouping of ideas. Key concepts are scattered, and the level of detail is inconsistent, leading to a less coherent structure compared to the ground truth, which is more logically complete and organized."
+  },
+  "mermaid_code_L_0699.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more concise explanation of tropisms, with specific examples and a conclusion that highlights the importance of tropisms. The flow of ideas is logical, and the thematic relevance is maintained throughout.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and consistent structure. It covers key concepts effectively, with detailed examples and a conclusion that ties the information together. The grouping of ideas is logical, and the level of detail is appropriate for understanding the topic."
+  },
+  "mermaid_code_L_1008.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is more cluttered and less focused than the ground truth. It repeats information, such as wearing protective clothing and safety gear, in multiple sections, which can confuse users. The inclusion of a 'Lab Safety Poster' section adds unnecessary complexity without enhancing understanding.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a clear and consistent hierarchy, with overlapping categories like 'Lab Safety Rules' and 'Lab Safety Tips' that repeat similar information. It introduces new sections like 'Lab Safety Poster' and 'Lab Safety Hazards' without clear integration into the overall structure, leading to a disorganized presentation compared to the more logically grouped and complete ground truth."
+  },
+  "mermaid_code_L_0807.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces a 'Questions' section that disrupts the flow of ideas and does not provide a coherent explanation of Bernoulli's Law. The ground truth offers a more comprehensive and clear understanding of the topic.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It lacks consistent hierarchy and detail, particularly in the 'Application' section, which combines unrelated concepts (airplanes and birds) without sufficient explanation. The ground truth provides a more detailed and logically structured presentation of key concepts."
+  },
+  "mermaid_code_L_1006.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and detailed explanation of replication in science, with a focus on practical examples and consequences. It offers a more comprehensive understanding by including limitations and consequences of incorrect results, which enhances cognitive processing.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. It covers additional aspects such as limitations and consequences, providing a more complete picture. The grouping of ideas is consistent, and the level of detail is appropriate, making it structurally superior to the ground truth."
+  },
+  "mermaid_code_L_0556.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more segmented and thematic manner, making it easier to process. It introduces a 'Questions' section that prompts further exploration, enhancing cognitive engagement.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with clear groupings and a consistent hierarchy. However, it lacks some of the detailed thematic connections present in the ground truth, such as the specific dietary preferences and social behaviors."
+  },
+  "mermaid_code_L_0690.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces a 'Questions' section that disrupts the flow and clarity, making it harder to follow. The thematic relevance is slightly diluted by the inclusion of questions that are not directly integrated into the main content.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a clear hierarchical structure compared to the ground truth. It combines examples and projects under a single node, which reduces clarity. The 'Gaia Hypothesis' is separated from 'Characteristics,' leading to a less organized presentation of ideas."
+  },
+  "mermaid_code_L_0378.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and concise definition of birds, which aids in understanding. It also integrates related concepts like 'Reproduction and Care for Young' and 'Species and Orders' more cohesively, making it easier to follow. The inclusion of 'Success' as a category highlights the adaptability and diversity of birds, enhancing thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a logical flow, similar to the ground truth. It covers key concepts effectively, though it combines some categories like 'Reproduction and Care for Young' which could be seen as less detailed. The hierarchy is consistent, but the ground truth provides a slightly more detailed breakdown of bird diversity and specialists vs. generalists."
+  },
+  "mermaid_code_L_0013.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces redundant categories like 'Evolution Processes' and 'Adaptation Examples' that overlap with existing sections, leading to potential confusion. The flow of ideas is less coherent, with some sections like 'Biodiversity' and 'Adaptation Examples' feeling disconnected from the main theme.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks a consistent hierarchy, with some sections like 'Development of Life Forms' and 'Evolution Over Time' overlapping in content. Key concepts such as 'Environmental Changes' and 'Major Eras of the Phanerozoic Eon' are not as clearly defined or detailed, leading to a less comprehensive coverage of the topic."
+  },
+  "mermaid_code_L_0650.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more repetitive than the ground truth. It repeats the classification of protists multiple times, which can confuse users. The flow of ideas is less coherent, with some sections like 'Protist Diversity' and 'Protist Examples' being less relevant or incomplete.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and repeats sections unnecessarily, such as 'Protist Classification'. The coverage of key concepts is scattered, and the level of detail is inconsistent, with some areas being overly detailed and others lacking information."
+  },
+  "mermaid_code_L_0126.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed explanation of scientific theories and laws, making it easier for users to understand the nuances and relationships between these concepts. It includes additional information such as the role of evidence and the potential for theories to be revised, which enhances cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated mind map offers a slightly more comprehensive coverage of key concepts, such as the role of evidence and the potential for theories to be revised. However, the inclusion of unrelated elements like 'Leaning Tower of Pisa' and 'URL' detracts from its logical completeness, balancing out the structural advantages."
+  },
+  "mermaid_code_L_0681.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer understanding of social animals by explicitly defining them and emphasizing the importance of communication. It also offers more detailed examples of roles within ant and bee colonies, enhancing thematic relevance and clarity.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more detailed breakdown of roles within ant and bee colonies. It maintains a consistent hierarchy and covers key concepts more comprehensively, including additional elements like lesson questions, which add depth to the structure."
+  },
+  "mermaid_code_L_0463.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new terms like 'Evolutionary Adaptations' without clear context and lacks the thematic flow present in the ground truth. The ground truth provides a more structured and logical progression of ideas, making it easier to understand.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and complete than the ground truth. It lacks a consistent hierarchy and detailed coverage of key concepts. The ground truth mind map is more logically structured, with clear groupings and a comprehensive exploration of topics such as 'Types of Displays' and 'Egg Structure'. The generated map introduces new categories without sufficient detail or logical integration."
+  },
+  "mermaid_code_L_0464.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically relevant compared to the ground truth. It introduces new elements like 'Emperor Penguin' and 'Questions' that disrupt the flow and focus on birds in general. The thematic relevance is diluted by these additions, making it harder to process the core information about birds.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks the clear grouping of ideas and consistent hierarchy seen in the ground truth. Key concepts like 'Benefits of Flight' and 'Physical Characteristics' are missing or not as detailed, and the introduction of 'Questions' and 'Emperor Penguin' sections adds unnecessary complexity without enhancing the overall structure."
+  },
+  "mermaid_code_L_0005.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces a 'Comparison' and 'Questions' section that disrupts the flow of ideas and does not directly contribute to understanding wind erosion and deposition. The ground truth provides a more coherent and focused presentation of the topic.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a clear hierarchy and logical grouping of ideas, particularly with the inclusion of a 'Comparison' section that seems out of place. The ground truth mind map covers key concepts more comprehensively and maintains a consistent structure, making it easier to follow and understand."
+  },
+  "mermaid_code_L_0657.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces some redundancy and lacks clarity in the flow of ideas, particularly in the organization of reproduction and life cycle concepts. The thematic relevance is somewhat scattered, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and clear grouping of ideas, especially in the sections about reproduction and life cycles. The coverage of key concepts is less detailed, and the structure is not as logically coherent, leading to potential confusion for the user."
+  },
+  "mermaid_code_L_1017.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and concise manner, with a logical flow that enhances understanding. It effectively integrates the role of investigation and the steps of the scientific method, making it easier for users to mentally process the information.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized, with a clear hierarchy and logical grouping of ideas. It covers key concepts comprehensively and provides additional details, such as field-specific methods and the importance of investigations, which enhance the overall structure and completeness."
+  },
+  "mermaid_code_L_0686.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces some redundancy and lacks clarity in the definition of symbiosis by stating 'benefit gained by each individual,' which is misleading for commensalism and parasitism. The separation of examples into different sections for mutualistic, commensal, and parasitic relationships disrupts the flow and makes it harder to process compared to the more streamlined approach in the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, with examples scattered across different sections rather than grouped under each type of symbiosis. The addition of a 'Questions' section is not well-integrated and seems out of place, disrupting the logical flow. The ground truth provides a more consistent hierarchy and better coverage of key concepts without unnecessary repetition."
+  },
+  "mermaid_code_L_0182.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces some redundancy and lacks clarity in thematic relevance. It repeats concepts like 'Rising Air' and 'Sinking Air' under both 'Precipitation' and 'Climate Influence', which could confuse users. The flow of ideas is less clear compared to the ground truth, which is more concise and thematically organized.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It introduces unnecessary repetition and lacks a consistent hierarchy, especially with the 'Climate Influence' section, which overlaps with 'Precipitation'. The ground truth provides a more logical and complete structure with clear grouping of ideas and coverage of key concepts without redundancy."
+  },
+  "mermaid_code_L_0416.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more concise definition of ecological succession and its types. It simplifies the explanation of primary and secondary succession, making it easier to understand. The addition of a conclusion about the dynamic nature of ecosystems enhances thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map slightly lacks in detail compared to the ground truth. It omits some specific causes of secondary succession and the comparison between primary and secondary succession. However, it maintains a consistent hierarchy and logical flow."
+  },
+  "mermaid_code_L_0701.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new sections like 'Discovery' and 'Questions' that are not present in the ground truth, which can confuse users about the main focus. The flow of ideas is less clear due to the scattered placement of related concepts, such as 'Mutualistic Relationships' being separate from 'Methanogens'. The thematic relevance is diluted by the inclusion of questions that are not directly related to the core content.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical grouping of ideas. Key concepts like 'Environments' and 'Characteristics' are missing, leading to incomplete coverage. The structure is fragmented, with related ideas like 'Cell Wall' and 'Phospholipids' not clearly linked to their respective types of archaea. The addition of 'Questions' disrupts the logical flow and organization."
+  },
+  "mermaid_code_L_0360.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides more detailed explanations in some areas, such as the theories and fields, which can enhance understanding. However, it slightly lacks the thematic relevance seen in the ground truth, such as the omission of the 'Scope' section.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized with a clear hierarchy. The generated map includes additional details in the 'Theories' section, but it omits the 'Scope' and does not complete the 'Research' section, making it equally balanced in terms of structure compared to the ground truth."
+  },
+  "mermaid_code_L_0411.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces some redundancy and lacks clarity in the flow of ideas. For example, 'Predation' and 'Competition' are repeated as separate main branches, which can confuse users. The thematic relevance is slightly diluted by the repetition and the introduction of specific examples like 'Prairie dogs' without clear context.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It repeats sections like 'Predation' and 'Competition' under different branches, leading to a fragmented structure. The hierarchy is inconsistent, with some concepts like 'Keystone Species' appearing under multiple branches without clear linkage. The coverage of key concepts is uneven, with some areas over-detailed and others lacking depth."
+  },
+  "mermaid_code_L_0706.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional details such as xylem and phloem under 'Vascular tissue', which adds complexity but may not be directly relevant to the primary focus on seedless vascular plants. The inclusion of questions at the end is not typical for a mind map and disrupts the flow of ideas. The thematic relevance is diluted by the introduction of unrelated details and questions.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical organization. It introduces new categories like 'Examples' and 'Characteristics' that overlap with existing categories, leading to redundancy. The 'Questions' section is out of place in a mind map, which should focus on organizing information rather than posing questions. The ground truth map is more logically complete and better organized, with clear grouping of ideas and consistent hierarchy."
+  },
+  "mermaid_code_L_0367.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer understanding by including a 'Definition' section that succinctly outlines the basic traits of animals. It also poses questions that guide the user to think critically about the information, enhancing cognitive engagement.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and covers similar key concepts as the ground truth. However, it introduces a 'Questions' section that, while thought-provoking, does not add new structural information. Both maps are logically complete, but the generated map's structure is slightly more engaging due to the inclusion of questions."
+  },
+  "mermaid_code_L_0598.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including a definition of genetics and Mendel's contributions, which aids in understanding the significance of the experiments. It also includes questions that prompt deeper thinking about Mendel's work. However, it lacks some specific examples of traits studied, which are present in the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-structured, but the generated map offers a slightly more comprehensive view by including Mendel's contributions and key questions. However, it misses some specific details like the F1 and F2 generation results, which are clearly outlined in the ground truth. The hierarchy and grouping of ideas are consistent in both maps."
+  },
+  "mermaid_code_L_0622.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including 'Origin of Species' and 'Evolution', which enhances understanding. It also introduces 'Testing Species' as a new concept, which adds depth. However, it slightly lacks thematic focus compared to the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with clear subcategories under each main topic, such as 'Physical Separation' and 'Behavioral Separation'. It maintains a consistent hierarchy and introduces new relevant concepts like 'Testing Species', which adds to the logical completeness."
+  },
+  "mermaid_code_L_0535.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more complex to process than the ground truth. It introduces new sections like 'Questions' which, while potentially useful, disrupt the flow and thematic relevance. The inclusion of specific examples like 'Tarpan to Konik' without context can confuse users unfamiliar with these terms.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and lacks the logical completeness of the ground truth. It combines different levels of detail inconsistently, such as mixing causes and solutions under 'Habitat destruction' without clear separation. The hierarchy is less consistent, and the grouping of ideas is less coherent, making it harder to follow the structure."
+  },
+  "mermaid_code_L_0352.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It introduces some redundancy and lacks thematic coherence, particularly in the 'Characteristics' and 'Weather Patterns' sections, which are less clearly defined and overlap with other sections.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It has inconsistent hierarchy and grouping, with some sections like 'Characteristics' and 'Weather Patterns' overlapping with 'Types of Fronts'. The level of detail is uneven, and the logical flow is disrupted by redundant and misplaced information."
+  },
+  "mermaid_code_L_0276.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and nuanced understanding of atmospheric pressure and air density. It includes specific mechanisms like gravity's role and the human body's compensation for pressure, which enhances cognitive processing by offering concrete examples and explanations. However, it could be slightly overwhelming due to the increased detail.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of related concepts. It covers more aspects of atmospheric pressure and air density, such as the role of gravity and the human body's response, providing a more comprehensive view. The structure is consistent and detailed, making it superior to the ground truth in terms of organization and completeness."
+  },
+  "mermaid_code_L_0617.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more concise definition of nonvascular plants, including examples directly in the definition. It also introduces a new section on reproduction, which enhances understanding of the life cycle. The flow of ideas is logical and thematic relevance is maintained throughout.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of ideas. It introduces a new section on reproduction, which adds depth and completeness. The coverage of key concepts is more comprehensive, and the level of detail is consistent across sections, making it structurally superior to the ground truth."
+  },
+  "mermaid_code_L_0799.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more concise explanation of Amontons Law, with a straightforward definition and explanation. The real-world application is directly linked to the concept, making it easier to understand. The demonstration is simplified, which aids in cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. However, it lacks some details present in the ground truth, such as the detailed demonstration and the specific mention of related gas laws. The addition of an experiment section adds value, but the coverage of key concepts is slightly less comprehensive."
+  },
+  "mermaid_code_L_0093.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more straightforward manner, with clear and concise descriptions of temperature and humidity under 'Definition'. It also simplifies the interactions by directly linking storm formation to specific conditions, which aids in understanding. However, it lacks the explicit mention of 'Weather Effects' under interactions, which could be a minor drawback.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. It covers key concepts such as types, formation, and interactions, similar to the ground truth. However, it lacks some details like 'Weather Effects' and 'Extent' under 'Size', which are present in the ground truth. Overall, it maintains a consistent structure but with slightly less detail."
+  },
+  "mermaid_code_L_0909.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer understanding of the concept of gases by including additional details such as the experiment with sealed boxes and a conclusion, which aids in comprehension. The inclusion of references also suggests a more comprehensive approach to the topic.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical flow. It introduces new sections like 'Experiment' and 'Conclusion' that enhance the understanding of air pressure concepts. The addition of references indicates a more thorough coverage of the topic, making it structurally superior."
+  },
+  "mermaid_code_L_0746.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks thematic clarity and flow compared to the ground truth. It combines 'Measuring' and 'Science Skills' under 'Science Skills,' which can confuse users about the distinct importance of measuring in science. The inclusion of 'Technology' without clear relevance to the main theme further detracts from cognitive coherence.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It fails to maintain a consistent hierarchy, especially in the 'Measuring' section, where basic SI units are not clearly grouped. The 'Safety in Science' section is less detailed, and the addition of 'Technology' is not well-integrated, leading to a lack of focus on key concepts."
+  },
+  "mermaid_code_L_0168.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic focus compared to the ground truth. It introduces broader categories like 'Ecosystems' and 'Flow of Matter' without clearly distinguishing between matter and energy flow. The inclusion of 'Plants' and 'Other Regions' as sources of nutrients is less precise than the ground truth's 'Atmospheric Inputs' and 'Nutrient Transfer through Food Chains'. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical completeness. The grouping of ideas is less effective, with 'Streams' and 'Wind' under 'Cycles' being less relevant compared to the ground truth's 'Transport Mechanisms'. The generated map also lacks the detailed exploration of 'Nutrient Dynamics' and 'Importance of Decomposers' found in the ground truth, resulting in incomplete coverage of key concepts."
+  },
+  "mermaid_code_L_0575.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic relevance and flow of ideas compared to the ground truth. It lacks the detailed exploration of reproductive strategies and methods, such as the distinction between internal and external fertilization, and the role of accessory glands. The inclusion of 'Resources' is not directly relevant to the main theme, which detracts from cognitive clarity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks a consistent hierarchy, particularly in the section on metamorphosis, where the stages are not clearly linked to the types. The ground truth provides a more comprehensive and detailed structure, covering key concepts like life cycle stages and reproductive strategies more thoroughly."
+  },
+  "mermaid_code_L_0900.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It simplifies the definition and importance sections, omitting the contrast with laboratory experiments and the detailed explanation of when field studies are appropriate. The flow of ideas is less coherent, with a less clear distinction between different sections.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks the detailed hierarchy and grouping of ideas present in the ground truth, such as the detailed methodology and comparison of samples. The generated map introduces a 'Conclusion' section, which is not present in the ground truth, but it does not compensate for the missing depth and coverage of key concepts."
+  },
+  "mermaid_code_L_0487.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition and examples of chordates, which aids in understanding. It also includes a section on misconceptions, enhancing cognitive processing by addressing common errors. The flow of ideas is logical, with a clear distinction between vertebrates and invertebrates, making it slightly better than the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. It covers key concepts such as characteristics, subphyla, and relationships comprehensively. The inclusion of a 'Definition' section and detailed characteristics of each trait adds depth and clarity, making it structurally superior to the ground truth."
+  },
+  "mermaid_code_L_0770.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in thematic relevance and flow of ideas. It introduces new terms like 'Explanation' under 'Pressure' without clear thematic relevance to the main topic. The inclusion of specific figures (e.g., Figure 4.12) without context can confuse users. The ground truth provides a clearer thematic structure with real-life examples that enhance understanding.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and lacks logical completeness compared to the ground truth. It introduces new sections like 'Changes of State' without a clear hierarchical structure. The ground truth mind map has a more consistent hierarchy and better grouping of ideas, covering key concepts comprehensively with a logical flow from properties to applications."
+  },
+  "mermaid_code_L_0298.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed exploration of the scientific method, including the iterative nature of scientific inquiry and examples of good and non-science questions. This enhances understanding by offering practical examples and emphasizing the process's cyclical nature.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical flow. It includes additional relevant concepts such as the iterative process and examples, which provide a more comprehensive view of the scientific method. The inclusion of specific examples like 'Tomato Plants' and 'CO2 Levels' adds depth and context, improving the overall structure."
+  },
+  "mermaid_code_L_0592.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader range of examples and additional details such as mammal classification, which enhances understanding. It maintains clarity and thematic relevance, making it slightly better than the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map introduces some redundancy with repeated sections like 'Mammal Types' and 'Reproduction'. However, it also adds valuable information on classification, balancing out the structural differences."
+  },
+  "mermaid_code_L_1014.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a clear and easily digestible manner. It uses straightforward language and provides relatable examples, such as 'Bumper Cars' and 'Hitting a Ball with a Bat,' which enhance understanding. The thematic relevance is maintained throughout, and the flow of ideas is logical, making it slightly better than the ground truth.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized, with a clear hierarchy and logical grouping of ideas. It covers key concepts similarly to the ground truth, with some additional details like 'Creating a Scientific Law' and 'Examples of Laws in Action.' However, it lacks the 'Related Questions' section present in the ground truth, which slightly affects its completeness. Overall, it is about equal in quality to the ground truth in terms of structure."
+  },
+  "mermaid_code_L_0685.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and concise definition of ecological succession and its types, making it easier for users to understand the basic concepts. It also introduces the concept of sub-climax communities, which adds depth to the understanding of human impact. The flow of ideas is logical, and the thematic relevance is maintained throughout.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. It covers key concepts such as types of succession, stages, and human impact. However, it lacks some details present in the ground truth, such as specific examples and detailed stages of succession. The inclusion of sub-climax communities is a positive addition, but the overall level of detail is slightly less comprehensive than the ground truth."
+  },
+  "mermaid_code_L_0595.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Extinction Rates' and 'Implications' without clear connections to the main topic. The flow of ideas is less coherent, making it harder to understand the overall narrative of mass extinctions.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It has redundant sections like 'Causes' and 'Causes of Mass Extinctions' and lacks a consistent hierarchy. Key concepts such as 'Major Extinctions' and 'Aftermath of Extinctions' are either missing or inadequately covered, leading to an incomplete representation of the topic."
+  },
+  "mermaid_code_L_0653.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new concepts like 'Mendels Rules of Heredity' without clear integration into the main theme of Punnett Squares. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detailed coverage of key concepts. The grouping of ideas is less effective, and there is a lack of detail in explaining specific crosses and their outcomes, which are well-covered in the ground truth."
+  },
+  "mermaid_code_L_1013.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed explanation of inductive reasoning, especially in the context of scientific induction. It includes specific characteristics and examples that enhance understanding, such as the detailed example of Planet Quim. The flow of ideas is logical and thematic relevance is maintained throughout.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of ideas. It covers key concepts with more detail, such as the characteristics of inductive reasoning and its role in the scientific method. The inclusion of a conclusion section adds to its completeness, making it structurally superior to the ground truth."
+  },
+  "mermaid_code_L_0001.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more streamlined manner, with a clear emphasis on the flow of the scientific method and its components. It integrates the importance of questions within the context of the scientific method, making it easier to understand the relevance of each step. The inclusion of a conclusion section also helps in reinforcing the thematic relevance of science.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is better organized, with a more consistent hierarchy and logical grouping of ideas. It covers key concepts effectively, such as the scientific method, models, and safety, while also introducing new elements like the uses of models and the importance of safety. The level of detail is appropriate, and the structure supports a comprehensive understanding of the nature of science."
+  },
+  "mermaid_code_L_0412.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "The generated mind map is about equal in cognitive clarity to the ground truth. Both maps present the information in a clear and understandable manner, with a logical flow of ideas and thematic relevance. The generated map uses slightly different wording but maintains the same level of clarity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is slightly less organized than the ground truth. While it covers similar concepts, it lacks the same level of detail and consistent hierarchy. For example, 'Matter recycling' is less detailed, and the 'Competitive Exclusion Principle' section is less clear in its implications. Additionally, the 'Similar Ecosystems' section introduces 'Comparison' and 'Location' without clear context, which affects logical completeness."
+  },
+  "mermaid_code_L_0364.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides additional context by including the 'Needs' section, which enhances understanding of plant requirements. It also maintains clarity and thematic relevance similar to the ground truth, with slight improvements in the flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized and cover key concepts. The generated map introduces a 'Needs' section, which adds detail but does not significantly alter the overall structure or hierarchy compared to the ground truth."
+  },
+  "mermaid_code_L_0536.txt": {
+    "cognitive_score": 6,
+    "cognitive_comment": "The generated mind map provides a broader range of information, including solutions and consequences, which enhances understanding. It also includes case studies, which help contextualize the information. However, it could be slightly overwhelming due to the additional content.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and covers more aspects, such as solutions and case studies, which the ground truth lacks. However, it could benefit from more detailed subcategories under each main point to match the depth of the ground truth."
+  },
+  "mermaid_code_L_0296.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It repeats concepts without clear differentiation, such as 'scientific integrity' and 'scientific community,' and introduces new categories like 'Funding' and 'Media Impact' without clear integration into the main theme.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical flow, with redundant categories and insufficient detail in key areas like 'Peer Review' and 'Replication.' The ground truth provides a more comprehensive and logically structured representation of the scientific community."
+  },
+  "mermaid_code_L_0363.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides more detailed and specific information, such as specific safety symbols and additional safety rules, which enhances understanding. However, it introduces a 'Lesson Summary' section that might slightly detract from thematic relevance, as it mixes general life science concepts with safety topics.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is more comprehensive, covering a wider range of safety rules and providing a more detailed breakdown of lab safety procedures. It maintains a consistent hierarchy and logical organization, although the 'Lesson Summary' section could be seen as an extraneous addition that slightly affects the focus on safety."
+  },
+  "mermaid_code_L_0420.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and comprehensive understanding of biodiversity and extinction. It includes additional details such as the inspiration for technology and the potential future impact of the sixth mass extinction, which enhances thematic relevance and aids mental processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. It covers key concepts thoroughly and introduces new subcategories like 'Importance to Ecosystems,' which adds depth. However, it lacks some specific actions for protecting biodiversity, which are present in the ground truth."
+  },
+  "mermaid_code_L_0578.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces a 'Definition' section which is helpful, but it lacks clarity in the 'Functions' section, which seems to mix meanings with examples. The flow of ideas is less clear compared to the ground truth, which has a more logical progression from characteristics to classification.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less organized, with redundant sections like 'Functions' and 'Significance' that overlap with 'Characteristics' and 'Importance'. The ground truth provides a clearer hierarchy and better grouping of ideas, especially in the classification of phyla with meanings and examples."
+  },
+  "mermaid_code_L_0730.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed exploration of concepts, such as the differences in fluid density and the specific examples of pressure in different environments (ocean vs. atmosphere). This enhances understanding by providing more context and examples, making it easier for users to mentally process the information.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more detailed breakdown of factors affecting pressure, such as depth and density, and includes additional real-world applications. It also introduces new concepts like fluid density and pressure, which are logically grouped and provide a more comprehensive view of the topic. The hierarchy is consistent, and the coverage of key concepts is more complete compared to the ground truth."
+  },
+  "mermaid_code_L_0380.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more comprehensive definition of primates, including specific examples and additional traits like arboreal origins. It maintains thematic relevance and enhances understanding by explicitly listing included species under the definition.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. It covers key concepts with additional details, such as specific examples of primates, and maintains a consistent structure, making it slightly better than the ground truth."
+  },
+  "mermaid_code_L_0668.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Safety Equipment' and 'Safety Videos' without clear integration into the main theme. The flow of ideas is less coherent, with some redundancy in categories such as 'Safety Guidelines' and 'Safety Practices'.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It lacks a consistent hierarchy and proper grouping of ideas. Key concepts like 'Lab Safety' and 'Field Research Safety' are not clearly delineated, and there is an overlap in categories such as 'Safety Guidelines' and 'Safety Rules'. The level of detail is inconsistent, with some areas overly detailed and others lacking depth."
+  },
+  "mermaid_code_L_0503.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It lacks a clear flow of ideas, particularly in the 'Evolution' and 'Classification' sections, where the connections between concepts are not as explicit. The thematic relevance is also diluted by the introduction of new categories like 'Habitats' and 'Specialists' without clear integration into the main theme of bird diversity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It introduces new categories such as 'Habitats' and 'Specialists' without maintaining a consistent hierarchy or clear grouping of ideas. The level of detail is inconsistent, with some areas like 'Fossils' being underdeveloped compared to the ground truth. The coverage of key concepts is also less comprehensive, particularly in the 'Adaptations' section, which lacks the detailed examples and explanations present in the ground truth."
+  },
+  "mermaid_code_L_0275.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces some redundancy and lacks a clear flow of ideas, particularly in the 'Data Collection' and 'Weather Balloons' sections, which are not as clearly delineated as in the ground truth. The thematic relevance is also diluted by the introduction of less relevant details, such as 'Online Weather Prediction'.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks a consistent hierarchy, with some sections like 'Numerical Weather Prediction' and 'Weather Balloons' being fragmented and overlapping. The coverage of key concepts is less comprehensive, and the grouping of ideas is less logical, leading to a less coherent structure overall."
+  },
+  "mermaid_code_L_0429.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It presents information in a more fragmented manner, making it harder to follow the flow of ideas. The ground truth provides a clearer narrative, especially in explaining Mendel's experiments and their significance.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and lacks the logical completeness of the ground truth. It does not group ideas as effectively, and the hierarchy is less consistent. Key concepts like the detailed results of Mendel's experiments and the scientific legacy are not as thoroughly covered, leading to a less comprehensive structure."
+  },
+  "mermaid_code_L_0666.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new topics like 'Food Source for Humans' which are not directly relevant to the main theme of amphibians as environmental indicators. The flow of ideas is less intuitive, with some sections like 'Stabilizing Insect Populations' not clearly connected to the main theme.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks the clear hierarchical structure and thematic grouping present in the ground truth. Key concepts such as 'Indicator Species' and 'Research Applications' are not as clearly delineated, and the inclusion of unrelated topics like 'Food Source for Humans' detracts from the focus on environmental and scientific importance."
+  },
+  "mermaid_code_L_0745.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new topics such as 'Field Studies', 'Pseudoscience', and 'Snuffalufagus' which are not directly relevant to the core theme of scientific investigation, potentially confusing the user. The flow of ideas is less clear due to the inclusion of these unrelated topics.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical organization compared to the ground truth. It introduces new categories without clear integration into the main theme, and some key concepts like 'Experimentation' are not as thoroughly covered. The structure is less coherent, with some ideas like 'Ethical Decision Making' and 'Pseudoscience' not fitting well into the overall map."
+  },
+  "mermaid_code_L_0452.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition of arthropods and includes a section on their significance, which aids in understanding their importance. It also presents a broader range of examples, enhancing thematic relevance and cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map lacks some specific details present in the ground truth, such as the detailed effects on people and specific behaviors of marine arthropods. However, it compensates with a clear definition and significance section, maintaining logical completeness."
+  },
+  "mermaid_code_L_0978.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It omits the 'Importance' of Pascal's Law and the 'Ketchup Packet Example,' which are crucial for understanding the concept. The flow of ideas is less intuitive, as it jumps directly into examples without establishing a clear context.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks the detailed grouping of ideas and consistent hierarchy present in the ground truth. Key concepts like 'Historical Context' and 'Relationship between Force and Area' are missing, leading to incomplete coverage of the topic."
+  },
+  "mermaid_code_L_0576.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new categories such as 'Arthropods' and 'Invasion of Land' which are not directly relevant to the main theme of insects, potentially confusing the user. The flow of ideas is less clear due to the introduction of these tangential topics.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map has a more detailed classification of insect orders, which adds depth. However, it lacks the thematic organization seen in the ground truth, such as the separation of 'Social Insects' and 'Movement'. The hierarchy is consistent but the grouping of ideas is less logical due to the inclusion of unrelated topics."
+  },
+  "mermaid_code_L_0200.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It repeats concepts like 'Formation' and 'Formation Process' without clear differentiation, which can confuse users. The ground truth provides a more coherent flow of ideas, with distinct sections for each aspect of hurricanes.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It has redundant sections and lacks a consistent hierarchy, such as the repetition of 'Formation' and 'Formation Process'. The ground truth mind map is better structured, with clear grouping of ideas and comprehensive coverage of key concepts, including detailed subcategories under 'Categories' and 'Damage'."
+  },
+  "mermaid_code_L_0443.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and concise overview of crocodilians, with a focus on their definition, body structure, and sensory organs. It is easier to understand due to its straightforward presentation and logical flow of ideas, making it slightly better than the ground truth in terms of cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized and covers key concepts similar to the ground truth. However, it lacks some specific details such as the recovery conditions of the American Alligator and the importance of nest guarding in baby Siamese crocodiles. The hierarchy and grouping of ideas are consistent, but the level of detail is slightly less comprehensive compared to the ground truth."
+  },
+  "mermaid_code_L_0492.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides more detailed examples and explanations, making it easier to understand the concepts. It includes additional examples and elaborates on the definitions, which enhances cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is better organized with more detailed subcategories and examples. It maintains a consistent hierarchy and covers key concepts thoroughly, providing a more comprehensive view of the topic."
+  },
+  "mermaid_code_L_0670.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional topics such as 'Deformed Frogs' and 'Importance of Scientific Investigation' which are not directly related to the core theme of scientific investigation, making it less focused. The repetition of steps under different headings and the inclusion of unrelated topics can confuse users and disrupt the flow of ideas.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map lacks a clear and consistent hierarchy, with repeated sections like 'Scientific Method Steps' and 'Steps of a Scientific Investigation'. It also introduces unrelated topics, which detracts from the logical organization. The ground truth mind map is more concise and maintains a clear structure with a consistent hierarchy, making it more effective in covering key concepts."
+  },
+  "mermaid_code_L_0567.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically focused compared to the ground truth. It mixes topics of coal formation and seedless plants without a clear thematic separation, making it harder to mentally process the information. The ground truth maintains a clear focus on seedless plants and their importance, uses, and historical impact, which is easier to follow.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical grouping of ideas. The ground truth mind map is well-structured with clear categories and subcategories related to seedless plants, while the generated map introduces unrelated topics like coal formation and uses, leading to a fragmented structure. The generated map also repeats concepts under different categories, which reduces its logical completeness."
+  },
+  "mermaid_code_L_0560.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It lacks thematic focus, with some sections like 'Seabirds and Guano' being overly detailed and repetitive, which can confuse users. The ground truth provides a clearer and more concise presentation of ideas.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical grouping of ideas, with excessive detail in some areas and insufficient coverage in others. The ground truth mind map is more balanced, with a clear structure and comprehensive coverage of key concepts."
+  },
+  "mermaid_code_L_0101.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It mixes detailed criteria for blizzards with general information, making it harder to follow. The thematic relevance is diluted by the inclusion of specific temperature and wind speed details in the definition section, which could be better placed under types or effects.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical flow, with some sections like 'Lake-effect Snow' appearing under both 'Formation' and as a separate category. The grouping of ideas is less coherent, and the coverage of key concepts is uneven, with some areas overly detailed and others lacking depth."
+  },
+  "mermaid_code_L_0438.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information clearly and are easy to understand. The generated mind map uses simpler language (e.g., 'love salt' vs. 'thrive in salty environments'), which may aid in comprehension for some users, but both maps maintain thematic relevance and clarity.",
+    "structural_score": 3,
+    "structural_comment": "The ground truth mind map is slightly better organized, with a more consistent hierarchy and logical grouping of ideas. The generated mind map separates 'Habitats' and 'Ecological Roles' more distinctly, which could lead to some confusion about their interrelation. Additionally, the ground truth map provides more specific examples and details, such as 'Methanogens in cow guts,' which are not as clearly delineated in the generated map."
+  },
+  "mermaid_code_L_0444.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear definition of amphibians and includes specific details such as the number of species, which aids in understanding. It also integrates characteristics and adaptations more cohesively, making it easier to follow the flow of ideas.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps cover key concepts like reproduction, life cycle, and types of amphibians. The generated map is slightly more organized in terms of grouping related ideas under broader categories like 'Characteristics' and 'Adaptations', but it lacks some details present in the ground truth, such as specific adaptations for land and detailed stages of metamorphosis."
+  },
+  "mermaid_code_L_0332.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces some redundancy, such as 'Supercell thunderstorms' and 'Power source' under 'Supercells', which could confuse users. The thematic flow is less intuitive, with some sections like 'Satellite image' and 'References' being less relevant to the core topic of tornadoes.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detail, particularly in areas like 'Formation factors' and 'Prediction'. The ground truth provides a more comprehensive and logically structured overview, with clear subcategories and detailed coverage of key concepts."
+  },
+  "mermaid_code_L_0495.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new categories like 'Ecosystem Roles' and 'Energy Sources' which are not present in the ground truth, potentially confusing the user. The flow of ideas is less clear due to the separation of related concepts, such as decomposers being split between 'Ecosystem Roles' and 'Ecosystem Stability'. The thematic relevance is diluted by the introduction of 'Food Chain' and 'Producers', which are not directly related to the focus on consumers and decomposers.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized compared to the ground truth. It lacks a consistent hierarchy, as similar concepts are scattered across different sections. The grouping of ideas is less logical, with decomposers and consumers being split into multiple categories. The coverage of key concepts is inconsistent, with some areas like 'Function' of consumers missing, and the level of detail is uneven, with some examples being overly specific while others are too general."
+  },
+  "mermaid_code_L_0895.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer breakdown of ethical rules and dilemmas, with more detailed explanations and examples, making it easier to understand and process the information.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more detailed hierarchy and coverage of key concepts. It includes additional subcategories and examples, enhancing logical completeness and thematic relevance."
+  },
+  "mermaid_code_L_0605.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Molecular Differences' and 'Evolutionary Patterns' without clear integration into the main theme. The flow of ideas is less coherent, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detailed coverage of key concepts. The grouping of ideas is less effective, with some categories overlapping or being redundant, such as 'Genetic Sequence' and 'Genetic Analysis'."
+  },
+  "mermaid_code_L_0431.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present information in a clear and thematic manner. The generated map provides additional details such as the completion year of the Human Genome Project, which enhances understanding. However, it also introduces some inaccuracies, such as categorizing Turner's syndrome and Klinefelter's syndrome under X-linked recessive disorders, which could confuse users. Overall, the cognitive clarity is comparable to the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map has a less consistent hierarchy and organization compared to the ground truth. It incorrectly categorizes some disorders and lacks the clear separation of ideas seen in the ground truth, such as the distinct grouping of chromosomal disorders. The ground truth map provides a more logical and complete structure, with a clear hierarchy and comprehensive coverage of key concepts."
+  },
+  "mermaid_code_L_0520.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear in its thematic organization compared to the ground truth. It combines branches and subspecialties in a way that may confuse users about the hierarchy and relationships between topics. The ground truth provides a clearer flow of ideas by maintaining a consistent categorization of subspecialties under Biology.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy, as it mixes branches and subspecialties without clear distinction. The ground truth offers a more logical and complete structure by categorizing subspecialties under Biology, ensuring comprehensive coverage of key concepts with a consistent level of detail."
+  },
+  "mermaid_code_L_0983.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is more detailed but introduces redundancy by repeating career responsibilities under both 'Careers' and 'Interests'. This repetition can confuse users and disrupts the flow of ideas, making it harder to process the information efficiently.",
+    "structural_score": 3,
+    "structural_comment": "While the generated mind map provides more detail, it lacks logical organization due to the redundant 'Interests' section, which mirrors the 'Careers' section. This inconsistency in hierarchy and unnecessary duplication detracts from the overall structure, making it less organized than the ground truth."
+  },
+  "mermaid_code_L_0372.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more streamlined manner, focusing on key characteristics and interactions of arthropods and insects. It provides a clearer distinction between the general characteristics of arthropods and the specific traits of insects, making it easier for users to process and understand the thematic relevance of each section.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized, with a clear hierarchy and logical grouping of ideas. However, it lacks some of the detailed coverage found in the ground truth, such as the specific functions of the exoskeleton and the detailed stages of metamorphosis. The hierarchy is consistent, but the level of detail is slightly less comprehensive compared to the ground truth."
+  },
+  "mermaid_code_L_0713.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer focus on the specific areas of chemistry and physics, making it easier to understand the scope of physical science. It also includes practical applications, which enhance thematic relevance and understanding of the subject's impact on daily life.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and includes additional details such as specific applications and a URL for further exploration. However, it lacks the explicit mention of branches and career options, which are present in the ground truth, making it equally complete but differently structured."
+  },
+  "mermaid_code_L_0527.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including a definition and additional details such as the number of species and visibility, which can aid in understanding. It also includes practical examples of fungi in daily life, making it more relatable and easier to process.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is more comprehensive, covering additional aspects like the number of species, visibility, and practical applications in daily life. It maintains a consistent hierarchy and logical flow, with well-grouped ideas and a more complete coverage of key concepts."
+  },
+  "mermaid_code_L_0555.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and detailed explanation of each component, making it easier to understand. It includes definitions and explanations that enhance cognitive processing, such as the definition of vision and the explanation of stereopsis. The thematic relevance is maintained with a focus on human vision and its components.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. It covers key concepts with a good level of detail, such as the specific functions of rods and cones, and includes additional relevant information like the benefits of color vision. The structure is consistent and comprehensive, providing a more complete view of the topic compared to the ground truth."
+  },
+  "mermaid_code_L_0584.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map focuses more specifically on learned behavior, which enhances thematic relevance and clarity. It provides clear examples and definitions, making it easier to understand and mentally process the information.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical grouping of ideas. However, it lacks some of the broader context provided in the ground truth, such as the section on intelligence in animals, which affects the overall coverage of key concepts."
+  },
+  "mermaid_code_L_0529.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides more detailed explanations for each method of reproduction, making it easier to understand the processes involved. It also includes additional information on mating types, which enhances thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map offers more detail in certain areas, such as the specifics of spore formation and mating types. However, it lacks a direct comparison section like the ground truth, which affects logical completeness."
+  },
+  "mermaid_code_L_0639.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent than the ground truth. It introduces redundancy, such as repeating 'Camouflage' and 'Mimicry' as separate nodes, which could confuse users. The flow of ideas is less logical, with 'Parasitism' and 'Symbiosis' being separated from 'Types of Predation', making it harder to mentally process the information cohesively.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy, with some concepts like 'Parasitism' and 'Symbiosis' being placed awkwardly. The grouping of ideas is less logical, and there is unnecessary repetition, such as 'Camouflage' and 'Mimicry' being listed multiple times. The ground truth provides a more complete and logically structured overview of predation."
+  },
+  "mermaid_code_L_0482.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more user-friendly manner by clearly separating centipedes and millipedes in terms of habitat, diet, and behavior. This separation aids in understanding and processing the differences between the two groups. The inclusion of size and distribution adds additional context that enhances cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with clear categories for habitat, diet, legs, classification, characteristics, behavior, size, and distribution. However, it lacks some of the detailed information present in the ground truth, such as specific species counts and unique features of lesser-known classes like Symphyla and Pauropoda. The hierarchy is consistent, but the level of detail is slightly reduced compared to the ground truth."
+  },
+  "mermaid_code_L_0325.txt": {
+    "cognitive_score": 6,
+    "cognitive_comment": "The generated mind map provides a broader context by including implications such as weather patterns and air pollution, which enhances understanding. It also breaks down concepts like convection and temperature gradients into more detailed subpoints, aiding cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is more comprehensive, covering additional topics like implications and causes, which are not present in the ground truth. However, it could be slightly less organized due to the additional information, but it maintains a logical hierarchy and grouping of ideas."
+  },
+  "mermaid_code_L_0032.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer breakdown of concepts by separating examples from definitions and detailing processes like photosynthesis and chemosynthesis under producers. This separation aids in understanding and processing the information more effectively.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map lacks some details present in the ground truth, such as the cycle of matter and specific levels in food chains. However, it compensates with a clear hierarchy and logical flow, making it equally effective overall."
+  },
+  "mermaid_code_L_0795.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It lacks thematic coherence, with redundant and scattered ideas, making it harder to follow the flow of information.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It has excessive repetition and lacks a clear hierarchy, with key concepts not grouped logically. The conclusion section is redundant and does not add value, leading to a cluttered structure."
+  },
+  "mermaid_code_L_0359.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed exploration of scientific concepts, such as the comparison between scientific theories and laws, and includes real-world examples like the work of Miranda Wang and Jeanny Yao. This enhances understanding and mental processing by providing context and practical applications.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with clear distinctions between scientific theories and laws, and it includes additional examples and a more nuanced discussion on the role of creativity in science. The inclusion of real-world examples and a more detailed breakdown of concepts like scientific research adds depth and completeness to the structure."
+  },
+  "mermaid_code_L_0388.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It introduces new categories like 'Balancing Food and Exercise' without clear thematic relevance or explanation. The flow of ideas is less intuitive, with some concepts like 'Calories' and 'Exercise Recommendations' being repeated in different sections, which can confuse the user.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete compared to the ground truth. It lacks a consistent hierarchy, with some sections like 'Physical Activity' and 'Balancing Food and Exercise' overlapping in content. The coverage of key concepts is uneven, with some important details from the ground truth, such as 'Recommended Activity' and 'Weekly Plan', being omitted or inadequately detailed."
+  },
+  "mermaid_code_L_0577.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear due to redundancy and lack of thematic relevance. It repeats 'Abiotic Factors' and 'Biotic Factors' sections, which can confuse users. The flow of ideas is less coherent compared to the ground truth, which clearly delineates different aspects of ecology.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized with repeated sections and missing key concepts such as 'Importance of Benchmarks' and 'Water Pollution'. It lacks a consistent hierarchy and logical completeness, as seen in the ground truth, which provides a more comprehensive and detailed structure."
+  },
+  "mermaid_code_L_1020.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces redundant definitions and mixes study areas with applications, making it harder to follow. The flow of ideas is less coherent, with some concepts like 'Athletes' and 'Everyone' being vague and not directly relevant to the theme.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical grouping of ideas. Key concepts are scattered, and the level of detail is inconsistent, with some areas being overly detailed and others too vague. The ground truth provides a clearer and more comprehensive structure with distinct branches and subtopics."
+  },
+  "mermaid_code_L_0660.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks thematic relevance and clarity compared to the ground truth. It introduces a 'Definition' section that overlaps with 'Characteristics' and omits the 'Fun Facts' section, which provides engaging context. The flow of ideas is less intuitive, making it harder to mentally process the information.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is structurally similar to the ground truth in terms of organization and hierarchy. Both maps cover key concepts like characteristics, reproduction, and orders of reptiles. However, the generated map lacks the 'Sensory and Physical Traits' section, which affects the completeness of the information."
+  },
+  "mermaid_code_L_0826.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer explanation of the effects of temperature on gas volume, making it easier to understand the core concept of Charles Law. The use of simple language and direct examples enhances cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. However, it lacks the depth of key concepts and thematic grouping found in the ground truth, such as the influence of Robert Boyle and detailed historical context."
+  },
+  "mermaid_code_L_0381.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader context by including the purpose of animal behavior, which aids in understanding the relevance of behaviors. It also includes questions that prompt further thinking, enhancing cognitive engagement.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. However, it lacks some specific examples and details present in the ground truth, such as specific examples of conditioning and learning through play, which slightly affects its completeness."
+  },
+  "mermaid_code_L_0669.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It mixes characteristics with habitat and species, making it harder to follow. The flow of ideas is less logical, with some repetition and less thematic relevance, such as the separate mention of 'Siren' without clear integration into the broader context.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks consistent hierarchy and clear grouping of ideas. Key concepts like 'Types of Salamanders' are not as well covered, and the level of detail is inconsistent. The ground truth provides a more comprehensive and logically structured overview of salamanders."
+  },
+  "mermaid_code_L_0164.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides clear definitions and examples, making it easier to understand key concepts like extinction, adaptive radiation, and speciation. It also includes explanations of processes and effects, which enhance cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with clear definitions and examples, but it lacks some specific details present in the ground truth, such as the K-T Boundary and specific extinction statistics. However, it maintains a consistent hierarchy and logical flow."
+  },
+  "mermaid_code_L_0357.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer understanding of the causes of wind and the process of harnessing wind energy. It breaks down the causes of wind into more detailed subcategories, which aids in comprehension. The inclusion of a conclusion also helps in summarizing the potential of wind power, enhancing cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and logical flow. It covers key concepts such as causes, advantages, and disadvantages of wind power, and includes additional details like specific wind farm locations in California. The structure is consistent and provides a comprehensive overview, making it slightly better organized than the ground truth."
+  },
+  "mermaid_code_L_0297.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed breakdown of the scientific method, including specific steps and their importance. It also introduces new relevant topics such as technology's role in science, which enhances understanding. However, it lacks some thematic elements like the detailed discussion on hypotheses found in the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical flow, especially in the scientific method section. It covers additional key concepts such as technology and provides more examples under theories. However, it could improve by including more detail on hypotheses and data, as seen in the ground truth."
+  },
+  "mermaid_code_L_0414.txt": {
+    "cognitive_score": 6,
+    "cognitive_comment": "The generated mind map provides a more comprehensive view of energy flow, including additional concepts like food webs, trophic levels, energy transfer, biomass, and ecological pyramids. This enhances the user's understanding by offering a broader context and more detailed information, making it easier to mentally process the topic.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of ideas. It covers more key concepts and provides a more detailed exploration of energy flow in ecosystems. The inclusion of additional elements like food webs and ecological pyramids adds depth and completeness to the structure."
+  },
+  "mermaid_code_L_0703.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader range of examples and characteristics, making it more informative and easier to understand. It includes additional details such as senses and specific habitats, which enhance cognitive processing.",
+    "structural_score": 5,
+    "structural_comment": "The generated mind map is better organized with clear categorization of habitats, characteristics, and examples. It also introduces a new section on anatomy, providing a more comprehensive view of mollusks. However, it lacks the explicit mention of living and extinct species, which is present in the ground truth."
+  },
+  "mermaid_code_L_0365.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces terms like 'Stoneworts' and 'Plumbing system' without clear context, which may confuse users. The flow of ideas is less logical, with some concepts like 'Dominant diploid generation' introduced without sufficient explanation.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and complete. It lacks a consistent hierarchy and detail in some areas, such as the incomplete section on 'Asexual reproduction'. The grouping of ideas is less logical, with some concepts like 'Reproduction' being separated from related evolutionary concepts, leading to a fragmented structure."
+  },
+  "mermaid_code_L_0620.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically focused compared to the ground truth. It introduces additional topics like 'Living Things' and 'Examples' that dilute the focus on taxonomy. The flow of ideas is less coherent, with some concepts like 'Shape of Life' and 'Resources' being less directly relevant to the core theme of taxonomy.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks a clear hierarchical structure, with some categories like 'Organization' and 'Classification' overlapping in content. The inclusion of 'Resources' and 'Examples' sections adds unnecessary complexity and detracts from the focus on taxonomy. The ground truth provides a more consistent and detailed hierarchy, covering key concepts more thoroughly."
+  },
+  "mermaid_code_L_0290.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in thematic relevance and flow of ideas compared to the ground truth. It introduces new terms like 'Science of ecology' without clear context and omits key concepts such as 'Symbiosis' and 'Feeding Relationships', making it harder to understand the ecosystem roles comprehensively.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It fails to maintain a consistent hierarchy, especially in the 'Roles in an Ecosystem' section, and omits important categories like 'Symbiosis' and 'Competition'. The grouping of ideas is less coherent, and the level of detail is inconsistent."
+  },
+  "mermaid_code_L_0594.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more straightforward manner, with clear distinctions between different mammal types and their reproductive strategies. It simplifies the understanding by directly comparing key differences, such as development location, which aids cognitive processing.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map provides a slightly more balanced structure by including placental mammals and their characteristics, which were less emphasized in the ground truth. However, the ground truth offers more detail on specific aspects like the creation of the placenta and habitat details for marsupials, maintaining a comprehensive coverage of the topic."
+  },
+  "mermaid_code_L_0461.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and lacks thematic depth compared to the ground truth. It provides a more superficial understanding of the topics, with fewer examples and subfields, making it harder to grasp the full scope of basic and applied science.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and lacks the logical completeness of the ground truth. It omits key concepts such as the importance of reinvesting in basic research and specific case studies, resulting in a less detailed and less hierarchical structure."
+  },
+  "mermaid_code_L_0466.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps provide a clear understanding of blood pressure, its types, and implications. The generated map introduces the measurement aspect, which adds clarity, but it lacks the thematic depth of the ground truth in terms of factors affecting blood pressure.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a clear hierarchy and introduces new elements like measurement tools. However, it misses some key concepts such as the detailed factors affecting blood pressure, which are present in the ground truth. Both maps are logically complete but focus on slightly different aspects."
+  },
+  "mermaid_code_L_0814.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clear and concise definition of Boyle's Law, making it easier to understand. It also includes a practical experiment example, which aids in comprehension. The thematic relevance is maintained with a focus on the core concept and its implications.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a consistent hierarchy and covers key concepts similar to the ground truth. However, it lacks some specific details such as the 'Bubble Wrap Example' and 'Inverse Relationship Graph' which are present in the ground truth."
+  },
+  "mermaid_code_L_0593.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and nuanced understanding of mammal classification by including modern classification methods and ecological factors. It also offers specific examples under each subclass, enhancing clarity and thematic relevance.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and more comprehensive coverage of key concepts. It includes additional categories such as modern classification and island ecosystems, which enrich the structural completeness and logical flow of ideas."
+  },
+  "mermaid_code_L_0684.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It mixes different categories (e.g., vestigial structures and homologous structures) under the same headings, which can confuse the thematic relevance and flow of ideas. The ground truth provides a clearer separation of concepts, making it easier to understand.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks a consistent hierarchy and logical grouping of ideas, with repeated sections and overlapping categories. The ground truth mind map is more logically complete, with a clear structure that covers key concepts without redundancy."
+  },
+  "mermaid_code_L_0644.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a broader range of topics, such as intelligence, social behavior, and conservation, which enhances thematic relevance and cognitive engagement. However, it introduces some complexity that might slightly hinder immediate clarity compared to the ground truth.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is more comprehensive, covering additional key concepts like intelligence, social behavior, and conservation. It maintains a consistent hierarchy and logical organization, offering a more detailed and complete structure than the ground truth."
+  },
+  "mermaid_code_L_0554.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in thematic relevance and flow of ideas. It combines unrelated topics under broad categories, such as 'Fermentation' including antibiotics, which is misleading. The ground truth map provides a clearer separation of topics, making it easier to understand and process.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and lacks logical completeness compared to the ground truth. It repeats topics like 'Blue Cheese' under different categories, which disrupts the hierarchy and organization. The ground truth map has a more consistent structure with well-grouped ideas and comprehensive coverage of key concepts."
+  },
+  "mermaid_code_L_0585.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces additional elements like 'Species' and 'Ecologist Questions' that are not present in the ground truth, which may confuse users seeking a focused understanding of ecological levels. The flow of ideas is less clear due to the repetition of 'Biosphere' and the inclusion of 'Differences' sections that are not thematically aligned with the core topic.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks a consistent hierarchy and logical organization. It repeats sections like 'Biosphere' and introduces unrelated topics such as 'Species' and 'Ecologist Questions,' which detract from the focus on ecological levels. The ground truth provides a more coherent structure with clear grouping and coverage of key concepts."
+  },
+  "mermaid_code_L_0149.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It combines different aspects like 'Comparison' and 'Factors Affecting Climate' without clear separation, making it harder to follow. The ground truth provides a more structured flow of ideas with clear examples and characteristics under each climate type.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized and logically complete than the ground truth. It lacks a consistent hierarchy and detailed grouping of ideas. The ground truth mind map provides a more comprehensive coverage of key concepts with a clear hierarchy, while the generated map mixes different elements without clear organization."
+  },
+  "mermaid_code_L_0528.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map has redundant sections, such as repeating the 'Fungi and Plants' comparison, which can confuse users. The flow of ideas is less clear due to the repetition and lack of thematic coherence compared to the ground truth.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less organized, with repeated sections and a lack of clear hierarchy. It introduces a new section 'Fungi Classification' that overlaps with the main topic, leading to confusion. The ground truth provides a more logical and complete structure with distinct categories and consistent hierarchy."
+  },
+  "mermaid_code_L_0526.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map includes some relevant information but lacks clarity and thematic focus. The inclusion of 'Lesson' and 'Resources' sections is not directly relevant to the core topic of frogs and toads, which may confuse users. The questions section is incomplete, further detracting from cognitive clarity.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized than the ground truth. It introduces new sections like 'Lesson' and 'Resources' that are not thematically aligned with the main topic. The hierarchy is inconsistent, and the coverage of key concepts is less comprehensive, with some areas like 'Behavior' missing entirely."
+  },
+  "mermaid_code_L_0631.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and more difficult to process than the ground truth. It lacks thematic relevance and clarity, with a confusing flow of ideas. The inclusion of 'Heterotrophic Consumers' under 'Photosynthesis' and 'Mushrooms' as 'Producers' are misleading and incorrect, which can confuse users.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is poorly organized compared to the ground truth. It lacks logical completeness and consistent hierarchy. Key concepts are not well-grouped, and there is a lack of detail in important areas. The structure is inconsistent, with misplaced categories and examples, such as 'Mushrooms' under 'Examples' and 'Heterotrophic Consumers' under 'Photosynthesis'."
+  },
+  "mermaid_code_L_0636.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed breakdown of the evolutionary aspects and adaptations of plants. It includes a dedicated section for 'Comparison' which enhances understanding by directly contrasting xylem and phloem, and it also elaborates on the functions of each component, making it easier to mentally process the information.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with distinct sections for 'Evolution', 'Adaptations', 'Comparison', 'Functions', and 'Significance'. This structure provides a comprehensive view and logical flow, covering key concepts with more detail and maintaining a consistent hierarchy. The inclusion of a 'Comparison' section adds depth and clarity to the structural organization."
+  },
+  "mermaid_code_L_0373.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity in the thematic relevance of the sections. It introduces new terms like 'network of internal canals' and 'three embryonic cell layers' without context, which may confuse users. The flow of ideas is less coherent compared to the ground truth, which clearly separates traits and examples.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less organized, with inconsistent grouping of ideas. It introduces additional characteristics for chordates that are not directly relevant to the focus on invertebrate chordates, leading to a less focused structure. The hierarchy is less consistent, and the coverage of key concepts is less complete, particularly in the examples and evolutionary context of echinoderms."
+  },
+  "mermaid_code_L_0712.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more comprehensive and detailed exploration of the topic, with additional sections such as 'Methods', 'Goals', and 'Importance' that enhance understanding. The flow of ideas is logical, and the thematic relevance is maintained throughout, making it easier for users to grasp the broader context of science.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a more detailed hierarchy and broader coverage of key concepts. It includes additional categories like 'Methods', 'Goals', and 'Importance', which provide a more complete picture of the subject. The grouping of ideas is logical, and the level of detail is superior, offering a more comprehensive understanding of the topic."
+  },
+  "mermaid_code_L_1043.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a clearer and more detailed explanation of each step in the technological design process, making it easier for users to understand and mentally process the information. It also includes additional insights into the importance of testing and refining, which enhances thematic relevance.",
+    "structural_score": 4,
+    "structural_comment": "The generated mind map is well-organized with a logical flow, similar to the ground truth. It maintains a consistent hierarchy and covers key concepts effectively. However, it lacks some specific details present in the ground truth, such as the detailed research questions for the examples, which slightly affects its completeness."
+  },
+  "mermaid_code_L_0430.txt": {
+    "cognitive_score": 4,
+    "cognitive_comment": "Both mind maps present the information in a clear and understandable manner. The generated mind map provides definitions and examples that aid in comprehension, similar to the ground truth. However, it lacks some thematic elements such as the rediscovery of Mendel's laws and sex-linked traits, which are present in the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less comprehensive and organized compared to the ground truth. It omits key sections like 'Introduction', 'Inheritance Patterns', and 'Sex-Linked Traits', which are crucial for a complete understanding of genetics. The ground truth mind map has a more consistent hierarchy and better coverage of key concepts."
+  },
+  "mermaid_code_L_0219.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and harder to process than the ground truth. It combines causes and types in a way that can confuse the reader, such as mixing 'Differential Heating' with 'Land and Sea Breezes'. The thematic relevance is diluted by the inclusion of 'Adiabatic Process' and 'Questions' sections, which are not directly related to the main topic of local winds.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It lacks a consistent hierarchy and logical flow, with overlapping categories like 'Causes' and 'Types' that are not clearly separated. The ground truth provides a more comprehensive and detailed coverage of key concepts, with a clear and consistent structure that the generated map lacks."
+  },
+  "mermaid_code_L_1044.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents a clearer relationship between technology and science by explicitly stating how each uses the other. It also provides a more detailed account of discoveries and advancements, making it easier to understand the mutual benefits and continuous progress.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with distinct sections for inventions, improvements, and discoveries. It includes additional context such as the Scientific Revolution and mutual benefits, offering a more comprehensive view. The hierarchy is consistent, and the grouping of ideas is logical, enhancing the overall structure."
+  },
+  "mermaid_code_L_0604.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It presents information in a more fragmented manner, making it harder to follow the flow of ideas. The connection between genotype and phenotype is less explicit, and the thematic focus on modern genetics is diluted.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks consistent hierarchy and detailed grouping of ideas. Key concepts such as Mendel's contributions and the relationship between genotype and phenotype are not as thoroughly covered, leading to a less comprehensive structure."
+  },
+  "mermaid_code_L_0961.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces new categories like 'Scientific Knowledge' and 'Challenges' without clear integration into the main theme. The flow of ideas is less straightforward, making it harder to mentally process the information.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks a consistent hierarchy and clear grouping of ideas. Key concepts like 'Advancement of Science' are fragmented into multiple sections, and some details are less relevant or redundant. The ground truth provides a more cohesive and detailed structure."
+  },
+  "mermaid_code_L_0839.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map introduces new sections like 'Scientific Investigations' and 'Questions' that are not directly relevant to the main theme of communication in science, which can confuse the user. The flow of ideas is less clear due to these additional, less relevant sections.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map lacks the logical completeness of the ground truth. It omits key concepts such as 'Challenges in Communication' and 'Role of Science Writers' as distinct sections, instead merging them into other categories. The hierarchy is less consistent, and the grouping of ideas is less coherent, leading to a less organized structure."
+  },
+  "mermaid_code_L_0561.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map provides a more detailed and nuanced understanding of the roles of echinoderms, particularly in terms of their importance to ecosystems and their uses. It includes specific cultural references and additional details that enhance comprehension, such as the geographic consumption of sea urchins and the specific culinary uses of sea cucumbers. This additional context aids in mental processing and understanding.",
+    "structural_score": 6,
+    "structural_comment": "The generated mind map is better organized with a clear hierarchy and logical grouping of ideas. It covers a broader range of topics, such as overpopulation and extinction, and includes specific details like the annual lime usage, which adds depth. The inclusion of references, although not fully detailed, suggests a more comprehensive approach. The structure is consistent and allows for a more complete understanding of the subject matter."
+  },
+  "mermaid_code_L_0100.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It redundantly lists 'Biotic Factors' under 'Abiotic Factors' and has a less clear flow of ideas, making it harder to mentally process.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It has inconsistent hierarchy, such as listing 'Biotic Factors' under 'Abiotic Factors', and lacks the detailed coverage of key concepts present in the ground truth. The grouping of ideas is less coherent, and the structure is less consistent."
+  },
+  "mermaid_code_L_0445.txt": {
+    "cognitive_score": 5,
+    "cognitive_comment": "The generated mind map presents information in a more straightforward manner, with clear definitions and characteristics upfront. It also includes additional examples of angiosperms, which aids in understanding. The flow of ideas is logical, and thematic relevance is maintained throughout.",
+    "structural_score": 4,
+    "structural_comment": "Both mind maps are well-organized, but the generated map provides a slightly more detailed breakdown of characteristics and significance. However, it lacks the explicit comparison with gymnosperms found in the ground truth, which is a key concept. Overall, the structural organization is comparable, with minor differences in detail and coverage."
+  },
+  "mermaid_code_L_0024.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map is less clear and thematically coherent compared to the ground truth. It introduces a section on 'Questions' which disrupts the flow of ideas and does not contribute to understanding. The thematic relevance is also weaker as it lacks a clear distinction between local and global winds, which is present in the ground truth.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized and logically complete. It lacks a consistent hierarchy, especially with the introduction of 'Questions' as a separate category. The grouping of ideas is less effective, with 'Local Winds' being nested under 'Causes of Wind' rather than as a separate category. The ground truth provides a more comprehensive and detailed coverage of key concepts, such as the effects of air movement, which are missing in the generated map."
+  },
+  "mermaid_code_L_0671.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It mixes definitions, characteristics, and examples without clear separation, making it harder to mentally process the information. The flow of ideas is less coherent, as it jumps between different aspects without a clear structure.",
+    "structural_score": 2,
+    "structural_comment": "The generated mind map is less well-organized and logically complete than the ground truth. It lacks a consistent hierarchy and does not group related ideas effectively. Key concepts like 'Scientific Theory' and 'Scientific Law' are not as clearly delineated, and the level of detail is inconsistent. The ground truth provides a more comprehensive and logically structured overview of scientific theories."
+  },
+  "mermaid_code_L_0566.txt": {
+    "cognitive_score": 3,
+    "cognitive_comment": "The generated mind map lacks clarity and thematic relevance compared to the ground truth. It introduces new categories like 'Extermination of Snakes' and 'Favorite Reptiles' that are not directly related to the main theme of reptiles' importance, adaptations, and ecological roles. This makes it harder to mentally process the information as a cohesive whole.",
+    "structural_score": 3,
+    "structural_comment": "The generated mind map is less well-organized than the ground truth. It introduces new, less relevant categories and lacks a consistent hierarchy. The grouping of ideas is less logical, with some sections like 'Dangerous Snakes as Pets' and 'Favorite Reptiles' not fitting well into the overall structure. The ground truth provides a more comprehensive and logically complete view of the topic."
+  }
+}

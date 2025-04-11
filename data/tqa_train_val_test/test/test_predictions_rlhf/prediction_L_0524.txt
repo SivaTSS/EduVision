@@ -1,0 +1,45 @@
+mindmap
+  Food Webs
+    Definition
+      Food Chain
+        Single pathway of feeding interactions
+        Arrows show feeding relationships
+        Energy flow from one organism to another
+      Food Web
+        Multiple intersecting pathways
+        More complex than food chains
+        Energy flow through ecosystem
+    Importance
+      Energy Flow
+        Organisms must eat other organisms
+        Stable ecosystems require constant energy flow
+      Food Chain Levels
+        Producers
+          Beginning of food chain
+          Create energy through photosynthesis
+        Consumers
+          Herbivores, carnivores
+          Use glucose for energy
+        Decomposers
+          Not included in food chains
+          Break down dead organisms
+    Examples
+      Arctic Ocean Food Web
+        Loons and Arctic Terns
+          Common species
+        Beluga and Sea Ducks
+          Common food source
+        Zooplankton Feeders
+          Various species
+    Building a Food Web
+      Healthy Food Web Requirements
+        Multiple feeding relationships
+        Energy flow from producers to consumers
+      Food Chain vs Food Web
+        Food Chain: Single pathway
+        Food Web: Multiple intersecting pathways
+    Food Chain Structure
+      Levels
+        Producers
+          Beginning of food chain
+          Create energy through photosy

@@ -1,0 +1,49 @@
+mindmap
+  Ecosystems
+    Definition
+      Unit of nature
+      Biotic and abiotic factors
+      Interactions
+    Energy and Matter
+      Energy input
+        Sunlight
+        Chemical compounds
+      Matter recycling
+        Water
+        Carbon and nitrogen
+    Niche and Habitat
+      Niche
+        Role of species
+        Energy and matter interactions
+      Habitat
+        Physical environment
+        Adaptation
+    Competitive Exclusion Principle
+      Two species cannot occupy the same niche
+      Competition for resources
+      Evolution of specializations
+    Similar Ecosystems
+      Factors determining location
+      Terrestrial ecosystems
+        Forests
+        Deserts
+        Other ecosystems
+        Energy sources
+        Matter recycling
+        Niche and habitat
+          Role of species
+          Physical environment
+        Competitive exclusion principle
+          Competition for resources
+          Evolution of specializations
+        Similar ecosystems
+          Location factors
+          Examples
+          Energy sources
+          Matter recycling
+          Niche and habitat
+            Role of species
+            Physical environment
+          Competitive exclusion principle
+            Competition for resources
+            Evolution of specializations

@@ -1,0 +1,18 @@
+mindmap
+  Archaea
+    Definition
+      Prokaryotes in Archaea Domain
+      Discovered in extreme environments
+      Classified as bacteria until 1970s
+    Extremophiles
+      Organisms that thrive in extreme conditions
+      Types
+        Halophiles: survive in very salty water
+        Hyperthermophiles: survive at high temperatures
+        Acidophiles: live in very acidic environments
+        Alkaliphiles: live in basic environments
+    Habitats and Ecological Roles
+      Range of habitats: soils, bodies of water, marshlands, human belly button
+      Important decomposers: help break down sewage, recycle carbon and nitrogen
+      Close relationships with other organisms: live inside animals, including humans
+      Methanogens: live inside the gut of cows, help digest tough plant fibers, produce methane gas as a waste product

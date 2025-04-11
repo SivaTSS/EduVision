@@ -1,0 +1,28 @@
+mindmap
+  Insect Reproduction and Life Cycle
+    Reproduction
+      Sexual Reproduction
+        Eggs
+        Fertilization
+        Placement of Eggs
+      Asexual Reproduction
+        Offspring from Single Parent
+        Examples: Aphids, Scale Insects
+    Metamorphosis
+      Types of Metamorphosis
+        None
+        Incomplete (Gradual)
+        Complete
+      Stages of Complete Metamorphosis
+        Egg
+        Larva
+        Pupa
+        Adult
+      Differences between Immature and Adult Forms
+      Examples of Insects with Complete Metamorphosis
+        Butterflies
+        Moths
+        Flies
+        Ants
+        Bees
+        Beetles

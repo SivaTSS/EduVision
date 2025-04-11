@@ -1,0 +1,32 @@
+mindmap
+  Evolution
+    Tracing Evolution
+      Resource
+        Richard Dawkins: Why are there still Chimpanzees?
+      Questions
+        1. Are we descended from chimpanzees?
+        2. What does it mean if two species are close on a tree?
+        3. What does it mean if two species are far apart on a tree?
+        4. What are the Great Apes?
+      Evolutionary Tree
+        Definition
+          Visualize relationships between species
+        Rate of Evolution
+          Gradual process
+          Difficult to observe
+        Evolutionary Tree Example
+          Charles Darwin's Tree of Life
+          Ernst Haeckel's Tree of Life
+      Evolutionary Rate
+        Factors
+          Number of gene changes
+          Generation time
+        Observing Evolution
+          Bacteria evolution
+          Human evolution
+      Evolutionary Tree Purpose
+        Visualizing evolution
+        Understanding relationships
+      Evolutionary Tree History
+        Charles Darwin's Idea
+        Other Scientists' Trees of Life

@@ -1,0 +1,34 @@
+mindmap
+  Animal Evolution
+    Timeline
+      Oldest animal fossils: 630 million years
+      First vertebrates: 550 million years
+      Most modern phyla: 500 million years
+      First terrestrial animals: 50 million years later
+    Invertebrate Evolution
+      Multicellularity
+        Sponges: Phylum Porifera
+      Tissues
+        Jellyfish: Phylum Cnidaria
+      Symmetry
+        Radial: Coral
+        Bilateral: Beetle
+      Mesoderm
+        Flatworms: Phylum Platyhelminthes
+      Digestive System
+        Jellyfish: Incomplete
+        Roundworms: Complete
+      Body Cavity
+        Pseudocoelom: Roundworms
+        Coelom: Mollusks, Annelids
+      Segmentation
+        Earthworm: Phylum Annelida
+        Ant: Phylum Arthropoda
+      Notochord
+        Chordates: Phylum Chordata
+    Vertebrate Evolution
+      First Vertebrates
+        Hagfish: Early vertebrates
+      Amphibians
+        First vertebrates on land
+        Return to water for reproduction

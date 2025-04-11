@@ -1,0 +1,47 @@
+mindmap
+  Centipedes and Millipedes
+    Habitat
+      Centipedes
+        Forests
+      Millipedes
+        Forests
+        Grasslands
+        Semi-arid habitats
+        Deserts
+    Differences
+      Legs
+        Centipedes: One pair per segment
+        Millipedes: Two pairs per segment
+      Diet
+        Centipedes: Carnivores, nighttime predators
+        Millipedes: Herbivores, break down decaying plant material
+    Centipedes
+      Characteristics
+        Fast
+        Predatory
+        Venomous
+        Fangs with poison gland
+      Species
+        Smallest: Less than half an inch
+        Largest: Peruvian giant yellow-leg centipede
+    Millipedes
+      Characteristics
+        Slow
+        Feed on leaf litter and organic material
+        Non-poisonous
+      Legs
+        Two pairs per segment
+      Eggs
+        Protected by hard soil nest
+    Symphyla
+      Characteristics
+        Small
+        Translucent
+        Three pairs of thoracic legs
+        About nine pairs of abdominal legs
+      Habitat
+        Soil
+        Feed on plant roots
+    Pauropoda
+      Characteristics
+        Small: 0.5-2.0 mm

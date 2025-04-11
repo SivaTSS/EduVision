@@ -1,0 +1,33 @@
+mindmap
+  Weather
+    Air Masses
+      Continental
+        Polar
+        Tropical
+      Maritime
+        Polar
+        Tropical
+    Fronts
+      Cold
+      Warm
+      Occluded
+      Stationary
+    Cyclones
+      Anticyclone
+      Cyclone
+    Storms
+      Tornadoes
+      Thunderstorms
+      Hurricanes
+    Weather Changes
+      Inversions
+      Temperature Changes
+      Humidity Changes
+    Weather Prediction
+      Fronts
+      Cyclones
+      Anticyclones
+    Weather Forecasting
+      Weather Reports
+      Weather Maps
+      Weather Radar

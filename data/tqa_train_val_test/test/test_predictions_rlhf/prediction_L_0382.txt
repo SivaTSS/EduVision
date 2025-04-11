@@ -1,0 +1,64 @@
+mindmap
+  Animal Communication
+    Definition
+      Sharing information
+    Importance
+      Social animals
+      Cooperation
+      Avoiding conflict
+    Senses
+      Hearing
+        Frogs
+        Birds
+        Monkeys
+      Sight
+        Gestures
+        Body postures
+        Facial expressions
+      Smell
+        Ants
+        Dogs
+    Human Communication
+      Language
+        Words
+        Sentences
+      Facial expressions
+      Gestures
+      Body postures
+    Social Animals
+      Ants
+      Bees
+      Crows
+      Wolves
+      Human beings
+    Cooperation
+      Division of tasks
+      Defending each other
+      Sharing food
+    Courtship Behaviors
+      Mating
+      Attracting mates
+      Showing off traits
+    Reproduction
+      Mating
+      Courtship behaviors
+      Taking care of young
+    Territorial Animals
+      Defending territory
+      Defensive displays
+    Annual Cycles
+      Migration
+        Birds
+        Fish
+        Insects
+      Hibernation
+        Bats
+        Squirrels
+        Snakes
+        Insects
+    Daily Cycles
+      Circadian rhythms
+      Diurnal animals
+        Active during the day
+      Nocturnal animals
+        Active

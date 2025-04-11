@@ -1,0 +1,32 @@
+mindmap
+  Plant Responses and Special Adaptations
+    Stimuli Response
+      Tropisms
+        Gravitropism
+        Phototropism
+      Daily and Seasonal Changes
+        Growth Suspension
+        Leaf Color Change
+    Special Adaptations
+      Aquatic Plants
+        Advantages
+          Water Availability
+          Buoyancy
+        Challenges
+          Pollination
+          Light Penetration
+      Xerophytes
+        Increased Water Intake
+        Decreased Water Loss
+        Water Storage
+      Epiphytes
+        Growth on Other Plants
+        Air Moisture
+        Support and Light
+    Carnivorous Plants
+      Nutrient Source
+      Photosynthesis Requirement
+      Growth Locations
+        Thin Soil
+        Poor Nutrients
+        Bogs and Rock Outcroppings

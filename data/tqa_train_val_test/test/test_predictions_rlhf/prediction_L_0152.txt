@@ -1,0 +1,27 @@
+mindmap
+  Effects of Air Pollution on the Environment
+    Increase in Particulates
+      Reduction in Visibility
+      Reduction in Sunshine
+        Impact on Photosynthesis
+      Increase in Precipitation
+        Effect on Ecosystems
+      Reduction in Temperature
+        Potential Impact on Global Warming
+    Ozone
+      Damage to Native Plants
+      Damage to Crop Plants
+        Impact on Agriculture in Developing Nations
+    Oxide Air Pollutants
+      NO2 Toxicity
+      Acid Rain Formation
+        Impact on Ecosystems
+      Lichen as Indicators of Atmospheric Changes
+        Potential Impact on Yosemite National Park Ecosystem
+    Other Effects
+      Ozone Damage to Plants
+        Impact on Forest Ecosystems
+      Acid Rain Damage to Plants and Animals
+        Potential Impact on Biodiversity
+      Particulate Matter and Temperature
+        Potential Impact on Climate Change

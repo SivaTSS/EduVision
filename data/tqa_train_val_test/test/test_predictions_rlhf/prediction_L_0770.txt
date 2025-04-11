@@ -1,0 +1,29 @@
+mindmap
+  Gas Behavior
+    Pressure
+      Definition
+      Explanation
+    Gas Laws
+      Boyles Law
+        Statement
+        Explanation
+      Charles Law
+        Statement
+        Explanation
+      Amontons Law
+        Statement
+        Explanation
+    Effects of Temperature
+      Heating a Gas
+        Increased Kinetic Energy
+        Increased Volume or Pressure
+      Cooling a Gas
+        Decreased Kinetic Energy
+        Decreased Volume or Pressure
+    Changes of State
+      Role of Energy
+      Prediction of Changes
+    Applications
+      Weather Balloon
+      Scuba Diving
+      Tire Pressure

@@ -1,0 +1,25 @@
+mindmap
+  Gases
+    Definition
+      State of matter
+      Particles can pull apart
+      No fixed shape or volume
+    Properties
+      Spread out to fill space
+      Particles move randomly
+      Bump into things
+    Pressure
+      Force against a given area
+      Depends on number of particles
+      Depends on speed of particles
+    Atmosphere
+      Sea of air
+      Exerts pressure
+      Highest concentration near surface
+    Air Pressure
+      Greatest at sea level
+      Decreases with altitude
+    Applications
+      Cake baking
+      High altitude instructions
+      Air pressure affects height of cake

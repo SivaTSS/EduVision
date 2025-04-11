@@ -1,0 +1,49 @@
+mindmap
+  Insects
+    Environment
+      Habitats
+        Tropics
+        Arctic
+      Adaptations
+        Nutrient sources
+        Ecosystem roles
+          Aeration
+          Pollination
+          Pest control
+          Decomposition
+          Burrowing
+    Economic Importance
+      Substances
+        Honey
+        Wax
+        Lacquer
+        Silk
+      Food Sources
+        Amphibians
+        Reptiles
+        Birds
+        Mammals
+        Humans
+    Medical Uses
+      Wound Treatment
+        Maggots
+        Gangrene prevention
+    Food Sources for Humans
+      Protein
+      Vitamins
+      Minerals
+      Delicacies
+        Cicadas
+        Locusts
+        Mantises
+        Grubs
+        Caterpillars
+        Crickets
+        Ants
+        Wasps
+    Insects in Medicine
+      Historical uses
+      Modern treatments
+      Fly larvae (maggots)
+        Wound cleaning
+        Gangrene prevention

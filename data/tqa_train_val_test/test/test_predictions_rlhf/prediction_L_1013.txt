@@ -1,0 +1,31 @@
+mindmap
+  Scientific Induction
+    Inductive Reasoning
+      Definition
+        Drawing general conclusions based on many pieces of evidence
+      Uses in Science
+        Drawing general conclusions from evidence
+        Changing conclusions based on new evidence
+      Limitations
+        Cannot prove conclusively that an idea is true
+        May lead to conclusions that are very likely to be true
+    Crime Solving
+      Example
+        Detective gathers clues to solve crime
+    Scientific Method
+      Basis
+        Inductive Reasoning
+    Example: Gravity
+      Observation
+        Objects fall to the ground
+      Conclusion
+        All objects fall to the ground
+      Revised Conclusion
+        Objects heavier than air fall to the ground
+        Objects lighter than air do not fall to the ground
+    Reasonable Doubt
+      Jurors in a trial
+        Decide guilt without a reasonable doubt
+      Scientific Theories
+        Never proven conclusively to be true
+        Supported by so much evidence that it is accepted without a reasonable doubt

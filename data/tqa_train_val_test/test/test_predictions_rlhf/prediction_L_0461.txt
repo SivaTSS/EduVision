@@ -1,0 +1,29 @@
+mindmap
+  Basic and Applied Science
+    Basic Science
+      Understanding fundamental problems
+      Examples
+        - Understanding how cells work
+        - Investigating how glucose is turned into cellular energy
+    Applied Science
+      Solving practical problems
+      Examples
+        - Medicine
+        - Designing windmills to capture wind energy
+    Relationship
+      Applied Science uses basic science
+      Basic Science informs Applied Science
+    Emphasis on Applied Science
+      Need for more emphasis
+      Improving human health and technology
+    Basic Research vs. Applied Research
+      Basic Research
+        - Increasing human knowledge of nature
+        - Examples
+          - Understanding how the body makes cholesterol
+          - Determining how elevated blood glucose levels can be harmful
+      Applied Research
+        - Applying basic scientific knowledge to solve practical problems
+        - Examples
+          - Medicine
+          - Designing windmills to capture wind energy

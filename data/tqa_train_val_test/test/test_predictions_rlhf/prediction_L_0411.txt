@@ -1,0 +1,43 @@
+mindmap
+  Community
+    Definition
+      Biotic component of an ecosystem
+      Populations of all species in an area
+    Interactions
+      Predation
+        Predator
+          Wolf
+          Owl
+        Prey
+          Moose
+          Mice
+      Competition
+        Intraspecific
+          Prairie dogs
+        Interspecific
+          Species adaptation
+            Food sources
+      Symbiosis
+        Mutualism
+          Benefits both species
+            Clownfish and anemone
+        Parasitism
+          One species benefits
+            Hookworm and host
+        Commensalism
+          One species benefits
+            Cattle egrets and cattle
+    Predator-Prey Relationship
+      Balance populations
+        Increase prey, increase predators, decrease prey
+    Keystone Species
+      Prairie dogs
+        Affects other species
+    Adaptations
+      Camouflage
+        Predator and prey
+    Natural Selection
+      Predator adaptations
+        Capture prey
+      Prey adaptations
+        Avoid predators

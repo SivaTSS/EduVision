@@ -1,0 +1,40 @@
+mindmap
+  Insect Food
+    Mouthparts
+      Honeybee
+        Process of sponging
+      Cockroaches vs Butterflies
+        Design of insect mouthparts
+    Food Sources
+      Plant Eaters
+        Aphids
+        Leafhoppers
+        Praying Mantises
+      Predators
+        Mosquitoes
+        Aphids
+      Parasites
+        Fleas
+        Lice
+    Feeding Methods
+      Chewing
+        Dragonflies
+        Grasshoppers
+        Beetles
+      Siphoning
+        Moths
+        Butterflies
+      Sponging
+        Housefly
+        Saliva dissolving food
+    Special Cases
+      Mayflies
+        Never eat
+      Silkworm
+        Increase in weight
+      Locust
+        Eat own weight daily
+    Ants
+      Farming
+      Composting
+      Weeding

@@ -1,0 +1,52 @@
+mindmap
+  Energy Flow
+    Energy Sources
+      Sunlight
+      Chemical Compounds
+    Living Things Classification
+      Producers
+        Photoautotrophs
+          Plants
+          Algae
+          Some Bacteria
+        Chemoautotrophs
+          Certain Bacteria
+          Archaea
+      Consumers
+        Herbivores
+          Rabbits
+          Snails
+        Carnivores
+          Lions
+          Frogs
+        Omnivores
+          Crows
+          Human Beings
+      Decomposers
+        Scavengers
+          Hyenas
+          Cockroaches
+        Detritivores
+          Earthworms
+          Catfish
+        Saprotrophs
+          Fungi
+          Protozoa
+    Energy Flow Models
+      Food Chains
+        Simple Pathways
+        Example: Grass-Rabbit-Fox
+      Food Webs
+        Multiple Pathways
+        Example: Pond Ecosystem
+    Trophic Levels
+      Definition
+      Energy Transfer
+      Biomass
+        Less Energy, Fewer Organisms
+        Larger Organisms, Less Biomass
+    Energy Loss
+      Ecological Pyramid
+        Energy Transfer Efficiency
+        Less Than 10% Energy Transfer
+        Constant Energy Input

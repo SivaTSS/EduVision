@@ -1,0 +1,57 @@
+mindmap
+  Arthropods
+    Importance to Ecosystem
+      Pollination
+        Bees
+        Butterflies
+        Moths
+        Flies
+        Beetles
+      Decomposition
+        Mites
+        Ticks
+        Centipedes
+        Millipedes
+    Importance to Humans
+      Food Source
+        Crustaceans
+          Crabs
+          Lobsters
+          Shrimp
+          Prawns
+          Crayfish
+        Insects
+          Beetles
+          Locusts
+          Butterflies
+          Ants
+          Stinkbugs
+      Pollination
+        Role in Food Production
+          Bees
+          Birds
+          Bats
+      Use in Products
+        Honey
+          Honeycombs
+          Beeswax
+          Vitamins
+          Enzymes
+          Amino Acids
+        Silk
+          Caterpillars
+          Spiders
+          Kevlar Vests
+          Fishing Nets
+          Surgical Sutures
+          Adhesives
+    Arthropod Locomotion
+      Engineering
+        Robot Ariel
+          Integrated Arthropod Characteristics
+          Benefits
+    Lobster Mariculture
+      Obstacles
+        Raising Lobsters
+      Reproduction
+        Egg Production

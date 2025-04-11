@@ -1,0 +1,53 @@
+mindmap
+  Plants
+    Definition
+      Multicellular eukaryotes
+      Plant Kingdom
+    Needs
+      Temperature
+      Light
+      Carbon dioxide
+      Water
+      Oxygen
+      Minerals
+    Importance
+      Food source for most organisms
+      Oxygen production
+      Carbon dioxide absorption
+      Recycling matter in ecosystems
+      Products for human use
+      Habitat for other organisms
+    Tissues
+      Dermal
+        Cover outside of plant
+        Waxy cuticle
+      Ground
+        Basic metabolic functions
+        Food or water storage
+      Vascular
+        Xylem
+          Water and minerals transport
+        Phloem
+          Sugar transport
+    Organs
+      Roots
+        Primary and secondary roots
+        Absorption of water and minerals
+        Anchoring and supporting plant
+        Food storage
+      Stems
+        Hold plants upright
+        Transport of water and minerals
+        Food or water storage
+      Leaves
+        Collect sunlight for photosynthesis
+        Chloroplasts
+        Vascular tissue transport
+        Dermal cells and stomata
+    Growth
+      Cell growth and division
+      Meristem tissue
+        Undifferentiated cells
+        Primary and secondary growth
+    Life Cycle
+      Haploid and

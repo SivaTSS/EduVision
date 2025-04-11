@@ -1,0 +1,27 @@
+mindmap
+  Biosphere
+    Definition
+      Part of Earth where life exists
+      Includes air, land, surface rocks, water
+    Ecological Definition
+      Highest level of ecological organization
+      Overlaps with lithosphere, hydrosphere, atmosphere
+    Gaia Hypothesis
+      Biosphere is living organism
+      Earth self-regulating
+      Achieves homeostasis
+    Examples of Self-Regulation
+      Carbon dioxide levels in atmosphere
+      Plants remove excess carbon dioxide
+    Biosphere Projects
+      Biosphere 2 (Arizona)
+        Closed ecosystems
+        Ocean, rainforest, savannah, fog desert
+      BIOS-3 (Siberia)
+        Closed ecosystem
+      Biosphere J (Japan)
+        Closed ecosystem
+    Anthropocene
+      Human impact on Earth's systems
+      Release of carbon dioxide into atmosphere
+      Impact on biosphere and climate

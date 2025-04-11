@@ -1,0 +1,46 @@
+mindmap
+  Hurricanes
+    Definition
+      Tropical cyclones
+      Formation
+        Tropical depression
+        Thunderstorms
+        Low pressure cell
+        Rotation
+        Energy release
+        Wind shear
+    Characteristics
+      Wind speed
+        Categories
+          Saffir-Simpson hurricane scale
+          Wind speed ranges
+          Damage estimates
+      Movement
+        Prevailing winds
+        Direction changes
+        Speed
+      Size
+        Coverage
+        Eye of the storm
+    Damage
+      Causes
+        High winds
+        Rainfall
+        Storm surge
+      Examples
+        Hurricane Camille (1969)
+        Hurricane Katrina (2005)
+        Atlantic and Gulf Coasts
+    Frequency
+      Annual occurrence
+      Tropical storms and depressions
+      Coastal development
+    Prediction
+      Path prediction
+      Fatalities reduction
+    Exception
+      Hurricane Katrina (2005)
+        Longest, costliest, deadliest
+        Total damage
+        Death toll
+        Impact on New Orleans

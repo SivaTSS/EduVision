@@ -1,0 +1,55 @@
+mindmap
+  Mollusks
+    Types
+      Gastropods
+        Shell
+          Coiled or spiraled
+        Habitat
+          Marine, freshwater, land
+          Rivers, lakes, ocean
+        Features
+          Foot
+            Used for crawling
+          Head
+            Well-developed
+          Senses
+            No hearing
+            Keen smell
+      Bivalves
+        Shell
+          Two parts
+          Open and close
+        Habitat
+          Marine and freshwater
+        Features
+          Gills
+            Extract oxygen
+            Capture food
+          Foot
+            Muscular
+            Anchors body
+      Cephalopods
+        Shell
+          None
+        Habitat
+          All oceans
+        Features
+          Head
+            Prominent
+          Brain
+            Well-developed
+          Foot
+            Modified into arms or tentacles
+          Colors
+            Changeable
+          Ink
+            Used for camouflage
+          Hearts
+            Three
+          Intelligent
+            Thought to be most intelligent of invertebrates
+          Senses
+            Eyes
+              Rival human senses
+            Other senses
+              Efficient predators

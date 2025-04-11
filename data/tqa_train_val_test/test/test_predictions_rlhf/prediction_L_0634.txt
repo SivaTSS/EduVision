@@ -1,0 +1,37 @@
+mindmap
+  Plant-like Protists
+    Similarities to Plants
+      Autotrophs
+        Photosynthesis
+          Carbon Dioxide
+          Water
+          Sunlight
+    Differences from Plants
+      No True Stems
+      No Roots
+      No Leaves
+    Examples
+      Ulva
+      Seaweed
+      Kelp
+    Multicellular Plant-like Protists
+      Seaweed
+      Kelp
+    Ecosystem Role
+      Base of Marine Food Chain
+      Oxygen Production
+    Classification
+      Chlorophyta (Green Algae)
+      Rhodophyta (Red Algae)
+      Phaeophyta (Brown Algae)
+      Chrysophyta (Golden-Brown Algae)
+      Pyrrophyta (Yellow-Green Algae)
+      Dinoflagellates
+      Euglenoids
+      Diatoms
+      Gonyaulax
+      Euglena
+      Volvox
+      Cyclotella
+      Macrocystis
+      Porphyra

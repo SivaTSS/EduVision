@@ -1,0 +1,54 @@
+mindmap
+  Scientific Method
+    Asking Questions
+      Importance of Questions
+      Forming Hypotheses
+    Steps of Scientific Method
+      Observation
+      Experimentation
+      Data Collection
+      Analysis
+      Conclusion
+    Scientific Models
+      Physical Models
+        Examples
+      Mathematical Models
+        Examples
+    Safety in Science
+      Precautions
+      Equipment
+      Procedures
+  Earth Science Investigations
+    Field Work
+      Precautions
+      Equipment
+      Procedures
+  Scientific Inquiry
+    Role of Scientists
+      Questioning
+      Observing
+      Experimenting
+      Analyzing
+      Concluding
+    Importance of Scientific Inquiry
+      Advancement of Knowledge
+      Improvement of Life
+      Understanding of the World
+  Scientific Theories
+    Definition
+    Examples
+      Theory of Evolution
+      Theory of Gravity
+    Importance of Theories
+      Explanation of Phenomena
+      Prediction of Future Events
+      Basis for Further Research
+  Scientific Communication
+    Importance of Communication
+      Sharing of Ideas
+      Advancement of Knowledge
+    Forms of Scientific Communication
+      Scientific Papers
+      Scientific Conferences
+      Scientific Journals
+      Scientific Websites

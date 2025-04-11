@@ -1,0 +1,40 @@
+mindmap
+  Living Things
+    Taxonomy
+      Definition
+        Study of classification
+        Helps other scientists
+      History
+        Aristotle's system
+        Linnaeus' system
+    Classification
+      Categories
+        Domain
+        Kingdom
+        Phylum
+        Class
+        Order
+        Family
+        Genus
+        Species
+      Criteria
+        Physical features
+        Evolutionary relationships
+    Scientific Names
+      Binomial nomenclature
+        Genus and species
+      Importance
+        Unique identification
+        Evolutionary relationships
+    Species Definition
+      Interbreeding
+        Produce fertile offspring
+      Distinctiveness
+        Shared physical characteristics
+    Examples
+      Humans
+        Homo sapiens
+      Animals
+        Lions and tigers
+      Plants
+        Red and sugar maples

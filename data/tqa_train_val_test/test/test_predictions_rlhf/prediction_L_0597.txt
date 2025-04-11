@@ -1,0 +1,28 @@
+mindmap
+  Mendel's Laws and Genetics
+    Mendel's Experiment
+      Dominant vs Recessive Traits
+        Dominant Trait
+        Recessive Trait
+      Law of Segregation
+        Hereditary Factors
+          Two Possibilities
+          Dominant Masks Recessive
+        Segregation During Gamete Production
+          One Factor per Gamete
+          Offspring Receive Two Factors
+    Mendel's Crosses
+      Tall vs Short Plants
+        F1 Generation
+          All Tall Plants
+        F2 Generation
+          Four Possible Combinations
+          Probability of Short Plants
+    Implications of Mendel's Laws
+      No Blending of Traits
+      Development of Theory
+        Law of Segregation
+        Understanding of DNA
+      Remarkable Achievement
+        Without Knowledge of DNA
+        Predates Understanding of Meiosis

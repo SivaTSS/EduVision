@@ -1,0 +1,20 @@
+mindmap
+  Bernoulli's Law
+    Definition
+      - Fluid pressure decreases with increased speed
+      - Named after Daniel Bernoulli
+    Explanation
+      - Pressure is force per unit area
+      - Bernoulli used mathematics to discover law
+    Application
+      - Wings of airplanes and birds
+        - Lift created by difference in air pressure
+      - Racecar spoilers
+        - Upside-down wing shape causes air pressure push downward
+    Implications
+      - Lift allows flight
+      - Spoilers help cars stay on track
+    Questions
+      - What is Bernoulli's Law?
+      - How does it explain lift in airplanes and birds?
+      - How does a spoiler on a racecar use Bernoulli's Law?
