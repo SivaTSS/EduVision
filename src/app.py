@@ -25,10 +25,8 @@ def run_mindmap_pipeline(doc_text):
         status = f"Error generating mindmap: {str(e)}"
         svg_filepath = None
 
-    # Return the summary, a status message, and the SVG image path.
     return summary, status, svg_filepath
 
-# Animation pipeline remains unchanged.
 def run_animation_pipeline_wrapper(topic_text: str):
     logs = ""
     for message in animation_gen.generate_animation_pipeline(topic_text):
@@ -39,11 +37,10 @@ def run_animation_pipeline_wrapper(topic_text: str):
         else:
             yield logs, None
 
-# Gradio UI Construction.
 with gr.Blocks() as demo:
     gr.Markdown("# EduVision – Concepts in Motion")
     
-    # Common input text box at the top.
+    # Common input text box
     input_text = gr.Textbox(
         label="Enter the document/topic text", 
         lines=10, 
@@ -55,10 +52,14 @@ with gr.Blocks() as demo:
         with gr.Tab("Mindmap"):
             gr.Markdown("### Mindmap and Summary Generation")
             mindmap_run_btn = gr.Button("Run Mindmap Pipeline")
-            # Outputs: Summary, Mindmap status, and the generated mindmap image.
             mindmap_summary = gr.Textbox(label="Summary", interactive=False, lines=5)
             mindmap_status = gr.Textbox(label="Mindmap Status", interactive=False)
-            mindmap_image = gr.Image(label="Mindmap", interactive=True)
+            
+            mindmap_image = gr.Image(
+                label="Mindmap",
+                interactive=False,
+                height=700
+            )
             mindmap_run_btn.click(
                 fn=run_mindmap_pipeline, 
                 inputs=input_text, 

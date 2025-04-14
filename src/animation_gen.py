@@ -23,7 +23,6 @@ for folder in [BASE_OUTPUT_DIR, VIDEO_DIR, AUDIO_DIR, FINAL_DIR, TEMP_DIR]:
 # Adjust this path if your Manim outputs are located elsewhere.
 MANIM_MEDIA_DIR = Path("media") / "videos" / "temp_manim_script" / "720p30"
 
-
 def generate_yaml_outline(topic_text: str) -> List[str]:
     """
     Ask the LLM to create an outline for a Manim animation based on a topic,
@@ -36,10 +35,10 @@ def generate_yaml_outline(topic_text: str) -> List[str]:
     prompt = f"""
 Create a structured YAML list for a 2D Manim animation on the topic: **"{topic_text}"**.
 
-- The **first item** must be a **title slide** labeled as: **"Title Slide: {topic_text}"**.
-- Each following item should describe **one self-contained animation step**.
+- The **first item** must be a **title slide** labeled as: **"Title Slide: {topic_text}"** with short, concise content.
+- Each following item should describe **one self-contained animation step** with concise text.
 - Steps must be **clear, independent**, and **suitable for 2D animations only** (no 3D elements).
-- Avoid vague descriptions and ensure each step **can be animated on its own**.
+- Each step and the title slide should be succinct, avoiding overly long descriptions.
 - **Important:** Ensure that any colons (:) in the YAML output are properly escaped or enclosed in quotes to avoid parsing errors.
 
 Return only a **valid YAML list** without extra formatting or explanations.
@@ -60,11 +59,12 @@ Return only a **valid YAML list** without extra formatting or explanations.
     except Exception as e:
         raise ValueError(f"Failed to parse YAML outline: {e}")
     
-    # Save the outline to a YAML file for interpretation.
-    with open("animation_outline.yaml", "w", encoding="utf-8") as f:
+    # Save the outline to a YAML file inside the outputs folder.
+    outline_path = BASE_OUTPUT_DIR / "animation_outline.yaml"
+    with open(outline_path, "w", encoding="utf-8") as f:
         yaml.dump(outline, f)
     
-    print("✅ YAML Outline saved to animation_outline.yaml")
+    print(f"✅ YAML Outline saved to {outline_path}")
     return outline
 
 
@@ -270,7 +270,8 @@ def concatenate_videos(video_files: List[str], final_output: str):
     """
     Concatenate multiple video files into one final video using ffmpeg.
     """
-    list_filename = "videos_to_concat.txt"
+    # Create the file list inside the outputs directory.
+    list_filename = BASE_OUTPUT_DIR / "videos_to_concat.txt"
     with open(list_filename, "w", encoding="utf-8") as f:
         for vf in video_files:
             f.write(f"file '{os.path.abspath(vf)}'\n")
@@ -278,7 +279,7 @@ def concatenate_videos(video_files: List[str], final_output: str):
         "ffmpeg", "-y",
         "-f", "concat",
         "-safe", "0",
-        "-i", list_filename,
+        "-i", str(list_filename),
         "-c", "copy",
         final_output
     ]

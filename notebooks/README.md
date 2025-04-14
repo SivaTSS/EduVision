@@ -8,3 +8,7 @@ node -v
 npm install -g @mermaid-js/mermaid-cli
 mmdc -V
 ```
+
+'''
+apt-get install wkhtmltopdf
+'''
