@@ -1,7 +1,6 @@
 results
 *.ipynb_checkpoints
 keys.json
-models
 notebooks/outputs*
 notebooks/media
 
@@ -36,6 +35,10 @@ data/tqa_train_val_test/test/*
 !data/tqa_train_val_test/test/llm_judge_evaluation_results_rlhf.json
 !data/tqa_train_val_test/test/llm_judge_evaluation_results.json
 
+src/media*
+src/outputs*
+src/final_animation_video.mp4
+src/mermaid_output.svg
 
 *Zone.Identifier
 
