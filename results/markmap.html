@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      background: white;
+    }
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markmap-lib@0.15.3/dist/index.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.14.4/dist/index.min.js"></script>
+</head>
+<body>
+  <svg id="markmap"></svg>
+  <script>
+    window.addEventListener("DOMContentLoaded", function () {
+      const content = `# Hello Markmap\n## It works!\n- Yes\n- Always`;
+      const transformer = new markmapLib.Transformer();
+      const result = transformer.transform(content);
+      const root = result.root;
+      markmap.Markmap.create("#markmap", null, root);
+    });
+  </script>
+</body>
+</html>

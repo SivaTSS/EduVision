@@ -1,0 +1,31 @@
+- 'Title Slide: Pythagorean Theorem Definition, Formula, and How It Works.'
+- step:
+    description: Display a right-angled triangle with sides labeled as 'a', 'b', and
+      'c'.
+- step:
+    description: Highlight the right angle in the triangle with a small square.
+- step:
+    description: Show the formula 'a^2 + b^2 = c^2' next to the triangle.
+- step:
+    description: Animate the squares on each side of the triangle, with areas 'a^2',
+      'b^2', and 'c^2'.
+- step:
+    description: Fill the squares with color to visually represent their areas.
+- step:
+    description: Demonstrate the addition of areas 'a^2' and 'b^2' by moving them
+      to form 'c^2'.
+- step:
+    description: 'Show a text box explaining: ''The sum of the squares of the two
+      shorter sides equals the square of the hypotenuse.'''
+- step:
+    description: Animate a transition from the triangle to a real-world example, such
+      as a ladder against a wall.
+- step:
+    description: Label the real-world example with 'a', 'b', and 'c' to match the
+      triangle.
+- step:
+    description: Show the calculation of 'a^2 + b^2 = c^2' using the real-world example
+      measurements.
+- step:
+    description: 'Conclude with a summary text: ''The Pythagorean Theorem helps calculate
+      distances in right-angled triangles.'''

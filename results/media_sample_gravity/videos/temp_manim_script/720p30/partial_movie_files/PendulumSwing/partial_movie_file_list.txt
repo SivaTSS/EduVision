@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/siva/llm_proj/EduVision/src/media/videos/temp_manim_script/720p30/partial_movie_files/PendulumSwing/2016333726_1610380323_523818328.mp4'
